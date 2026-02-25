@@ -7,11 +7,39 @@ from time import sleep
 
 def get_data_transfermarket(id: int):
 
-    url = f"https://www.transfermarkt.es/-/kader/verein/131/{id}/2025/plus/1"
+    url = f"https://www.transfermarkt.es/-/kader/verein/{id}/saison_id/2025/plus/1"
     headers = {"User-Agent": "Mozilla/5.0", "Accept-Language": "es-ES,es;q=0.9"}
     r = requests.get(url, headers=headers, timeout=30)
     r.raise_for_status()
     return r.content
+
+def get_team_page_transfermarkt(competition_id: str):
+    url = f"https://www.transfermarkt.es/-/startseite/wettbewerb/{competition_id}"
+    headers = {
+        "User-Agent": "Mozilla/5.0",
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Referer": "https://www.transfermarkt.es/",
+    }
+    r = requests.get(url, headers=headers, timeout=30, allow_redirects=True)
+    r.raise_for_status()
+    return r.content
+
+
+def get_team_ids_info_to_list_of_dicts(competition_id):
+    data = get_team_page_transfermarkt(competition_id)
+    result = []
+    tree = html.fromstring(data)
+    hrefs = tree.xpath('//td[contains(@class,"hauptlink")]/a[contains(@href,"/verein/")]/@href')
+    for href in hrefs:
+        print(href)
+        result.append(
+            {"team_id":href.split("/")[4],
+            "team": href.split("/")[1].replace("1-", "").replace("-", "_"), 
+            }
+        )
+    print(result)
+    return result
 
 
 def first_or_empty(xs):
@@ -53,36 +81,49 @@ def get_players_info_to_list_of_dicts(data):
     return result
 
 
-def get_squad_by_id(team_id:int, league:str=None):
+def get_squad_by_id(team_id:int, team_name:str=None, league:str=None):
     out_dir = Path("exports")
 
     if league:
         out_dir= out_dir / league
     out_dir.mkdir(parents=True, exist_ok=True)
-    out_path = out_dir / f"team_{team_id}.csv"
+    if team_name:
+        out_path = out_dir / f"{team_name}.csv"
+    else:
+        out_path =  out_path = out_dir / f"{team_id}.csv"
+        
     data = get_data_transfermarket(team_id)
     result = get_players_info_to_list_of_dicts(data)
     # for item in result:
     #     print(item)
     
     df = pd.DataFrame(data=result, columns=["pos","name","pais","num","edad"])
-    df.to_csv(out_path,sep=",", index=False)
+    df.to_csv(out_path,sep=";", index=False,  encoding="utf-8-sig")
     
     print(f"Saved team {team_id}")
 
-def main(team_ids: List[int] | None = None,team_id:int=None, league:str=None):
+def main(league:str):
+    if not league:
+        print("Needs league 'str' to continue")
+        return
+    
+    team_ids = get_team_ids_info_to_list_of_dicts(league)
     
     if team_ids:
-        for team_id in team_ids:
-            get_squad_by_id(team_id, league=league)
+        for team in team_ids:
+            get_squad_by_id(team_id=team["team_id"], team_name = team["team"], league=league)
             sleep(3)
-    elif team_id:
-        get_squad_by_id(team_id, league=league)
-
-    else:
-        print("No team id(s) provided")
     
     
     
 if  __name__ ==  "__main__":
-    main(team_id=738)
+    try:
+        # Bundesliga = "L1"
+        # main(league="L1")
+        
+        #  One team if i know the id
+        # get_squad_by_id(738)
+        get_squad_by_id(131, "barcelona")
+    except Exception as e:
+        print(str(e))
+    
