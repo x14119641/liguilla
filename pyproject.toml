@@ -1,0 +1,19 @@
+[project]
+name = "football-api"
+version = "0.1.0"
+description = "Get squad data from transfermarket.es"
+authors = [
+    {name = "Daniel",email = "daniel.gil.romero24@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "lxml (>=6.0.2,<7.0.0)",
+    "pandas (>=3.0.1,<4.0.0)",
+    "requests (>=2.32.5,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,88 @@
+import requests
+import pandas as pd
+from lxml import html
+from typing import List
+from pathlib import Path
+from time import sleep
+
+def get_data_transfermarket(id: int):
+
+    url = f"https://www.transfermarkt.es/-/kader/verein/131/{id}/2025/plus/1"
+    headers = {"User-Agent": "Mozilla/5.0", "Accept-Language": "es-ES,es;q=0.9"}
+    r = requests.get(url, headers=headers, timeout=30)
+    r.raise_for_status()
+    return r.content
+
+
+def first_or_empty(xs):
+    return xs[0].strip() if xs else ""
+
+def get_players_info_to_list_of_dicts(data):
+    result = []
+    tree = html.fromstring(data)
+
+    table = tree.xpath('(//table[contains(@class,"items")])[1]')
+    if not table:
+        print("No table found")
+        return
+    table = table[0]
+
+    rows = table.xpath(".//tbody/tr[td]")   # <-- THIS is the list of players
+
+    for row in rows:
+        position = row.xpath('normalize-space(.//td[contains(@class,"posrela")]//tr[last()]/td[1])')
+        
+        # player name: better from the link/title in hauptlink
+        name = row.xpath('string((.//td[contains(@class,"hauptlink")]//a)[1]/@title)')
+        if not name:
+            name = row.xpath('normalize-space((.//td[contains(@class,"hauptlink")]//a)[1])')
+
+        
+        nationality = row.xpath('string((.//img[contains(@class,"flaggenrahmen")])[1]/@title)')
+        
+        age_cell = row.xpath(".//td[contains(@class,'zentriert')][contains(normalize-space(.),'/') and contains(normalize-space(.),'(')]/text()")[0]
+        age_date = age_cell.split("(")[0].strip()
+        
+
+        num = row.xpath('normalize-space(.//div[contains(@class,"rn_nummer")])')
+
+        result.append({
+            "pos": position, "name":name, "pais":nationality, "num":num, "edad": age_date, 
+        })
+        
+    return result
+
+
+def get_squad_by_id(team_id:int, league:str=None):
+    out_dir = Path("exports")
+
+    if league:
+        out_dir= out_dir / league
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"team_{team_id}.csv"
+    data = get_data_transfermarket(team_id)
+    result = get_players_info_to_list_of_dicts(data)
+    # for item in result:
+    #     print(item)
+    
+    df = pd.DataFrame(data=result, columns=["pos","name","pais","num","edad"])
+    df.to_csv(out_path,sep=",", index=False)
+    
+    print(f"Saved team {team_id}")
+
+def main(team_ids: List[int] | None = None,team_id:int=None, league:str=None):
+    
+    if team_ids:
+        for team_id in team_ids:
+            get_squad_by_id(team_id, league=league)
+            sleep(3)
+    elif team_id:
+        get_squad_by_id(team_id, league=league)
+
+    else:
+        print("No team id(s) provided")
+    
+    
+    
+if  __name__ ==  "__main__":
+    main(team_id=738)
