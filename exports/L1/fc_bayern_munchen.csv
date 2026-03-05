@@ -1,15 +1,15 @@
 ﻿pos;name;pais;num;edad
 Portero;Jonas Urbig;Alemania;40;08/08/2003
-Portero;Manuel Neuer  ;Alemania;1;27/03/1986
+Portero;Manuel Neuer ;Alemania;1;27/03/1986
 Portero;Sven Ulreich;Alemania;26;03/08/1988
-Portero;Leon Klanac;Alemania;48;01/03/2007
+Portero;Leon Klanac ;Alemania;48;01/03/2007
 Defensa central;Dayot Upamecano;Francia;2;27/10/1998
 Defensa central;Jonathan Tah;Alemania;4;11/02/1996
 Defensa central;Min-jae Kim;Corea del Sur;3;15/11/1996
-Defensa central;Hiroki Ito;Japón;21;12/05/1999
+Defensa central;Hiroki Ito ;Japón;21;12/05/1999
 Lateral izquierdo;Alphonso Davies ;Canadá;19;02/11/2000
 Lateral izquierdo;Raphaël Guerreiro;Portugal;22;22/12/1993
-Lateral derecho;Konrad Laimer ;Austria;27;27/05/1997
+Lateral derecho;Konrad Laimer;Austria;27;27/05/1997
 Lateral derecho;Josip Stanisic;Croacia;44;02/04/2000
 Pivote;Aleksandar Pavlovic;Alemania;45;03/05/2004
 Pivote;Joshua Kimmich;Alemania;6;08/02/1995
@@ -21,5 +21,5 @@ Mediocentro ofensivo;Lennart Karl;Alemania;42;22/02/2008
 Extremo izquierdo;Luis Díaz;Colombia;14;13/01/1997
 Extremo derecho;Michael Olise;Francia;17;12/12/2001
 Mediapunta;Serge Gnabry;Alemania;7;14/07/1995
-Delantero centro;Harry Kane;Inglaterra;9;28/07/1993
+Delantero centro;Harry Kane ;Inglaterra;9;28/07/1993
 Delantero centro;Nicolas Jackson;Senegal;11;20/06/2001
