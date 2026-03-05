@@ -5,44 +5,45 @@ from typing import List
 from pathlib import Path
 from time import sleep
 
-def get_data_transfermarket(id: int):
 
-    url = f"https://www.transfermarkt.es/-/kader/verein/{id}/saison_id/2025/plus/1"
-    headers = {"User-Agent": "Mozilla/5.0", "Accept-Language": "es-ES,es;q=0.9"}
-    r = requests.get(url, headers=headers, timeout=30)
+DEFAULT_HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Referer": "https://www.transfermarkt.es/",
+}
+
+def get_data_transfermarket(id: int, season:int=2025) -> bytes:
+    url = f"https://www.transfermarkt.es/-/kader/verein/{id}/saison_id/{season}/plus/1"
+    r = requests.get(url, headers=DEFAULT_HEADERS, timeout=30)
     r.raise_for_status()
     return r.content
 
-def get_team_page_transfermarkt(competition_id: str):
+def get_team_page_transfermarkt(competition_id: str) ->bytes:
     url = f"https://www.transfermarkt.es/-/startseite/wettbewerb/{competition_id}"
-    headers = {
-        "User-Agent": "Mozilla/5.0",
-        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Referer": "https://www.transfermarkt.es/",
-    }
-    r = requests.get(url, headers=headers, timeout=30, allow_redirects=True)
+    r = requests.get(url, headers=DEFAULT_HEADERS, timeout=30, allow_redirects=True)
     r.raise_for_status()
     return r.content
 
 
-def get_team_ids_info_to_list_of_dicts(competition_id):
+def get_team_ids_info_to_list_of_dicts(competition_id) -> List[dict[str,str]]:
     data = get_team_page_transfermarkt(competition_id)
     result = []
     tree = html.fromstring(data)
     hrefs = tree.xpath('//td[contains(@class,"hauptlink")]/a[contains(@href,"/verein/")]/@href')
     for href in hrefs:
-        print(href)
+        # print(href)
+        # example: /fc-augsburg/startseite/verein/167/saison_id/2025
         result.append(
             {"team_id":href.split("/")[4],
             "team": href.split("/")[1].replace("1-", "").replace("-", "_"), 
             }
         )
-    print(result)
+    # print(result)
     return result
 
 
-def first_or_empty(xs):
+def first_or_empty(xs) -> str:
     return xs[0].strip() if xs else ""
 
 def get_players_info_to_list_of_dicts(data):
@@ -55,7 +56,7 @@ def get_players_info_to_list_of_dicts(data):
         return
     table = table[0]
 
-    rows = table.xpath(".//tbody/tr[td]")   # <-- THIS is the list of players
+    rows = table.xpath(".//tbody/tr[td]")   
 
     for row in rows:
         position = row.xpath('normalize-space(.//td[contains(@class,"posrela")]//tr[last()]/td[1])')
@@ -119,11 +120,19 @@ def main(league:str):
 if  __name__ ==  "__main__":
     try:
         # Bundesliga = "L1"
-        # main(league="L1")
+        # Ligue 1 = "FR1"
+        # Eredivisie = "NL1"
+        # Portugal = "PO1"
+        # Belguica = "BE1"
+        # Turquia = "TR1"
+        # Escocia = "SC1"
+        # Dinamarca = "DK1"
+        main(league="DK1")
+        
         
         #  One team if i know the id
         # get_squad_by_id(738)
-        get_squad_by_id(131, "barcelona")
+        # get_squad_by_id(131, "barcelona")
     except Exception as e:
         print(str(e))
     
