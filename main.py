@@ -127,7 +127,9 @@ if  __name__ ==  "__main__":
         # Turquia = "TR1"
         # Escocia = "SC1"
         # Dinamarca = "DK1"
-        main(league="DK1")
+        # Suiza = "C1"
+        # Rusia = "RU1"
+        main(league="RU1")
         
         
         #  One team if i know the id
