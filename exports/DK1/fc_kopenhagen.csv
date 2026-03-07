@@ -1,10 +1,10 @@
 ﻿pos;name;pais;num;edad
 Portero;Dominik Kotarski;Croacia;1;10/02/2000
 Portero;Rúnar Alex Rúnarsson;Islandia;31;18/02/1995
-Portero;Oscar Buur;Dinamarca;61;29/10/2006
+Portero;Oscar Buur ;Dinamarca;61;29/10/2006
 Defensa central;Gabriel Pereira;Brasil;5;07/05/2000
 Defensa central;Pantelis Hatzidiakos;Grecia;6;18/01/1997
-Defensa central;Junnosuke Suzuki ;Japón;20;12/07/2003
+Defensa central;Junnosuke Suzuki;Japón;20;12/07/2003
 Defensa central;Zanka;Dinamarca;25;23/04/1990
 Lateral izquierdo;Marcos López;Perú;15;20/11/1999
 Lateral izquierdo;Birger Meling;Noruega;24;17/12/1994
@@ -26,4 +26,4 @@ Mediapunta;Mohamed Elyounoussi;Noruega;10;04/08/1994
 Delantero centro;Youssoufa Moukoko;Alemania;9;20/11/2004
 Delantero centro;Viktor Dadason;Islandia;39;30/06/2008
 Delantero centro;Viktor Claesson ;Suecia;7;02/01/1992
-Delantero centro;Andreas Cornelius ;Dinamarca;14;16/03/1993
+Delantero centro;Andreas Cornelius;Dinamarca;14;16/03/1993
