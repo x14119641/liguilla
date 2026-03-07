@@ -13,30 +13,35 @@ DEFAULT_HEADERS = {
     "Referer": "https://www.transfermarkt.es/",
 }
 
-def get_data_transfermarket(id: int, season:int=2025) -> bytes:
+
+def get_data_transfermarket(id: int, season: int = 2025) -> bytes:
     url = f"https://www.transfermarkt.es/-/kader/verein/{id}/saison_id/{season}/plus/1"
     r = requests.get(url, headers=DEFAULT_HEADERS, timeout=30)
     r.raise_for_status()
     return r.content
 
-def get_team_page_transfermarkt(competition_id: str) ->bytes:
+
+def get_team_page_transfermarkt(competition_id: str) -> bytes:
     url = f"https://www.transfermarkt.es/-/startseite/wettbewerb/{competition_id}"
     r = requests.get(url, headers=DEFAULT_HEADERS, timeout=30, allow_redirects=True)
     r.raise_for_status()
     return r.content
 
 
-def get_team_ids_info_to_list_of_dicts(competition_id) -> List[dict[str,str]]:
+def get_team_ids_info_to_list_of_dicts(competition_id) -> List[dict[str, str]]:
     data = get_team_page_transfermarkt(competition_id)
     result = []
     tree = html.fromstring(data)
-    hrefs = tree.xpath('//td[contains(@class,"hauptlink")]/a[contains(@href,"/verein/")]/@href')
+    hrefs = tree.xpath(
+        '//td[contains(@class,"hauptlink")]/a[contains(@href,"/verein/")]/@href'
+    )
     for href in hrefs:
         # print(href)
         # example: /fc-augsburg/startseite/verein/167/saison_id/2025
         result.append(
-            {"team_id":href.split("/")[4],
-            "team": href.split("/")[1].replace("1-", "").replace("-", "_"), 
+            {
+                "team_id": href.split("/")[4],
+                "team": href.split("/")[1].replace("1-", "").replace("-", "_"),
             }
         )
     # print(result)
@@ -45,6 +50,7 @@ def get_team_ids_info_to_list_of_dicts(competition_id) -> List[dict[str,str]]:
 
 def first_or_empty(xs) -> str:
     return xs[0].strip() if xs else ""
+
 
 def get_players_info_to_list_of_dicts(data):
     result = []
@@ -56,68 +62,127 @@ def get_players_info_to_list_of_dicts(data):
         return
     table = table[0]
 
-    rows = table.xpath(".//tbody/tr[td]")   
+    rows = table.xpath(".//tbody/tr[td]")
 
     for row in rows:
-        position = row.xpath('normalize-space(.//td[contains(@class,"posrela")]//tr[last()]/td[1])')
-        
+        position = row.xpath(
+            'normalize-space(.//td[contains(@class,"posrela")]//tr[last()]/td[1])'
+        )
+
         # player name: better from the link/title in hauptlink
         name = row.xpath('string((.//td[contains(@class,"hauptlink")]//a)[1]/@title)')
         if not name:
-            name = row.xpath('normalize-space((.//td[contains(@class,"hauptlink")]//a)[1])')
+            name = row.xpath(
+                'normalize-space((.//td[contains(@class,"hauptlink")]//a)[1])'
+            )
 
-        
-        nationality = row.xpath('string((.//img[contains(@class,"flaggenrahmen")])[1]/@title)')
-        
-        age_cell = row.xpath(".//td[contains(@class,'zentriert')][contains(normalize-space(.),'/') and contains(normalize-space(.),'(')]/text()")[0]
+        nationality = row.xpath(
+            'string((.//img[contains(@class,"flaggenrahmen")])[1]/@title)'
+        )
+
+        age_cell = row.xpath(
+            ".//td[contains(@class,'zentriert')][contains(normalize-space(.),'/') and contains(normalize-space(.),'(')]/text()"
+        )[0]
         age_date = age_cell.split("(")[0].strip()
-        
 
         num = row.xpath('normalize-space(.//div[contains(@class,"rn_nummer")])')
 
-        result.append({
-            "pos": position, "name":name, "pais":nationality, "num":num, "edad": age_date, 
-        })
-        
+        result.append(
+            {
+                "pos": position,
+                "name": name,
+                "pais": nationality,
+                "num": num,
+                "edad": age_date,
+            }
+        )
+
     return result
 
 
-def get_squad_by_id(team_id:int, team_name:str=None, league:str=None):
+def get_squad_by_id(team_id: int, team_name: str = None, league: str = None):
     out_dir = Path("exports")
 
     if league:
-        out_dir= out_dir / league
+        out_dir = out_dir / league
     out_dir.mkdir(parents=True, exist_ok=True)
     if team_name:
         out_path = out_dir / f"{team_name}.csv"
     else:
-        out_path =  out_path = out_dir / f"{team_id}.csv"
-        
+        out_path = out_path = out_dir / f"{team_id}.csv"
+
     data = get_data_transfermarket(team_id)
     result = get_players_info_to_list_of_dicts(data)
     # for item in result:
     #     print(item)
-    
-    df = pd.DataFrame(data=result, columns=["pos","name","pais","num","edad"])
-    df.to_csv(out_path,sep=";", index=False,  encoding="utf-8-sig")
-    
+
+    df = pd.DataFrame(data=result, columns=["pos", "name", "pais", "num", "edad"])
+    df.to_csv(out_path, sep=";", index=False, encoding="utf-8-sig")
+
     print(f"Saved team {team_id}")
 
-def main(league:str):
+
+def main(league: str):
     if not league:
         print("Needs league 'str' to continue")
         return
-    
+
     team_ids = get_team_ids_info_to_list_of_dicts(league)
-    
+
     if team_ids:
         for team in team_ids:
-            get_squad_by_id(team_id=team["team_id"], team_name = team["team"], league=league)
+            get_squad_by_id(
+                team_id=team["team_id"], team_name=team["team"], league=league
+            )
             sleep(3)
-    
-    
-    
-if  __name__ ==  "__main__":
+
+
+def run_other_teams():
+    other_teams = [
+        {"id": 197, "club": "ac_sparta_praga"},
+        {"id": 697, "club": "slovan_liberec"},
+        {"id": 667, "club": "viktoria_plzen"},
+        {"id": 266, "club": "sk_slavia_praga"},
+        {"id": 2619, "club": "fk_bodo_glimt"},
+        {"id": 687, "club": "molde_fk"},
+        {"id": 109, "club": "paok_de_salonica"},
+        {"id": 2432, "club": "aek_athenas"},
+        {"id": 683, "club": "olympiacos"},
+        {"id": 1458, "club": "panathinaikos"},
+        {"id": 409, "club": "red_bull_salzburgo"},
+        {"id": 446, "club": "lask_linz"},
+        {"id": 33, "club": "sk_rapid_viena"},
+        {"id": 277, "club": "sk_sturm_graz"},
+        {"id": 257, "club": "jagiellonia_bialystok"},
+        {"id": 1041, "club": "lech_poznan"},
+        {"id": 338, "club": "legia_de_varsovia"},
+        {"id": 400, "club": "hapoel_beer_sheva"},
+        {"id": 1134, "club": "maccabi_haifa"},
+        {"id": 754, "club": "maccabi_tel_aviv"},
+        {"id": 3512, "club": "apoel_fc"},
+        {"id": 3662, "club": "omonia_nicosia"},
+        {"id": 433, "club": "djurgardens_if"},
+        {"id": 496, "club": "malmoe_ff"},
+        {"id": 419, "club": "gnk_dinamo_zagreb"},
+        {"id": 159, "club": "estrella_roja_de_belgrado"},
+        {"id": 6990, "club": "zorya_lugansk"},
+        {"id": 660, "club": "shakhtar_donetsk"},
+        {"id": 338, "club": "fc_dynamo_kyiv"},
+        {"id": 279, "club": "ferencvaros_tc"},
+        {"id": 301, "club": "fcsb"},
+        {"id": 1063, "club": "slovan_bratislava"},
+        {"id": 316, "club": "ludogorets_razgrad"},
+        {"id": 3737, "club": "qarabag_fk"},
+        {"id": 18544, "club": "fc_sheriff_tiraspol"},
+        {"id": 3783, "club": "fc_astana"},
+    ]
+    for team in other_teams:
+        get_squad_by_id(team["id"], team["club"])
+        sleep(5)
+    print("other teams finished")
+
+
+if __name__ == "__main__":
     try:
         # Bundesliga = "L1"
         # Ligue 1 = "FR1"
@@ -130,11 +195,9 @@ if  __name__ ==  "__main__":
         # Suiza = "C1"
         # Rusia = "RU1"
         main(league="RU1")
-        
-        
+
         #  One team if i know the id
         # get_squad_by_id(738)
         # get_squad_by_id(131, "barcelona")
     except Exception as e:
         print(str(e))
-    
