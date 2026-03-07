@@ -1,12 +1,12 @@
 # Scrip "liguilla"
 
 Scrip para generar los datos de los jugadores para la liguilla desde transfermarkt.es, el formato que queremos y la data es:
-´´´pos;name;pais;num;edad´´´
+`pos;name;pais;num;edad`
 
 El script funciona "manualmente", se ha de cambiar las llamadas en el main. Se podria añadir que el script funcionase por "args" pero de momento asi me esta bien.
 
 Como funciona:
-´´´
+```
 # Busca los equipos de la liga a traves del codigo y  por cada equipo extrae la data de los jugadores
 main(league="RU1")
 
@@ -14,7 +14,7 @@ main(league="RU1")
 # (mejor si le añadimos como argumento extra el nombre del equipo, esto guardara el csv con el nombre en vez de la id)
 get_squad_by_id(131)
 get_squad_by_id(131, "barcelona")
-´´´
+```
 
 Los datos son guardados en `/exports/{codigo_liga}/{nombre_equipo}.csv`
 Si el script es llamado para un equipo por id estara e `/exports/{codigo_o_nombre_equipo}.csv`
