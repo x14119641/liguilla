@@ -1,0 +1,489 @@
+﻿pos;name;pais;num;edad
+Portero;Fran González;España;1;24/06/2005
+Portero;Sergio Mestre;España;25;13/02/2005
+Portero;Guille Súnico;España;13;09/01/2004
+Defensa central;Víctor Valdepeñas ;España;3;20/10/2006
+Defensa central;Joan Martínez ;España;15;20/08/2007
+Defensa central;Diego Aguado;España;21;07/02/2007
+Defensa central;Lamini Fati;España;23;18/04/2006
+Defensa central;Mario Rivas;España;4;16/03/2007
+Defensa central;Álvaro Lezcano;España;34;02/03/2008
+Lateral izquierdo;Manu Serrano;España;5;20/03/2004
+Lateral izquierdo;Liberto Navascués;España;32;15/03/2007
+Lateral derecho;David Jiménez;España;2;14/03/2004
+Lateral derecho;Jesús Fortea;España;17;26/03/2007
+Pivote;Cristian Perea;España;6;17/08/2005
+Mediocentro;Jorge Cestero;España;14;24/03/2006
+Mediocentro;Thiago Pitarch;España;16;03/08/2007
+Mediocentro;Manuel Ángel ;España;8;15/03/2004
+Mediocentro;Roberto Martín;España;28;12/08/2006
+Mediocentro;Daniel Mesonero;España;30;03/09/2005
+Mediocentro ofensivo;César Palacios;España;10;11/11/2004
+Mediocentro ofensivo;Pol Fortuny;España;20;11/03/2005
+Mediocentro ofensivo;Bruno Iglesias;España;11;01/05/2003
+Mediocentro ofensivo;Gabri Castrelo;España;33;04/08/2006
+Extremo izquierdo;Hugo de Llanos;España;22;18/03/2005
+Extremo derecho;Daniel Yáñez;España;7;28/03/2007
+Mediapunta;Álvaro Leiva;España;39;28/12/2004
+Delantero centro;Rachad Fettal;España;18;16/01/2005
+Delantero centro;Adrián Arnu;España;49;04/03/2007
+Delantero centro;Loren Zúñiga;Guinea Ecuatorial;9;18/01/2003
+Portero;Dani Martín;España;1;08/07/1998
+Portero;Gabriel De Vuyst;España;13;06/07/2004
+Defensa central;Antal Yaakobishvili;Hungría;5;12/07/2004
+Defensa central;Anthony Landázuri;Ecuador;12;19/04/1997
+Defensa central;José León;España;4;03/02/1995
+Defensa central;Facundo Agüero;Argentina;3;21/01/1995
+Lateral izquierdo;Marc Mateu;España;21;16/06/1990
+Lateral derecho;David Rodríguez;España;2;26/06/2000
+Lateral derecho;César Álvarez;España;19;15/04/2003
+Mediocentro;Javi Pérez;España;8;14/08/1995
+Mediocentro;Juanjo Sánchez;España;6;22/03/2000
+Mediocentro;Fabricio;Brasil;15;27/01/1998
+Mediocentro;Aitor Sanz ;España;16;13/09/1984
+Mediocentro;Alberto Ulloa;España;27;30/09/2003
+Mediocentro ofensivo;Maikel Mesa;España;11;04/06/1991
+Mediocentro ofensivo;Dani Fernández;España;29;26/01/2008
+Mediocentro ofensivo;Cris Montes;España;7;10/08/1997
+Extremo izquierdo;Nacho Gil;España;10;09/09/1995
+Extremo izquierdo;Alassan Manjam;España;20;12/09/2002
+Extremo izquierdo;Jeremy Jorge;España;23;09/02/2003
+Extremo derecho;Iván Chapela;España;24;21/05/1999
+Delantero centro;Jesús de Miguel;España;9;21/09/1996
+Delantero centro;Gastón Valles;Uruguay;22;10/05/2001
+Delantero centro;Mahamadou Baldé;España;17;01/01/2004
+Delantero centro;Enric Gallego;España;18;12/09/1986
+Delantero centro;Noel López;España;14;17/03/2003
+Delantero centro;Fran Sabina;España;28;22/09/2003
+Portero;Miquel Parera;España;1;18/05/1996
+Portero;César Fernández;España;13;28/01/2004
+Portero;Lucas Díaz;España;25;10/05/1996
+Defensa central;Álex Zalaya;España;15;29/04/1998
+Defensa central;Edgar Pujol;República Dominicana;3;07/08/2004
+Defensa central;Markel Artetxe;España;4;23/03/1999
+Defensa central;Chema Rodríguez;España;12;03/03/1992
+Lateral izquierdo;Álvaro Ramón;España;17;06/04/2000
+Lateral izquierdo;Saúl García;España;16;09/11/1994
+Lateral derecho;Miguel Leal;España;2;01/02/1997
+Lateral derecho;Alvaro Mardones;España;22;23/10/2005
+Mediocentro;Fabio González;España;6;12/02/1997
+Mediocentro;Ander Gorostidi;España;8;23/02/1996
+Mediocentro;Sergio Tejera;España;14;28/05/1990
+Mediocentro ofensivo;Pascu;España;10;02/04/2000
+Mediocentro ofensivo;Jairo Noriega;España;5;14/08/2003
+Extremo izquierdo;Raúl Dacosta;España;11;26/01/2002
+Extremo izquierdo;Álvaro Juan;España;7;20/10/1999
+Extremo izquierdo;Azael García;España;24;25/04/2004
+Extremo derecho;David Concha;España;18;20/11/1996
+Delantero centro;Antón Escobar;España;9;16/06/1998
+Delantero centro;Martim Tavares;Portugal;21;10/11/2003
+Delantero centro;Álvaro Giménez ;España;20;19/05/1991
+Delantero centro;Ekain Azkune;España;19;26/01/2001
+Portero;Marc Martínez ;España;1;04/04/1990
+Portero;Iker Piedra;España;13;04/04/2002
+Defensa central;José Amo;España;16;09/04/1998
+Defensa central;Josep Gayá;España;24;07/07/2000
+Defensa central;Ibaider Garriz;España;3;03/02/2001
+Defensa central;Pablo Trigueros;España;4;04/04/1993
+Lateral izquierdo;Diego Caballo;España;17;17/02/1994
+Lateral izquierdo;Pere Haro;España;6;20/05/2004
+Lateral derecho;Iago López;España;20;06/04/1999
+Lateral derecho;Yago Rodríguez;España;2;01/07/2005
+Mediocentro;Gabriel Costa;Portugal;18;14/11/2006
+Mediocentro;Antonio Perera;España;12;08/06/1997
+Mediocentro;Álex Balboa;Guinea Ecuatorial;8;06/03/2001
+Mediocentro;Txus Alba;España;10;31/01/2003
+Mediocentro;Kevin Presa;España;14;15/05/1994
+Mediocentro ofensivo;Neco Celorio;España;9;07/03/2004
+Extremo izquierdo;Borja Sánchez;España;25;26/02/1996
+Extremo izquierdo;Santi Samanes;España;22;28/07/1995
+Extremo izquierdo;Álex Gallar;España;5;19/03/1992
+Extremo izquierdo;Lago Júnior;Costa de Marfil;23;31/12/1990
+Extremo derecho;Víctor Pastrana;España;11;27/09/1996
+Extremo derecho;Jorge González;España;7;03/02/2004
+Delantero centro;Iker Unzueta;España;19;04/08/1998
+Delantero centro;Nicolás Reniero;Argentina;15;18/03/1995
+Delantero centro;Ognjen Teofilovic;Serbia;21;19/09/2006
+Portero;Mikel Santos;España;13;01/11/2004
+Portero;Iker Galindo;España;27;22/07/2004
+Portero;Eric Gamen;España;1;21/04/2004
+Defensa central;Jon de Luis;España;3;05/08/2003
+Defensa central;Aimar Duñabeitia;España;4;26/02/2003
+Defensa central;Iker Monreal;España;28;03/07/2005
+Defensa central;Ander Izagirre;España;14;28/06/2003
+Lateral izquierdo;Miguel Barandalla;España;12;24/03/2004
+Lateral derecho;Xabi Irurita;España;2;02/01/2002
+Lateral derecho;Johaneko Louis-Jean;Francia;19;28/06/2004
+Lateral derecho;Iker Alday;España;15;23/06/2003
+Mediocentro;Manex Gibelalde;España;6;22/04/2004
+Mediocentro;Eñaut Lete;España;8;08/06/2004
+Mediocentro;Beñat García;España;21;21/01/2007
+Mediocentro;Javi Sola;España;26;04/10/2005
+Mediocentro;Gaizka Alboniga-Menor;España;30;14/03/2005
+Mediocentro ofensivo;Ibon Sánchez;España;10;08/03/2004
+Mediocentro ofensivo;Eder García;España;18;04/01/2004
+Mediocentro ofensivo;Adrián Pérez;España;22;25/10/2006
+Extremo izquierdo;Efe Korkut;Turquía;20;23/06/2006
+Extremo izquierdo;Aritz Conde;España;31;14/10/2005
+Extremo derecho;Endika Buján;España;11;16/01/2003
+Extremo derecho;Peio Huestamendia;España;17;08/11/2006
+Extremo derecho;Elijah Gift;España;23;11/06/2006
+Delantero centro;Asier Hierro;España;7;06/05/2005
+Delantero centro;Ibai Sanz;España;9;13/08/2003
+Portero;Dimitrios Stamatakis;Grecia;1;23/04/2003
+Portero;Rafa Fernández;España;13;02/05/2004
+Defensa central;Diego Espejo;España;4;18/08/2002
+Defensa central;Anton Efremov;Rusia;15;11/06/2003
+Defensa central;Unai Santos;España;5;03/11/2005
+Defensa central;Mikel Serrano;España;23;16/06/2003
+Defensa central;Álex Jimenez;España;3;19/04/2005
+Lateral izquierdo;Raúl Chasco;España;21;13/09/2003
+Lateral izquierdo;Asier Larrión;España;22;26/06/2006
+Lateral izquierdo;Ander Alonso;España;29;30/01/2007
+Lateral derecho;Iñigo Arguibide;España;2;19/04/2005
+Lateral derecho;Rufino Lucero;Argentina;12;01/02/2002
+Lateral derecho;Mikel Ansó;España;30;01/01/2004
+Lateral derecho;Kepa Sarango;España;36;07/06/2007
+Mediocentro;Asier Osambela;España;24;30/10/2004
+Mediocentro;Jon García;España;14;28/01/2003
+Mediocentro;Mauro Echegoyen;España;6;03/03/2005
+Mediocentro;Bruno Pérez;España;20;24/04/2005
+Mediocentro;Xabi Garin;España;26;10/04/2007
+Mediocentro;Ibai Arrasate;España;34;01/01/2004
+Mediocentro ofensivo;Manu Rico;España;10;11/01/2003
+Mediocentro ofensivo;Miguel Auría;España;16;06/04/2005
+Extremo izquierdo;Ander Yoldi;España;8;09/09/2000
+Delantero centro;Roberto Arroyo;España;17;25/08/2003
+Delantero centro;Asier Bonel;España;19;17/01/2008
+Delantero centro;Martin Pedroarena;España;11;18/08/2003
+Delantero centro;Carlos Lumbreras;España;7;20/02/2005
+Delantero centro;Dani González;España;9;18/03/2002
+Portero;Andrés Prieto;España;1;17/10/1993
+Portero;Ángel Jiménez;España;13;22/06/2002
+Portero;Pablo Barredo;España;25;05/09/2003
+Defensa central;Boris Moltenis;Martinica;4;08/05/1999
+Defensa central;Germán Nóvoa;España;3;06/08/1996
+Defensa central;David Andújar;España;2;21/08/1991
+Defensa central;Vladyslav Kysil;Ucrania;26;14/06/2005
+Lateral izquierdo;Andoni López;España;19;05/04/1996
+Lateral izquierdo;Vasco Sousa;Portugal;15;06/04/2004
+Lateral derecho;Koke Iglesias;España;12;16/03/2005
+Lateral derecho;Mario Jorrín;España;23;28/06/2002
+Mediocentro;Fede San Emeterio;España;6;16/03/1997
+Mediocentro;Eneko Undabarrena;España;5;10/03/1993
+Mediocentro;Eugene Frimpong;Ghana;16;02/02/2003
+Mediocentro;Erik Morán;España;24;25/05/1991
+Mediocentro ofensivo;Xemi Fernández;España;14;02/02/1995
+Mediocentro ofensivo;Vicente Esquerdo;España;22;02/01/1999
+Extremo izquierdo;Abdoulaye Keita;España;17;01/09/2002
+Extremo derecho;Carlos Calderón;España;7;14/04/1995
+Delantero centro;Slavy;Bulgaria;8;05/05/2002
+Delantero centro;José Luis Cortés;España;9;22/08/2001
+Delantero centro;Borja Valle ;España;10;09/07/1992
+Delantero centro;Steven Petkov;Bulgaria;11;07/05/1995
+Delantero centro;Pau Ferrer;España;20;17/10/2003
+Delantero centro;Borja Vázquez;España;18;18/01/2005
+Portero;Raúl Marqueta;España;13;05/08/1994
+Portero;Edu Sousa;España;1;15/07/1991
+Defensa central;Antonio Montoro;España;23;10/05/1997
+Defensa central;Benjamín Garay;Argentina;19;19/04/2000
+Defensa central;Miki Bosch;España;4;09/06/2001
+Defensa central;Juanra;España;15;18/01/1995
+Defensa central;Álvaro Pérez;España;5;07/03/1996
+Lateral izquierdo;Adrián Expósito;España;3;26/09/2001
+Lateral derecho;Victor Eimil;España;2;18/01/1999
+Mediocentro;Yelko Pino;España;10;30/10/1996
+Mediocentro;Ander Vidorreta;España;16;12/07/1997
+Mediocentro;Tiago Rodríguez ;España;24;07/07/2000
+Mediocentro;Facundo Ballardo;Argentina;12;19/12/1995
+Mediocentro ofensivo;Alain Ribeiro;España;6;08/07/1997
+Mediocentro ofensivo;Luisao Macías;Ecuador;17;28/12/2004
+Extremo izquierdo;Rubén López;España;18;26/08/2004
+Extremo izquierdo;Miguel Cuesta;España;11;10/10/2000
+Extremo izquierdo;Álex González ;España;7;02/08/1989
+Extremo derecho;Brais Abelenda;España;8;27/10/1995
+Extremo derecho;Alberto Gil;España;20;14/06/1997
+Extremo derecho;Diego Gómez;España;21;31/07/2004
+Delantero centro;João Resende;Portugal;14;26/03/2003
+Delantero centro;Alex Comparada;España;22;13/01/2004
+Portero;Coke Carrillo;España;1;07/01/2002
+Portero;Caio Barone;Brasil;13;04/05/2006
+Portero;Marcos González;España;25;10/01/2006
+Defensa central;Pablo Meixús;España;6;21/05/2003
+Defensa central;Anxo Rodríguez;España;26;10/03/2007
+Defensa central;Kike Ribes;España;3;16/01/2004
+Defensa central;Jaime Vázquez;España;4;01/02/2006
+Defensa central;Seyni Mbaye Ndiaye;Senegal;22;05/01/2005
+Defensa central;Anthony Khayat;Emiratos Árabes Unidos;32;13/02/2007
+Lateral izquierdo;Joel López;España;18;31/03/2002
+Lateral izquierdo;Jan Oliveras;España;14;07/07/2004
+Lateral derecho;Pablo Gavián;España;2;02/03/2006
+Mediocentro;Hugo Burcio;España;5;31/10/2006
+Mediocentro;Andrés Antañón;España;8;22/01/2007
+Mediocentro;David de la Iglesia;España;10;15/01/2003
+Mediocentro;Adrià Capdevila;España;16;12/01/2004
+Mediocentro ofensivo;Óscar Marcos;España;19;19/02/2006
+Extremo izquierdo;Ángel Arcos;España;11;18/04/2006
+Extremo izquierdo;Luis Bilbao;España;21;24/03/2003
+Extremo izquierdo;Bernard Somuah;Ghana;17;10/02/2006
+Extremo derecho;Hugo González;España;7;07/02/2003
+Extremo derecho;Iago Barreiros;España;30;05/01/2008
+Extremo derecho;Germain Milla;Camerún;23;24/05/2006
+Delantero centro;Álvaro Marín;España;9;01/05/2003
+Portero;Álvaro Ratón;España;1;29/01/1993
+Portero;Alberto Sánchez;España;13;26/03/2001
+Defensa central;Miguel Prado;España;5;31/03/1999
+Defensa central;Fran Carmona;España;4;26/06/1999
+Defensa central;Aymane Jelbat;Marruecos;12;27/05/2000
+Defensa central;Adrián Pérez;España;14;04/03/2003
+Lateral izquierdo;Hugo Sanz;España;3;21/04/2002
+Lateral derecho;Enol Coto;España;2;23/03/2001
+Mediocentro;Jerin Ramos;Cabo Verde;8;14/01/1996
+Mediocentro;David Rabadán;España;18;22/05/2000
+Mediocentro;Álvaro Yuste;España;22;04/04/2001
+Mediocentro;César Moreno;España;24;23/04/2001
+Mediocentro;David Muñoz;España;16;05/02/2005
+Mediocentro;Lamine Gueye;España;20;01/01/2006
+Mediocentro ofensivo;Nacho Castillo;España;6;03/07/2000
+Mediocentro ofensivo;Iker Punzano;España;23;29/07/2004
+Extremo izquierdo;Aitor Aranzabe;España;11;28/06/1998
+Extremo izquierdo;Luis Rivas;Colombia;15;11/07/2003
+Extremo derecho;Adrián Guerrero;España;21;15/02/2006
+Extremo derecho;Raúl Hernández;España;17;11/09/1994
+Delantero centro;Amin Bouzaig;Marruecos;7;01/06/1997
+Delantero centro;Sergio Benito;España;9;23/03/1999
+Delantero centro;Martín Ochoa;España;10;20/12/2004
+Portero;Salvi Carrasco;España;1;25/06/2000
+Portero;Marco Suárez;España;13;26/02/2004
+Defensa central;Vadik Murria;Rusia;16;07/09/2000
+Defensa central;Aleix Gorjón;España;3;26/09/2002
+Defensa central;Farru;España;5;25/02/2001
+Defensa central;Ramiro Mayor ;España;4;09/05/1991
+Lateral izquierdo;Mounir Errahaly;Marruecos;17;06/08/1999
+Lateral izquierdo;Raúl Prada;España;19;23/05/2001
+Lateral derecho;Víctor Olmedo;España;2;09/02/1999
+Lateral derecho;Jan Encuentra;España;20;05/05/2006
+Lateral derecho;Abderrezzek Saidi;Argelia;14;25/07/2005
+Mediocentro;José Masllorens;España;24;07/05/2001
+Mediocentro;Juanje;España;6;09/06/2000
+Mediocentro;Jota López;España;8;07/11/2002
+Mediocentro;Juanma Lendínez;España;22;29/07/2003
+Mediocentro ofensivo;Carlos de la Nava;España;10;21/04/1993
+Extremo izquierdo;Serpeta;España;9;07/04/2000
+Extremo izquierdo;Aarón Piñán;España;23;12/07/1997
+Extremo derecho;Hugo de Bustos;España;18;04/09/2004
+Extremo derecho;Adam Arvelo;España;7;31/05/2005
+Mediapunta;Álvaro Gómez;España;11;06/06/1997
+Mediapunta;Juan Artola;España;12;07/04/2000
+Mediapunta;Josué Chibozo;Benín;15;01/07/2003
+Delantero centro;Pere Marco;España;21;16/09/2003
+Portero;Adrián Csenterics;Hungría;1;08/10/2004
+Portero;Pablo Cacharrón;España;13;12/06/1997
+Defensa central;Javi Lancho;España;3;08/04/2002
+Defensa central;Javi Domínguez;España;5;26/03/2001
+Defensa central;Gaizka Martínez;España;15;27/10/1996
+Defensa central;Luis Pareja;España;4;05/11/1998
+Lateral izquierdo;Eudald Vergés;España;23;08/05/1997
+Lateral izquierdo;Manu Rivas;España;22;09/06/2003
+Lateral derecho;Pipe ;España;19;14/04/1993
+Lateral derecho;Jacobo Martí;España;20;24/09/2004
+Mediocentro;Martín Solar;España;8;30/01/2000
+Mediocentro;Geo Almeida;Portugal;6;14/07/2004
+Mediocentro;Raúl Beneit;España;21;26/07/1994
+Mediocentro;Victor Corral;España;17;04/04/2002
+Mediocentro ofensivo;Miguel Capitas;España;16;06/03/2001
+Mediocentro ofensivo;Benjamin Dibrani;Alemania;18;09/02/2004
+Extremo izquierdo;Carlos Doncel;España;10;04/12/1996
+Extremo izquierdo;Chiqui;España;7;07/10/1997
+Extremo izquierdo;Rui Gomes;Portugal;12;04/09/1997
+Extremo derecho;Javi Areso;España;11;03/09/1997
+Delantero centro;Sigurdur Hallsson;Islandia;9;01/09/1999
+Delantero centro;Sofiane El Ftouhi;Francia;14;26/01/2001
+Delantero centro;Rodrigo Pereira;Portugal;24;07/03/2003
+Portero;Fermín Sobrón;España;1;15/11/1995
+Portero;Adrián Pereda;España;13;14/05/2003
+Defensa central;Luismi Luengo;España;2;19/03/2001
+Defensa central;Erik Ruiz;España;5;08/03/1995
+Defensa central;Miki Codina;España;20;16/03/2002
+Defensa central;Ismael Athuman;Kenia;4;01/02/1995
+Lateral izquierdo;Dani Merchán;España;3;05/02/2002
+Lateral izquierdo;Mani López;Marruecos;21;20/04/2007
+Lateral derecho;Sergi López;España;23;09/08/2003
+Mediocentro;Markel Lozano;España;16;03/05/1996
+Mediocentro;Carlos Ramos ;España;10;31/08/1994
+Mediocentro;Mario García;España;6;23/07/1997
+Mediocentro;Alejandro Marcelo;España;8;29/11/1998
+Extremo izquierdo;Abde Damar;Marruecos;19;11/02/2000
+Extremo izquierdo;Álvaro Romero;España;11;12/05/1996
+Extremo izquierdo;Loren Burón;España;15;06/10/1994
+Extremo derecho;Jaime Sancho;España;22;01/09/2000
+Mediapunta;Kike Márquez;España;7;23/07/1989
+Delantero centro;Javier Carbonell;España;17;23/03/1997
+Delantero centro;Joshua Farrell;Gales;18;27/06/2003
+Delantero centro;Mario Losada;España;9;13/05/1997
+Portero;Álvaro Fernández;España;1;10/04/2000
+Portero;Nando Almodóvar;España;13;03/11/2003
+Defensa central;Julio Rodríguez;España;-;07/12/1995
+Defensa central;Ricardo Grigore;Rumania;12;07/04/1999
+Defensa central;Jean-Sylvain Babin;Martinica;5;14/10/1986
+Defensa central;Chukwuma Eze;Nigeria;15;16/11/2003
+Defensa central;Andrés López;España;24;11/01/2003
+Lateral izquierdo;Osky Menéndez;España;26;13/02/2004
+Lateral izquierdo;Viti Díaz;España;3;29/03/1991
+Lateral derecho;Edu Campabadal;España;20;26/01/1993
+Lateral derecho;Guzmán Ortega;España;2;12/01/2004
+Mediocentro;Christian Rivera;España;23;09/07/1997
+Mediocentro;Kevin Bautista;España;8;24/12/1998
+Mediocentro;Álvaro Gete;España;18;07/02/2001
+Mediocentro;Adrián Gómez;España;16;17/01/1994
+Mediocentro;Edu Cortina ;España;-;25/09/1996
+Mediocentro ofensivo;Luis Alcalde;España;7;06/05/1995
+Extremo izquierdo;Isi Ros;España;22;06/11/1995
+Extremo derecho;Berto Cayarga;España;14;17/09/1996
+Extremo derecho;Quicala Bari;Guinea-Bissau;17;18/01/2002
+Delantero centro;Álvaro Santamaría;España;9;07/11/2001
+Delantero centro;Javi Cueto;España;10;11/01/2001
+Delantero centro;Raúl Rubio;España;11;04/07/1999
+Delantero centro;Aitor Uzkudun;España;21;13/12/2000
+Delantero centro;Natalio ;España;19;18/09/1984
+Portero;Amador Zarco;España;1;08/05/1998
+Portero;Dani Vicente;España;13;06/02/2003
+Defensa central;Javier Ablanque ;España;4;05/07/1996
+Defensa central;Lucas Pérez;España;2;05/12/2003
+Defensa central;Víctor Rodríguez;España;15;05/03/2003
+Defensa central;Jorge Casado;España;23;26/06/1989
+Lateral izquierdo;Julio Martínez;España;18;18/04/2001
+Lateral izquierdo;Agus Moreno;España;3;19/05/2005
+Lateral izquierdo;Kike Cadete;España;16;24/06/1994
+Lateral derecho;Dani Gallardo;España;5;07/04/1996
+Mediocentro;Samu Mayo;España;22;22/11/2000
+Mediocentro;Raúl Tavares;España;14;30/01/1999
+Mediocentro;Pablo Rojo;España;6;13/12/1995
+Mediocentro;Toño Calvo;España;8;20/10/1997
+Mediocentro;Miki Muñoz;España;20;28/04/1997
+Mediocentro ofensivo;Neskes;España;7;22/11/2001
+Extremo izquierdo;Pablo Muñoz;España;19;04/09/2003
+Extremo izquierdo;Unax Álvarez;España;11;16/02/2002
+Extremo izquierdo;Javi Gómez;España;17;10/01/1999
+Extremo derecho;Guille Perero;España;21;31/10/1997
+Delantero centro;Alejandro Cañizo;España;9;25/12/1999
+Delantero centro;David Amigo;España;10;22/10/2002
+Delantero centro;Salifo Mendes;Guinea-Bissau;24;19/06/2001
+Portero;Ibon Ispizua;España;1;08/04/2003
+Portero;Gaizka Campos;España;13;16/05/1997
+Defensa central;Unai Dufur;España;4;21/01/1999
+Defensa central;Borja García;España;3;07/01/1990
+Defensa central;Iker Ropero;España;24;01/06/2006
+Defensa central;Javier Vicario;España;-;26/04/2002
+Lateral izquierdo;Oier López;España;16;08/03/2002
+Lateral izquierdo;Urtzi Albizua;España;23;29/06/2005
+Lateral derecho;Iker Pedernales;España;7;20/12/1998
+Lateral derecho;Markel Arana;España;18;29/11/2001
+Lateral derecho;Beñat de Jesús;España;2;22/01/2002
+Mediocentro;Julen Huidobro;España;8;01/04/1995
+Mediocentro;Unai Naveira;España;6;30/04/2001
+Mediocentro;Álvaro Peña;España;21;24/10/1991
+Mediocentro;Iván Castillo;España;15;05/01/2000
+Mediocentro;Ekaitz Molina ;España;5;25/09/1990
+Extremo izquierdo;Eric Pérez;España;11;18/05/2001
+Extremo izquierdo;José de León;República Dominicana;17;02/03/2004
+Extremo izquierdo;Marc Torra;España;22;23/08/2004
+Extremo derecho;Iñigo Muñoz;España;14;16/12/1996
+Extremo derecho;Saliou Mandiang;Senegal;20;13/04/2003
+Delantero centro;Alex Valiño;España;9;25/08/1997
+Delantero centro;Aitor Galarza;España;19;13/10/2002
+Delantero centro;Sabin Merino;España;10;04/01/1992
+Portero;Javier Belman;España;13;04/10/1998
+Portero;Jaime González;España;1;22/03/1998
+Defensa central;Álvaro López;España;4;07/06/1999
+Defensa central;Sergi Molina;España;5;21/07/2000
+Defensa central;Manuel Farrando;España;23;24/04/1995
+Defensa central;David Cuenca;España;2;05/04/2002
+Lateral izquierdo;Aleix Roig;España;3;10/02/2000
+Lateral derecho;Bilal Ouacharaf;Marruecos;17;09/05/2002
+Mediocentro;Luis Sánchez;España;8;19/07/2001
+Mediocentro;Luis Acosta;España;15;13/07/1994
+Mediocentro;Isaiah Navarro;España;16;09/09/2001
+Mediocentro;Pedro Capó;España;18;11/12/1990
+Mediocentro ofensivo;Pitu Doncel;España;6;02/12/1997
+Mediocentro ofensivo;Sergio Montero;España;21;17/03/1997
+Mediocentro ofensivo;Arturo Molina;España;14;18/07/1996
+Extremo izquierdo;Ferni;España;20;07/04/1998
+Extremo izquierdo;Edu Gallardo ;España;11;01/04/2000
+Extremo derecho;Valen Gómez;España;19;15/01/2004
+Extremo derecho;Nordin Al Lal;Marruecos;24;14/02/2005
+Delantero centro;Gonzalo Di Renzo;Argentina;7;30/12/1995
+Delantero centro;Marcos Moreno;España;9;14/02/2004
+Portero;Diego Nieves;España;1;11/01/1999
+Portero;Alex Quevedo;España;13;28/04/2004
+Defensa central;Adrián Crespo;España;4;25/03/1993
+Defensa central;José Manuel Alonso;España;21;14/05/1996
+Defensa central;Iván Martínez;España;2;24/05/2002
+Defensa central;Javi Barrio;España;3;21/05/1991
+Lateral izquierdo;Joserra de Diego;España;5;18/01/1999
+Lateral izquierdo;Oussama El Goumiri;Marruecos;23;28/04/2003
+Lateral derecho;Emi Hernández;España;22;03/08/2000
+Mediocentro;Wilfrid Kaptoum;Camerún;12;07/07/1996
+Mediocentro;Nico Conesa;España;6;15/08/2001
+Mediocentro;Deco  ;España;8;25/01/1996
+Mediocentro;Diego Gutiérrez;España;16;03/09/2000
+Mediocentro;Antonio Marchena ;España;14;27/07/2002
+Mediocentro;Raúl Sanchís;España;18;04/06/2003
+Mediocentro;Rubén Valdera;España;24;25/02/2003
+Mediocentro ofensivo;Javier Ajenjo;Polonia;10;12/01/2001
+Extremo izquierdo;Álex Monerris;España;15;16/06/2001
+Extremo derecho;Rubén Sanchidrián;España;11;17/09/1999
+Extremo derecho;Miguel Berlanga;España;17;10/10/2000
+Extremo derecho;Iván Fernández;España;7;14/02/2000
+Delantero centro;Pau Palacín;España;20;22/04/2000
+Delantero centro;Kensly Vázquez;Haití;25;08/02/2003
+Delantero centro;Diego Gómez;España;9;13/06/1999
+Delantero centro;César Gómez;España;19;12/04/2000
+Portero;Diego García ;España;13;15/03/1995
+Portero;Alvin Abajas;España;1;12/05/2003
+Defensa central;Gorka Pérez;España;5;19/06/1995
+Defensa central;Luca Lohr;España;3;19/08/2002
+Defensa central;Eliseo Falcón;España;4;11/02/1997
+Defensa central;Pablo Moyá;España;2;16/02/2005
+Lateral izquierdo;Daniel Lasure;España;16;27/02/1994
+Lateral izquierdo;Diego Moreno;España;15;18/01/2002
+Lateral derecho;Alpha;España;19;18/03/2002
+Lateral derecho;Jordan Sánchez;España;22;05/01/1991
+Mediocentro;Dani González;España;8;29/01/2002
+Mediocentro;Álex López;España;21;02/06/1997
+Mediocentro;Álvaro Bastida;España;25;12/05/2004
+Mediocentro;Brais Val;España;6;01/06/2002
+Mediocentro;Adilson;Guinea-Bissau;14;10/03/1999
+Mediocentro ofensivo;Chuca;España;10;10/06/1997
+Extremo izquierdo;Bilal Kandoussi;España;23;17/02/2000
+Extremo izquierdo;David Ferreiro;España;7;01/04/1988
+Extremo izquierdo;Antonio Molina;España;17;21/06/2003
+Extremo derecho;Jaume Cuéllar;Bolivia;11;23/08/2001
+Extremo derecho;Babucarr Boye ;Gambia;-;06/01/2002
+Delantero centro;Víctor Mingo;España;18;25/07/2003
+Delantero centro;Nacho Ramón;España;9;30/03/1999
+Portero;Oier Gastesi;España;1;30/10/2003
+Portero;Anartz Peña;España;13;27/03/2001
+Portero;Sergio Aragoneses;España;25;09/10/2004
+Defensa central;Paul Álvarez;España;4;30/03/2000
+Defensa central;Christian Mutilva;España;19;23/10/2003
+Defensa central;Jon Sillero ;España;21;24/05/1998
+Defensa central;Santi Borikó;Guinea Ecuatorial;24;19/05/2003
+Lateral izquierdo;Pablo García;España;5;22/02/2001
+Lateral izquierdo;Eneko Zabaleta;España;20;03/01/1992
+Lateral izquierdo;Ander Sustatxa;España;23;14/11/2005
+Lateral izquierdo;Marcos Fernández;España;3;17/07/2003
+Lateral derecho;Jon Merino;España;6;03/03/2003
+Mediocentro;Tamir Glazer;Israel;14;30/05/2000
+Mediocentro;Mikel Zabala;España;8;02/07/2001
+Mediocentro;Adrián Verde;España;16;03/08/2002
+Mediocentro ofensivo;Alex Hidalgo;España;10;24/05/2001
+Extremo izquierdo;Ángel Troncho;España;11;02/10/2002
+Extremo izquierdo;Carlos Mattheus;España;22;25/10/2001
+Extremo derecho;Urko Collado;España;7;27/02/2001
+Extremo derecho;Sergio Navarro;España;17;16/02/2001
+Extremo derecho;Julen Lartitegi;España;12;29/09/2003
+Delantero centro;Txus Vizcay;España;2;05/08/2005
+Delantero centro;Álvaro Vázquez;España;9;27/04/1991
+Delantero centro;Mathieu Seyram;Benín;15;21/09/2006
+Delantero centro;Óscar Bazaga;España;27;24/08/2007
