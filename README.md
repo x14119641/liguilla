@@ -10,13 +10,13 @@ Como funciona:
 # Busca los equipos de la liga a traves del codigo y  por cada equipo extrae la data de los jugadores
 main(league="RU1")
 
-# Solo queremos los datos de un equipo si sabemos el codigo 
+# Solo queremos los datos de un equipo si sabemos el codigo (to csv)
 # (mejor si le añadimos como argumento extra el nombre del equipo, esto guardara el csv con el nombre en vez de la id)
-get_squad_by_id(131)
-get_squad_by_id(131, "barcelona")
+get_squad_by_id_to_csv(131)
+get_squad_by_id_to_csv(131, "barcelona")
 ```
 
-Los datos son guardados en `/exports/{codigo_liga}/{nombre_equipo}.csv`
+Los datos son guardados en `/exports/{codigo_liga}/{codigo_liga}.csv`
 Si el script es llamado para un equipo por id estara e `/exports/{codigo_o_nombre_equipo}.csv`
 
 # Las ligas (y sus codigos)
@@ -42,7 +42,7 @@ other_teams = [
         {"id": 62, "club": "sk_slavia_praga"},
         {"id": 501, "club": "fk_bodo_glimt"},
         {"id": 687, "club": "molde_fk"},
-        {"id": 1090, "club": "paok_de_salonica"},
+        {"id": 1091, "club": "paok_de_salonica"},
         {"id": 2441, "club": "aek_athenas"},
         {"id": 105461, "club": "olympiacos_fc"},
         {"id": 265, "club": "panathinaikos_fc"},
@@ -72,5 +72,24 @@ other_teams = [
         {"id": 10625, "club": "qarabag_fk"},
         {"id": 2481, "club": "fc_sheriff_tiraspol"},
         {"id": 22220, "club": "fc_astana"},
+    ]
+
+missing_teams = [
+        {"id": 41274, "club": "Beerschot VA", "league": "BE1"},
+        {"id": 601, "club": "KV Kortrijk", "league": "BE1"},
+        {"id": 1245, "club": "KAS Eupen", "league": "BE1"},
+        {"id": 54189, "club": "RWDM Brussels", "league": "BE1"},
+        {"id": 1053, "club": "Aalborg BK", "league": "DK1"},
+        {"id": 369, "club": "Lyngby Boldklub", "league": "DK1"},
+        {"id": 1124, "club": "Fakel Voronezh", "league": "RU1"},
+        {"id": 11127, "club": "Ural Ekaterimburgo", "league": "RU1"},
+        {"id": 2759, "club": "Ross County FC", "league": "SC1"},
+        {"id": 2578, "club": "St. Johnstone FC", "league": "SC1"},
+        {"id": 3840, "club": "Adana Demirspor", "league": "TR1"},
+        {"id": 44006, "club": "Bodrum FK", "league": "TR1"},
+        {"id": 7775, "club": "Hatayspor", "league": "TR1"},
+        {"id": 2381, "club": "Sivasspor", "league": "TR1"},
+        {"id": 924, "club": "Istanbulspor", "league": "TR1"},
+        {"id": 1090, "club": "AZ Alkmaar", "league": "NL1"},
     ]
 ```
