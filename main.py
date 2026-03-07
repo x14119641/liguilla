@@ -106,7 +106,7 @@ def get_players_info_to_list_of_dicts(data):
     return result
 
 
-def get_squad_by_id(team_id: int, team_name: str = None, league: str = None):
+def get_squad_by_id_to_csv(team_id: int, team_name: str = None, league: str = None):
     out_dir = Path("exports")
 
     if league:
@@ -128,19 +128,40 @@ def get_squad_by_id(team_id: int, team_name: str = None, league: str = None):
     print(f"Saved team {team_id}")
 
 
+
+def get_squad_by_id(team_id: int):
+    data = get_data_transfermarket(team_id)
+    result = get_players_info_to_list_of_dicts(data)
+    # for item in result:
+    #     print(item)
+
+    return result
+    
+    
 def main(league: str):
     if not league:
         print("Needs league 'str' to continue")
         return
 
+    out_dir = Path("exports")
+    out_dir = out_dir / league
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{league}.csv"
+    
     team_ids = get_team_ids_info_to_list_of_dicts(league)
 
+    all_data = []
     if team_ids:
         for team in team_ids:
-            get_squad_by_id(
-                team_id=team["team_id"], team_name=team["team"], league=league
+            data = get_squad_by_id(
+                team_id=team["team_id"]
             )
+            if data:
+                all_data.extend(data)
             sleep(3)
+    
+    df = pd.DataFrame(data=all_data, columns=["pos", "name", "pais", "num", "edad"])
+    df.to_csv(out_path, sep=";", index=False, encoding="utf-8-sig")
 
 
 def run_other_teams():
@@ -151,7 +172,7 @@ def run_other_teams():
         {"id": 62, "club": "sk_slavia_praga"},
         {"id": 501, "club": "fk_bodo_glimt"},
         {"id": 687, "club": "molde_fk"},
-        {"id": 1090, "club": "paok_de_salonica"},
+        {"id": 1091, "club": "paok_de_salonica"},
         {"id": 2441, "club": "aek_athenas"},
         {"id": 105461, "club": "olympiacos_fc"},
         {"id": 265, "club": "panathinaikos_fc"},
@@ -183,14 +204,14 @@ def run_other_teams():
         {"id": 22220, "club": "fc_astana"},
     ]
     for team in other_teams:
-        get_squad_by_id(team["id"], team["club"])
+        get_squad_by_id_to_csv(team["id"], team["club"])
         sleep(5)
     print("other teams finished")
 
 
 
 def run_missing_teams():
-    other_teams = [
+    missing_teams = [
         {"id": 41274, "club": "Beerschot VA", "league": "BE1"},
         {"id": 601, "club": "KV Kortrijk", "league": "BE1"},
         {"id": 1245, "club": "KAS Eupen", "league": "BE1"},
@@ -208,8 +229,8 @@ def run_missing_teams():
         {"id": 924, "club": "Istanbulspor", "league": "TR1"},
         {"id": 1090, "club": "AZ Alkmaar", "league": "NL1"},
     ]
-    for team in other_teams:
-        get_squad_by_id(team["id"], team["club"], league=team["league"])
+    for team in missing_teams:
+        get_squad_by_id_to_csv(team["id"], team["club"], league=team["league"])
         sleep(5)
     print("missing teams finished")
     
@@ -228,13 +249,17 @@ if __name__ == "__main__":
         # Rusia = "RU1"
         # Italia = "IT1"
         
-        # main(league="IT1")
+        # Segunda española = "ES2"
+        # Grupo 1 RFEF = "E3G1"
+        # Grupo 1 RFEF = "E3G2"
+        
+        main(league="E3G2")
         
         # run_other_teams()
-        run_missing_teams()
+        # run_missing_teams()
 
-        #  One team if i know the id
+        #  One team if i know the id (to csv)
         # get_squad_by_id(738)
-        # get_squad_by_id(265, "panathinaikos")
+        # get_squad_by_id_to_csv(1091, "paok_de_salonica")
     except Exception as e:
         print(str(e))
