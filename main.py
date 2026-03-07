@@ -1,4 +1,5 @@
 import requests
+import re
 import pandas as pd
 from lxml import html
 from typing import List
@@ -32,19 +33,24 @@ def get_team_ids_info_to_list_of_dicts(competition_id) -> List[dict[str, str]]:
     data = get_team_page_transfermarkt(competition_id)
     result = []
     tree = html.fromstring(data)
-    hrefs = tree.xpath(
-        '//td[contains(@class,"hauptlink")]/a[contains(@href,"/verein/")]/@href'
-    )
+    hrefs = tree.xpath('//td[contains(@class,"hauptlink")]/a[contains(@href,"/verein/")]/@href')
+
     for href in hrefs:
         # print(href)
         # example: /fc-augsburg/startseite/verein/167/saison_id/2025
-        result.append(
-            {
-                "team_id": href.split("/")[4],
-                "team": href.split("/")[1].replace("1-", "").replace("-", "_"),
-            }
-        )
-    # print(result)
+        match = re.search(r"/([^/]+)/startseite/verein/(\d+)", href)
+        if not match:
+            print(f"Skipping malformed href: {href}")
+            continue
+
+        team_slug = match.group(1)
+        team_id = int(match.group(2))
+
+        result.append({
+            "team_id": team_id,
+            "team": team_slug.replace("1-", "").replace("-", "_"),
+        })
+    print(result)
     return result
 
 
@@ -63,8 +69,9 @@ def get_players_info_to_list_of_dicts(data):
     table = table[0]
 
     rows = table.xpath(".//tbody/tr[td]")
-
+    
     for row in rows:
+        # print(row)
         position = row.xpath(
             'normalize-space(.//td[contains(@class,"posrela")]//tr[last()]/td[1])'
         )
@@ -80,10 +87,9 @@ def get_players_info_to_list_of_dicts(data):
             'string((.//img[contains(@class,"flaggenrahmen")])[1]/@title)'
         )
 
-        age_cell = row.xpath(
-            ".//td[contains(@class,'zentriert')][contains(normalize-space(.),'/') and contains(normalize-space(.),'(')]/text()"
-        )[0]
-        age_date = age_cell.split("(")[0].strip()
+        # Hay gente que no tiene "edad"
+        age_nodes = row.xpath(".//td[contains(@class,'zentriert')][contains(normalize-space(.),'/') and contains(normalize-space(.),'(')]/text()")
+        age_date = age_nodes[0].split("(")[0].strip() if age_nodes else ""
 
         num = row.xpath('normalize-space(.//div[contains(@class,"rn_nummer")])')
 
@@ -141,40 +147,40 @@ def run_other_teams():
     other_teams = [
         {"id": 197, "club": "ac_sparta_praga"},
         {"id": 697, "club": "slovan_liberec"},
-        {"id": 667, "club": "viktoria_plzen"},
-        {"id": 266, "club": "sk_slavia_praga"},
-        {"id": 2619, "club": "fk_bodo_glimt"},
+        {"id": 941, "club": "viktoria_plzen"},
+        {"id": 62, "club": "sk_slavia_praga"},
+        {"id": 501, "club": "fk_bodo_glimt"},
         {"id": 687, "club": "molde_fk"},
-        {"id": 109, "club": "paok_de_salonica"},
-        {"id": 2432, "club": "aek_athenas"},
-        {"id": 683, "club": "olympiacos"},
-        {"id": 1458, "club": "panathinaikos"},
+        {"id": 1090, "club": "paok_de_salonica"},
+        {"id": 2441, "club": "aek_athenas"},
+        {"id": 105461, "club": "olympiacos_fc"},
+        {"id": 265, "club": "panathinaikos_fc"},
         {"id": 409, "club": "red_bull_salzburgo"},
-        {"id": 446, "club": "lask_linz"},
-        {"id": 33, "club": "sk_rapid_viena"},
-        {"id": 277, "club": "sk_sturm_graz"},
-        {"id": 257, "club": "jagiellonia_bialystok"},
-        {"id": 1041, "club": "lech_poznan"},
-        {"id": 338, "club": "legia_de_varsovia"},
-        {"id": 400, "club": "hapoel_beer_sheva"},
-        {"id": 1134, "club": "maccabi_haifa"},
-        {"id": 754, "club": "maccabi_tel_aviv"},
-        {"id": 3512, "club": "apoel_fc"},
-        {"id": 3662, "club": "omonia_nicosia"},
-        {"id": 433, "club": "djurgardens_if"},
+        {"id": 413, "club": "lask"},
+        {"id": 170, "club": "sk_rapid_viena"},
+        {"id": 122, "club": "sk_sturm_graz"},
+        {"id": 2300, "club": "jagiellonia_bialystok"},
+        {"id": 238, "club": "lech_poznan"},
+        {"id": 255, "club": "legia_de_varsovia"},
+        {"id": 2976, "club": "hapoel_beer_sheva"},
+        {"id": 1064, "club": "maccabi_haifa"},
+        {"id": 119, "club": "maccabi_tel_aviv"},
+        {"id": 2784, "club": "apoel_fc"},
+        {"id": 829, "club": "omonia_nicosia"},
+        {"id": 1044, "club": "djurgardens_if"},
         {"id": 496, "club": "malmoe_ff"},
         {"id": 419, "club": "gnk_dinamo_zagreb"},
         {"id": 159, "club": "estrella_roja_de_belgrado"},
-        {"id": 6990, "club": "zorya_lugansk"},
+        {"id": 10690, "club": "zorya_lugansk"},
         {"id": 660, "club": "shakhtar_donetsk"},
         {"id": 338, "club": "fc_dynamo_kyiv"},
         {"id": 279, "club": "ferencvaros_tc"},
         {"id": 301, "club": "fcsb"},
-        {"id": 1063, "club": "slovan_bratislava"},
-        {"id": 316, "club": "ludogorets_razgrad"},
-        {"id": 3737, "club": "qarabag_fk"},
-        {"id": 18544, "club": "fc_sheriff_tiraspol"},
-        {"id": 3783, "club": "fc_astana"},
+        {"id": 540, "club": "slovan_bratislava"},
+        {"id": 31614, "club": "ludogorets_razgrad"},
+        {"id": 10625, "club": "qarabag_fk"},
+        {"id": 2481, "club": "fc_sheriff_tiraspol"},
+        {"id": 22220, "club": "fc_astana"},
     ]
     for team in other_teams:
         get_squad_by_id(team["id"], team["club"])
@@ -194,10 +200,11 @@ if __name__ == "__main__":
         # Dinamarca = "DK1"
         # Suiza = "C1"
         # Rusia = "RU1"
-        main(league="RU1")
+        # main(league="RU1")
+        run_other_teams()
 
         #  One team if i know the id
         # get_squad_by_id(738)
-        # get_squad_by_id(131, "barcelona")
+        # get_squad_by_id(265, "panathinaikos")
     except Exception as e:
         print(str(e))
