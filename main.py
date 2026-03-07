@@ -22,8 +22,8 @@ def get_data_transfermarket(id: int, season: int = 2025) -> bytes:
     return r.content
 
 
-def get_team_page_transfermarkt(competition_id: str) -> bytes:
-    url = f"https://www.transfermarkt.es/-/startseite/wettbewerb/{competition_id}"
+def get_team_page_transfermarkt(competition_id: str, season_id:int=2025) -> bytes:
+    url = f"https://www.transfermarkt.es/-/startseite/wettbewerb/{competition_id}/plus/?saison_id={season_id}"
     r = requests.get(url, headers=DEFAULT_HEADERS, timeout=30, allow_redirects=True)
     r.raise_for_status()
     return r.content
@@ -188,6 +188,32 @@ def run_other_teams():
     print("other teams finished")
 
 
+
+def run_missing_teams():
+    other_teams = [
+        {"id": 41274, "club": "Beerschot VA", "league": "BE1"},
+        {"id": 601, "club": "KV Kortrijk", "league": "BE1"},
+        {"id": 1245, "club": "KAS Eupen", "league": "BE1"},
+        {"id": 54189, "club": "RWDM Brussels", "league": "BE1"},
+        {"id": 1053, "club": "Aalborg BK", "league": "DK1"},
+        {"id": 369, "club": "Lyngby Boldklub", "league": "DK1"},
+        {"id": 1124, "club": "Fakel Voronezh", "league": "RU1"},
+        {"id": 11127, "club": "Ural Ekaterimburgo", "league": "RU1"},
+        {"id": 2759, "club": "Ross County FC", "league": "SC1"},
+        {"id": 2578, "club": "St. Johnstone FC", "league": "SC1"},
+        {"id": 3840, "club": "Adana Demirspor", "league": "TR1"},
+        {"id": 44006, "club": "Bodrum FK", "league": "TR1"},
+        {"id": 7775, "club": "Hatayspor", "league": "TR1"},
+        {"id": 2381, "club": "Sivasspor", "league": "TR1"},
+        {"id": 924, "club": "Istanbulspor", "league": "TR1"},
+        {"id": 1090, "club": "AZ Alkmaar", "league": "NL1"},
+    ]
+    for team in other_teams:
+        get_squad_by_id(team["id"], team["club"], league=team["league"])
+        sleep(5)
+    print("missing teams finished")
+    
+    
 if __name__ == "__main__":
     try:
         # Bundesliga = "L1"
@@ -200,8 +226,12 @@ if __name__ == "__main__":
         # Dinamarca = "DK1"
         # Suiza = "C1"
         # Rusia = "RU1"
-        # main(league="RU1")
-        run_other_teams()
+        # Italia = "IT1"
+        
+        # main(league="IT1")
+        
+        # run_other_teams()
+        run_missing_teams()
 
         #  One team if i know the id
         # get_squad_by_id(738)
