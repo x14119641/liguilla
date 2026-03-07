@@ -174,7 +174,7 @@ def run_other_teams():
         {"id": 687, "club": "molde_fk"},
         {"id": 1091, "club": "paok_de_salonica"},
         {"id": 2441, "club": "aek_athenas"},
-        {"id": 105461, "club": "olympiacos_fc"},
+        {"id": 683, "club": "olympiacos_el_pireo"},
         {"id": 265, "club": "panathinaikos_fc"},
         {"id": 409, "club": "red_bull_salzburgo"},
         {"id": 413, "club": "lask"},
@@ -253,7 +253,7 @@ if __name__ == "__main__":
         # Grupo 1 RFEF = "E3G1"
         # Grupo 1 RFEF = "E3G2"
         
-        main(league="E3G2")
+        # main(league="E3G2")
         
         # run_other_teams()
         # run_missing_teams()
@@ -261,5 +261,7 @@ if __name__ == "__main__":
         #  One team if i know the id (to csv)
         # get_squad_by_id(738)
         # get_squad_by_id_to_csv(1091, "paok_de_salonica")
+        # {"id": 683, "club": "olympiacos_el_pireo"},
+        get_squad_by_id_to_csv(683, "olympiacos_el_pireo")
     except Exception as e:
         print(str(e))
