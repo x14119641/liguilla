@@ -1,0 +1,528 @@
+﻿pos;name;pais;num;edad
+Portero;Gianluigi Donnarumma;Italia;25;25/02/1999
+Portero;James Trafford;Inglaterra;1;10/10/2002
+Portero;Marcus Bettinelli;Inglaterra;13;24/05/1992
+Defensa central;Josko Gvardiol ;Croacia;24;23/01/2002
+Defensa central;Rúben Dias;Portugal;3;14/05/1997
+Defensa central;Marc Guéhi;Inglaterra;15;13/07/2000
+Defensa central;Abdukodir Khusanov;Uzbekistán;45;29/02/2004
+Defensa central;John Stones;Inglaterra;5;28/05/1994
+Defensa central;Nathan Aké;Países Bajos;6;18/02/1995
+Defensa central;Max Alleyne;Inglaterra;68;21/07/2005
+Lateral izquierdo;Rayan Aït-Nouri;Argelia;21;06/06/2001
+Lateral izquierdo;Nico O'Reilly;Inglaterra;33;21/03/2005
+Lateral derecho;Matheus Nunes;Portugal;27;27/08/1998
+Lateral derecho;Rico Lewis;Inglaterra;82;21/11/2004
+Pivote;Rodri;España;16;22/06/1996
+Pivote;Nico González;España;14;03/01/2002
+Mediocentro;Tijjani Reijnders;Países Bajos;4;29/07/1998
+Mediocentro;Mateo Kovacic ;Croacia;8;06/05/1994
+Mediocentro;Sverre Nypan;Noruega;41;19/12/2006
+Mediocentro ofensivo;Phil Foden;Inglaterra;47;28/05/2000
+Mediocentro ofensivo;Rayan Cherki;Francia;10;17/08/2003
+Mediocentro ofensivo;Bernardo Silva ;Portugal;20;10/08/1994
+Extremo izquierdo;Jérémy Doku;Bélgica;11;27/05/2002
+Extremo izquierdo;Savinho;Brasil;26;10/04/2004
+Extremo derecho;Antoine Semenyo;Ghana;42;07/01/2000
+Delantero centro;Erling Haaland;Noruega;9;21/07/2000
+Delantero centro;Omar Marmoush;Egipto;7;07/02/1999
+Portero;David Raya;España;1;15/09/1995
+Portero;Kepa Arrizabalaga;España;13;03/10/1994
+Defensa central;William Saliba ;Francia;2;24/03/2001
+Defensa central;Gabriel Magalhães;Brasil;6;19/12/1997
+Defensa central;Piero Hincapié;Ecuador;5;09/01/2002
+Defensa central;Cristhian Mosquera;España;3;27/06/2004
+Lateral izquierdo;Riccardo Calafiori;Italia;33;19/05/2002
+Lateral izquierdo;Myles Lewis-Skelly;Inglaterra;49;26/09/2006
+Lateral derecho;Jurriën Timber;Países Bajos;12;17/06/2001
+Lateral derecho;Ben White;Inglaterra;4;08/10/1997
+Pivote;Martín Zubimendi;España;36;02/02/1999
+Pivote;Christian Nørgaard;Dinamarca;16;10/03/1994
+Mediocentro;Declan Rice;Inglaterra;41;14/01/1999
+Mediocentro;Mikel Merino ;España;23;22/06/1996
+Mediocentro ofensivo;Martin Ødegaard  ;Noruega;8;17/12/1998
+Mediocentro ofensivo;Eberechi Eze;Inglaterra;10;29/06/1998
+Extremo izquierdo;Gabriel Martinelli;Brasil;11;18/06/2001
+Extremo izquierdo;Leandro Trossard;Bélgica;19;04/12/1994
+Extremo derecho;Bukayo Saka;Inglaterra;7;05/09/2001
+Extremo derecho;Noni Madueke;Inglaterra;20;10/03/2002
+Extremo derecho;Max Dowman;Inglaterra;56;31/12/2009
+Delantero centro;Viktor Gyökeres;Suecia;14;04/06/1998
+Delantero centro;Kai Havertz;Alemania;29;11/06/1999
+Delantero centro;Gabriel Jesus;Brasil;9;03/04/1997
+Portero;Robert Sánchez;España;1;18/11/1997
+Portero;Filip Jørgensen;Dinamarca;12;16/04/2002
+Portero;Gabriel Slonina;Estados Unidos;44;15/05/2004
+Portero;Teddy Sharman-Lowe;Inglaterra;28;30/03/2003
+Defensa central;Levi Colwill ;Inglaterra;6;26/02/2003
+Defensa central;Trevoh Chalobah;Inglaterra;23;05/07/1999
+Defensa central;Wesley Fofana;Francia;29;17/12/2000
+Defensa central;Mamadou Sarr;Senegal;19;29/08/2005
+Defensa central;Tosin Adarabioyo;Inglaterra;4;24/09/1997
+Defensa central;Benoît Badiashile;Francia;5;26/03/2001
+Lateral izquierdo;Marc Cucurella;España;3;22/07/1998
+Lateral izquierdo;Jorrel Hato;Países Bajos;21;07/03/2006
+Lateral izquierdo;Caleb Wiley  ;Estados Unidos;-;22/12/2004
+Lateral derecho;Reece James ;Inglaterra;24;08/12/1999
+Lateral derecho;Malo Gusto;Francia;27;19/05/2003
+Lateral derecho;Josh Acheampong;Inglaterra;34;05/05/2006
+Pivote;Moisés Caicedo;Ecuador;25;02/11/2001
+Pivote;Roméo Lavia;Bélgica;45;06/01/2004
+Pivote;Dário Essugo;Portugal;14;14/03/2005
+Mediocentro;Enzo Fernández;Argentina;8;17/01/2001
+Mediocentro;Andrey Santos;Brasil;17;03/05/2004
+Mediocentro ofensivo;Cole Palmer;Inglaterra;10;06/05/2002
+Extremo izquierdo;Alejandro Garnacho;Argentina;49;01/07/2004
+Extremo izquierdo;Jamie Gittens ;Inglaterra;11;08/08/2004
+Extremo izquierdo;Mykhaylo Mudryk;Ucrania;-;05/01/2001
+Extremo derecho;Estêvão ;Brasil;41;24/04/2007
+Extremo derecho;Pedro Neto;Portugal;7;09/03/2000
+Delantero centro;João Pedro;Brasil;20;26/09/2001
+Delantero centro;Liam Delap;Inglaterra;9;08/02/2003
+Delantero centro;Marc Guiu;España;38;04/01/2006
+Portero;Giorgi Mamardashvili;Georgia;25;29/09/2000
+Portero;Alisson;Brasil;1;02/10/1992
+Portero;Freddie Woodman;Inglaterra;28;04/03/1997
+Portero;Harvey Davies;Inglaterra;95;03/09/2003
+Defensa central;Ibrahima Konaté;Francia;5;25/05/1999
+Defensa central;Giovanni Leoni  ;Italia;15;21/12/2006
+Defensa central;Virgil van Dijk ;Países Bajos;4;08/07/1991
+Defensa central;Joe Gomez;Inglaterra;2;23/05/1997
+Defensa central;Rhys Williams;Inglaterra;46;03/02/2001
+Lateral izquierdo;Milos Kerkez;Hungría;6;07/11/2003
+Lateral izquierdo;Andrew Robertson;Escocia;26;11/03/1994
+Lateral derecho;Jeremie Frimpong;Países Bajos;30;10/12/2000
+Lateral derecho;Conor Bradley ;Irlanda del Norte;12;09/07/2003
+Lateral derecho;Calvin Ramsay;Escocia;47;31/07/2003
+Pivote;Ryan Gravenberch;Países Bajos;38;16/05/2002
+Pivote;Stefan Bajcetic  ;España;43;22/10/2004
+Pivote;Wataru Endo ;Japón;3;09/02/1993
+Mediocentro;Alexis Mac Allister;Argentina;10;24/12/1998
+Mediocentro;Curtis Jones;Inglaterra;17;30/01/2001
+Mediocentro;Trey Nyoni;Inglaterra;42;30/06/2007
+Mediocentro ofensivo;Florian Wirtz;Alemania;7;03/05/2003
+Mediocentro ofensivo;Dominik Szoboszlai;Hungría;8;25/10/2000
+Extremo izquierdo;Cody Gakpo;Países Bajos;18;07/05/1999
+Extremo izquierdo;Rio Ngumoha;Inglaterra;73;29/08/2008
+Extremo derecho;Mohamed Salah;Egipto;11;15/06/1992
+Extremo derecho;Federico Chiesa;Italia;14;25/10/1997
+Delantero centro;Alexander Isak ;Suecia;9;21/09/1999
+Delantero centro;Hugo Ekitiké;Francia;22;20/06/2002
+Portero;Guglielmo Vicario;Italia;1;07/10/1996
+Portero;Antonín Kinský;República Checa;31;13/03/2003
+Portero;Brandon Austin;Inglaterra;40;08/01/1999
+Defensa central;Micky van de Ven;Países Bajos;37;19/04/2001
+Defensa central;Cristian Romero ;Argentina;17;27/04/1998
+Defensa central;Radu Drăgușin ;Rumania;3;03/02/2002
+Defensa central;Kevin Danso;Austria;4;19/09/1998
+Defensa central;Ben Davies ;Gales;33;24/04/1993
+Lateral izquierdo;Destiny Udogie ;Italia;13;28/11/2002
+Lateral izquierdo;Djed Spence;Inglaterra;24;09/08/2000
+Lateral izquierdo;Souza;Brasil;38;16/06/2006
+Lateral derecho;Pedro Porro;España;23;13/09/1999
+Pivote;Rodrigo Bentancur  ;Uruguay;30;25/06/1997
+Pivote;João Palhinha;Portugal;6;09/07/1995
+Pivote;Yves Bissouma;Malí;8;30/08/1996
+Mediocentro;Lucas Bergvall ;Suecia;15;02/02/2006
+Mediocentro;Archie Gray;Inglaterra;14;12/03/2006
+Mediocentro;Conor Gallagher;Inglaterra;22;06/02/2000
+Mediocentro;Pape Matar Sarr;Senegal;29;14/09/2002
+Mediocentro ofensivo;Xavi Simons;Países Bajos;7;21/04/2003
+Mediocentro ofensivo;Dejan Kulusevski  ;Suecia;21;25/04/2000
+Mediocentro ofensivo;James Maddison  ;Inglaterra;10;23/11/1996
+Extremo izquierdo;Wilson Odobert ;Francia;28;28/11/2004
+Extremo derecho;Mohammed Kudus ;Ghana;20;02/08/2000
+Delantero centro;Dominic Solanke;Inglaterra;19;14/09/1997
+Delantero centro;Mathys Tel;Francia;11;27/04/2005
+Delantero centro;Richarlison;Brasil;9;10/05/1997
+Delantero centro;Randal Kolo Muani;Francia;39;05/12/1998
+Portero;Senne Lammens;Bélgica;31;07/07/2002
+Portero;Altay Bayındır;Turquía;1;14/04/1998
+Portero;Tom Heaton;Inglaterra;22;15/04/1986
+Defensa central;Leny Yoro;Francia;15;13/11/2005
+Defensa central;Matthijs de Ligt ;Países Bajos;4;12/08/1999
+Defensa central;Lisandro Martínez ;Argentina;6;18/01/1998
+Defensa central;Harry Maguire;Inglaterra;5;05/03/1993
+Defensa central;Ayden Heaven;Inglaterra;26;22/09/2006
+Defensa central;Tyler Fredricson;Inglaterra;33;23/02/2005
+Lateral izquierdo;Patrick Dorgu ;Dinamarca;13;26/10/2004
+Lateral izquierdo;Luke Shaw;Inglaterra;23;12/07/1995
+Lateral izquierdo;Tyrell Malacia;Países Bajos;12;17/08/1999
+Lateral izquierdo;Diego León;Paraguay;35;03/04/2007
+Lateral derecho;Diogo Dalot;Portugal;2;18/03/1999
+Lateral derecho;Noussair Mazraoui;Marruecos;3;14/11/1997
+Pivote;Manuel Ugarte;Uruguay;25;11/04/2001
+Pivote;Casemiro;Brasil;18;23/02/1992
+Mediocentro;Kobbie Mainoo;Inglaterra;37;19/04/2005
+Mediocentro ofensivo;Bruno Fernandes ;Portugal;8;08/09/1994
+Mediocentro ofensivo;Mason Mount ;Inglaterra;7;10/01/1999
+Extremo derecho;Bryan Mbeumo;Camerún;19;07/08/1999
+Extremo derecho;Amad Diallo;Costa de Marfil;16;11/07/2002
+Delantero centro;Matheus Cunha;Brasil;10;27/05/1999
+Delantero centro;Benjamin Sesko;Eslovenia;30;31/05/2003
+Delantero centro;Joshua Zirkzee;Países Bajos;11;22/05/2001
+Delantero centro;Chido Obi;Dinamarca;32;29/11/2007
+Portero;Aaron Ramsdale;Inglaterra;32;14/05/1998
+Portero;Nick Pope;Inglaterra;1;19/04/1992
+Portero;Mark Gillespie;Inglaterra;29;27/03/1992
+Portero;John Ruddy;Inglaterra;26;24/10/1986
+Defensa central;Malick Thiaw;Alemania;12;08/08/2001
+Defensa central;Sven Botman;Países Bajos;4;12/01/2000
+Defensa central;Fabian Schär ;Suiza;5;20/12/1991
+Defensa central;Dan Burn;Inglaterra;33;09/05/1992
+Lateral izquierdo;Lewis Hall;Inglaterra;3;08/09/2004
+Lateral izquierdo;Alex Murphy;Irlanda;37;25/06/2004
+Lateral derecho;Tino Livramento ;Inglaterra;21;12/11/2002
+Lateral derecho;Kieran Trippier;Inglaterra;2;19/09/1990
+Lateral derecho;Emil Krafth ;Suecia;17;02/08/1994
+Pivote;Sandro Tonali;Italia;8;08/05/2000
+Mediocentro;Bruno Guimarães ;Brasil;39;16/11/1997
+Mediocentro;Jacob Ramsey;Inglaterra;41;28/05/2001
+Mediocentro;Joelinton;Brasil;7;14/08/1996
+Mediocentro;Lewis Miley ;Inglaterra;67;01/05/2006
+Mediocentro;Joe Willock;Inglaterra;28;20/08/1999
+Extremo izquierdo;Anthony Gordon;Inglaterra;10;24/02/2001
+Extremo izquierdo;Harvey Barnes;Inglaterra;11;09/12/1997
+Extremo derecho;Anthony Elanga;Suecia;20;27/04/2002
+Extremo derecho;Jacob Murphy;Inglaterra;23;24/02/1995
+Delantero centro;Nick Woltemade ;Alemania;27;14/02/2002
+Delantero centro;Yoane Wissa;RD del Congo;9;03/09/1996
+Delantero centro;William Osula;Dinamarca;18;04/08/2003
+Portero;John Victor ;Brasil;13;13/02/1996
+Portero;Matz Sels;Bélgica;26;26/02/1992
+Portero;Stefan Ortega ;Alemania;27;06/11/1992
+Portero;Angus Gunn;Escocia;18;22/01/1996
+Defensa central;Murillo;Brasil;5;04/07/2002
+Defensa central;Nikola Milenković;Serbia;31;12/10/1997
+Defensa central;Morato;Brasil;4;30/06/2001
+Defensa central;Jair Cunha;Brasil;23;07/03/2005
+Defensa central;Willy Boly ;Costa de Marfil;30;03/02/1991
+Defensa central;Zach Abbott;Inglaterra;44;13/05/2006
+Lateral izquierdo;Neco Williams;Gales;3;13/04/2001
+Lateral izquierdo;Luca Netz;Alemania;25;15/05/2003
+Lateral derecho;Ola Aina;Nigeria;34;08/10/1996
+Lateral derecho;Nicolò Savona ;Italia;37;19/03/2003
+Lateral derecho;Eric da Silva Moreira;Alemania;17;03/05/2006
+Pivote;Ibrahim Sangaré;Costa de Marfil;6;02/12/1997
+Mediocentro;Elliot Anderson;Inglaterra;8;06/11/2002
+Mediocentro;Nicolás Domínguez;Argentina;16;28/06/1998
+Mediocentro;Ryan Yates ;Inglaterra;22;21/11/1997
+Mediocentro ofensivo;Morgan Gibbs-White;Inglaterra;10;27/01/2000
+Mediocentro ofensivo;Omari Hutchinson;Inglaterra;21;30/10/2003
+Mediocentro ofensivo;James McAtee;Inglaterra;24;18/10/2002
+Extremo izquierdo;Callum Hudson-Odoi;Inglaterra;7;07/11/2000
+Extremo derecho;Dan Ndoye;Suiza;14;25/10/2000
+Extremo derecho;Dilane Bakwa;Francia;29;26/08/2002
+Delantero centro;Lorenzo Lucca;Italia;20;10/09/2000
+Delantero centro;Igor Jesus;Brasil;19;25/02/2001
+Delantero centro;Taiwo Awoniyi;Nigeria;9;12/08/1997
+Delantero centro;Chris Wood ;Nueva Zelanda;11;07/12/1991
+Portero;Dean Henderson ;Inglaterra;1;12/03/1997
+Portero;Walter Benítez;Argentina;44;19/01/1993
+Portero;Remi Matthews;Inglaterra;31;10/02/1994
+Defensa central;Maxence Lacroix;Francia;5;06/04/2000
+Defensa central;Chris Richards;Estados Unidos;26;28/03/2000
+Defensa central;Jaydee Canvot;Francia;23;29/07/2006
+Defensa central;Chadi Riad;Marruecos;34;17/06/2003
+Lateral izquierdo;Tyrick Mitchell;Inglaterra;3;01/09/1999
+Lateral izquierdo;Borna Sosa;Croacia;24;21/01/1998
+Lateral izquierdo;Rio Cardines ;Trinidad y Tobago;59;01/07/2006
+Lateral derecho;Daniel Muñoz;Colombia;2;26/05/1996
+Lateral derecho;Caleb Kporha ;Inglaterra;58;15/07/2006
+Lateral derecho;Nathaniel Clyne;Inglaterra;17;05/04/1991
+Pivote;Adam Wharton;Inglaterra;20;06/02/2004
+Pivote;Cheick Doucouré ;Malí;28;08/01/2000
+Pivote;Jefferson Lerma;Colombia;8;25/10/1994
+Pivote;Kaden Rodney;Inglaterra;42;07/10/2004
+Mediocentro;Will Hughes;Inglaterra;19;17/04/1995
+Mediocentro ofensivo;Daichi Kamada;Japón;18;05/08/1996
+Mediocentro ofensivo;Justin Devenny;Irlanda del Norte;55;11/10/2003
+Extremo derecho;Ismaïla Sarr;Senegal;7;25/02/1998
+Extremo derecho;Yéremy Pino;España;10;20/10/2002
+Extremo derecho;Brennan Johnson;Gales;11;23/05/2001
+Extremo derecho;Evann Guessand;Costa de Marfil;29;01/07/2001
+Delantero centro;Jean-Philippe Mateta ;Francia;14;28/06/1997
+Delantero centro;Jørgen Strand Larsen;Noruega;22;06/02/2000
+Delantero centro;Eddie Nketiah ;Inglaterra;9;30/05/1999
+Delantero centro;Christantus Uche;Nigeria;12;19/05/2003
+Portero;Emiliano Martínez;Argentina;23;02/09/1992
+Portero;Marco Bizot;Países Bajos;40;10/03/1991
+Defensa central;Ezri Konsa;Inglaterra;4;23/10/1997
+Defensa central;Pau Torres;España;14;16/01/1997
+Defensa central;Victor Lindelöf;Suecia;3;17/07/1994
+Defensa central;Tyrone Mings;Inglaterra;5;13/03/1993
+Lateral izquierdo;Ian Maatsen;Países Bajos;22;10/03/2002
+Lateral izquierdo;Lucas Digne;Francia;12;20/07/1993
+Lateral derecho;Matty Cash;Polonia;2;07/08/1997
+Lateral derecho;Andrés García;España;16;07/02/2003
+Pivote;Amadou Onana;Bélgica;24;16/08/2001
+Pivote;Boubacar Kamara ;Francia;44;23/11/1999
+Pivote;Lamare Bogarde;Países Bajos;26;05/01/2004
+Mediocentro;Youri Tielemans ;Bélgica;8;07/05/1997
+Mediocentro;Douglas Luiz;Brasil;21;09/05/1998
+Mediocentro;John McGinn ;Escocia;7;18/10/1994
+Mediocentro;Ross Barkley;Inglaterra;6;05/12/1993
+Mediocentro ofensivo;Morgan Rogers;Inglaterra;27;26/07/2002
+Mediocentro ofensivo;Harvey Elliott ;Inglaterra;9;04/04/2003
+Mediocentro ofensivo;Emiliano Buendía;Argentina;10;25/12/1996
+Extremo izquierdo;Jadon Sancho;Inglaterra;19;25/03/2000
+Extremo derecho;Leon Bailey;Jamaica;31;09/08/1997
+Extremo derecho;Alysson;Brasil;47;05/05/2006
+Delantero centro;Ollie Watkins;Inglaterra;11;30/12/1995
+Delantero centro;Tammy Abraham;Inglaterra;18;02/10/1997
+Portero;Bart Verbruggen;Países Bajos;1;18/08/2002
+Portero;Jason Steele;Inglaterra;23;18/08/1990
+Portero;Tom McGill;Canadá;38;25/03/2000
+Defensa central;Jan Paul van Hecke;Países Bajos;6;08/06/2000
+Defensa central;Olivier Boscagli;Francia;21;18/11/1997
+Defensa central;Igor Julio;Brasil;3;07/02/1998
+Defensa central;Adam Webster ;Inglaterra;4;04/01/1995
+Defensa central;Lewis Dunk  ;Inglaterra;5;21/11/1991
+Lateral izquierdo;Ferdi Kadıoğlu;Turquía;24;07/10/1999
+Lateral izquierdo;Maxim De Cuyper;Bélgica;29;22/12/2000
+Lateral derecho;Joël Veltman;Países Bajos;34;15/01/1992
+Pivote;Carlos Baleba;Camerún;17;03/01/2004
+Pivote;Mats Wieffer;Países Bajos;27;16/11/1999
+Pivote;Jack Hinshelwood;Inglaterra;13;11/04/2005
+Mediocentro;Yasin Ayari;Suecia;26;06/10/2003
+Mediocentro;Diego Gómez;Paraguay;25;27/03/2003
+Mediocentro;Matt O'Riley;Dinamarca;33;21/11/2000
+Mediocentro;Pascal Groß;Alemania;30;15/06/1991
+Mediocentro;James Milner;Inglaterra;20;04/01/1986
+Extremo izquierdo;Kaoru Mitoma;Japón;22;20/05/1997
+Extremo derecho;Yankuba Minteh;Gambia;11;22/07/2004
+Extremo derecho;Solly March;Inglaterra;7;20/07/1994
+Delantero centro;Georginio Rutter;Francia;10;20/04/2002
+Delantero centro;Charalampos Kostoulas;Grecia;19;30/05/2007
+Delantero centro;Stefanos Tzimas ;Grecia;9;06/01/2006
+Delantero centro;Danny Welbeck;Inglaterra;18;26/11/1990
+Portero;Djordje Petrovic;Serbia;1;08/10/1999
+Portero;Christos Mandas;Grecia;29;17/09/2001
+Portero;Fraser Forster;Inglaterra;17;17/03/1988
+Defensa central;Bafodé Diakité;Francia;18;06/01/2001
+Defensa central;Marcos Senesi;Argentina;5;10/05/1997
+Defensa central;Veljko Milosavljevic;Serbia;44;28/06/2007
+Defensa central;James Hill;Inglaterra;23;10/01/2002
+Defensa central;Matai Akinmboni ;Estados Unidos;45;17/10/2006
+Lateral izquierdo;Adrien Truffert;Francia;3;20/11/2001
+Lateral izquierdo;Julio Soler ;Argentina;6;16/02/2005
+Lateral derecho;Álex Jiménez;España;20;08/05/2005
+Lateral derecho;Adam Smith ;Inglaterra;15;29/04/1991
+Pivote;Tyler Adams;Estados Unidos;12;14/02/1999
+Mediocentro;Alex Scott;Inglaterra;8;21/08/2003
+Mediocentro;Lewis Cook ;Inglaterra;4;03/02/1997
+Mediocentro;Ryan Christie;Escocia;10;22/02/1995
+Mediocentro;Alex Tóth;Hungría;27;23/10/2005
+Mediocentro ofensivo;Justin Kluivert ;Países Bajos;19;05/05/1999
+Mediocentro ofensivo;Marcus Tavernier;Inglaterra;16;22/03/1999
+Extremo izquierdo;Amine Adli;Marruecos;21;10/05/2000
+Extremo derecho;Ben Gannon-Doak;Escocia;11;11/11/2005
+Extremo derecho;David Brooks;Gales;7;08/07/1997
+Delantero centro;Evanilson;Brasil;9;06/10/1999
+Delantero centro;Rayan;Brasil;37;03/08/2006
+Delantero centro;Junior Kroupi;Francia;22;23/06/2006
+Delantero centro;Enes Ünal;Turquía;26;10/05/1997
+Portero;Caoimhín Kelleher;Irlanda;1;23/11/1998
+Portero;Hákon Valdimarsson;Islandia;12;13/10/2001
+Portero;Ellery Balcombe;Inglaterra;31;15/10/1999
+Portero;Julian Eyestone;Estados Unidos;41;21/04/2006
+Defensa central;Nathan Collins ;Irlanda;22;30/04/2001
+Defensa central;Sepp van den Berg;Países Bajos;4;20/12/2001
+Defensa central;Kristoffer Ajer;Noruega;20;17/04/1998
+Defensa central;Ethan Pinnock;Jamaica;5;29/05/1993
+Lateral izquierdo;Rico Henry;Jamaica;3;08/07/1997
+Lateral derecho;Michael Kayode;Italia;33;10/07/2004
+Lateral derecho;Aaron Hickey ;Escocia;2;10/06/2002
+Pivote;Vitaly Janelt ;Alemania;27;10/05/1998
+Pivote;Jordan Henderson;Inglaterra;6;17/06/1990
+Mediocentro;Yegor Yarmolyuk;Ucrania;18;01/03/2004
+Mediocentro;Mathias Jensen;Dinamarca;8;01/01/1996
+Mediocentro;Josh Dasilva ;Inglaterra;10;23/10/1998
+Interior izquierdo;Keane Lewis-Potter;Inglaterra;23;22/02/2001
+Mediocentro ofensivo;Mikkel Damsgaard;Dinamarca;24;03/07/2000
+Mediocentro ofensivo;Antoni Milambo ;Países Bajos;17;03/04/2005
+Mediocentro ofensivo;Fábio Carvalho ;Portugal;14;30/08/2002
+Extremo izquierdo;Kevin Schade;Alemania;7;27/11/2001
+Extremo izquierdo;Reiss Nelson ;Inglaterra;11;10/12/1999
+Extremo derecho;Dango Ouattara;Burkina Faso;19;11/02/2002
+Extremo derecho;Romelle Donovan;Inglaterra;45;30/11/2006
+Delantero centro;Igor Thiago;Brasil;9;26/06/2001
+Delantero centro;Kaye Furo;Bélgica;47;06/02/2007
+Portero;Jordan Pickford;Inglaterra;1;07/03/1994
+Portero;Mark Travers;Irlanda;12;18/05/1999
+Portero;Tom King;Gales;31;09/03/1995
+Defensa central;Jarrad Branthwaite;Inglaterra;32;27/06/2002
+Defensa central;James Tarkowski;Inglaterra;6;19/11/1992
+Defensa central;Michael Keane;Inglaterra;5;11/01/1993
+Lateral izquierdo;Vitaliy Mykolenko;Ucrania;16;29/05/1999
+Lateral izquierdo;Adam Aznou;Marruecos;39;02/06/2006
+Lateral derecho;Jake O'Brien;Irlanda;15;15/05/2001
+Lateral derecho;Nathan Patterson;Escocia;2;16/10/2001
+Lateral derecho;Séamus Coleman ;Irlanda;23;11/10/1988
+Pivote;James Garner;Inglaterra;37;13/03/2001
+Pivote;Idrissa Gueye;Senegal;27;26/09/1989
+Mediocentro;Kiernan Dewsbury-Hall;Inglaterra;22;06/09/1998
+Mediocentro;Carlos Alcaraz ;Argentina;24;30/11/2002
+Mediocentro;Tim Iroegbunam;Inglaterra;42;30/06/2003
+Mediocentro;Harrison Armstrong;Inglaterra;45;19/01/2007
+Mediocentro ofensivo;Merlin Röhl;Alemania;34;05/07/2002
+Extremo izquierdo;Jack Grealish ;Inglaterra;18;10/09/1995
+Extremo izquierdo;Tyrique George;Inglaterra;19;04/02/2006
+Extremo izquierdo;Dwight McNeil;Inglaterra;7;22/11/1999
+Extremo derecho;Iliman Ndiaye;Senegal;10;06/03/2000
+Extremo derecho;Tyler Dibling;Inglaterra;20;17/02/2006
+Delantero centro;Thierno Barry;Francia;11;21/10/2002
+Delantero centro;Beto;Guinea-Bissau;9;31/01/1998
+Portero;Bernd Leno;Alemania;1;04/03/1992
+Portero;Benjamin Lecomte;Francia;23;26/04/1991
+Defensa central;Calvin Bassey;Nigeria;3;31/12/1999
+Defensa central;Joachim Andersen;Dinamarca;5;31/05/1996
+Defensa central;Issa Diop;Francia;31;09/01/1997
+Defensa central;Jorge Cuenca;España;15;17/11/1999
+Lateral izquierdo;Antonee Robinson;Estados Unidos;33;08/08/1997
+Lateral izquierdo;Ryan Sessegnon;Inglaterra;30;18/05/2000
+Lateral derecho;Kenny Tete;Países Bajos;2;09/10/1995
+Lateral derecho;Timothy Castagne;Bélgica;21;05/12/1995
+Pivote;Sander Berge;Noruega;16;14/02/1998
+Mediocentro;Saša Lukić;Serbia;20;13/08/1996
+Mediocentro;Harrison Reed;Inglaterra;6;27/01/1995
+Mediocentro;Tom Cairney ;Escocia;10;20/01/1991
+Mediocentro ofensivo;Emile Smith Rowe;Inglaterra;32;28/07/2000
+Mediocentro ofensivo;Josh King;Inglaterra;24;03/01/2007
+Extremo izquierdo;Kevin ;Brasil;22;04/01/2003
+Extremo izquierdo;Alex Iwobi;Nigeria;17;03/05/1996
+Extremo derecho;Oscar Bobb;Noruega;14;12/07/2003
+Extremo derecho;Harry Wilson ;Gales;8;22/03/1997
+Extremo derecho;Samuel Chukwueze;Nigeria;19;22/05/1999
+Delantero centro;Rodrigo Muniz;Brasil;9;04/05/2001
+Delantero centro;Raúl Jiménez;México;7;05/05/1991
+Delantero centro;Jonah Kusi-Asare;Suecia;18;04/07/2007
+Portero;Mads Hermansen;Dinamarca;1;11/07/2000
+Portero;Alphonse Areola;Francia;23;27/02/1993
+Portero;Lukasz Fabianski ;Polonia;22;18/04/1985
+Defensa central;Jean-Clair Todibo;Francia;25;30/12/1999
+Defensa central;Maximilian Kilman;Inglaterra;3;23/05/1997
+Defensa central;Axel Disasi;Francia;4;11/03/1998
+Defensa central;Konstantinos Mavropanos;Grecia;15;11/12/1997
+Defensa central;Ezra Mayers;Inglaterra;63;16/01/2007
+Lateral izquierdo;El Hadji Malick Diouf;Senegal;12;28/12/2004
+Lateral izquierdo;Oliver Scarles;Inglaterra;30;12/12/2005
+Lateral derecho;Aaron Wan-Bissaka;RD del Congo;29;26/11/1997
+Lateral derecho;Kyle Walker-Peters;Inglaterra;2;13/04/1997
+Pivote;Soungoutou Magassa;Francia;27;08/10/2003
+Pivote;Tomáš Souček;República Checa;28;27/02/1995
+Pivote;Freddie Potts;Inglaterra;32;12/09/2003
+Mediocentro;Mateus Fernandes;Portugal;18;10/07/2004
+Extremo izquierdo;Crysencio Summerville;Países Bajos;7;30/10/2001
+Extremo izquierdo;Keiber Lamadrid;Venezuela;21;18/11/2003
+Extremo derecho;Jarrod Bowen ;Inglaterra;20;20/12/1996
+Extremo derecho;Adama Traoré;España;17;25/01/1996
+Delantero centro;Taty Castellanos;Argentina;11;03/10/1998
+Delantero centro;Callum Wilson;Inglaterra;9;27/02/1992
+Delantero centro;Pablo ;Brasil;19;02/01/2004
+Portero;Robin Roefs ;Países Bajos;22;17/01/2003
+Portero;Melker Ellborg;Suecia;31;22/05/2003
+Portero;Simon Moore;Inglaterra;21;19/05/1990
+Defensa central;Dan Ballard;Irlanda del Norte;5;22/09/1999
+Defensa central;Omar Alderete;Paraguay;15;26/12/1996
+Defensa central;Luke O'Nien;Inglaterra;13;21/11/1994
+Lateral izquierdo;Dennis Cirkin ;Inglaterra;3;06/04/2002
+Lateral izquierdo;Reinildo Mandava ;Mozambique;17;21/01/1994
+Lateral derecho;Lutsharel Geertruida;Países Bajos;6;18/07/2000
+Lateral derecho;Trai Hume;Irlanda del Norte;32;18/03/2002
+Lateral derecho;Nordi Mukiele ;Francia;20;01/11/1997
+Pivote;Granit Xhaka ;Suiza;34;27/09/1992
+Mediocentro;Habib Diarra;Senegal;19;03/01/2004
+Mediocentro;Noah Sadiki;RD del Congo;27;17/12/2004
+Mediocentro;Enzo Le Fée;Francia;28;03/02/2000
+Interior derecho;Abdoullah Ba;Francia;46;31/07/2003
+Mediocentro ofensivo;Chris Rigg;Inglaterra;11;18/06/2007
+Mediocentro ofensivo;Milan Aleksic;Serbia;30;30/08/2005
+Mediocentro ofensivo;Harrison Jones;Inglaterra;50;25/12/2004
+Extremo izquierdo;Nilson Angulo;Ecuador;10;19/06/2003
+Extremo izquierdo;Romaine Mundle ;Inglaterra;14;24/04/2003
+Extremo derecho;Chemsdine Talbi;Marruecos;7;09/05/2005
+Extremo derecho;Bertrand Traoré;Burkina Faso;25;06/09/1995
+Extremo derecho;Jocelin Ta Bi ;Costa de Marfil;37;09/02/2005
+Delantero centro;Brian Brobbey ;Países Bajos;9;01/02/2002
+Delantero centro;Eliezer Mayenda;España;12;08/05/2005
+Delantero centro;Wilson Isidor;Francia;18;27/08/2000
+Delantero centro;Ahmed Abdullahi;Nigeria;29;19/06/2004
+Portero;Lucas Perri;Brasil;1;10/12/1997
+Portero;Illan Meslier;Francia;16;02/03/2000
+Portero;Karl Darlow;Gales;26;08/10/1990
+Portero;Alex Cairns;Inglaterra;21;04/01/1993
+Defensa central;Pascal Struijk;Países Bajos;5;11/08/1999
+Defensa central;Jaka Bijol;Eslovenia;15;05/02/1999
+Defensa central;Joe Rodon;Gales;6;22/10/1997
+Defensa central;Sebastiaan Bornauw;Bélgica;23;22/03/1999
+Lateral izquierdo;Gabriel Gudmundsson;Suecia;3;29/04/1999
+Lateral izquierdo;Sam Byram;Inglaterra;25;16/09/1993
+Lateral derecho;James Justin;Inglaterra;24;23/02/1998
+Lateral derecho;Jayden Bogle;Inglaterra;2;27/07/2000
+Pivote;Ethan Ampadu ;Gales;4;14/09/2000
+Pivote;Anton Stach;Alemania;18;15/11/1998
+Pivote;Ilia Gruev;Bulgaria;44;06/05/2000
+Pivote;Charlie Crew;Gales;50;15/06/2006
+Mediocentro;Sean Longstaff;Inglaterra;8;30/10/1997
+Mediocentro;Ao Tanaka;Japón;22;10/09/1998
+Mediocentro ofensivo;Facundo Buonanotte;Argentina;40;23/12/2004
+Mediocentro ofensivo;Brenden Aaronson;Estados Unidos;11;22/10/2000
+Extremo izquierdo;Noah Okafor ;Suiza;19;24/05/2000
+Extremo derecho;Wilfried Gnonto;Italia;29;05/11/2003
+Extremo derecho;Daniel James;Gales;7;10/11/1997
+Delantero centro;Dominic Calvert-Lewin;Inglaterra;9;16/03/1997
+Delantero centro;Joël Piroe;Surinam;10;02/08/1999
+Delantero centro;Lukas Nmecha;Alemania;14;14/12/1998
+Portero;José Sá;Portugal;1;17/01/1993
+Portero;Sam Johnstone;Inglaterra;31;25/03/1993
+Portero;Daniel Bentley;Inglaterra;25;13/07/1993
+Defensa central;Toti ;Portugal;24;16/01/1999
+Defensa central;Ladislav Krejci;República Checa;37;20/04/1999
+Defensa central;Santiago Bueno;Uruguay;4;09/11/1998
+Defensa central;Yerson Mosquera;Colombia;15;02/05/2001
+Lateral izquierdo;Hugo Bueno;España;3;18/09/2002
+Lateral izquierdo;David Møller Wolfe;Noruega;6;23/04/2002
+Lateral derecho;Jackson Tchatchoua;Camerún;38;14/09/2001
+Lateral derecho;Pedro Lima;Brasil;17;01/07/2006
+Lateral derecho;Matt Doherty;Irlanda;2;16/01/1992
+Pivote;André;Brasil;7;16/07/2001
+Mediocentro;João Gomes;Brasil;8;12/02/2001
+Mediocentro;Jean-Ricner Bellegarde;Haití;27;27/06/1998
+Interior izquierdo;Rodrigo Gomes;Portugal;21;07/07/2003
+Mediocentro ofensivo;Angel Gomes;Inglaterra;47;31/08/2000
+Mediocentro ofensivo;Mateus Mané;Inglaterra;36;16/09/2007
+Extremo izquierdo;Enso González ;Paraguay;30;20/01/2005
+Delantero centro;Tolu Arokodare;Nigeria;14;23/11/2000
+Delantero centro;Hee-chan Hwang;Corea del Sur;11;26/01/1996
+Delantero centro;Adam Armstrong;Inglaterra;9;10/02/1997
+Delantero centro;Nathan Fraser;Irlanda;63;22/02/2005
+Portero;Max Weiß;Alemania;13;15/06/2004
+Portero;Martin Dúbravka;Eslovaquia;1;15/01/1989
+Portero;Václav Hladký;República Checa;32;14/11/1990
+Defensa central;Maxime Estève;Francia;5;26/05/2002
+Defensa central;Bashir Humphreys;Inglaterra;12;15/03/2003
+Defensa central;Hjalmar Ekdal;Suecia;18;21/10/1998
+Defensa central;Axel Tuanzebe ;RD del Congo;6;14/11/1997
+Defensa central;Joe Worrall;Inglaterra;4;10/01/1997
+Defensa central;Jordan Beyer ;Alemania;36;19/05/2000
+Lateral izquierdo;Quilindschy Hartman;Países Bajos;3;14/11/2001
+Lateral izquierdo;Lucas Pires;Brasil;23;24/03/2001
+Lateral derecho;Connor Roberts ;Gales;14;23/09/1995
+Lateral derecho;Kyle Walker;Inglaterra;2;28/05/1990
+Pivote;Lesley Ugochukwu;Francia;8;26/03/2004
+Pivote;Florentino;Portugal;16;19/08/1999
+Mediocentro;Josh Cullen  ;Irlanda;24;07/04/1996
+Mediocentro;James Ward-Prowse;Inglaterra;20;01/11/1994
+Mediocentro;Josh Laurent;Inglaterra;29;06/05/1995
+Mediocentro ofensivo;Hannibal;Túnez;28;21/01/2003
+Mediocentro ofensivo;Mike Tresor ;Bélgica;31;28/05/1999
+Extremo izquierdo;Jaidon Anthony;Inglaterra;11;01/12/1999
+Extremo izquierdo;Jacob Bruun Larsen;Dinamarca;7;19/09/1998
+Extremo derecho;Loum Tchaouna;Francia;17;08/09/2003
+Extremo derecho;Marcus Edwards ;Inglaterra;10;03/12/1998
+Delantero centro;Lyle Foster;Sudáfrica;9;03/09/2000
+Delantero centro;Zian Flemming;Países Bajos;19;01/08/1998
+Delantero centro;Armando Broja ;Albania;27;10/09/2001
+Delantero centro;Zeki Amdouni ;Suiza;25;04/12/2000
+Delantero centro;Ashley Barnes;Inglaterra;35;30/10/1989

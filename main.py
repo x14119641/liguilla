@@ -237,6 +237,7 @@ def run_missing_teams():
     
 if __name__ == "__main__":
     try:
+        # England = "GB1"
         # Bundesliga = "L1"
         # Ligue 1 = "FR1"
         # Eredivisie = "NL1"
@@ -249,11 +250,12 @@ if __name__ == "__main__":
         # Rusia = "RU1"
         # Italia = "IT1"
         
+        # España 1a division = "ES1"
         # Segunda española = "ES2"
         # Grupo 1 RFEF = "E3G1"
         # Grupo 1 RFEF = "E3G2"
         
-        # main(league="E3G2")
+        main(league="GB1")
         
         # run_other_teams()
         # run_missing_teams()
@@ -262,6 +264,6 @@ if __name__ == "__main__":
         # get_squad_by_id(738)
         # get_squad_by_id_to_csv(1091, "paok_de_salonica")
         # {"id": 683, "club": "olympiacos_el_pireo"},
-        get_squad_by_id_to_csv(683, "olympiacos_el_pireo")
+        # get_squad_by_id_to_csv(683, "olympiacos_el_pireo")
     except Exception as e:
         print(str(e))
