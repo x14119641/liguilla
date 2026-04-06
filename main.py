@@ -255,14 +255,16 @@ if __name__ == "__main__":
         # Grupo 1 RFEF = "E3G1"
         # Grupo 1 RFEF = "E3G2"
         
-        main(league="GB1")
+        # main(league="GB1")
         
         # run_other_teams()
         # run_missing_teams()
 
         #  One team if i know the id (to csv)
         # get_squad_by_id(738)
-        # get_squad_by_id_to_csv(1091, "paok_de_salonica")
+        get_squad_by_id_to_csv(723, "almere_city_fc")
+        get_squad_by_id_to_csv(235, "rkc_waalwijk")
+        get_squad_by_id_to_csv(403, "willem_ii_tiburg")
         # {"id": 683, "club": "olympiacos_el_pireo"},
         # get_squad_by_id_to_csv(683, "olympiacos_el_pireo")
     except Exception as e:
