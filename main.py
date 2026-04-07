@@ -18,7 +18,7 @@ DEFAULT_HEADERS = {
 
 
 DEFAULT_SEASON = 2025
-DEFAULT_DELAY_SECONDS = 3
+DEFAULT_DELAY_SECONDS = 5
 EXPORT_DIR = Path("exports")
 
 OTHER_TEAMS = [
@@ -81,6 +81,8 @@ MISSING_TEAMS = [
 
 
 def clean_name(value: str) -> str:
+    """Cleans string, replaces spaces, guions, slashes, points or more than one underscore with only one underscore
+    """
     value = value.strip().lower()
     value = value.replace(" ", "_").replace("-", "_").replace("/", "_")
     value = value.replace(".", "")
@@ -89,6 +91,7 @@ def clean_name(value: str) -> str:
 
 
 def create_session() -> requests.Session:
+    """Creates request session"""
     session = requests.Session()
     session.headers.update(DEFAULT_HEADERS)
     return session
@@ -100,6 +103,17 @@ def fetch_page(
     retries: int = 3,
     retry_delay: int = DEFAULT_DELAY_SECONDS,
 ) -> bytes:
+    """Fetch page from transfermrkt
+
+    Args:
+        session (requests.Session): 
+        url (str)
+        retries (int, optional): Defaults to 3.
+        retry_delay (int, optional): Defaults to DEFAULT_DELAY_SECONDS.
+
+    Returns:
+        bytes: Page content in Bytes.
+    """
     last_error = None
     for attempt in range(1, retries + 1):
         try:
@@ -117,6 +131,14 @@ def fetch_page(
 def get_team_squad_page(
     session: requests.Session, team_id: int, season: int = DEFAULT_SEASON
 ) -> bytes:
+    """Get team full squad page in Bytes.
+
+    Args:
+        session (requests.Session)
+        team_id (int)
+        season (int, optional): Defaults to DEFAULT_SEASON.
+
+    """
     url = f"https://www.transfermarkt.es/-/kader/verein/{team_id}/saison_id/{season}/plus/1"
     return fetch_page(session=session, url=url)
 
@@ -124,11 +146,27 @@ def get_team_squad_page(
 def get_competition_page(
     session: requests.Session, competition_id: str, season: int = DEFAULT_SEASON
 ) -> bytes:
+    """Gets competition page in Bytes.
+
+    Args:
+        session (requests.Session): _description_
+        competition_id (str): _description_
+        season (int, optional): _description_. Defaults to DEFAULT_SEASON.
+
+    """
     url = f"https://www.transfermarkt.es/-/startseite/wettbewerb/{competition_id}/plus/?saison_id={season}"
     return fetch_page(session=session, url=url)
 
 
 def parse_competition_teams(page_content: bytes) -> list[dict[str, Any]]:
+    """Parse competition page to get urls for every team.
+
+    Args:
+        page_content (bytes)
+
+    Returns:
+        list[dict[str, Any]]: [{team_id:"example", "team_name": "team_name_example"}]
+    """
     tree = html.fromstring(page_content)
     hrefs = tree.xpath(
         '//td[contains(@class,"hauptlink")]/a[contains(@href,"/verein/")]/@href'
@@ -161,6 +199,21 @@ def parse_competition_teams(page_content: bytes) -> list[dict[str, Any]]:
 
 
 def parse_players(page_content: bytes) -> list[dict[str, str]]:
+    """Parse full squad players data
+
+    Args:
+        page_content (bytes)
+
+    Returns:
+        list[dict[str, str]]: [{
+                "pos": "Portero",
+                "name": "Bla,
+                "pais1": "Spain",
+                "pais2": "Ecuador",
+                "num": 12,
+                "edad": "02/05/1980,
+            },]
+    """
     tree = html.fromstring(page_content)
     table = tree.xpath('(//table[contains(@class,"items")])[1]')
 
@@ -214,6 +267,7 @@ def parse_players(page_content: bytes) -> list[dict[str, str]]:
 
 
 def save_df_to_csv(df: pd.DataFrame, output_path: Path) -> Path:
+    """Saves df to csv ouput path"""
     output_path.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(output_path, sep=";", index=False, encoding="utf-8-sig")
     return output_path
@@ -222,6 +276,7 @@ def save_df_to_csv(df: pd.DataFrame, output_path: Path) -> Path:
 def get_team_squad(
     session: requests.Session, team_id: int, season: int = DEFAULT_SEASON
 ) -> list[dict[str, str]]:
+    """Gets players data from full squad page for a team id url"""
     page_content = get_team_squad_page(session=session, team_id=team_id, season=season)
     return parse_players(page_content)
 
@@ -232,6 +287,7 @@ def export_team_squad(
     team_name: str | None = None,
     season: int = DEFAULT_SEASON,
 ) -> Path:
+    """Saves players data for a team by team_id and stores as csv with the team_id or the team_name variable if this one exists"""
     players = get_team_squad(session=session, team_id=team_id, season=season)
 
     if not players:
@@ -253,6 +309,7 @@ def export_competition_squad(
     season: int = DEFAULT_SEASON,
     delay_seconds: int = DEFAULT_DELAY_SECONDS,
 ) -> Path:
+    """Saves all competition players data by competition_id and year"""
     competition_page = get_competition_page(
         session=session, competition_id=competition_id, season=season
     )
@@ -277,6 +334,7 @@ def export_batch(
     season: int = DEFAULT_SEASON,
     delay_seconds: int = DEFAULT_DELAY_SECONDS,
 ) -> Path:
+    """Saves dataframe of a list of players"""
     df = build_batch_teams_df(
         session=session, teams=teams, season=season, delay_seconds=delay_seconds
     )
@@ -292,6 +350,7 @@ def build_batch_teams_df(
     season: int = DEFAULT_SEASON,
     delay_seconds: int = DEFAULT_DELAY_SECONDS,
 ) -> pd.DataFrame:
+    """Builds dataframe for a list of teams by season"""
     total = len(teams)
 
     all_players: list[dict[str, str]] = []
@@ -420,7 +479,7 @@ if __name__ == "__main__":
         # España 1a division = "ES1"
         # Segunda española = "ES2"
         # Grupo 1 RFEF = "E3G1"
-        # Grupo 1 RFEF = "E3G2"
+        # Grupo 2 RFEF = "E3G2"
 
         main()
 
