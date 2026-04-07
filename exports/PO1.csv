@@ -1,0 +1,487 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Rui Silva;Portugal;;1;07/02/1994;sporting_lissabon
+Portero;João Virgínia;Portugal;;12;10/10/1999;sporting_lissabon
+Defensa central;Ousmane Diomande;Costa de Marfil;;26;04/12/2003;sporting_lissabon
+Defensa central;Gonçalo Inácio;Portugal;;25;25/08/2001;sporting_lissabon
+Defensa central;Zeno Debast;Bélgica;;6;24/10/2003;sporting_lissabon
+Defensa central;Eduardo Quaresma;Portugal;;72;02/03/2002;sporting_lissabon
+Lateral izquierdo;Maxi Araújo;Uruguay;;20;15/02/2000;sporting_lissabon
+Lateral izquierdo;Nuno Santos;Portugal;;11;13/02/1995;sporting_lissabon
+Lateral izquierdo;Ricardo Mangas;Portugal;;91;19/03/1998;sporting_lissabon
+Lateral derecho;Iván Fresneda;España;;22;28/09/2004;sporting_lissabon
+Lateral derecho;Georgios Vagiannidis;Grecia;;13;12/09/2001;sporting_lissabon
+Pivote;Morten Hjulmand;Dinamarca;;42;25/06/1999;sporting_lissabon
+Mediocentro;João Simões;Portugal;;52;06/01/2007;sporting_lissabon
+Mediocentro;Daniel Bragança;Portugal;;23;27/05/1999;sporting_lissabon
+Mediocentro;Hidemasa Morita;Japón;;5;10/05/1995;sporting_lissabon
+Mediocentro;Giorgi Kochorashvili;Georgia;;14;29/06/1999;sporting_lissabon
+Mediocentro ofensivo;Francisco Trincão;Portugal;;17;29/12/1999;sporting_lissabon
+Extremo izquierdo;Pedro Gonçalves;Portugal;;8;28/06/1998;sporting_lissabon
+Extremo derecho;Geovany Quenda;Portugal;Guinea-Bissau;7;30/04/2007;sporting_lissabon
+Extremo derecho;Geny Catamo;Mozambique;;10;26/01/2001;sporting_lissabon
+Extremo derecho;Luís Guilherme;Brasil;;31;09/02/2006;sporting_lissabon
+Extremo derecho;Souleymane Faye;Senegal;;15;08/02/2003;sporting_lissabon
+Delantero centro;Luis Suárez;Colombia;España;97;02/12/1997;sporting_lissabon
+Delantero centro;Fotis Ioannidis;Grecia;;89;10/01/2000;sporting_lissabon
+Delantero centro;Rafael Nel;Portugal;;90;03/04/2005;sporting_lissabon
+Portero;Diogo Costa;Portugal;Suiza;99;19/09/1999;fc_porto
+Portero;Cláudio Ramos;Portugal;;14;16/11/1991;fc_porto
+Portero;João Costa;Portugal;;24;02/02/1996;fc_porto
+Defensa central;Jakub Kiwior;Polonia;;4;15/02/2000;fc_porto
+Defensa central;Nehuén Pérez;Argentina;;18;24/06/2000;fc_porto
+Defensa central;Jan Bednarek;Polonia;;5;12/04/1996;fc_porto
+Defensa central;Dominik Prpić;Croacia;;21;19/05/2004;fc_porto
+Defensa central;Thiago Silva;Brasil;Francia;3;22/09/1984;fc_porto
+Lateral izquierdo;Francisco Moura;Portugal;;74;16/08/1999;fc_porto
+Lateral izquierdo;Zaidu Sanusi;Nigeria;;12;13/06/1997;fc_porto
+Lateral derecho;Alberto Costa;Portugal;;20;29/09/2003;fc_porto
+Lateral derecho;Martim Fernandes;Portugal;;52;18/01/2006;fc_porto
+Pivote;Alan Varela;Argentina;;22;04/07/2001;fc_porto
+Pivote;Pablo Rosario;República Dominicana;Países Bajos;13;07/01/1997;fc_porto
+Mediocentro;Victor Froholdt;Dinamarca;;8;25/02/2006;fc_porto
+Mediocentro;Seko Fofana;Costa de Marfil;Francia;42;07/05/1995;fc_porto
+Mediocentro ofensivo;Rodrigo Mora;Portugal;;86;05/05/2007;fc_porto
+Mediocentro ofensivo;Gabri Veiga;España;;10;27/05/2002;fc_porto
+Extremo izquierdo;Borja Sainz;España;;17;21/02/2001;fc_porto
+Extremo izquierdo;Oskar Pietuszewski;Polonia;;77;20/05/2008;fc_porto
+Extremo izquierdo;Yann Karamoh;Francia;Costa de Marfil;75;08/07/1998;fc_porto
+Extremo derecho;William Gomes;Brasil;;7;15/03/2006;fc_porto
+Extremo derecho;Pepê;Brasil;Italia;11;24/02/1997;fc_porto
+Delantero centro;Samu Aghehowa;España;Nigeria;9;05/05/2004;fc_porto
+Delantero centro;Terem Moffi;Nigeria;;29;25/05/1999;fc_porto
+Delantero centro;Deniz Gül;Turquía;Suecia;27;02/07/2004;fc_porto
+Delantero centro;Luuk de Jong;Países Bajos;;26;27/08/1990;fc_porto
+Portero;Anatoliy Trubin;Ucrania;;1;01/08/2001;benfica_lissabon
+Portero;Samuel Soares;Portugal;Guinea-Bissau;24;15/06/2002;benfica_lissabon
+Defensa central;António Silva;Portugal;;4;30/10/2003;benfica_lissabon
+Defensa central;Tomás Araújo;Portugal;;44;16/05/2002;benfica_lissabon
+Defensa central;Nicolás Otamendi;Argentina;;30;12/02/1988;benfica_lissabon
+Lateral izquierdo;Samuel Dahl;Suecia;;26;04/03/2003;benfica_lissabon
+Lateral izquierdo;José Neto;Portugal;;62;19/04/2008;benfica_lissabon
+Lateral derecho;Amar Dedić;Bosnia y Herzegovina;;17;18/08/2002;benfica_lissabon
+Lateral derecho;Alexander Bah;Dinamarca;Gambia;6;09/12/1997;benfica_lissabon
+Lateral derecho;Sidny Lopes Cabral;Cabo Verde;Países Bajos;15;18/09/2002;benfica_lissabon
+Lateral derecho;Daniel Banjaqui;Portugal;Guinea-Bissau;58;24/03/2008;benfica_lissabon
+Pivote;Richard Ríos;Colombia;;20;02/06/2000;benfica_lissabon
+Pivote;Enzo Barrenechea;Argentina;;5;22/05/2001;benfica_lissabon
+Pivote;Manu Silva;Portugal;;16;12/06/2001;benfica_lissabon
+Mediocentro;Fredrik Aursnes;Noruega;;8;10/12/1995;benfica_lissabon
+Mediocentro;Leandro Barreiro;Luxemburgo;Portugal;18;03/01/2000;benfica_lissabon
+Mediocentro;João Veloso;Portugal;;68;26/06/2005;benfica_lissabon
+Mediocentro ofensivo;Georgiy Sudakov;Ucrania;;10;01/09/2002;benfica_lissabon
+Mediocentro ofensivo;João Rego;Portugal;;84;20/06/2005;benfica_lissabon
+Extremo izquierdo;Andreas Schjelderup;Noruega;;21;01/06/2004;benfica_lissabon
+Extremo izquierdo;Bruma;Portugal;Guinea-Bissau;7;24/10/1994;benfica_lissabon
+Extremo derecho;Dodi Lukébakio;Bélgica;RD del Congo;11;24/09/1997;benfica_lissabon
+Extremo derecho;Gianluca Prestianni;Argentina;Italia;25;31/01/2006;benfica_lissabon
+Mediapunta;Rafa Silva;Portugal;;27;17/05/1993;benfica_lissabon
+Delantero centro;Vangelis Pavlidis;Grecia;;14;21/11/1998;benfica_lissabon
+Delantero centro;Franjo Ivanović;Croacia;;9;01/10/2003;benfica_lissabon
+Delantero centro;Anísio Cabral;Portugal;Guinea-Bissau;72;15/02/2008;benfica_lissabon
+Delantero centro;Henrique Araújo;Portugal;;39;19/01/2002;benfica_lissabon
+Portero;Lukas Hornicek;República Checa;;1;13/07/2002;sc_braga
+Portero;Alaa Bellaarouch;Marruecos;;36;01/02/2002;sc_braga
+Portero;Tiago Sá;Portugal;;12;11/01/1995;sc_braga
+Defensa central;Sikou Niakaté;Malí;Francia;4;10/07/1999;sc_braga
+Defensa central;Bright Arrey-Mbi;Alemania;Inglaterra;26;26/03/2003;sc_braga
+Defensa central;Gustaf Lagerbielke;Suecia;;14;10/04/2000;sc_braga
+Defensa central;Adrian Leon Barisic;Bosnia y Herzegovina;Croacia;37;19/07/2001;sc_braga
+Defensa central;Jonatás Noro;Portugal;;53;09/07/2005;sc_braga
+Defensa central;Paulo Oliveira;Portugal;;15;08/01/1992;sc_braga
+Lateral izquierdo;Leonardo Lelo;Portugal;;5;30/03/2000;sc_braga
+Lateral derecho;Víctor Gómez;España;;2;01/04/2000;sc_braga
+Pivote;Gabriel Moscardo;Brasil;;17;28/09/2005;sc_braga
+Pivote;Demir Ege Tıknaz;Turquía;;34;17/08/2004;sc_braga
+Pivote;Vítor Carvalho;Brasil;;6;27/05/1997;sc_braga
+Pivote;Florian Grillitsch;Austria;;27;07/08/1995;sc_braga
+Pivote;Yanis da Rocha;Portugal;Francia;41;10/05/2004;sc_braga
+Mediocentro;Rodrigo Zalazar;Uruguay;España;10;12/08/1999;sc_braga
+Mediocentro;Gorby;Francia;Haití;29;25/07/2002;sc_braga
+Mediocentro;Diego Rodrigues;Portugal;Bélgica;50;24/05/2005;sc_braga
+Mediocentro;João Moutinho;Portugal;;8;08/09/1986;sc_braga
+Interior derecho;Mario Dorgeles;Costa de Marfil;;20;07/08/2004;sc_braga
+Extremo izquierdo;Ricardo Horta;Portugal;;21;15/09/1994;sc_braga
+Extremo izquierdo;Gabri Martínez;España;;77;22/01/2003;sc_braga
+Extremo izquierdo;Sandro Vidigal;Portugal;;95;28/07/2007;sc_braga
+Extremo derecho;João Aragão;Portugal;;72;24/03/2008;sc_braga
+Delantero centro;Pau Víctor;España;;18;26/11/2001;sc_braga
+Delantero centro;Fran Navarro;España;;39;03/02/1998;sc_braga
+Delantero centro;Amine El Ouazzani;Marruecos;Francia;9;15/07/2001;sc_braga
+Portero;Lazar Carević;Montenegro;;25;16/03/1999;fc_famalicao
+Portero;Ivan Zlobin;Rusia;Portugal;1;07/03/1997;fc_famalicao
+Defensa central;Justin de Haas;Países Bajos;;16;01/02/2000;fc_famalicao
+Defensa central;Léo Realpe;Ecuador;;3;26/02/2001;fc_famalicao
+Defensa central;Ibrahima Ba;Senegal;;55;26/05/2005;fc_famalicao
+Defensa central;Renan Santana;Brasil;;13;13/03/2005;fc_famalicao
+Defensa central;Vojin Serafimovic;Serbia;;30;14/10/2005;fc_famalicao
+Lateral izquierdo;Pedro Bondo;Angola;;28;16/11/2004;fc_famalicao
+Lateral izquierdo;Rafa Soares;Portugal;;5;09/05/1995;fc_famalicao
+Lateral derecho;Rodrigo Pinheiro;Portugal;;17;28/08/2002;fc_famalicao
+Lateral derecho;Garcia;Brasil;;2;04/01/2002;fc_famalicao
+Pivote;Tom van de Looi;Países Bajos;;6;02/07/1999;fc_famalicao
+Mediocentro;Mathias de Amorim;Portugal;Francia;14;10/12/2004;fc_famalicao
+Mediocentro;Marcos Peña;España;;8;22/01/2005;fc_famalicao
+Mediocentro;Otar Mamageishvili;Georgia;;15;15/01/2003;fc_famalicao
+Mediocentro ofensivo;Gustavo Sá;Portugal;;20;11/11/2004;fc_famalicao
+Extremo izquierdo;Sorriso;Brasil;;7;23/02/2001;fc_famalicao
+Extremo izquierdo;Óscar Aranda;España;;11;29/04/2002;fc_famalicao
+Extremo izquierdo;Antoine Joujou;Francia;Guadalupe;77;12/03/2003;fc_famalicao
+Extremo izquierdo;Roméo Beney;Suiza;Brasil;18;19/01/2005;fc_famalicao
+Extremo izquierdo;Rochinha;Portugal;;10;03/05/1995;fc_famalicao
+Extremo derecho;Gil Dias;Portugal;;23;28/09/1996;fc_famalicao
+Extremo derecho;Pedro Santos;Portugal;;80;10/02/2003;fc_famalicao
+Delantero centro;Simon Elisor;Francia;Guadalupe;12;22/07/1999;fc_famalicao
+Delantero centro;Umar Abubakar;Nigeria;;9;15/02/2006;fc_famalicao
+Portero;Joel Robles;España;;1;17/06/1990;gd_estoril_praia
+Portero;Martin Turk;Eslovenia;;16;21/08/2003;gd_estoril_praia
+Portero;Diogo Dias;Portugal;;31;17/06/2003;gd_estoril_praia
+Defensa central;Kévin Boma;Togo;Francia;44;20/11/2002;gd_estoril_praia
+Defensa central;Felix Bacher;Austria;;25;25/10/2000;gd_estoril_praia
+Defensa central;Ferro;Portugal;;4;26/03/1997;gd_estoril_praia
+Defensa central;Antef Tsoungui;Bélgica;Inglaterra;5;30/12/2002;gd_estoril_praia
+Defensa central;Or Israelov;Israel;Portugal;18;02/09/2004;gd_estoril_praia
+Lateral izquierdo;Pedro Amaral;Portugal;;24;25/08/1997;gd_estoril_praia
+Lateral izquierdo;Gonçalo Costa;Portugal;;20;18/02/2000;gd_estoril_praia
+Lateral derecho;Ricard Sánchez;España;;2;22/02/2000;gd_estoril_praia
+Lateral derecho;Pedro Carvalho;Portugal;;22;14/02/2003;gd_estoril_praia
+Pivote;Jordan Holsgrove;Escocia;Inglaterra;10;10/09/1999;gd_estoril_praia
+Pivote;Jandro Orellana;España;;6;07/08/2000;gd_estoril_praia
+Mediocentro;Xeka;Portugal;;8;10/11/1994;gd_estoril_praia
+Mediocentro;Nodar Lominadze;Georgia;;7;04/04/2002;gd_estoril_praia
+Mediocentro ofensivo;João Carvalho;Portugal;;12;09/03/1997;gd_estoril_praia
+Mediocentro ofensivo;Pizzi;Portugal;;21;06/10/1989;gd_estoril_praia
+Extremo izquierdo;André Lacximicant;Portugal;;19;19/05/2001;gd_estoril_praia
+Extremo derecho;Rafik Guitane;Argelia;Francia;99;26/05/1999;gd_estoril_praia
+Delantero centro;Yanis Begraoui;Marruecos;Francia;14;04/07/2001;gd_estoril_praia
+Delantero centro;Alejandro Marqués;Venezuela;España;9;04/08/2000;gd_estoril_praia
+Delantero centro;Khayon Edwards;Jamaica;Inglaterra;11;12/09/2003;gd_estoril_praia
+Portero;Lucão;Brasil;;30;26/02/2001;gil_vicente_fc
+Portero;Dani Figueira;Portugal;;99;20/07/1998;gil_vicente_fc
+Defensa central;Marvin Elimbi;Francia;Camerún;4;20/02/2003;gil_vicente_fc
+Defensa central;Buatu;Angola;Bélgica;39;27/09/1993;gil_vicente_fc
+Defensa central;Antonio Espigares;España;;48;05/09/2004;gil_vicente_fc
+Defensa central;Arthur Tchaptchet;Francia;Camerún;59;10/05/2006;gil_vicente_fc
+Lateral izquierdo;Ghislain Konan;Costa de Marfil;;3;27/12/1995;gil_vicente_fc
+Lateral izquierdo;Weverson;Brasil;;26;05/07/2000;gil_vicente_fc
+Lateral derecho;Zé Carlos;Portugal;;2;31/07/1998;gil_vicente_fc
+Lateral derecho;Hevertton;Portugal;Brasil;20;01/02/2001;gil_vicente_fc
+Lateral derecho;Jonathan Mutombo;Francia;RD del Congo;45;27/08/2002;gil_vicente_fc
+Pivote;Mohamed Bamba;Costa de Marfil;;8;08/10/2004;gil_vicente_fc
+Mediocentro;Facundo Cáseres;Argentina;;5;28/05/2001;gil_vicente_fc
+Mediocentro;Zé Carlos;Portugal;;6;30/10/2001;gil_vicente_fc
+Mediocentro;Gonçalo Maia;Portugal;;82;30/11/2005;gil_vicente_fc
+Mediocentro ofensivo;Luís Esteves;Portugal;;10;09/04/1998;gil_vicente_fc
+Mediocentro ofensivo;Santi García;España;;95;29/08/2001;gil_vicente_fc
+Mediocentro ofensivo;Martín Fernández;Uruguay;;32;23/06/2003;gil_vicente_fc
+Mediocentro ofensivo;Gil Martins;Portugal;;19;12/05/2006;gil_vicente_fc
+Extremo izquierdo;Joelson Fernandes;Portugal;Guinea-Bissau;11;28/02/2003;gil_vicente_fc
+Extremo izquierdo;Tidjany Touré;Francia;Costa de Marfil;7;15/07/2002;gil_vicente_fc
+Extremo derecho;Sergio Bermejo;España;;22;17/08/1997;gil_vicente_fc
+Extremo derecho;Murilo;Brasil;;77;31/10/1994;gil_vicente_fc
+Extremo derecho;Agustín Moreira;Uruguay;;27;28/05/2001;gil_vicente_fc
+Extremo derecho;Rodrigo Rodrigues;Portugal;;80;06/12/2007;gil_vicente_fc
+Delantero centro;Gustavo Varela;Cabo Verde;Portugal;89;30/01/2005;gil_vicente_fc
+Delantero centro;Héctor Hernández;España;;23;14/09/1995;gil_vicente_fc
+Delantero centro;Carlos Eduardo;Brasil;;29;10/08/2002;gil_vicente_fc
+Portero;Juan Castillo;Colombia;;25;13/01/2003;vitoria_guimaraes_sc
+Portero;Charles;Brasil;;27;04/02/1994;vitoria_guimaraes_sc
+Portero;Gui;Portugal;;91;13/05/2006;vitoria_guimaraes_sc
+Defensa central;Óscar Rivas;España;;4;27/03/2000;vitoria_guimaraes_sc
+Defensa central;Thiago Balieiro;Brasil;;28;23/02/2003;vitoria_guimaraes_sc
+Defensa central;Rodrigo Abascal;Uruguay;España;26;14/01/1994;vitoria_guimaraes_sc
+Defensa central;Miguel Nóbrega;Portugal;;3;17/04/2000;vitoria_guimaraes_sc
+Lateral izquierdo;João Mendes;Portugal;;13;13/04/2000;vitoria_guimaraes_sc
+Lateral izquierdo;Orest Lebedenko;Ucrania;;17;23/09/1998;vitoria_guimaraes_sc
+Lateral derecho;Maga;Portugal;;2;16/11/2002;vitoria_guimaraes_sc
+Lateral derecho;Tony Strata;Rumania;Francia;66;07/09/2004;vitoria_guimaraes_sc
+Pivote;Diogo Sousa;Portugal;;23;20/01/2006;vitoria_guimaraes_sc
+Mediocentro;Beni Mukendi;Angola;;16;21/05/2002;vitoria_guimaraes_sc
+Mediocentro;Matija Mitrović;Serbia;Estados Unidos;6;12/12/2004;vitoria_guimaraes_sc
+Mediocentro;Gonçalo Nogueira;Portugal;;30;28/12/2003;vitoria_guimaraes_sc
+Mediocentro ofensivo;Samu;Portugal;;20;21/04/1996;vitoria_guimaraes_sc
+Extremo izquierdo;Oumar Camara;Francia;Malí;19;11/05/2007;vitoria_guimaraes_sc
+Extremo izquierdo;Noah Saviolo;Portugal;Bélgica;48;07/03/2004;vitoria_guimaraes_sc
+Extremo izquierdo;Fabio Blanco;España;;22;18/02/2004;vitoria_guimaraes_sc
+Extremo derecho;Gustavo Silva;Brasil;;11;01/06/1999;vitoria_guimaraes_sc
+Extremo derecho;Telmo Arcanjo;Cabo Verde;Portugal;18;21/06/2001;vitoria_guimaraes_sc
+Extremo derecho;Miguel Nogueira;Portugal;;88;27/02/2005;vitoria_guimaraes_sc
+Delantero centro;Alioune Ndoye;Senegal;;90;05/10/2001;vitoria_guimaraes_sc
+Delantero centro;Nélson Oliveira;Portugal;;7;08/08/1991;vitoria_guimaraes_sc
+Portero;Cezary Miszta;Polonia;;1;30/10/2001;rio_ave_fc
+Portero;Ennio van der Gouw;Países Bajos;;99;14/02/2000;rio_ave_fc
+Portero;Kevin Chamorro;Costa Rica;Nicaragua;22;08/04/2000;rio_ave_fc
+Defensa central;Andreas Ntoi;Grecia;Albania;5;02/02/2003;rio_ave_fc
+Defensa central;Francisco Petrasso;Argentina;;23;28/01/2002;rio_ave_fc
+Defensa central;Nelson Abbey;Inglaterra;Nigeria;6;28/08/2003;rio_ave_fc
+Defensa central;Gustavo Mancha;Brasil;;39;25/07/2004;rio_ave_fc
+Defensa central;Jakub Brabec;República Checa;;32;06/08/1992;rio_ave_fc
+Defensa central;Julien Lomboto;Francia;RD del Congo;63;13/05/2002;rio_ave_fc
+Lateral izquierdo;Omar Richards;Inglaterra;Jamaica;77;15/02/1998;rio_ave_fc
+Lateral izquierdo;Leonardo Buta;Portugal;Angola;24;05/06/2002;rio_ave_fc
+Lateral derecho;Marios Vrousai;Grecia;Albania;17;02/07/1998;rio_ave_fc
+Lateral derecho;João Tomé;Portugal;;20;12/02/2003;rio_ave_fc
+Pivote;Georgios Liavas;Grecia;;54;12/02/2001;rio_ave_fc
+Pivote;Tamás Nikitscher;Hungría;;44;03/11/1999;rio_ave_fc
+Mediocentro;Brandon Aguilera;Costa Rica;;10;28/06/2003;rio_ave_fc
+Mediocentro;Ryan Guilherme;Brasil;;8;07/12/2002;rio_ave_fc
+Mediocentro;João Graça;Portugal;;21;18/06/1995;rio_ave_fc
+Mediocentro ofensivo;Ole Pohlmann;Alemania;;80;05/04/2001;rio_ave_fc
+Mediocentro ofensivo;Antonis Papakanellos;Grecia;;19;11/08/2005;rio_ave_fc
+Extremo izquierdo;Tobías Medina;Argentina;;27;03/03/2004;rio_ave_fc
+Extremo derecho;Diogo Bezerra;Brasil;;7;16/07/2002;rio_ave_fc
+Extremo derecho;Rafael Lobato;Brasil;;25;23/02/2006;rio_ave_fc
+Extremo derecho;Dario Špikić;Croacia;;18;22/03/1999;rio_ave_fc
+Extremo derecho;Amine Rehmi;Países Bajos;Marruecos;-;01/04/2002;rio_ave_fc
+Delantero centro;Tamble;Guinea-Bissau;Portugal;9;15/11/2000;rio_ave_fc
+Delantero centro;Karem Zoabi;Israel;;14;03/05/2006;rio_ave_fc
+Delantero centro;Jalen Blesa;España;Estados Unidos;11;05/02/2001;rio_ave_fc
+Delantero centro;Marc Gual;España;;28;13/03/1996;rio_ave_fc
+Portero;André Gomes;Portugal;;13;20/10/2004;fc_alverca
+Portero;Matheus Mendes;Brasil;;31;10/03/1999;fc_alverca
+Portero;Mateus;Brasil;;1;02/05/2002;fc_alverca
+Portero;André Paulo;Portugal;;23;18/12/1996;fc_alverca
+Defensa central;Bastien Meupiyou;Francia;Camerún;33;19/03/2006;fc_alverca
+Defensa central;Naves;Brasil;;4;08/05/2002;fc_alverca
+Defensa central;Julián Martínez;Honduras;;3;01/12/2003;fc_alverca
+Defensa central;Sergi Gómez;España;;5;28/03/1992;fc_alverca
+Defensa central;Steven Baseya;Francia;RD del Congo;14;14/01/2005;fc_alverca
+Lateral izquierdo;Chissumba;Portugal;Mozambique;55;29/05/2005;fc_alverca
+Lateral izquierdo;Isaac James;Nigeria;;12;28/08/2004;fc_alverca
+Lateral derecho;Diogo Spencer;Portugal;;82;17/04/2004;fc_alverca
+Pivote;Vasco Moreira;Portugal;;17;07/05/2001;fc_alverca
+Pivote;Sabit Abdulai;Ghana;;21;11/05/1999;fc_alverca
+Pivote;Tomás Mendes;Guinea-Bissau;España;16;21/11/2004;fc_alverca
+Mediocentro;Rhaldney;Brasil;;26;20/11/1998;fc_alverca
+Mediocentro;Davy Gui;Costa de Marfil;Francia;6;15/06/2006;fc_alverca
+Mediocentro;Zakaria Kassary;Marruecos;;-;25/01/2006;fc_alverca
+Interior derecho;Nabil Touaizi;Marruecos;España;2;01/02/2001;fc_alverca
+Mediocentro ofensivo;Lincoln;Brasil;;18;07/11/1998;fc_alverca
+Extremo izquierdo;Chiquinho;Portugal;Cabo Verde;10;05/02/2000;fc_alverca
+Extremo izquierdo;Figueiredo;Brasil;;20;14/08/2001;fc_alverca
+Extremo izquierdo;Cédric Nuozzi;Bélgica;;11;30/01/2006;fc_alverca
+Extremo derecho;Stéphane Diarra;Costa de Marfil;Francia;25;09/12/1998;fc_alverca
+Extremo derecho;Fabrício Garcia;Cabo Verde;;98;04/05/2001;fc_alverca
+Delantero centro;Marko Milovanović;Serbia;;9;04/08/2003;fc_alverca
+Delantero centro;Mathis Clairicia;Francia;Martinica;19;30/08/2002;fc_alverca
+Delantero centro;Felipe Lima;Brasil;;77;17/04/2006;fc_alverca
+Delantero centro;Sandro Lima;Brasil;;91;28/10/1990;fc_alverca
+Portero;Gabriel Batista;Brasil;Italia;1;03/06/1998;cd_santa_clara
+Portero;Neneca;Brasil;;12;27/08/2003;cd_santa_clara
+Portero;Cristian;Brasil;Italia;25;25/02/2002;cd_santa_clara
+Defensa central;MT;Brasil;;32;01/03/2001;cd_santa_clara
+Defensa central;Sidney Lima;Brasil;;23;17/01/1997;cd_santa_clara
+Defensa central;Frederico Venâncio;Portugal;;21;04/02/1993;cd_santa_clara
+Defensa central;Pedro Pacheco;Portugal;Suiza;4;27/01/1997;cd_santa_clara
+Defensa central;Henrique Silva;Brasil;;94;17/10/2005;cd_santa_clara
+Lateral izquierdo;Paulo Victor;Brasil;;64;13/04/2001;cd_santa_clara
+Lateral izquierdo;Guilherme Romão;Brasil;;5;07/10/1997;cd_santa_clara
+Lateral derecho;Lucas Soares;Brasil;;42;04/05/1998;cd_santa_clara
+Lateral derecho;Diogo Calila;Mozambique;Portugal;2;10/10/1998;cd_santa_clara
+Pivote;Pedro Ferreira;Portugal;;8;05/01/1998;cd_santa_clara
+Pivote;Darlan;Brasil;;37;16/04/1998;cd_santa_clara
+Mediocentro;Serginho;Portugal;;35;01/12/1999;cd_santa_clara
+Mediocentro;Gustavo Klismahn;Brasil;;77;23/11/1999;cd_santa_clara
+Mediocentro;Djé;Cabo Verde;;65;02/06/2003;cd_santa_clara
+Mediocentro ofensivo;Andrey;Brasil;;78;06/02/2002;cd_santa_clara
+Extremo izquierdo;Gabriel Silva;Brasil;;10;22/03/2002;cd_santa_clara
+Extremo derecho;Vinícius Lopes;Brasil;;70;07/05/1999;cd_santa_clara
+Extremo derecho;Brenner;Brasil;;11;02/01/2002;cd_santa_clara
+Extremo derecho;Welinton Torrão;Brasil;;49;30/06/1999;cd_santa_clara
+Extremo derecho;Fernando;Brasil;;26;12/04/2005;cd_santa_clara
+Extremo derecho;Vitinho;Brasil;;27;25/03/2003;cd_santa_clara
+Delantero centro;Elias Manoel;Brasil;;7;30/11/2001;cd_santa_clara
+Delantero centro;Gonçalo Paciência;Portugal;;39;01/08/1994;cd_santa_clara
+Delantero centro;João Costa;Portugal;;17;07/03/2000;cd_santa_clara
+Portero;André Ferreira;Portugal;;13;29/05/1996;moreirense_fc
+Portero;Mika;Portugal;Suiza;16;08/03/1991;moreirense_fc
+Portero;Caio Secco;Brasil;Italia;22;22/12/1990;moreirense_fc
+Defensa central;Gilberto Batista;Guinea-Bissau;Portugal;66;29/12/2003;moreirense_fc
+Defensa central;Michel;Brasil;;3;20/05/2003;moreirense_fc
+Defensa central;Maracás;Brasil;;26;27/04/1994;moreirense_fc
+Defensa central;Kevyn Monteiro;Brasil;;4;13/09/2005;moreirense_fc
+Lateral izquierdo;Kiko;Portugal;;27;16/04/2002;moreirense_fc
+Lateral izquierdo;Álvaro Martínez;España;;17;04/05/2002;moreirense_fc
+Lateral derecho;Diogo Travassos;Portugal;;2;31/03/2004;moreirense_fc
+Lateral derecho;Dinis Pinto;Portugal;;76;24/08/2000;moreirense_fc
+Lateral derecho;Fabiano;Brasil;;-;14/03/2000;moreirense_fc
+Lateral derecho;Leandro Santos;Portugal;;71;28/09/2005;moreirense_fc
+Pivote;Mateja Stjepanović;Serbia;;8;20/02/2004;moreirense_fc
+Pivote;Afonso Assis;Portugal;;25;15/07/2006;moreirense_fc
+Pivote;Miguel Silva;Portugal;;6;17/12/2007;moreirense_fc
+Mediocentro;Vasco Sousa;Portugal;;15;03/04/2003;moreirense_fc
+Mediocentro;Rodri Alonso;España;;21;04/01/2003;moreirense_fc
+Mediocentro;Nile John;Inglaterra;;23;06/03/2003;moreirense_fc
+Mediocentro;Jimi Gower;Inglaterra;;30;01/10/2004;moreirense_fc
+Mediocentro ofensivo;Alan;Brasil;;11;08/03/2000;moreirense_fc
+Extremo izquierdo;Landerson;Brasil;;78;12/12/2006;moreirense_fc
+Extremo izquierdo;Cedric Teguia;España;Camerún;7;01/10/2001;moreirense_fc
+Extremo izquierdo;Kiko Bondoso;Portugal;;10;17/11/1995;moreirense_fc
+Delantero centro;Yan Maranhão;Brasil;;99;13/09/2002;moreirense_fc
+Delantero centro;Luís Semedo;Portugal;Cabo Verde;9;11/08/2003;moreirense_fc
+Portero;Ignacio de Arruabarrena;Uruguay;España;12;16/01/1997;fc_arouca
+Portero;João Valido;Portugal;;1;03/03/2000;fc_arouca
+Portero;Jakub Vinarčík;Eslovaquia;;30;11/07/2005;fc_arouca
+Defensa central;José Fontán;España;;3;11/02/2000;fc_arouca
+Defensa central;Boris Popović;Serbia;Francia;5;26/02/2000;fc_arouca
+Defensa central;Omar Fayed;Egipto;;66;04/07/2003;fc_arouca
+Defensa central;Javi Sánchez;España;;15;14/03/1997;fc_arouca
+Defensa central;Matías Rocha;Uruguay;;4;13/02/2001;fc_arouca
+Defensa central;Diogo Monteiro;Portugal;Suiza;6;28/01/2005;fc_arouca
+Lateral izquierdo;Amadou Dante;Malí;;44;07/10/2000;fc_arouca
+Lateral izquierdo;Bas Kuipers;Países Bajos;;25;17/08/1994;fc_arouca
+Lateral derecho;Tiago Esgaio;Portugal;;28;01/08/1995;fc_arouca
+Lateral derecho;José Silva;Portugal;;2;20/08/2005;fc_arouca
+Mediocentro;Taichi Fukui;Japón;;21;15/07/2004;fc_arouca
+Mediocentro;Espen van Ee;Países Bajos;;22;05/07/2003;fc_arouca
+Mediocentro;Mateo Flores;España;;46;07/04/2004;fc_arouca
+Mediocentro;Yellu Santiago;España;;20;25/05/2004;fc_arouca
+Mediocentro;Pedro Santos;Portugal;;89;12/10/2000;fc_arouca
+Mediocentro ofensivo;Hyun-ju Lee;Corea del Sur;;14;07/02/2003;fc_arouca
+Mediocentro ofensivo;Pablo Gozálbez;España;;10;30/04/2001;fc_arouca
+Extremo izquierdo;Naïs Djouahra;Francia;Argelia;7;23/11/1999;fc_arouca
+Extremo izquierdo;Brian Mansilla;Uruguay;;24;14/05/2002;fc_arouca
+Extremo izquierdo;Miguel Puche;España;;11;30/04/2001;fc_arouca
+Extremo derecho;Alfonso Trezza;Uruguay;Italia;19;22/06/1999;fc_arouca
+Delantero centro;Fally Mayulu;Francia;RD del Congo;9;15/07/2002;fc_arouca
+Delantero centro;Dylan Nandín;Uruguay;;23;28/02/2002;fc_arouca
+Delantero centro;Iván Barbero;España;;17;17/08/1998;fc_arouca
+Portero;Patrick Sequeira;Costa Rica;España;1;01/03/1999;casa_pia_ac
+Portero;Ivan Mandić;Croacia;;95;10/03/2003;casa_pia_ac
+Portero;Rodrigo Moura;Brasil;;-;25/01/1996;casa_pia_ac
+Portero;Ricardo Batista;Angola;Portugal;33;19/11/1986;casa_pia_ac
+Defensa central;Kaique Rocha;Brasil;;27;28/02/2001;casa_pia_ac
+Defensa central;João Goulart;Portugal;;4;27/01/2000;casa_pia_ac
+Defensa central;David Sousa;Brasil;;43;04/07/2001;casa_pia_ac
+Defensa central;Kaly;Angola;;3;27/11/2003;casa_pia_ac
+Defensa central;José Fonte;Portugal;;6;22/12/1983;casa_pia_ac
+Lateral izquierdo;Abdu Conté;Portugal;Guinea-Bissau;5;24/03/1998;casa_pia_ac
+Lateral izquierdo;Pedro Rosas;Portugal;;75;28/11/2000;casa_pia_ac
+Lateral derecho;Gaizka Larrazabal;España;;72;17/12/1997;casa_pia_ac
+Lateral derecho;André Geraldes;Portugal;;18;02/05/1991;casa_pia_ac
+Pivote;Seba Pérez;Colombia;;42;29/03/1993;casa_pia_ac
+Pivote;Rafael Brito;Portugal;;8;19/01/2002;casa_pia_ac
+Pivote;Iyad Mohamed;Comoras;Francia;24;05/03/2001;casa_pia_ac
+Mediocentro;Lawrence Ofori;Ghana;;80;28/06/1998;casa_pia_ac
+Interior derecho;Kevin Prieto;Uruguay;;19;27/06/2003;casa_pia_ac
+Extremo izquierdo;Tiago Morais;Portugal;;21;03/09/2003;casa_pia_ac
+Extremo izquierdo;João Marques;Portugal;;11;13/02/2002;casa_pia_ac
+Extremo izquierdo;Kelian Nsona;Francia;RD del Congo;7;11/05/2002;casa_pia_ac
+Extremo derecho;Jérémy Livolant;Francia;;29;09/01/1998;casa_pia_ac
+Extremo derecho;Xander Severina;Curazao;Países Bajos;17;12/04/2001;casa_pia_ac
+Extremo derecho;Korede Osundina;Estados Unidos;Nigeria;13;13/02/2004;casa_pia_ac
+Extremo derecho;Kiki;Portugal;;-;14/02/1998;casa_pia_ac
+Delantero centro;Dailon Livramento;Cabo Verde;Países Bajos;10;04/05/2001;casa_pia_ac
+Delantero centro;Cassiano;Brasil;;90;16/06/1989;casa_pia_ac
+Delantero centro;Clau Mendes;Guinea-Bissau;España;99;08/12/2000;casa_pia_ac
+Portero;Bernardo;Brasil;Italia;31;23/07/2002;cd_tondela
+Portero;Lucas Cañizares;España;;30;10/05/2002;cd_tondela
+Portero;Gabriel Souza;Brasil;;1;01/01/1997;cd_tondela
+Defensa central;Brayan Medina;Colombia;;20;04/03/2002;cd_tondela
+Defensa central;Christian Marques;Portugal;Suiza;4;15/01/2003;cd_tondela
+Defensa central;João Silva;Portugal;;44;14/01/1999;cd_tondela
+Defensa central;João Afonso;Portugal;;5;28/05/1990;cd_tondela
+Lateral izquierdo;Nor Maviram;Nigeria;;60;04/04/2001;cd_tondela
+Lateral izquierdo;Rémy Vita;Comoras;Francia;21;01/04/2001;cd_tondela
+Lateral derecho;Tiago Manso;Portugal;;48;13/12/1999;cd_tondela
+Lateral derecho;Rodrigo Conceição;Portugal;;27;02/01/2000;cd_tondela
+Lateral derecho;Bebeto;Brasil;;2;01/01/1990;cd_tondela
+Pivote;Juanse Rodríguez;Ecuador;;32;27/03/2006;cd_tondela
+Pivote;Joe Hodge;Irlanda;Inglaterra;10;14/09/2002;cd_tondela
+Pivote;Cícero;Brasil;;97;10/05/1997;cd_tondela
+Mediocentro;Yaya Sithole;Sudáfrica;;15;03/03/1999;cd_tondela
+Mediocentro;Hélder Tavares;Cabo Verde;Portugal;8;26/12/1989;cd_tondela
+Mediocentro ofensivo;Hugo Félix;Portugal;;79;03/03/2004;cd_tondela
+Mediocentro ofensivo;Xabi Huarte;España;;14;25/02/2001;cd_tondela
+Extremo izquierdo;Makan Aïko;Francia;Costa de Marfil;90;07/01/2001;cd_tondela
+Extremo izquierdo;Benjamin Kimpioka;Suecia;RD del Congo;23;21/02/2000;cd_tondela
+Extremo izquierdo;Moudjatovic;Costa de Marfil;;70;20/05/2002;cd_tondela
+Extremo derecho;Maranhão;Brasil;;7;02/03/1999;cd_tondela
+Extremo derecho;Rony Lopes;Portugal;Brasil;16;28/12/1995;cd_tondela
+Extremo derecho;Arjen van der Heide;Países Bajos;;26;19/11/2001;cd_tondela
+Delantero centro;Jordan;Estados Unidos;Francia;29;26/04/1996;cd_tondela
+Portero;Kaique Pereira;Brasil;;1;16/04/2003;cd_nacional
+Portero;Lucas França;Brasil;;37;19/01/1996;cd_nacional
+Portero;Kevyn;Brasil;;50;01/07/2005;cd_nacional
+Portero;César Augusto;Brasil;Italia;12;23/08/2003;cd_nacional
+Defensa central;Zé Vítor;Brasil;;38;09/02/2001;cd_nacional
+Defensa central;Ulisses;Brasil;;4;28/09/1999;cd_nacional
+Defensa central;Léo Santos;Brasil;;34;09/12/1998;cd_nacional
+Defensa central;Ivanildo Fernandes;Cabo Verde;Portugal;14;26/03/1996;cd_nacional
+Defensa central;Chico Gonçalves;Portugal;;33;05/03/2004;cd_nacional
+Lateral izquierdo;José Gomes;Portugal;;5;20/07/1996;cd_nacional
+Lateral izquierdo;Lenny Vallier;Francia;Martinica;24;24/04/1999;cd_nacional
+Lateral derecho;Alan Núñez;Paraguay;;16;01/10/2004;cd_nacional
+Lateral derecho;João Aurélio;Portugal;;2;17/08/1988;cd_nacional
+Pivote;Matheus Dias;Brasil;;6;09/05/2002;cd_nacional
+Mediocentro;Liziero;Brasil;Italia;28;07/02/1998;cd_nacional
+Mediocentro;Chiheb Labidi;Túnez;;15;01/06/2001;cd_nacional
+Mediocentro;Joel Silva;Portugal;;26;11/02/2003;cd_nacional
+Mediocentro;Deivison;Brasil;;88;04/05/2006;cd_nacional
+Mediocentro;Jota;Portugal;;20;07/03/1993;cd_nacional
+Mediocentro;André Sousa;Portugal;;18;09/07/1990;cd_nacional
+Mediocentro ofensivo;Filipe Soares;Portugal;;22;20/05/1999;cd_nacional
+Mediocentro ofensivo;Daniel Jr;Brasil;;10;09/05/2002;cd_nacional
+Mediocentro ofensivo;Miguel Baeza;España;;8;27/03/2000;cd_nacional
+Extremo izquierdo;Paulinho Bóia;Brasil;;11;26/06/1998;cd_nacional
+Extremo izquierdo;Witi;Mozambique;Portugal;7;26/08/1996;cd_nacional
+Extremo derecho;Gabriel Veron;Brasil;;27;03/09/2002;cd_nacional
+Extremo derecho;Pablo Ruan;Brasil;;99;01/02/2003;cd_nacional
+Extremo derecho;Watts;Portugal;Brasil;30;14/07/2005;cd_nacional
+Delantero centro;Jesús Ramírez;Venezuela;;9;04/05/1998;cd_nacional
+Delantero centro;Lucas João;Angola;Portugal;19;04/09/1993;cd_nacional
+Portero;Diogo Pinto;Portugal;;1;18/06/2004;cf_estrela_amadora_sad
+Portero;Dudu;Alemania;Brasil;13;10/02/1999;cf_estrela_amadora_sad
+Portero;David Grilo;Portugal;;22;13/08/1996;cf_estrela_amadora_sad
+Portero;Renan Ribeiro;Brasil;;40;23/03/1990;cf_estrela_amadora_sad
+Defensa central;Stefan Lekovic;Serbia;;25;09/01/2004;cf_estrela_amadora_sad
+Defensa central;Luan Patrick;Brasil;;30;20/01/2002;cf_estrela_amadora_sad
+Defensa central;Otávio;Brasil;;83;25/11/2005;cf_estrela_amadora_sad
+Defensa central;Bernardo Schappo;Brasil;Luxemburgo;14;22/03/1999;cf_estrela_amadora_sad
+Defensa central;Issiar Dramé;Malí;Francia;5;16/02/1999;cf_estrela_amadora_sad
+Defensa central;Ni;Portugal;;3;01/03/2003;cf_estrela_amadora_sad
+Lateral izquierdo;Bruno Langa;Mozambique;;24;31/10/1997;cf_estrela_amadora_sad
+Lateral izquierdo;Yahya Kalley;Gambia;Suecia;2;20/03/2001;cf_estrela_amadora_sad
+Lateral derecho;Jefferson Encada;Guinea-Bissau;Portugal;17;17/04/1998;cf_estrela_amadora_sad
+Lateral derecho;Max Scholze;Alemania;;21;30/04/2005;cf_estrela_amadora_sad
+Pivote;Kevin Höög Jansson;Suecia;;6;29/09/2000;cf_estrela_amadora_sad
+Pivote;Eddy Doué;Costa de Marfil;Francia;39;11/12/2005;cf_estrela_amadora_sad
+Mediocentro;Paulo Moreira;Portugal;;19;17/02/2000;cf_estrela_amadora_sad
+Mediocentro;Robinho;Brasil;;8;07/08/2002;cf_estrela_amadora_sad
+Mediocentro;Tom Moustier;Francia;Suecia;28;02/05/2002;cf_estrela_amadora_sad
+Mediocentro;Alex Sola;Angola;;63;14/12/2003;cf_estrela_amadora_sad
+Extremo izquierdo;Ianis Stoica;Rumania;;10;08/12/2002;cf_estrela_amadora_sad
+Extremo izquierdo;Jovane Cabral;Cabo Verde;Portugal;11;14/06/1998;cf_estrela_amadora_sad
+Extremo izquierdo;Jorge Meireles;Portugal;;18;04/04/2004;cf_estrela_amadora_sad
+Extremo izquierdo;Alisson Souza;Brasil;;80;11/04/2005;cf_estrela_amadora_sad
+Extremo derecho;Billal Brahimi;Argelia;Francia;26;14/03/2000;cf_estrela_amadora_sad
+Extremo derecho;Abraham Marcus;Nigeria;;99;02/01/2000;cf_estrela_amadora_sad
+Delantero centro;Sydney van Hooijdonk;Países Bajos;;20;06/02/2000;cf_estrela_amadora_sad
+Delantero centro;Rodrigo Pinho;Brasil;Alemania;9;30/05/1991;cf_estrela_amadora_sad
+Delantero centro;Mathew Gbomadu;Nigeria;;17;16/10/2004;cf_estrela_amadora_sad
+Delantero centro;Chilohem Onuoha;Alemania;Nigeria;70;07/05/2005;cf_estrela_amadora_sad
+Delantero centro;Leandro Antonetti;Puerto Rico;España;77;13/01/2003;cf_estrela_amadora_sad
+Portero;Adriel;Brasil;;1;14/01/2001;avs_futebol_sad
+Portero;Simão;Brasil;;93;02/07/1993;avs_futebol_sad
+Portero;Trigueira;Portugal;;88;04/01/1988;avs_futebol_sad
+Defensa central;Cristian Devenish;Colombia;;42;25/01/2001;avs_futebol_sad
+Defensa central;Paulo Vitor;Brasil;;3;19/07/2001;avs_futebol_sad
+Defensa central;Rúben Semedo;Portugal;Cabo Verde;35;04/04/1994;avs_futebol_sad
+Defensa central;Ponck;Cabo Verde;Portugal;26;21/10/1990;avs_futebol_sad
+Defensa central;Aderllan Santos;Brasil;Portugal;33;09/04/1989;avs_futebol_sad
+Lateral izquierdo;Daniel Rivas;Paraguay;;12;06/12/2001;avs_futebol_sad
+Lateral izquierdo;Kiki;Portugal;;24;10/12/1994;avs_futebol_sad
+Lateral derecho;Guillem Molina;España;;5;03/05/2000;avs_futebol_sad
+Lateral derecho;Mateus Pivô;Brasil;;97;16/12/1997;avs_futebol_sad
+Pivote;Roni;Brasil;;70;15/04/1999;avs_futebol_sad
+Pivote;Ángel Algobia;España;Portugal;27;23/06/1999;avs_futebol_sad
+Pivote;Tiago Hernández;Uruguay;España;19;11/05/2002;avs_futebol_sad
+Mediocentro;Pedro Lima;Brasil;;8;27/03/2003;avs_futebol_sad
+Mediocentro;Gustavo Mendonça;Portugal;;23;11/03/2003;avs_futebol_sad
+Extremo izquierdo;Óscar Perea;Colombia;;14;27/09/2005;avs_futebol_sad
+Extremo izquierdo;Tunde Akinsola;Nigeria;;11;10/03/2003;avs_futebol_sad
+Extremo izquierdo;Andre Green;Inglaterra;;25;26/07/1998;avs_futebol_sad
+Extremo izquierdo;Guilherme Neiva;Brasil;;21;15/03/2001;avs_futebol_sad
+Delantero centro;Antoine Baroan;Francia;Costa de Marfil;17;24/06/2000;avs_futebol_sad
+Delantero centro;Diego Duarte;Paraguay;;20;08/04/2002;avs_futebol_sad
+Delantero centro;Tomané;Portugal;;7;23/10/1992;avs_futebol_sad
+Delantero centro;Nenê;Brasil;;18;28/07/1983;avs_futebol_sad

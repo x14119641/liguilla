@@ -1,0 +1,514 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Uğurcan Çakır;Turquía;;1;05/04/1996;galatasaray_istanbul
+Portero;Günay Güvenç;Turquía;Alemania;19;25/06/1991;galatasaray_istanbul
+Portero;Batuhan Şen;Turquía;;12;03/02/1999;galatasaray_istanbul
+Portero;Enes Emre Büyük;Turquía;;70;08/05/2006;galatasaray_istanbul
+Defensa central;Wilfried Singo;Costa de Marfil;;90;25/12/2000;galatasaray_istanbul
+Defensa central;Davinson Sánchez;Colombia;;6;12/06/1996;galatasaray_istanbul
+Defensa central;Abdülkerim Bardakcı;Turquía;;42;07/09/1994;galatasaray_istanbul
+Defensa central;Arda Ünyay;Turquía;;91;18/01/2007;galatasaray_istanbul
+Defensa central;Metehan Baltacı;Turquía;;3;03/11/2002;galatasaray_istanbul
+Lateral izquierdo;Ismail Jakobs;Senegal;Alemania;4;17/08/1999;galatasaray_istanbul
+Lateral izquierdo;Eren Elmalı;Turquía;;17;07/07/2000;galatasaray_istanbul
+Lateral derecho;Sacha Boey;Francia;;93;13/09/2000;galatasaray_istanbul
+Lateral derecho;Roland Sallai;Hungría;;7;22/05/1997;galatasaray_istanbul
+Pivote;Lucas Torreira;Uruguay;España;34;11/02/1996;galatasaray_istanbul
+Pivote;Mario Lemina;Gabón;Francia;99;01/09/1993;galatasaray_istanbul
+Pivote;Kaan Ayhan;Turquía;Alemania;23;10/11/1994;galatasaray_istanbul
+Mediocentro;Gabriel Sara;Brasil;;8;26/06/1999;galatasaray_istanbul
+Mediocentro;Renato Nhaga;Guinea-Bissau;Portugal;74;27/03/2007;galatasaray_istanbul
+Mediocentro;İlkay Gündoğan;Alemania;;20;24/10/1990;galatasaray_istanbul
+Mediocentro;Gökdeniz Gürpüz;Turquía;Alemania;33;25/02/2006;galatasaray_istanbul
+Extremo izquierdo;Barış Alper Yılmaz;Turquía;;53;23/05/2000;galatasaray_istanbul
+Extremo izquierdo;Noa Lang;Países Bajos;Surinam;77;17/06/1999;galatasaray_istanbul
+Extremo izquierdo;Ahmed Kutucu;Turquía;Alemania;21;01/03/2000;galatasaray_istanbul
+Extremo derecho;Leroy Sané;Alemania;Francia;10;11/01/1996;galatasaray_istanbul
+Extremo derecho;Yunus Akgün;Turquía;;11;07/07/2000;galatasaray_istanbul
+Extremo derecho;Yáser Asprilla;Colombia;;22;19/11/2003;galatasaray_istanbul
+Extremo derecho;Armando Güner;Argentina;Alemania;27;07/01/2008;galatasaray_istanbul
+Delantero centro;Victor Osimhen;Nigeria;;45;29/12/1998;galatasaray_istanbul
+Delantero centro;Mauro Icardi;Argentina;Italia;9;19/02/1993;galatasaray_istanbul
+Portero;Ederson;Brasil;Portugal;31;17/08/1993;fenerbahce_istanbul
+Portero;Tarık Çetin;Turquía;;13;08/01/1997;fenerbahce_istanbul
+Portero;Mert Günok;Turquía;;34;01/03/1989;fenerbahce_istanbul
+Portero;Engin Can Biterge;Turquía;Bulgaria;39;22/01/2007;fenerbahce_istanbul
+Defensa central;Jayden Oosterwolde;Países Bajos;Surinam;24;26/04/2001;fenerbahce_istanbul
+Defensa central;Milan Škriniar;Eslovaquia;;37;11/02/1995;fenerbahce_istanbul
+Defensa central;Yiğit Efe Demir;Turquía;;14;02/08/2004;fenerbahce_istanbul
+Defensa central;Çağlar Söyüncü;Turquía;;4;23/05/1996;fenerbahce_istanbul
+Lateral izquierdo;Archie Brown;Inglaterra;Jamaica;3;28/05/2002;fenerbahce_istanbul
+Lateral izquierdo;Levent Mercan;Turquía;Alemania;22;10/12/2000;fenerbahce_istanbul
+Lateral derecho;Mert Müldür;Turquía;Austria;18;03/04/1999;fenerbahce_istanbul
+Lateral derecho;Nélson Semedo;Portugal;Cabo Verde;27;16/11/1993;fenerbahce_istanbul
+Pivote;Edson Álvarez;México;;11;24/10/1997;fenerbahce_istanbul
+Pivote;İsmail Yüksek;Turquía;;5;26/01/1999;fenerbahce_istanbul
+Pivote;N'Golo Kanté;Francia;Malí;17;29/03/1991;fenerbahce_istanbul
+Mediocentro;Mattéo Guendouzi;Francia;Marruecos;6;14/04/1999;fenerbahce_istanbul
+Mediocentro;Fred;Brasil;;7;05/03/1993;fenerbahce_istanbul
+Mediocentro;Abdou Aziz Fall;Senegal;;60;20/02/2007;fenerbahce_istanbul
+Mediocentro ofensivo;Marco Asensio;España;Países Bajos;21;21/01/1996;fenerbahce_istanbul
+Mediocentro ofensivo;Mert Hakan Yandaş;Turquía;;8;19/08/1994;fenerbahce_istanbul
+Extremo izquierdo;Kerem Aktürkoğlu;Turquía;;9;21/10/1998;fenerbahce_istanbul
+Extremo izquierdo;Oğuz Aydın;Turquía;;70;27/10/2000;fenerbahce_istanbul
+Extremo derecho;Dorgeles Nene;Malí;;45;23/12/2002;fenerbahce_istanbul
+Extremo derecho;Anthony Musaba;Países Bajos;RD del Congo;20;06/12/2000;fenerbahce_istanbul
+Extremo derecho;Emre Mor;Turquía;Dinamarca;-;24/07/1997;fenerbahce_istanbul
+Delantero centro;Sidiki Chérif;Guinea;;26;15/12/2006;fenerbahce_istanbul
+Delantero centro;Talisca;Brasil;;94;01/02/1994;fenerbahce_istanbul
+Portero;Ersin Destanoğlu;Turquía;;30;01/01/2001;besiktas_istanbul
+Portero;Devis Vásquez;Colombia;;32;12/05/1998;besiktas_istanbul
+Portero;Emre Bilgin;Turquía;;99;26/02/2004;besiktas_istanbul
+Portero;Emir Yaşar;Turquía;;96;16/01/2006;besiktas_istanbul
+Defensa central;Emmanuel Agbadou;Costa de Marfil;;12;17/06/1997;besiktas_istanbul
+Defensa central;Tiago Djaló;Portugal;Guinea-Bissau;35;09/04/2000;besiktas_istanbul
+Defensa central;Emirhan Topçu;Turquía;;53;11/10/2000;besiktas_istanbul
+Defensa central;Yasin Özcan;Turquía;;58;20/04/2006;besiktas_istanbul
+Defensa central;Felix Uduokhai;Alemania;Nigeria;14;09/09/1997;besiktas_istanbul
+Lateral izquierdo;Rıdvan Yılmaz;Turquía;;33;21/05/2001;besiktas_istanbul
+Lateral derecho;Amir Murillo;Panamá;;62;11/02/1996;besiktas_istanbul
+Lateral derecho;Taylan Bulut;Alemania;Turquía;22;19/01/2006;besiktas_istanbul
+Lateral derecho;Gökhan Sazdağı;Turquía;;25;20/09/1994;besiktas_istanbul
+Pivote;Kristjan Asllani;Albania;Italia;23;09/03/2002;besiktas_istanbul
+Pivote;Wilfred Ndidi;Nigeria;Inglaterra;4;16/12/1996;besiktas_istanbul
+Pivote;Kartal Yılmaz;Turquía;;17;04/11/2000;besiktas_istanbul
+Pivote;Necip Uysal;Turquía;;20;24/01/1991;besiktas_istanbul
+Mediocentro;Orkun Kökçü;Turquía;Países Bajos;10;29/12/2000;besiktas_istanbul
+Mediocentro;Salih Uçan;Turquía;;8;06/01/1994;besiktas_istanbul
+Mediocentro ofensivo;Junior Olaitan;Benín;Nigeria;15;09/05/2002;besiktas_istanbul
+Extremo izquierdo;El Bilal Touré;Malí;Costa de Marfil;19;03/10/2001;besiktas_istanbul
+Extremo izquierdo;Jota Silva;Portugal;;26;01/08/1999;besiktas_istanbul
+Extremo izquierdo;Devrim Şahin;Turquía;;52;01/04/2007;besiktas_istanbul
+Extremo derecho;Vaclav Cerny;República Checa;;18;17/10/1997;besiktas_istanbul
+Extremo derecho;Cengiz Ünder;Turquía;;11;14/07/1997;besiktas_istanbul
+Extremo derecho;Milot Rashica;Kosovo;Albania;7;28/06/1996;besiktas_istanbul
+Delantero centro;Hyeon-gyu Oh;Corea del Sur;;9;12/04/2001;besiktas_istanbul
+Delantero centro;Mustafa Hekimoğlu;Turquía;;91;22/04/2007;besiktas_istanbul
+Portero;André Onana;Camerún;;24;02/04/1996;trabzonspor
+Portero;Onuralp Çevikkan;Turquía;;25;02/01/2006;trabzonspor
+Portero;Ahmet Yıldırım;Turquía;;88;01/11/2006;trabzonspor
+Portero;Erol Can Çolak;Turquía;;96;02/01/2006;trabzonspor
+Defensa central;Arseniy Batagov;Ucrania;;44;05/03/2002;trabzonspor
+Defensa central;Chibuike Nwaiwu;Nigeria;;27;23/07/2003;trabzonspor
+Defensa central;Stefan Savic;Montenegro;Serbia;15;08/01/1991;trabzonspor
+Defensa central;Arda Öztürk;Turquía;;21;10/03/2007;trabzonspor
+Defensa central;Taha Emre İnce;Turquía;;92;26/07/2007;trabzonspor
+Lateral izquierdo;Mathias Løvik;Noruega;;14;06/12/2003;trabzonspor
+Lateral izquierdo;Mustafa Eskihellaç;Turquía;;19;05/05/1997;trabzonspor
+Lateral derecho;Wagner Pina;Cabo Verde;Portugal;20;03/11/2002;trabzonspor
+Pivote;Okay Yokuşlu;Turquía;;5;09/03/1994;trabzonspor
+Pivote;Salih Malkoçoğlu;Turquía;;74;23/02/2005;trabzonspor
+Mediocentro;Christ Inao Oulaï;Costa de Marfil;;42;06/04/2006;trabzonspor
+Mediocentro;Tim Jabol-Folcarelli;Francia;Martinica;26;06/12/1999;trabzonspor
+Mediocentro;Benjamin Bouchouari;Marruecos;Bélgica;8;13/11/2001;trabzonspor
+Mediocentro;Ozan Tufan;Turquía;;11;23/03/1995;trabzonspor
+Mediocentro;Boran Başkan;Turquía;;80;29/03/2006;trabzonspor
+Mediocentro ofensivo;Ernest Muci;Albania;;10;19/03/2001;trabzonspor
+Extremo izquierdo;Anthony Nwakaeme;Nigeria;;9;21/03/1989;trabzonspor
+Extremo derecho;Oleksandr Zubkov;Ucrania;;22;03/08/1996;trabzonspor
+Extremo derecho;Edin Visca;Bosnia y Herzegovina;;7;17/02/1990;trabzonspor
+Extremo derecho;Onuralp Çakıroğlu;Turquía;;17;05/12/2007;trabzonspor
+Delantero centro;Felipe Augusto;Brasil;;99;18/02/2004;trabzonspor
+Delantero centro;Paul Onuachu;Nigeria;;30;28/05/1994;trabzonspor
+Delantero centro;Umut Nayir;Turquía;;18;28/06/1993;trabzonspor
+Portero;Muhammed Şengezer;Turquía;;16;05/01/1997;istanbul_basaksehir_fk
+Portero;Doğan Alemdar;Turquía;;80;29/10/2002;istanbul_basaksehir_fk
+Portero;Volkan Babacan;Turquía;;1;11/08/1988;istanbul_basaksehir_fk
+Portero;Luca Stancic;Turquía;Alemania;78;20/01/2007;istanbul_basaksehir_fk
+Defensa central;Jerome Opoku;Ghana;Inglaterra;3;14/10/1998;istanbul_basaksehir_fk
+Defensa central;Léo Duarte;Brasil;;5;17/07/1996;istanbul_basaksehir_fk
+Defensa central;Hamza Güreler;Turquía;;15;10/04/2006;istanbul_basaksehir_fk
+Defensa central;Ousseynou Ba;Senegal;;27;11/11/1995;istanbul_basaksehir_fk
+Lateral izquierdo;Christopher Operi;Costa de Marfil;Francia;21;29/04/1997;istanbul_basaksehir_fk
+Lateral izquierdo;Kazımcan Karataş;Turquía;;88;16/01/2003;istanbul_basaksehir_fk
+Lateral derecho;Festy Ebosele;Irlanda;Nigeria;36;02/08/2002;istanbul_basaksehir_fk
+Lateral derecho;Onur Bulut;Turquía;Alemania;6;16/04/1994;istanbul_basaksehir_fk
+Lateral derecho;Ömer Ali Şahiner;Turquía;;42;02/01/1992;istanbul_basaksehir_fk
+Pivote;Jakub Kaluzinski;Polonia;;18;31/10/2002;istanbul_basaksehir_fk
+Pivote;Berat Özdemir;Turquía;;2;23/05/1998;istanbul_basaksehir_fk
+Pivote;Onur Ergün;Turquía;;4;15/11/1992;istanbul_basaksehir_fk
+Mediocentro;Olivier Kemen;Camerún;Francia;8;20/07/1996;istanbul_basaksehir_fk
+Mediocentro;Miguel Crespo;Portugal;Francia;13;11/09/1996;istanbul_basaksehir_fk
+Mediocentro;Umut Güneş;Turquía;Alemania;20;16/03/2000;istanbul_basaksehir_fk
+Extremo izquierdo;Amine Harit;Marruecos;Francia;25;18/06/1997;istanbul_basaksehir_fk
+Extremo izquierdo;Ivan Brnic;Croacia;;77;23/08/2001;istanbul_basaksehir_fk
+Extremo izquierdo;Berkay Aslan;Turquía;Alemania;45;05/01/2007;istanbul_basaksehir_fk
+Extremo derecho;Abbosbek Fayzullaev;Uzbekistán;;11;03/10/2003;istanbul_basaksehir_fk
+Extremo derecho;Yusuf Sarı;Turquía;Francia;7;20/11/1998;istanbul_basaksehir_fk
+Delantero centro;Eldor Shomurodov;Uzbekistán;;14;29/06/1995;istanbul_basaksehir_fk
+Delantero centro;Bertuğ Yıldırım;Turquía;;91;12/07/2002;istanbul_basaksehir_fk
+Delantero centro;Davie Selke;Alemania;;9;20/01/1995;istanbul_basaksehir_fk
+Delantero centro;Nuno Da Costa;Cabo Verde;Francia;10;10/02/1991;istanbul_basaksehir_fk
+Portero;Mateusz Lis;Polonia;;1;27/02/1997;goztepe
+Portero;Ekrem Kılıçarslan;Turquía;;17;22/08/1997;goztepe
+Portero;Şamil Öztürk;Turquía;;33;09/05/2005;goztepe
+Portero;Nevzat Üzel;Turquía;;21;07/03/2007;goztepe
+Defensa central;Taha Altıkardeş;Turquía;;4;22/08/2003;goztepe
+Defensa central;Malcom Bokele;Camerún;Francia;26;12/02/2000;goztepe
+Defensa central;Furkan Bayır;Turquía;;23;09/02/2000;goztepe
+Defensa central;Héliton;Brasil;;5;13/11/1995;goztepe
+Defensa central;Allan Godói;Brasil;;3;04/04/1993;goztepe
+Defensa central;Ege Yıldırım;Turquía;;45;18/04/2007;goztepe
+Lateral derecho;Erkam Kömür;Turquía;;-;15/07/2002;goztepe
+Pivote;Anthony Dennis;Nigeria;;30;21/06/2004;goztepe
+Pivote;Novatus Miroshi;Tanzania;;20;02/09/2002;goztepe
+Pivote;Musah Mohammed;Ghana;;6;05/01/2002;goztepe
+Mediocentro;Furkan Malak;Turquía;;-;14/01/2005;goztepe
+Interior derecho;Arda Okan Kurtulan;Turquía;Albania;2;19/11/2002;goztepe
+Interior derecho;Ogün Bayrak;Turquía;;77;10/10/1998;goztepe
+Interior derecho;Uğur Kaan Yıldız;Turquía;;22;06/08/2002;goztepe
+Interior izquierdo;Amin Cherni;Túnez;Francia;15;07/07/2001;goztepe
+Interior izquierdo;İsmail Köybaşı;Turquía;;12;10/07/1989;goztepe
+Mediocentro ofensivo;Filip Krastev;Bulgaria;;10;15/10/2001;goztepe
+Mediocentro ofensivo;Alexis Antunes;Suiza;;8;31/07/2000;goztepe
+Mediocentro ofensivo;Efkan Bekiroğlu;Turquía;Alemania;11;14/09/1995;goztepe
+Delantero centro;Juan;Brasil;;9;07/03/2002;goztepe
+Delantero centro;Janderson;Brasil;;39;06/05/1999;goztepe
+Delantero centro;Guilherme Luiz;Brasil;;14;25/04/2005;goztepe
+Delantero centro;Jeh;Brasil;;19;24/10/1999;goztepe
+Portero;Okan Kocuk;Turquía;;1;27/07/1995;samsunspor
+Portero;İrfan Can Eğribayat;Turquía;;71;30/06/1998;samsunspor
+Portero;Efe Yiğit Üstün;Turquía;;33;07/05/2008;samsunspor
+Portero;Efe Berat Törüz;Turquía;;48;08/09/2006;samsunspor
+Defensa central;Rick van Drongelen;Países Bajos;;4;20/12/1998;samsunspor
+Defensa central;Toni Borevković;Croacia;;24;18/06/1997;samsunspor
+Defensa central;Lubomir Satka;Eslovaquia;;37;02/12/1995;samsunspor
+Defensa central;Bedirhan Çetin;Turquía;;96;29/06/2006;samsunspor
+Defensa central;Ali Badra Diabaté;Costa de Marfil;;15;05/12/2006;samsunspor
+Lateral izquierdo;Logi Tómasson;Islandia;;17;13/09/2000;samsunspor
+Lateral izquierdo;Soner Gönül;Turquía;;28;11/06/1997;samsunspor
+Lateral izquierdo;Enes Albak;Turquía;;23;16/05/2005;samsunspor
+Lateral derecho;Joe Mendes;Suecia;RD del Congo;2;31/12/2002;samsunspor
+Lateral derecho;Zeki Yavru;Turquía;;18;05/09/1991;samsunspor
+Pivote;Antoine Makoumbou;Congo;Francia;29;18/07/1998;samsunspor
+Pivote;Yunus Emre Çift;Turquía;;55;01/09/2003;samsunspor
+Pivote;Franck Atoen;Camerún;;25;21/07/2006;samsunspor
+Pivote;Eyüp Değirmenci;Turquía;;73;16/04/2007;samsunspor
+Mediocentro;Olivier Ntcham;Camerún;Francia;10;09/02/1996;samsunspor
+Mediocentro;Celil Yüksel;Turquía;;5;01/01/1998;samsunspor
+Mediocentro;Yalçın Kayan;Turquía;;20;30/01/1999;samsunspor
+Mediocentro;Muhammet Özbaskıcı;Turquía;;-;27/09/2005;samsunspor
+Mediocentro;Alper Efe Pazar;Turquía;;-;08/02/2005;samsunspor
+Mediocentro ofensivo;Carlo Holse;Dinamarca;;21;02/06/1999;samsunspor
+Mediocentro ofensivo;Afonso Sousa;Portugal;;77;03/05/2000;samsunspor
+Extremo izquierdo;Jaurès Assoumou;Costa de Marfil;Malí;47;17/10/2002;samsunspor
+Extremo izquierdo;Emre Kılınç;Turquía;;11;23/08/1994;samsunspor
+Extremo izquierdo;Tahsin Bülbül;Turquía;;16;09/06/2006;samsunspor
+Extremo izquierdo;Saikuba Jarju;Gambia;;30;09/12/2007;samsunspor
+Extremo derecho;Elayis Tavsan;Turquía;Países Bajos;7;30/04/2001;samsunspor
+Extremo derecho;Tanguy Coulibaly;Francia;Costa de Marfil;70;18/02/2001;samsunspor
+Delantero centro;Cherif Ndiaye;Senegal;;19;23/01/1996;samsunspor
+Delantero centro;Marius Mouandilmadji;Chad;;9;22/01/1998;samsunspor
+Delantero centro;Ebrima Ceesay;Gambia;;99;01/06/2006;samsunspor
+Portero;Yahia Fofana;Costa de Marfil;Francia;75;21/08/2000;caykur_rizespor
+Portero;Erdem Canpolat;Turquía;Alemania;1;13/04/2001;caykur_rizespor
+Portero;Efe Doğan;Turquía;;35;20/08/2004;caykur_rizespor
+Defensa central;Attila Mocsi;Hungría;;4;29/05/2000;caykur_rizespor
+Defensa central;Modibo Sagnan;Malí;Francia;27;14/04/1999;caykur_rizespor
+Defensa central;Khusniddin Alikulov;Uzbekistán;;2;04/04/1999;caykur_rizespor
+Defensa central;Samet Akaydin;Turquía;;3;13/03/1994;caykur_rizespor
+Defensa central;Emir Ortakaya;Turquía;;65;22/06/2004;caykur_rizespor
+Lateral izquierdo;Mithat Pala;Turquía;;54;15/08/2000;caykur_rizespor
+Lateral izquierdo;Casper Højer;Dinamarca;;5;20/11/1994;caykur_rizespor
+Lateral derecho;Taha Şahin;Turquía;;37;22/10/2000;caykur_rizespor
+Lateral derecho;Furkan Orak;Turquía;;70;28/05/2001;caykur_rizespor
+Pivote;Giannis Papanikolaou;Grecia;;6;18/11/1998;caykur_rizespor
+Pivote;Taylan Antalyalı;Turquía;;14;08/01/1995;caykur_rizespor
+Mediocentro;Qazim Laci;Albania;Grecia;20;19/01/1996;caykur_rizespor
+Mediocentro;Ibrahim Olawoyin;Nigeria;;10;01/12/1997;caykur_rizespor
+Mediocentro;Muhamed Buljubasic;Bosnia y Herzegovina;;18;04/07/2004;caykur_rizespor
+Extremo izquierdo;Valentin Mihăilă;Rumania;;7;02/02/2000;caykur_rizespor
+Extremo izquierdo;Altin Zeqiri;Kosovo;Finlandia;77;18/07/2000;caykur_rizespor
+Extremo izquierdo;Emrecan Bulut;Turquía;;99;26/11/2002;caykur_rizespor
+Extremo derecho;Adedire Mebude;Escocia;Nigeria;17;28/05/2004;caykur_rizespor
+Extremo derecho;Loide Augusto;Angola;;50;26/02/2000;caykur_rizespor
+Delantero centro;Frantzdy Pierrot;Haití;Estados Unidos;19;29/03/1995;caykur_rizespor
+Delantero centro;Ali Sowe;Gambia;Italia;9;14/06/1994;caykur_rizespor
+Delantero centro;Halil Dervişoğlu;Turquía;Países Bajos;11;08/12/1999;caykur_rizespor
+Portero;Deniz Ertaş;Turquía;Moldavia;1;20/03/2005;konyaspor
+Portero;Bahadır Güngördü;Turquía;;13;16/01/1996;konyaspor
+Portero;Egemen Aydın;Turquía;;29;12/05/2007;konyaspor
+Defensa central;Adamo Nagalo;Burkina Faso;Costa de Marfil;39;22/09/2002;konyaspor
+Defensa central;Riechedly Bazoer;Curazao;Países Bajos;20;12/10/1996;konyaspor
+Defensa central;Adil Demirbağ;Turquía;;4;10/12/1997;konyaspor
+Defensa central;Rayyan Baniya;Turquía;Italia;22;18/02/1999;konyaspor
+Defensa central;Uğurcan Yazğılı;Turquía;;5;09/04/1999;konyaspor
+Defensa central;Josip Calusic;Croacia;;15;11/10/1993;konyaspor
+Lateral izquierdo;Arif Boşluk;Turquía;;24;06/06/2003;konyaspor
+Lateral izquierdo;Guilherme;Brasil;Portugal;12;01/04/1990;konyaspor
+Lateral izquierdo;Yasir Subaşı;Turquía;;3;01/01/1996;konyaspor
+Lateral derecho;Yhoan Andzouana;Congo;Francia;23;13/12/1996;konyaspor
+Pivote;Jin-ho Jo;Corea del Sur;;21;10/07/2003;konyaspor
+Pivote;Marko Jevtovic;Serbia;;16;24/07/1993;konyaspor
+Pivote;Ufuk Akyol;Turquía;Alemania;19;27/08/1997;konyaspor
+Mediocentro;Berkan Kutlu;Turquía;Suiza;18;25/01/1998;konyaspor
+Mediocentro;Melih İbrahimoğlu;Turquía;Austria;77;17/07/2000;konyaspor
+Mediocentro;Morten Bjørlo;Noruega;;42;04/10/1995;konyaspor
+Mediocentro;Esat Buğa;Turquía;;30;08/08/2006;konyaspor
+Mediocentro ofensivo;Enis Bardhi;Macedonia del Norte;;10;02/07/1995;konyaspor
+Extremo izquierdo;Kazeem Olaigbe;Bélgica;Nigeria;70;02/01/2003;konyaspor
+Extremo izquierdo;Diogo Gonçalves;Portugal;;17;06/02/1997;konyaspor
+Extremo izquierdo;Pedrinho;Brasil;;8;19/12/1996;konyaspor
+Extremo izquierdo;Sander Svendsen;Noruega;;32;06/08/1997;konyaspor
+Extremo derecho;Tunahan Taşçı;Turquía;Países Bajos;7;29/04/2002;konyaspor
+Extremo derecho;Marius Ștefănescu;Rumania;;11;14/08/1998;konyaspor
+Extremo derecho;Deniz Türüç;Turquía;Países Bajos;9;29/01/1993;konyaspor
+Delantero centro;Jackson Muleka;RD del Congo;;40;04/10/1999;konyaspor
+Delantero centro;Blaz Kramer;Eslovenia;;99;01/06/1996;konyaspor
+Portero;Ertuğrul Taşkıran;Turquía;;1;05/11/1989;alanyaspor
+Portero;Paulo Victor;Brasil;Italia;48;12/01/1987;alanyaspor
+Defensa central;Ümit Akdağ;Rumania;Turquía;50;06/10/2003;alanyaspor
+Defensa central;Nuno Lima;Portugal;;3;16/03/2001;alanyaspor
+Defensa central;Fatih Aksoy;Turquía;;20;06/11/1997;alanyaspor
+Defensa central;Fidan Aliti;Kosovo;Suiza;5;03/10/1993;alanyaspor
+Defensa central;Bruno Viana;Brasil;;30;05/02/1995;alanyaspor
+Lateral derecho;Batuhan Yavuz;Turquía;Alemania;2;04/05/2005;alanyaspor
+Pivote;Maestro;Angola;;58;04/08/2003;alanyaspor
+Pivote;Gaius Makouta;Congo;Francia;42;25/07/1997;alanyaspor
+Mediocentro;Nicolas Janvier;Francia;;17;11/08/1998;alanyaspor
+Mediocentro;İzzet Çelik;Turquía;;6;20/06/2004;alanyaspor
+Mediocentro;Buluthan Bulut;Turquía;;25;21/07/2002;alanyaspor
+Interior derecho;Florent Hadergjonaj;Kosovo;Suiza;94;31/07/1994;alanyaspor
+Interior derecho;Enes Keskin;Turquía;;8;04/06/2001;alanyaspor
+Interior izquierdo;Ruan;Brasil;;11;03/05/2005;alanyaspor
+Interior izquierdo;Baran Moğultay;Turquía;Alemania;18;18/05/2004;alanyaspor
+Interior izquierdo;Yusuf Özdemir;Turquía;;88;10/01/2001;alanyaspor
+Mediocentro ofensivo;Meschack Elia;RD del Congo;;12;06/08/1997;alanyaspor
+Mediocentro ofensivo;Ianis Hagi;Rumania;Turquía;14;22/10/1998;alanyaspor
+Mediocentro ofensivo;İbrahim Kaya;Turquía;;27;09/03/2001;alanyaspor
+Mediocentro ofensivo;Ui-jo Hwang;Corea del Sur;;16;28/08/1992;alanyaspor
+Mediocentro ofensivo;Efecan Karaca;Turquía;;7;16/11/1989;alanyaspor
+Mediocentro ofensivo;Yusuf Can Karademir;Turquía;;38;04/01/2008;alanyaspor
+Delantero centro;Steve Mounié;Benín;Francia;9;29/09/1994;alanyaspor
+Delantero centro;Güven Yalçın;Turquía;Alemania;10;18/01/1999;alanyaspor
+Portero;Zafer Görgen;Turquía;;20;21/06/2000;gaziantep_fk
+Portero;Burak Bozan;Turquía;;71;23/08/2000;gaziantep_fk
+Portero;Cemilhan Aslan;Turquía;;81;07/05/2008;gaziantep_fk
+Defensa central;Tayyip Talha Sanuç;Turquía;;23;17/12/1999;gaziantep_fk
+Defensa central;Nihad Mujakic;Bosnia y Herzegovina;;5;15/04/1998;gaziantep_fk
+Defensa central;Arda Kızıldağ;Turquía;;4;15/10/1998;gaziantep_fk
+Defensa central;Myenty Abena;Surinam;Países Bajos;14;12/12/1994;gaziantep_fk
+Defensa central;Nazım Sangaré;Turquía;Alemania;30;30/05/1994;gaziantep_fk
+Lateral izquierdo;Kévin Rodrigues;Portugal;Francia;77;05/03/1994;gaziantep_fk
+Lateral derecho;Deian Sorescu;Rumania;;18;29/08/1997;gaziantep_fk
+Lateral derecho;Luis Pérez;España;;2;04/02/1995;gaziantep_fk
+Lateral derecho;Salem M'Bakata;Francia;RD del Congo;22;19/04/1998;gaziantep_fk
+Pivote;Melih Kabasakal;Turquía;;6;18/02/1996;gaziantep_fk
+Pivote;Ogün Özçiçek;Turquía;;61;24/01/1999;gaziantep_fk
+Mediocentro;Drissa Camara;Costa de Marfil;Italia;3;18/02/2002;gaziantep_fk
+Mediocentro;Karamba Gassama;Gambia;;17;02/01/2005;gaziantep_fk
+Mediocentro ofensivo;Kacper Kozlowski;Polonia;;10;16/10/2003;gaziantep_fk
+Mediocentro ofensivo;Alexandru Maxim;Rumania;;44;08/07/1990;gaziantep_fk
+Mediocentro ofensivo;Victor Ntino-Emo Gidado;Nigeria;;8;14/07/2004;gaziantep_fk
+Extremo izquierdo;Yusuf Kabadayi;Alemania;Turquía;32;02/02/2004;gaziantep_fk
+Extremo izquierdo;Christopher Lungoyi;Suiza;RD del Congo;11;04/07/2000;gaziantep_fk
+Extremo izquierdo;Ali Osman Kalın;Turquía;;26;23/03/2008;gaziantep_fk
+Extremo derecho;Ali Mevran Ablak;Turquía;;16;27/07/2003;gaziantep_fk
+Delantero centro;Mohamed Bayo;Guinea;Francia;9;04/06/1998;gaziantep_fk
+Delantero centro;Denis Drăguș;Rumania;;70;06/07/1999;gaziantep_fk
+Delantero centro;Muhammet Akmelek;Turquía;;85;06/06/2009;gaziantep_fk
+Portero;Bilal Bayazıt;Turquía;Países Bajos;25;08/04/1999;kayserispor
+Portero;Deniz Dönmezer;Turquía;;27;21/09/2008;kayserispor
+Portero;Onurcan Piri;Turquía;;1;28/09/1994;kayserispor
+Defensa central;Semih Güler;Turquía;Alemania;6;30/11/1994;kayserispor
+Defensa central;Stefano Denswil;Surinam;Países Bajos;4;07/05/1993;kayserispor
+Defensa central;Majid Hosseini;Irán;;5;20/06/1996;kayserispor
+Defensa central;Jadel Katongo;Inglaterra;Zambia;2;14/09/2004;kayserispor
+Defensa central;Kayra Cihan;Turquía;;38;30/09/2007;kayserispor
+Defensa central;Abdulsamet Burak;Turquía;;3;13/05/1996;kayserispor
+Lateral izquierdo;Lionel Carole;Francia;Martinica;23;12/04/1991;kayserispor
+Lateral derecho;Joshua Brenet;Curazao;Países Bajos;30;20/03/1994;kayserispor
+Lateral derecho;Ramazan Civelek;Turquía;;28;22/01/1996;kayserispor
+Lateral derecho;Burak Kapacak;Turquía;;17;08/12/1999;kayserispor
+Pivote;Youssef Aït Bennasser;Marruecos;Francia;15;07/07/1996;kayserispor
+Pivote;Dorukhan Toköz;Turquía;;24;21/05/1996;kayserispor
+Mediocentro;László Bénes;Eslovaquia;;8;09/09/1997;kayserispor
+Mediocentro;Görkem Sağlam;Turquía;Alemania;61;11/04/1998;kayserispor
+Mediocentro;Furkan Soyalp;Turquía;;33;12/06/1995;kayserispor
+Mediocentro;Yiğit Emre Çeltik;Turquía;;21;07/04/2003;kayserispor
+Mediocentro ofensivo;João Mendes;Portugal;;10;21/10/1994;kayserispor
+Mediocentro ofensivo;Eray Özbek;Turquía;;16;09/01/2003;kayserispor
+Extremo izquierdo;Miguel Cardoso;Portugal;;7;19/06/1994;kayserispor
+Extremo izquierdo;Sam Mather;Inglaterra;;11;03/09/2004;kayserispor
+Extremo izquierdo;Nurettin Korkmaz;Turquía;;77;27/06/2002;kayserispor
+Extremo derecho;Denis Makarov;Rusia;;18;18/02/1998;kayserispor
+Extremo derecho;Carlos Mané;Guinea-Bissau;Portugal;20;11/03/1994;kayserispor
+Delantero centro;Fedor Chalov;Rusia;;63;10/04/1998;kayserispor
+Delantero centro;German Onugkha;Rusia;Nigeria;9;06/07/1996;kayserispor
+Delantero centro;Indrit Tuci;Albania;;22;14/09/2000;kayserispor
+Delantero centro;Talha Sarıarslan;Turquía;;99;18/01/2004;kayserispor
+Portero;Andreas Gianniotis;Grecia;;1;18/12/1992;kasimpasa
+Portero;Ali Emre Yanar;Turquía;;25;15/05/1998;kasimpasa
+Portero;Ege Albayrak;Turquía;;61;20/08/2007;kasimpasa
+Portero;Şant Kazancı;Turquía;;98;18/12/2008;kasimpasa
+Defensa central;Rodrigo Becão;Brasil;;50;19/01/1996;kasimpasa
+Defensa central;Nicholas Opoku;Ghana;;20;11/08/1997;kasimpasa
+Defensa central;Adem Arous;Túnez;;4;17/07/2004;kasimpasa
+Defensa central;Taylan Aydın;Turquía;;29;10/02/2006;kasimpasa
+Defensa central;Ahmet Taha Dağbaşı;Turquía;;30;01/04/2005;kasimpasa
+Lateral izquierdo;Godfried Frimpong;Países Bajos;Ghana;21;21/04/1999;kasimpasa
+Lateral izquierdo;Emre Taşdemir;Turquía;;33;08/08/1995;kasimpasa
+Lateral derecho;Cláudio Winck;Brasil;;2;15/04/1994;kasimpasa
+Lateral derecho;Kamil Ahmet Çörekçi;Turquía;Inglaterra;22;01/02/1992;kasimpasa
+Lateral derecho;Berkay Muratoğlu;Turquía;;47;02/01/2008;kasimpasa
+Pivote;Andri Fannar Baldursson;Islandia;;16;10/01/2002;kasimpasa
+Pivote;Burak Gültekin;Turquía;;6;17/11/2006;kasimpasa
+Mediocentro;Kerem Demirbay;Alemania;Turquía;26;03/07/1993;kasimpasa
+Mediocentro;Eyüp Aydın;Turquía;Alemania;5;02/08/2004;kasimpasa
+Mediocentro;Cafú;Portugal;Guinea-Bissau;8;26/02/1993;kasimpasa
+Mediocentro ofensivo;Haris Hajradinovic;Bosnia y Herzegovina;Macedonia del Norte;10;18/02/1994;kasimpasa
+Extremo izquierdo;Adrian Benedyczak;Polonia;;19;24/11/2000;kasimpasa
+Extremo izquierdo;Mortadha Ben Ouanes;Túnez;;12;02/07/1994;kasimpasa
+Extremo izquierdo;Ali Yavuz Kol;Turquía;;11;29/01/2001;kasimpasa
+Extremo izquierdo;Erdem Çetinkaya;Turquía;;80;29/03/2001;kasimpasa
+Extremo derecho;İrfan Can Kahveci;Turquía;;71;15/07/1995;kasimpasa
+Extremo derecho;Jim Allevinah;Gabón;Francia;18;27/02/1995;kasimpasa
+Extremo derecho;Fousseni Diabaté;Malí;Francia;34;18/10/1995;kasimpasa
+Delantero centro;Pape Habib Guèye;Senegal;;77;20/09/1999;kasimpasa
+Delantero centro;Yusuf Barası;Turquía;Países Bajos;9;31/03/2003;kasimpasa
+Delantero centro;Kubilay Kanatsızkuş;Turquía;;17;28/03/1997;kasimpasa
+Delantero centro;Cenk Tosun;Turquía;Alemania;23;07/06/1991;kasimpasa
+Portero;Ricardo Velho;Portugal;;24;20/08/1998;genclerbirligi_ankara
+Portero;Erhan Erentürk;Turquía;;18;30/05/1995;genclerbirligi_ankara
+Portero;Ebrar Aydın;Turquía;;33;03/09/2000;genclerbirligi_ankara
+Portero;Berk Deniz Çukurcu;Turquía;;19;02/01/2008;genclerbirligi_ankara
+Defensa central;Dimitrios Goutas;Grecia;;6;04/04/1994;genclerbirligi_ankara
+Defensa central;Thalisson;Brasil;;2;07/05/1998;genclerbirligi_ankara
+Defensa central;Zan Zuzek;Eslovenia;;4;26/01/1997;genclerbirligi_ankara
+Defensa central;Abdullah Şahindere;Turquía;;-;09/06/2003;genclerbirligi_ankara
+Defensa central;Umut İslamoğlu;Turquía;;25;11/01/2007;genclerbirligi_ankara
+Defensa central;Arda Çağan Çelik;Turquía;;44;29/03/2005;genclerbirligi_ankara
+Lateral izquierdo;Abdurrahim Dursun;Turquía;;77;01/12/1998;genclerbirligi_ankara
+Lateral izquierdo;Matej Hanousek;República Checa;;23;02/06/1993;genclerbirligi_ankara
+Lateral izquierdo;Hamza Aydar;Turquía;;93;20/09/2008;genclerbirligi_ankara
+Lateral derecho;Pedro Pereira;Portugal;;13;22/01/1998;genclerbirligi_ankara
+Lateral derecho;Fıratcan Üzüm;Turquía;;88;04/06/1999;genclerbirligi_ankara
+Lateral derecho;Emirhan Ünal;Turquía;Alemania;27;04/02/2005;genclerbirligi_ankara
+Pivote;Tom Dele-Bashiru;Nigeria;Inglaterra;15;17/09/1999;genclerbirligi_ankara
+Pivote;Moussa Kyabou;Malí;;81;18/04/1998;genclerbirligi_ankara
+Pivote;Peter Etebo;Nigeria;;5;09/11/1995;genclerbirligi_ankara
+Pivote;Ousmane Diabate;Guinea;;42;24/09/2007;genclerbirligi_ankara
+Mediocentro;Göktan Gürpüz;Turquía;Alemania;11;22/01/2003;genclerbirligi_ankara
+Mediocentro;Franco Tongya;Italia;Camerún;70;13/03/2002;genclerbirligi_ankara
+Mediocentro;Oğulcan Ülgün;Turquía;;35;11/05/1998;genclerbirligi_ankara
+Mediocentro;Samed Onur;Turquía;Alemania;8;15/07/2002;genclerbirligi_ankara
+Mediocentro;Ensar Kemaloğlu;Turquía;;61;05/10/1998;genclerbirligi_ankara
+Mediocentro ofensivo;Dal Varesanovic;Bosnia y Herzegovina;Croacia;53;23/05/2001;genclerbirligi_ankara
+Extremo izquierdo;Henry Onyekuru;Nigeria;;7;05/06/1997;genclerbirligi_ankara
+Extremo izquierdo;Metehan Mimaroğlu;Turquía;;10;07/07/1994;genclerbirligi_ankara
+Extremo derecho;Cihan Çanak;Turquía;Bélgica;99;24/01/2005;genclerbirligi_ankara
+Extremo derecho;Adama Traoré;Malí;;20;05/06/1995;genclerbirligi_ankara
+Delantero centro;Sékou Koïta;Malí;;22;28/11/1999;genclerbirligi_ankara
+Delantero centro;M'Baye Niang;Senegal;Francia;29;19/12/1994;genclerbirligi_ankara
+Delantero centro;Ayaz Özcan;Turquía;;16;01/10/2009;genclerbirligi_ankara
+Portero;Aleksandar Jovanovic;Serbia;;1;06/12/1992;kocaelispor
+Portero;Serhat Öztaşdelen;Turquía;;83;09/12/2004;kocaelispor
+Portero;Gökhan Değirmenci;Turquía;;35;21/03/1989;kocaelispor
+Defensa central;Botond Balogh;Hungría;;5;06/06/2002;kocaelispor
+Defensa central;Hrvoje Smolcic;Croacia;;6;17/08/2000;kocaelispor
+Defensa central;Mateusz Wieteska;Polonia;;4;11/02/1997;kocaelispor
+Defensa central;Deniz Ceylan;Turquía;;16;29/10/2008;kocaelispor
+Lateral izquierdo;Massadio Haïdara;Malí;Francia;21;02/12/1992;kocaelispor
+Lateral izquierdo;Muharrem Cinan;Turquía;;3;13/05/1998;kocaelispor
+Lateral derecho;Anfernee Dijksteel;Surinam;Países Bajos;2;27/10/1996;kocaelispor
+Lateral derecho;Ahmet Oğuz;Turquía;;22;16/01/1993;kocaelispor
+Pivote;Show;Angola;;14;06/03/1999;kocaelispor
+Pivote;Mahamadou Susoho;España;Inglaterra;20;20/01/2005;kocaelispor
+Mediocentro;Habib Keïta;Malí;Costa de Marfil;8;05/02/2002;kocaelispor
+Mediocentro;Karol Linetty;Polonia;;10;02/02/1995;kocaelispor
+Mediocentro;Joseph Nonge;Bélgica;RD del Congo;98;15/05/2005;kocaelispor
+Mediocentro;Samet Yalçın;Turquía;;23;03/03/1994;kocaelispor
+Extremo izquierdo;Darko Churlinov;Macedonia del Norte;;17;11/07/2000;kocaelispor
+Extremo izquierdo;Rigoberto Rivas;Honduras;Italia;99;31/07/1998;kocaelispor
+Extremo izquierdo;Tayfur Bingöl;Turquía;;75;11/01/1993;kocaelispor
+Extremo izquierdo;Furkan Gedik;Turquía;;18;12/07/2002;kocaelispor
+Extremo derecho;Can Keleş;Austria;Turquía;70;02/09/2001;kocaelispor
+Extremo derecho;Dan Agyei;Ghana;Inglaterra;7;01/06/1997;kocaelispor
+Delantero centro;Bruno Petkovic;Croacia;;9;16/09/1994;kocaelispor
+Delantero centro;Serdar Dursun;Turquía;Alemania;19;19/10/1991;kocaelispor
+Delantero centro;Ahmet Sağat;Turquía;Alemania;11;27/05/1996;kocaelispor
+Delantero centro;Arda Özyar;Turquía;;97;16/04/2007;kocaelispor
+Portero;Abdullah Yiğiter;Turquía;;21;20/02/2000;antalyaspor
+Portero;Julián Cuesta;España;;1;28/03/1991;antalyaspor
+Portero;Kağan Arıcan;Turquía;;96;10/03/2006;antalyaspor
+Defensa central;Georgiy Dzhikiya;Rusia;;14;21/11/1993;antalyaspor
+Defensa central;Lautaro Giannetti;Argentina;Italia;30;13/11/1993;antalyaspor
+Defensa central;Hüseyin Türkmen;Turquía;;4;01/01/1998;antalyaspor
+Defensa central;Bahadır Öztürk;Turquía;;5;01/10/1995;antalyaspor
+Defensa central;Veysel Sarı;Turquía;;89;25/07/1988;antalyaspor
+Defensa central;Ensar Buğra Tivsiz;Turquía;;27;11/06/2007;antalyaspor
+Defensa central;Ege İzmirli;Turquía;;98;23/01/2008;antalyaspor
+Lateral izquierdo;Kenneth Paal;Surinam;Países Bajos;3;24/06/1997;antalyaspor
+Lateral izquierdo;Samet Karakoç;Turquía;Azerbaiyán;2;22/10/2002;antalyaspor
+Lateral derecho;Bünyamin Balcı;Turquía;;7;31/05/2000;antalyaspor
+Lateral derecho;Erdoğan Yeşilyurt;Turquía;Alemania;17;06/11/1993;antalyaspor
+Pivote;Jesper Ceesay;Gambia;Suecia;23;20/10/2001;antalyaspor
+Mediocentro;Soner Dikmen;Turquía;;6;01/09/1993;antalyaspor
+Mediocentro;Dario Saric;Bosnia y Herzegovina;Italia;88;30/05/1997;antalyaspor
+Mediocentro;Yakub İlçin;Turquía;;20;24/03/2009;antalyaspor
+Mediocentro ofensivo;Abdülkadir Ömür;Turquía;;10;25/06/1999;antalyaspor
+Mediocentro ofensivo;Ramzi Safuri;Israel;;8;21/10/1995;antalyaspor
+Extremo izquierdo;Nikola Storm;Bélgica;;26;30/09/1994;antalyaspor
+Extremo izquierdo;Doğukan Sinik;Turquía;;70;21/01/1999;antalyaspor
+Extremo izquierdo;Berkay Topdemir;Turquía;;33;01/01/2007;antalyaspor
+Extremo derecho;Samuel Ballet;Suiza;Camerún;11;12/03/2001;antalyaspor
+Delantero centro;Yohan Boli;Costa de Marfil;Francia;77;17/11/1993;antalyaspor
+Delantero centro;Sander van de Streek;Países Bajos;;22;24/03/1993;antalyaspor
+Delantero centro;Bachir Gueye;Senegal;;24;08/03/2003;antalyaspor
+Delantero centro;Kerem Kayaarası;Turquía;;90;18/03/2006;antalyaspor
+Portero;Ivo Grbic;Croacia;;13;18/01/1996;fatih_karagumruk
+Portero;Furkan Bekleviç;Turquía;;99;31/01/1999;fatih_karagumruk
+Portero;Kerem Yandal;Turquía;;96;09/05/2006;fatih_karagumruk
+Portero;Berke Can Evli;Turquía;;98;29/05/2009;fatih_karagumruk
+Defensa central;Igor Lichnovsky;Chile;Austria;3;07/03/1994;fatih_karagumruk
+Defensa central;Davide Biraschi;Italia;;4;02/07/1994;fatih_karagumruk
+Defensa central;Fatih Kurucuk;Turquía;;22;21/01/1998;fatih_karagumruk
+Defensa central;Anıl Yiğit Çınar;Turquía;;94;10/07/2003;fatih_karagumruk
+Defensa central;Burhan Ersoy;Turquía;;24;13/06/2003;fatih_karagumruk
+Defensa central;Muhammed Kadıoğlu;Turquía;Siria;32;01/01/2007;fatih_karagumruk
+Lateral izquierdo;Çağtay Kurukalıp;Turquía;;33;24/02/2002;fatih_karagumruk
+Lateral izquierdo;Filip Mladenovic;Serbia;;25;15/08/1991;fatih_karagumruk
+Lateral derecho;Ricardo Esgaio;Portugal;;47;16/05/1993;fatih_karagumruk
+Pivote;Bartuğ Elmaz;Turquía;;6;19/02/2003;fatih_karagumruk
+Pivote;Matías Kranevitter;Argentina;Italia;5;21/05/1993;fatih_karagumruk
+Pivote;Yaya Onogo;Costa de Marfil;;19;19/12/2007;fatih_karagumruk
+Mediocentro;Berkay Özcan;Turquía;Alemania;8;15/02/1998;fatih_karagumruk
+Mediocentro;Daniel Johnson;Jamaica;Inglaterra;11;08/10/1992;fatih_karagumruk
+Mediocentro;Tuğbey Akgün;Turquía;;16;09/04/2003;fatih_karagumruk
+Mediocentro ofensivo;Sam Larsson;Suecia;;23;10/04/1993;fatih_karagumruk
+Extremo izquierdo;Serginho;Brasil;;70;06/04/1995;fatih_karagumruk
+Extremo izquierdo;Barış Kalaycı;Turquía;Alemania;72;30/08/2005;fatih_karagumruk
+Extremo izquierdo;Ahmet Sivri;Turquía;Chipre;17;06/07/1999;fatih_karagumruk
+Extremo derecho;Shavy Babicka;Gabón;;80;01/06/2000;fatih_karagumruk
+Extremo derecho;Daniele Verde;Italia;;10;20/06/1996;fatih_karagumruk
+Extremo derecho;João Camacho;Portugal;;37;23/06/1994;fatih_karagumruk
+Extremo derecho;Ahmed Traore;Costa de Marfil;;88;13/04/2007;fatih_karagumruk
+Extremo derecho;Tarık Buğra Kalpaklı;Turquía;;20;06/04/2009;fatih_karagumruk
+Delantero centro;Tiago Çukur;Turquía;Países Bajos;21;30/11/2002;fatih_karagumruk
+Delantero centro;Moussa Kone;Costa de Marfil;;15;30/12/2007;fatih_karagumruk
+Portero;Marcos Felipe;Brasil;;1;13/04/1996;eyupspor
+Portero;Jankat Yılmaz;Turquía;;24;16/08/2004;eyupspor
+Portero;Umut Keseci;Turquía;;31;05/02/2004;eyupspor
+Defensa central;Anıl Yaşar;Turquía;;16;01/07/2002;eyupspor
+Defensa central;Jérôme Onguéné;Camerún;Francia;68;22/12/1997;eyupspor
+Defensa central;Luccas Claro;Brasil;;4;02/10/1991;eyupspor
+Defensa central;Bedirhan Özyurt;Turquía;;5;25/03/2003;eyupspor
+Defensa central;Gilbert Mendy;Senegal;;3;05/11/2004;eyupspor
+Defensa central;Diabel Ndoye;Senegal;;14;27/08/2007;eyupspor
+Lateral izquierdo;Umut Meraş;Turquía;;77;20/12/1995;eyupspor
+Lateral izquierdo;Arda Yavuz;Turquía;;88;20/05/2006;eyupspor
+Lateral derecho;Calegari;Brasil;Italia;2;27/02/2002;eyupspor
+Lateral derecho;Talha Ülvan;Turquía;Bélgica;17;20/04/2001;eyupspor
+Pivote;Baran Gezek;Turquía;;55;26/08/2005;eyupspor
+Pivote;Taşkın İlter;Turquía;Azerbaiyán;28;05/07/1994;eyupspor
+Mediocentro;Mateusz Legowski;Polonia;;20;29/01/2003;eyupspor
+Mediocentro;Charles-André Raux-Yao;Francia;Costa de Marfil;15;15/11/2001;eyupspor
+Mediocentro ofensivo;Emre Akbaba;Turquía;Francia;8;04/10/1992;eyupspor
+Mediocentro ofensivo;Ismaila Manga;Senegal;;27;15/05/2007;eyupspor
+Extremo izquierdo;Lenny Pintor;Francia;Martinica;23;05/08/2000;eyupspor
+Extremo derecho;Denis Radu;Rumania;;22;25/03/2003;eyupspor
+Extremo derecho;Ángel Torres;Colombia;;10;06/04/2000;eyupspor
+Extremo derecho;Dorin Rotariu;Rumania;;7;29/07/1995;eyupspor
+Extremo derecho;Christ Sadia;Costa de Marfil;;93;11/04/2007;eyupspor
+Delantero centro;Umut Bozok;Turquía;Francia;19;19/09/1996;eyupspor
+Delantero centro;Metehan Altunbaş;Turquía;;26;07/01/2003;eyupspor
+Delantero centro;Abdou Khadre Sy;Senegal;;25;15/12/2007;eyupspor

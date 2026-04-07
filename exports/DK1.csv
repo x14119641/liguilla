@@ -1,0 +1,319 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Elías Ólafsson;Islandia;;16;11/03/2000;fc_midtjylland
+Portero;Ovie Ejeheri;Inglaterra;Nigeria;30;23/04/2003;fc_midtjylland
+Portero;Jonas Lössl;Dinamarca;;1;01/02/1989;fc_midtjylland
+Portero;Mark Ugboh;Nigeria;;60;03/01/2004;fc_midtjylland
+Portero;Liam Selin;Suecia;;31;13/03/2006;fc_midtjylland
+Defensa central;Ousmane Diao;Senegal;;4;08/06/2004;fc_midtjylland
+Defensa central;Mads Bech Sørensen;Dinamarca;;22;07/01/1999;fc_midtjylland
+Defensa central;Martin Erlić;Croacia;;6;24/01/1998;fc_midtjylland
+Defensa central;Han-beom Lee;Corea del Sur;;3;17/06/2002;fc_midtjylland
+Defensa central;Bilal Konteh;Suecia;España;35;13/02/2007;fc_midtjylland
+Lateral izquierdo;Victor Bak;Dinamarca;;55;03/10/2003;fc_midtjylland
+Lateral izquierdo;Paulinho;Brasil;;29;03/01/1995;fc_midtjylland
+Lateral derecho;Kevin Mbabu;Suiza;RD del Congo;43;19/04/1995;fc_midtjylland
+Lateral derecho;Adam Gabriel;República Checa;;13;28/05/2001;fc_midtjylland
+Mediocentro;Philip Billing;Dinamarca;Nigeria;8;11/06/1996;fc_midtjylland
+Mediocentro;Denil Castillo;Ecuador;;21;24/03/2004;fc_midtjylland
+Mediocentro;Pedro Bravo;Colombia;;19;26/11/2004;fc_midtjylland
+Mediocentro;Valdemar Byskov;Dinamarca;;20;25/01/2005;fc_midtjylland
+Mediocentro;Alamara Djabi;Guinea-Bissau;;33;28/09/2006;fc_midtjylland
+Extremo izquierdo;Aral Şimşir;Turquía;Dinamarca;58;19/06/2002;fc_midtjylland
+Extremo izquierdo;Mikel Gogorza;Dinamarca;Francia;41;27/09/2006;fc_midtjylland
+Extremo izquierdo;Junior Zé;Suiza;Camerún;39;22/03/2006;fc_midtjylland
+Extremo derecho;Darío Osorio;Chile;;11;24/01/2004;fc_midtjylland
+Extremo derecho;Edward Chilufya;Zambia;;14;17/09/1999;fc_midtjylland
+Delantero centro;Franculino;Guinea-Bissau;Portugal;7;28/06/2004;fc_midtjylland
+Delantero centro;Gue-sung Cho;Corea del Sur;;10;25/01/1998;fc_midtjylland
+Delantero centro;Mikael Uhre;Dinamarca;;17;30/09/1994;fc_midtjylland
+Delantero centro;Júnior Brumado;Brasil;;74;15/05/1999;fc_midtjylland
+Portero;Dominik Kotarski;Croacia;;1;10/02/2000;fc_kopenhagen
+Portero;Rúnar Alex Rúnarsson;Islandia;;31;18/02/1995;fc_kopenhagen
+Portero;Oscar Buur;Dinamarca;;61;29/10/2006;fc_kopenhagen
+Defensa central;Gabriel Pereira;Brasil;;5;07/05/2000;fc_kopenhagen
+Defensa central;Pantelis Hatzidiakos;Grecia;Países Bajos;6;18/01/1997;fc_kopenhagen
+Defensa central;Junnosuke Suzuki;Japón;;20;12/07/2003;fc_kopenhagen
+Defensa central;Zanka;Dinamarca;;25;23/04/1990;fc_kopenhagen
+Lateral izquierdo;Marcos López;Perú;;15;20/11/1999;fc_kopenhagen
+Lateral izquierdo;Birger Meling;Noruega;;24;17/12/1994;fc_kopenhagen
+Lateral derecho;Rodrigo Huescas;México;;13;18/09/2003;fc_kopenhagen
+Lateral derecho;Aurélio Buta;Portugal;Angola;17;10/02/1997;fc_kopenhagen
+Lateral derecho;Kenay Myrie;Costa Rica;;18;06/09/2006;fc_kopenhagen
+Pivote;William Clem;Dinamarca;Noruega;36;20/06/2004;fc_kopenhagen
+Mediocentro;Amir Richardson;Marruecos;Francia;23;24/01/2002;fc_kopenhagen
+Mediocentro;Magnus Mattsson;Dinamarca;Suecia;8;25/02/1999;fc_kopenhagen
+Mediocentro;Mads Emil Madsen;Dinamarca;;21;14/01/1998;fc_kopenhagen
+Mediocentro;Thomas Delaney;Dinamarca;Estados Unidos;27;03/09/1991;fc_kopenhagen
+Mediocentro;Oliver Højer;Dinamarca;;38;24/01/2007;fc_kopenhagen
+Mediocentro;Jonathan Moalem;Dinamarca;;29;01/02/2007;fc_kopenhagen
+Extremo izquierdo;Elias Achouri;Túnez;Francia;30;10/02/1999;fc_kopenhagen
+Extremo izquierdo;Robert;Brasil;;16;13/04/2005;fc_kopenhagen
+Extremo derecho;Jordan Larsson;Suecia;Cabo Verde;11;20/06/1997;fc_kopenhagen
+Extremo derecho;Liam West;Noruega;Estados Unidos;26;16/12/2007;fc_kopenhagen
+Mediapunta;Mohamed Elyounoussi;Noruega;;10;04/08/1994;fc_kopenhagen
+Delantero centro;Youssoufa Moukoko;Alemania;Camerún;9;20/11/2004;fc_kopenhagen
+Delantero centro;Viktor Dadason;Islandia;;39;30/06/2008;fc_kopenhagen
+Delantero centro;Viktor Claesson;Suecia;;7;02/01/1992;fc_kopenhagen
+Delantero centro;Andreas Cornelius;Dinamarca;;14;16/03/1993;fc_kopenhagen
+Portero;Patrick Pentz;Austria;;1;02/01/1997;brondby_if
+Portero;Gavin Beavers;Estados Unidos;;13;29/04/2005;brondby_if
+Portero;Thomas Mikkelsen;Dinamarca;;16;27/08/1983;brondby_if
+Portero;William Sonne-Schmidt;Dinamarca;;50;12/04/2007;brondby_if
+Defensa central;Ben Godfrey;Inglaterra;Jamaica;14;15/01/1998;brondby_if
+Defensa central;Luis Binks;Inglaterra;Escocia;4;02/09/2001;brondby_if
+Defensa central;Frederik Alves;Dinamarca;Brasil;32;08/11/1999;brondby_if
+Defensa central;Rasmus Lauritsen;Dinamarca;;5;27/02/1996;brondby_if
+Defensa central;Jordi Vanlerberghe;Bélgica;;30;27/06/1996;brondby_if
+Lateral izquierdo;Mats Köhlert;Alemania;;27;02/05/1998;brondby_if
+Lateral izquierdo;Marko Divković;Croacia;;24;11/06/1999;brondby_if
+Lateral derecho;Sean Klaiber;Surinam;Países Bajos;31;31/07/1994;brondby_if
+Lateral derecho;Oliver Villadsen;Dinamarca;;2;16/11/2001;brondby_if
+Pivote;Bartosz Slisz;Polonia;;99;29/03/1999;brondby_if
+Mediocentro;Benjamin Tahirović;Bosnia y Herzegovina;Suecia;8;03/03/2003;brondby_if
+Mediocentro;Mathias Jensen;Dinamarca;;42;14/04/2005;brondby_if
+Mediocentro;Daniel Wass;Dinamarca;;10;31/05/1989;brondby_if
+Mediocentro ofensivo;Mads Frøkjær;Dinamarca;;29;29/07/1999;brondby_if
+Extremo izquierdo;Nicolai Vallys;Dinamarca;;7;04/09/1996;brondby_if
+Extremo derecho;Mayckel Lahdo;Suecia;;23;30/12/2002;brondby_if
+Extremo derecho;Ousmane Sow;Francia;Senegal;22;05/07/2000;brondby_if
+Extremo derecho;Sho Fukuda;Japón;;19;23/03/2001;brondby_if
+Delantero centro;Filip Bundgaard;Dinamarca;;11;03/07/2004;brondby_if
+Delantero centro;Emmanuel Dennis;Nigeria;;17;15/11/1997;brondby_if
+Delantero centro;Jacob Ambæk;Dinamarca;;38;28/03/2008;brondby_if
+Portero;Andreas Hansen;Dinamarca;;13;11/08/1995;fc_nordsjaelland
+Portero;Jakob Busk;Dinamarca;;16;12/09/1993;fc_nordsjaelland
+Portero;Andreas Gülstorff;Dinamarca;;22;26/01/2003;fc_nordsjaelland
+Defensa central;Noah Markmann;Dinamarca;;45;24/02/2007;fc_nordsjaelland
+Defensa central;Tobias Salquist;Dinamarca;;3;18/05/1995;fc_nordsjaelland
+Defensa central;Stephen Acquah;Ghana;;34;01/05/2006;fc_nordsjaelland
+Defensa central;Markus Walker;Dinamarca;Australia;28;23/11/2006;fc_nordsjaelland
+Lateral izquierdo;Juho Lähteenmäki;Finlandia;;25;15/06/2006;fc_nordsjaelland
+Lateral izquierdo;Runar Norheim;Noruega;;23;14/02/2005;fc_nordsjaelland
+Lateral derecho;Peter Ankersen;Dinamarca;;2;22/09/1990;fc_nordsjaelland
+Lateral derecho;Victor Gustafsen;Dinamarca;;32;14/11/2007;fc_nordsjaelland
+Pivote;Mark Brink;Dinamarca;;6;15/03/1998;fc_nordsjaelland
+Pivote;Justin Janssen;Dinamarca;Países Bajos;18;25/07/2006;fc_nordsjaelland
+Pivote;Malte Heyde;Dinamarca;;47;18/02/2007;fc_nordsjaelland
+Mediocentro;Caleb Yirenkyi;Ghana;;36;15/01/2006;fc_nordsjaelland
+Mediocentro;Nicklas Røjkjær;Dinamarca;;8;24/07/1998;fc_nordsjaelland
+Mediocentro;Diallo Sanoussi;Costa de Marfil;;27;29/05/2006;fc_nordsjaelland
+Mediocentro;Lamine Sadio;Senegal;;37;24/12/2007;fc_nordsjaelland
+Extremo izquierdo;Prince Amoako Junior;Ghana;;10;19/02/2007;fc_nordsjaelland
+Extremo izquierdo;Ibrahim Adel;Egipto;;14;23/04/2001;fc_nordsjaelland
+Extremo izquierdo;Daniel Jóhannesson;Islandia;;39;03/04/2007;fc_nordsjaelland
+Extremo derecho;Ola Solbakken;Noruega;;9;07/09/1998;fc_nordsjaelland
+Extremo derecho;Araphat Mohammed;Ghana;;20;06/11/2005;fc_nordsjaelland
+Extremo derecho;Hjalte Boe Rasmussen;Dinamarca;;40;15/10/2007;fc_nordsjaelland
+Delantero centro;Alexander Lind;Dinamarca;;11;26/06/2002;fc_nordsjaelland
+Delantero centro;Villum Berthelsen;Dinamarca;;29;14/04/2006;fc_nordsjaelland
+Delantero centro;Levy Nene;Costa de Marfil;Malí;17;17/03/2006;fc_nordsjaelland
+Delantero centro;Souleymane Alio;Burkina Faso;Malí;33;28/10/2006;fc_nordsjaelland
+Portero;Mads Hedenstad;Noruega;;21;21/10/2000;aarhus_gf
+Portero;Jesper Hansen;Dinamarca;;1;31/03/1985;aarhus_gf
+Defensa central;Eric Kahl;Suecia;Tailandia;19;27/09/2001;aarhus_gf
+Defensa central;Jonas Jensen-Abbew;Dinamarca;Ghana;40;20/04/2002;aarhus_gf
+Defensa central;Tobias Mölgaard;Dinamarca;;14;22/07/1996;aarhus_gf
+Defensa central;Frederik Tingager;Dinamarca;;5;22/02/1993;aarhus_gf
+Defensa central;Henrik Dalsgaard;Dinamarca;;3;27/07/1989;aarhus_gf
+Mediocentro;Magnus Knudsen;Noruega;;4;15/06/2001;aarhus_gf
+Mediocentro;Markus Solbakken;Noruega;;7;25/07/2000;aarhus_gf
+Mediocentro;Kevin Yakob;Irak;Suecia;17;10/10/2000;aarhus_gf
+Mediocentro;Nicolai Poulsen;Dinamarca;;6;15/08/1993;aarhus_gf
+Interior derecho;Felix Beijmo;Suecia;;2;31/01/1998;aarhus_gf
+Interior derecho;Rasmus Carstensen;Dinamarca;;29;10/11/2000;aarhus_gf
+Interior derecho;Jacob Andersen;Dinamarca;;26;26/01/2004;aarhus_gf
+Interior izquierdo;Gift Links;Sudáfrica;;11;02/10/1998;aarhus_gf
+Extremo izquierdo;Kristian Arnstad;Noruega;;10;07/09/2003;aarhus_gf
+Extremo izquierdo;Frederik Emmery;Dinamarca;;39;25/12/2006;aarhus_gf
+Extremo izquierdo;Tómas Óli Kristjánsson;Islandia;;20;27/02/2008;aarhus_gf
+Extremo derecho;Tobias Bech;Dinamarca;;31;19/02/2002;aarhus_gf
+Extremo derecho;Sebastian Jørgensen;Dinamarca;;8;08/06/2000;aarhus_gf
+Delantero centro;Janni Serra;Alemania;;13;13/03/1998;aarhus_gf
+Delantero centro;Patrick Mortensen;Dinamarca;;9;13/07/1989;aarhus_gf
+Delantero centro;Stefen Tchamche;Dinamarca;;27;08/01/2006;aarhus_gf
+Portero;Lucas Lund;Dinamarca;;1;19/03/2000;viborg_ff
+Portero;Filip Djukic;Montenegro;Dinamarca;16;06/08/1999;viborg_ff
+Defensa central;Daniel Anyembe;Kenia;Dinamarca;24;22/07/1998;viborg_ff
+Defensa central;Stipe Radic;Croacia;;55;10/06/2000;viborg_ff
+Defensa central;Zan Zaletel;Eslovenia;;5;16/09/1999;viborg_ff
+Defensa central;Lukas Kirkegaard;Dinamarca;;32;31/08/2005;viborg_ff
+Lateral izquierdo;Srdjan Kuzmic;Eslovenia;;30;16/01/2004;viborg_ff
+Lateral izquierdo;Oliver Bundgaard;Dinamarca;;23;15/06/2001;viborg_ff
+Lateral derecho;Jean Manuel Mbom;Alemania;Camerún;18;24/02/2000;viborg_ff
+Lateral derecho;Hjalte Bidstrup;Dinamarca;;26;15/02/2006;viborg_ff
+Lateral derecho;Mikkel Løndal;Dinamarca;;31;31/05/2006;viborg_ff
+Pivote;Mees Hoedemakers;Países Bajos;;4;18/02/1998;viborg_ff
+Pivote;Jeppe Grønning;Dinamarca;;13;24/05/1991;viborg_ff
+Mediocentro;Thomas Jørgensen;Dinamarca;;10;30/09/2005;viborg_ff
+Mediocentro;Mads Søndergaard;Dinamarca;;6;26/12/2002;viborg_ff
+Mediocentro;Asker Beck;Dinamarca;;8;07/07/2003;viborg_ff
+Mediocentro;Frederik Damkjer;Dinamarca;;33;31/07/2007;viborg_ff
+Extremo izquierdo;Charly Nouck;Dinamarca;Camerún;11;21/03/2004;viborg_ff
+Extremo izquierdo;Sami Jalal;Dinamarca;Túnez;29;08/08/2004;viborg_ff
+Extremo izquierdo;Ísak Andri Sigurgeirsson;Islandia;;14;11/09/2003;viborg_ff
+Extremo izquierdo;Yonis Njoh;Francia;Camerún;7;17/01/2004;viborg_ff
+Extremo izquierdo;Osman Addo;Dinamarca;;17;31/03/2004;viborg_ff
+Extremo derecho;Bilal Brahimi;Francia;Marruecos;21;28/03/2000;viborg_ff
+Delantero centro;Tim Freriks;Países Bajos;;9;02/10/1998;viborg_ff
+Delantero centro;Dorian Hanza;Guinea Ecuatorial;España;19;12/05/2001;viborg_ff
+Portero;Aske Andrésen;Dinamarca;;30;12/07/2005;silkeborg_if
+Portero;Nicolai Larsen;Dinamarca;;1;09/03/1991;silkeborg_if
+Portero;Bastian Holm;Dinamarca;;16;13/02/2004;silkeborg_if
+Defensa central;Robin Østrøm;Noruega;Dinamarca;3;09/08/2002;silkeborg_if
+Defensa central;Pedro Ganchas;Portugal;;4;31/05/2000;silkeborg_if
+Defensa central;Alexander Busch;Dinamarca;;40;25/07/2003;silkeborg_if
+Defensa central;Pontus Rödin;Suecia;;25;16/08/2000;silkeborg_if
+Defensa central;Melker Jonsson;Suecia;;15;10/07/2002;silkeborg_if
+Defensa central;Alexander Priesborg;Dinamarca;;24;14/05/2005;silkeborg_if
+Lateral izquierdo;Andreas Poulsen;Dinamarca;;2;13/10/1999;silkeborg_if
+Lateral derecho;Jens Martin Gammelby;Dinamarca;;19;05/02/1995;silkeborg_if
+Lateral derecho;Simon Stüker;Dinamarca;;28;23/04/2007;silkeborg_if
+Pivote;Mikkel Øxenberg;Dinamarca;;26;25/01/2007;silkeborg_if
+Mediocentro;Mads Larsen;Dinamarca;;20;20/09/2001;silkeborg_if
+Mediocentro;Mads Freundlich;Dinamarca;;33;25/03/2003;silkeborg_if
+Mediocentro;Julius Lorents;Dinamarca;;36;26/04/2006;silkeborg_if
+Mediocentro;Villads Westh;Dinamarca;;7;25/04/2004;silkeborg_if
+Mediocentro;Adam Wikman;Suecia;;6;15/12/2003;silkeborg_if
+Mediocentro;Sofus Berger;Dinamarca;;14;02/06/2003;silkeborg_if
+Mediocentro ofensivo;Callum McCowatt;Nueva Zelanda;;17;30/04/1999;silkeborg_if
+Mediocentro ofensivo;Younes Bakiz;Dinamarca;Marruecos;10;05/02/1999;silkeborg_if
+Mediocentro ofensivo;Rami Al Hajj;Suecia;Líbano;22;17/09/2001;silkeborg_if
+Mediocentro ofensivo;Jeppe Andersen;Dinamarca;;8;06/12/1992;silkeborg_if
+Mediocentro ofensivo;William Kirk;Dinamarca;;27;13/01/2007;silkeborg_if
+Extremo izquierdo;Oliver Ross;Dinamarca;;11;10/10/2004;silkeborg_if
+Delantero centro;Tonni Adamsen;Dinamarca;;23;15/11/1994;silkeborg_if
+Delantero centro;Alexander Simmelhack;Dinamarca;;9;11/11/2005;silkeborg_if
+Portero;Theo Sander;Dinamarca;Francia;30;08/01/2005;odense_boldklub
+Portero;Viljar Myhra;Noruega;;16;21/07/1996;odense_boldklub
+Portero;Martin Hansen;Dinamarca;;1;15/06/1990;odense_boldklub
+Portero;Marcus Eskildsen;Dinamarca;;27;03/12/2007;odense_boldklub
+Defensa central;James Gomez;Gambia;;29;14/11/2001;odense_boldklub
+Defensa central;Julius Askou;Dinamarca;;13;27/05/2006;odense_boldklub
+Defensa central;Yaya Bojang;Gambia;;24;10/09/2004;odense_boldklub
+Defensa central;Nicolas Bürgy;Suiza;;5;07/08/1995;odense_boldklub
+Defensa central;Bjørn Paulsen;Dinamarca;;4;02/07/1991;odense_boldklub
+Lateral izquierdo;Adam Sørensen;Dinamarca;;3;11/11/2000;odense_boldklub
+Lateral izquierdo;Marcus McCoy;Dinamarca;Estados Unidos;15;24/08/2005;odense_boldklub
+Lateral derecho;Leeroy Owusu;Ghana;Países Bajos;20;13/08/1996;odense_boldklub
+Lateral derecho;Magnus Andersen;Dinamarca;;28;03/04/2006;odense_boldklub
+Pivote;Ismahila Ouédraogo;Burkina Faso;;22;05/11/1999;odense_boldklub
+Pivote;Tom Trybull;Alemania;;19;09/03/1993;odense_boldklub
+Pivote;Vitus Friis;Dinamarca;;21;31/03/2007;odense_boldklub
+Mediocentro;Max Ejdum;Dinamarca;;18;15/10/2004;odense_boldklub
+Mediocentro;Anssi Suhonen;Finlandia;;10;14/01/2001;odense_boldklub
+Mediocentro;Gustav Grubbe;Dinamarca;;14;27/01/2003;odense_boldklub
+Mediocentro;Rasmus Falk;Dinamarca;;8;15/01/1992;odense_boldklub
+Mediocentro;Jakob Bonde;Dinamarca;;6;29/12/1993;odense_boldklub
+Mediocentro ofensivo;Fiete Arp;Alemania;;7;06/01/2000;odense_boldklub
+Extremo izquierdo;William Martin;Dinamarca;Irlanda;23;23/04/2007;odense_boldklub
+Extremo izquierdo;Mads Abrahamsen;Dinamarca;;25;13/01/2007;odense_boldklub
+Delantero centro;Noah Ganaus;Alemania;;17;19/01/2001;odense_boldklub
+Delantero centro;Jay-Roy Grot;Surinam;Países Bajos;31;13/03/1998;odense_boldklub
+Delantero centro;Jona Niemiec;Alemania;Polonia;11;19/09/2001;odense_boldklub
+Delantero centro;Lasse Legolas;Dinamarca;;26;08/02/2007;odense_boldklub
+Portero;Paul Izzo;Australia;Italia;1;06/01/1995;randers_fc
+Portero;Jannich Storch;Dinamarca;;32;12/05/1993;randers_fc
+Portero;Mert Demirci;Países Bajos;España;22;23/10/2003;randers_fc
+Defensa central;Wessel Dammers;Países Bajos;;4;01/03/1995;randers_fc
+Defensa central;Lucas Lissens;Bélgica;;2;25/07/2001;randers_fc
+Defensa central;Oliver Jones;Australia;;5;06/02/2003;randers_fc
+Defensa central;Daniel Høegh;Dinamarca;;3;06/01/1991;randers_fc
+Lateral izquierdo;Nikolas Dyhr;Dinamarca;;44;18/06/2001;randers_fc
+Lateral izquierdo;Martin Sjølstad;Noruega;;15;09/07/2000;randers_fc
+Lateral derecho;Sabil Hansen;Dinamarca;;24;04/11/2005;randers_fc
+Lateral derecho;Benjamin Örn;Suecia;;23;26/04/2004;randers_fc
+Pivote;André Römer;Dinamarca;;28;18/07/1993;randers_fc
+Mediocentro;John Björkengren;Suecia;;6;09/12/1998;randers_fc
+Mediocentro;Laurits Pedersen;Dinamarca;;8;25/01/2006;randers_fc
+Mediocentro;Frederik Lauenborg;Dinamarca;;14;18/05/1997;randers_fc
+Mediocentro;Ousseynou Fall Seck;Senegal;;25;22/06/2007;randers_fc
+Mediocentro;Max Albæk;Dinamarca;;38;19/02/2006;randers_fc
+Mediocentro ofensivo;Mike Themsen;Dinamarca;;7;01/03/2006;randers_fc
+Extremo izquierdo;Ernest Agyiri;Ghana;;21;06/03/1998;randers_fc
+Extremo izquierdo;Cyril Edudzi;Ghana;;33;15/01/2006;randers_fc
+Extremo derecho;Mathias Greve;Dinamarca;;17;11/02/1995;randers_fc
+Extremo derecho;Elies Mahmoud;Francia;Argelia;11;10/02/2001;randers_fc
+Delantero centro;Thibault Klidjé;Togo;;30;10/07/2001;randers_fc
+Delantero centro;Warren Caddy;Madagascar;Francia;10;09/04/1997;randers_fc
+Delantero centro;Amin Al-Hamawi;Irak;Suecia;9;17/12/2003;randers_fc
+Delantero centro;Musa Touré;Australia;Liberia;19;12/11/2005;randers_fc
+Portero;Igor Vekic;Eslovenia;;1;06/05/1998;vejle_boldklub
+Portero;Tobias Haahr;Dinamarca;;24;03/07/2003;vejle_boldklub
+Portero;Gustav Knudsen;Dinamarca;;33;10/07/2006;vejle_boldklub
+Defensa central;Valdemar Lund;Dinamarca;;5;28/05/2003;vejle_boldklub
+Defensa central;Stefan Velkov;Bulgaria;;13;12/12/1996;vejle_boldklub
+Defensa central;Damian van Bruggen;Países Bajos;;14;18/03/1996;vejle_boldklub
+Defensa central;Luka Latsabidze;Georgia;;15;18/03/2004;vejle_boldklub
+Defensa central;Lasse Nielsen;Dinamarca;;4;08/01/1988;vejle_boldklub
+Lateral izquierdo;Giorgi Tabatadze;Georgia;;21;29/10/2005;vejle_boldklub
+Lateral izquierdo;Christian Sørensen;Dinamarca;;3;06/08/1992;vejle_boldklub
+Lateral derecho;Thomas Gundelund;Dinamarca;;2;06/11/2001;vejle_boldklub
+Lateral derecho;Lasse Flø;Dinamarca;;23;15/10/2005;vejle_boldklub
+Pivote;Lundrim Hetemi;Albania;Dinamarca;34;18/02/2000;vejle_boldklub
+Pivote;Mike Vestergård;Dinamarca;;6;19/11/1997;vejle_boldklub
+Mediocentro;Mads Enggård;Dinamarca;;30;20/01/2004;vejle_boldklub
+Mediocentro;Tobias Lauritsen;Dinamarca;;8;18/06/2004;vejle_boldklub
+Mediocentro;Andrew Hjulsager;Dinamarca;;17;15/01/1995;vejle_boldklub
+Mediocentro;Sander Ravn;Dinamarca;;26;08/04/2007;vejle_boldklub
+Mediocentro;Clemens Astrup;Dinamarca;;27;12/01/2006;vejle_boldklub
+Extremo izquierdo;Tobias Bach;Dinamarca;;16;04/06/2003;vejle_boldklub
+Extremo izquierdo;Jonathan Amon;Estados Unidos;;11;30/04/1999;vejle_boldklub
+Extremo izquierdo;Mikkel Duelund;Dinamarca;;10;29/06/1997;vejle_boldklub
+Extremo izquierdo;Alexi Pitu;Alemania;Rumania;80;05/06/2002;vejle_boldklub
+Extremo izquierdo;Abdoulaye Camara;Guinea;;20;21/12/2006;vejle_boldklub
+Extremo derecho;Christian Gammelgaard;Dinamarca;;7;10/03/2003;vejle_boldklub
+Delantero centro;Wahid Faghir;Dinamarca;Afganistán;19;29/07/2003;vejle_boldklub
+Delantero centro;Bismark Edjeodji;Ghana;;32;24/04/2007;vejle_boldklub
+Delantero centro;Jelle Duin;Países Bajos;;9;27/01/1999;vejle_boldklub
+Delantero centro;Anders Jacobsen;Dinamarca;;18;27/10/1989;vejle_boldklub
+Delantero centro;Ransford Amoo;Ghana;;28;20/01/2008;vejle_boldklub
+Portero;Marcus Bundgaard;Dinamarca;;16;05/08/2001;sonderjyske
+Portero;Nicolai Flø;Dinamarca;;1;25/09/1995;sonderjyske
+Defensa central;Maxime Soulas;Francia;;12;19/05/1999;sonderjyske
+Defensa central;Magnus Jensen;Dinamarca;;5;27/10/1996;sonderjyske
+Defensa central;Daníel Leó Grétarsson;Islandia;;4;02/10/1995;sonderjyske
+Defensa central;Pachanga Kristensen;Dinamarca;Angola;19;07/12/2006;sonderjyske
+Lateral izquierdo;Rúnar Thór Sigurgeirsson;Islandia;;21;28/12/1999;sonderjyske
+Lateral izquierdo;Ebube Duru;Nigeria;;23;31/07/1999;sonderjyske
+Lateral izquierdo;Dalton Wilkins;Nueva Zelanda;;13;15/04/1999;sonderjyske
+Lateral derecho;Tobias Klysner;Dinamarca;;20;03/07/2001;sonderjyske
+Lateral derecho;Andreas Oggesen;Dinamarca;;22;18/03/1994;sonderjyske
+Lateral derecho;Simon Wæver;Dinamarca;;3;21/01/1996;sonderjyske
+Pivote;Tobias Sommer;Dinamarca;;26;27/11/2001;sonderjyske
+Pivote;Rasmus Vinderslev;Dinamarca;;6;12/08/1997;sonderjyske
+Mediocentro;Sefer Emini;Macedonia del Norte;;7;15/07/2000;sonderjyske
+Mediocentro;Mohamed Cherif Haidara;Guinea;;31;02/10/2005;sonderjyske
+Mediocentro;Anders Bergholt;Dinamarca;;28;21/02/2005;sonderjyske
+Mediocentro;Anders Hoeg;Dinamarca;;17;27/03/2006;sonderjyske
+Extremo izquierdo;Olti Hyseni;Dinamarca;Kosovo;24;17/07/2007;sonderjyske
+Extremo izquierdo;Alexander Lyng;Dinamarca;;11;26/11/2004;sonderjyske
+Extremo izquierdo;Albert Rrahmani;Kosovo;Dinamarca;29;11/03/2007;sonderjyske
+Extremo derecho;Lirim Qamili;Macedonia del Norte;Dinamarca;15;04/06/1998;sonderjyske
+Delantero centro;Matthew Hoppe;Estados Unidos;;9;13/03/2001;sonderjyske
+Portero;Valdemar Birksø;Dinamarca;;90;17/03/2001;fc_fredericia
+Portero;Etienne Green;Inglaterra;Francia;42;19/07/2000;fc_fredericia
+Portero;Mads Eriksen;Dinamarca;;23;30/10/2003;fc_fredericia
+Defensa central;Frederik Rieper;Dinamarca;;5;19/06/1999;fc_fredericia
+Defensa central;Jeppe Kudsk;Dinamarca;;4;25/02/2003;fc_fredericia
+Defensa central;Adam Nygaard;Dinamarca;;3;23/09/2005;fc_fredericia
+Defensa central;Malthe Ladefoged;Dinamarca;;15;14/12/2005;fc_fredericia
+Lateral izquierdo;Jakob Jessen;Dinamarca;;8;05/03/2004;fc_fredericia
+Lateral izquierdo;Daníel Freyr Kristjánsson;Islandia;;17;30/08/2005;fc_fredericia
+Lateral izquierdo;Kristian Pedersen;Dinamarca;;24;04/08/1994;fc_fredericia
+Lateral derecho;Anders Dahl;Dinamarca;;14;01/05/2002;fc_fredericia
+Lateral derecho;Svenn Crone;Dinamarca;;12;20/05/1995;fc_fredericia
+Pivote;Andreas Pyndt;Dinamarca;;18;04/03/2001;fc_fredericia
+Mediocentro;Felix Winther;Dinamarca;;6;18/05/2000;fc_fredericia
+Mediocentro;Jonatan Lindekilde;Dinamarca;;21;31/03/2006;fc_fredericia
+Mediocentro;Moses Opondo;Uganda;Dinamarca;11;28/10/1997;fc_fredericia
+Mediocentro;Sofus Johannesen;Dinamarca;;16;04/05/2007;fc_fredericia
+Mediocentro;Daniel Haarbo;Dinamarca;;20;14/03/2003;fc_fredericia
+Mediocentro ofensivo;William Madsen;Dinamarca;;13;05/04/2002;fc_fredericia
+Mediocentro ofensivo;Emilio Simonsen;Dinamarca;;10;31/10/1999;fc_fredericia
+Extremo izquierdo;Gustav Marcussen;Dinamarca;;7;12/06/1998;fc_fredericia
+Extremo izquierdo;Agon Mucolli;Albania;Dinamarca;98;26/09/1998;fc_fredericia
+Extremo derecho;Oscar Buch;Dinamarca;;97;14/02/1997;fc_fredericia
+Delantero centro;Friday Etim;Nigeria;;25;21/05/2002;fc_fredericia
+Delantero centro;Patrick Egelund;Dinamarca;;9;02/08/2000;fc_fredericia
+Delantero centro;Eskild Dall;Dinamarca;;19;08/01/2003;fc_fredericia
+Delantero centro;Elias Hansborg;Dinamarca;;29;02/07/2005;fc_fredericia

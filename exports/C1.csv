@@ -1,0 +1,341 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Marvin Keller;Suiza;;1;03/07/2002;bsc_young_boys
+Portero;Ardian Bajrami;Suiza;Kosovo;-;08/03/2004;bsc_young_boys
+Portero;Heinz Lindner;Austria;;12;17/07/1990;bsc_young_boys
+Portero;Dario Marzino;Suiza;;40;19/09/1996;bsc_young_boys
+Defensa central;Tanguy Zoukrou;Francia;;4;07/05/2003;bsc_young_boys
+Defensa central;Gregory Wüthrich;Suiza;Ghana;5;04/12/1994;bsc_young_boys
+Defensa central;Loris Benito;Suiza;;23;07/01/1992;bsc_young_boys
+Defensa central;Mats Seiler;Suiza;;55;04/08/2005;bsc_young_boys
+Lateral izquierdo;Jaouen Hadjam;Argelia;Francia;3;26/03/2003;bsc_young_boys
+Lateral izquierdo;Stefan Bukinac;Serbia;;33;08/07/2005;bsc_young_boys
+Lateral izquierdo;Olivier Mambwa;Suiza;;57;05/12/2008;bsc_young_boys
+Lateral derecho;Ryan Andrews;Inglaterra;;2;26/08/2004;bsc_young_boys
+Lateral derecho;Yan Valery;Túnez;Francia;22;22/02/1999;bsc_young_boys
+Lateral derecho;Saidy Janko;Gambia;Suiza;17;22/10/1995;bsc_young_boys
+Pivote;Edimilson Fernandes;Suiza;;6;15/04/1996;bsc_young_boys
+Pivote;Sandro Lauper;Suiza;;30;25/10/1996;bsc_young_boys
+Mediocentro;Armin Gigovic;Bosnia y Herzegovina;Suecia;37;06/04/2002;bsc_young_boys
+Mediocentro;Rayan Raveloson;Madagascar;Francia;45;16/01/1997;bsc_young_boys
+Interior derecho;Darian Males;Suiza;;39;03/05/2001;bsc_young_boys
+Interior izquierdo;Joël Monteiro;Suiza;Portugal;77;05/08/1999;bsc_young_boys
+Interior izquierdo;Alan Virginius;Francia;;7;03/01/2003;bsc_young_boys
+Mediocentro ofensivo;Alvyn Sanches;Suiza;;10;12/02/2003;bsc_young_boys
+Mediocentro ofensivo;Dominik Pech;República Checa;;13;04/09/2006;bsc_young_boys
+Mediocentro ofensivo;Christian Fassnacht;Suiza;;16;11/11/1993;bsc_young_boys
+Extremo izquierdo;Ebrima Colley;Gambia;;11;01/02/2000;bsc_young_boys
+Delantero centro;Chris Bedia;Costa de Marfil;Francia;29;05/03/1996;bsc_young_boys
+Delantero centro;Samuel Essende;RD del Congo;Francia;99;23/01/1998;bsc_young_boys
+Delantero centro;Facinet Conte;Guinea;Francia;31;24/03/2005;bsc_young_boys
+Portero;Marwin Hitz;Suiza;;1;18/09/1987;fc_basel_1893
+Portero;Mirko Salvi;Suiza;Italia;13;14/02/1994;fc_basel_1893
+Portero;Tim Pfeiffer;Alemania;;47;12/05/2005;fc_basel_1893
+Defensa central;Becir Omeragic;Suiza;Bosnia y Herzegovina;4;20/01/2002;fc_basel_1893
+Defensa central;Flavius Daniliuc;Austria;;24;27/04/2001;fc_basel_1893
+Defensa central;Nicolas Vouilloz;Suiza;;3;11/05/2001;fc_basel_1893
+Defensa central;Finn van Breemen;Países Bajos;;25;25/02/2003;fc_basel_1893
+Defensa central;Marvin Akahomen;Suiza;;43;15/07/2007;fc_basel_1893
+Lateral izquierdo;Dominik Schmid;Suiza;;31;10/03/1998;fc_basel_1893
+Lateral izquierdo;Moussa Cissé;Francia;;29;29/04/2003;fc_basel_1893
+Lateral derecho;Keigo Tsunemoto;Japón;;6;21/10/1998;fc_basel_1893
+Lateral derecho;Kevin Rüegg;Suiza;;27;05/08/1998;fc_basel_1893
+Pivote;Andrej Bacanin;Serbia;;14;07/03/2007;fc_basel_1893
+Mediocentro;Metinho;RD del Congo;Brasil;5;23/04/2003;fc_basel_1893
+Mediocentro;Koba Koindredi;Francia;;8;27/10/2001;fc_basel_1893
+Mediocentro;Léo Leroy;Francia;;22;14/02/2000;fc_basel_1893
+Mediocentro;Dion Kacuri;Suiza;Kosovo;28;11/02/2004;fc_basel_1893
+Mediocentro ofensivo;Xherdan Shaqiri;Suiza;Kosovo;10;10/10/1991;fc_basel_1893
+Mediocentro ofensivo;Adriano Onyegbule;Alemania;Nigeria;-;23/06/2006;fc_basel_1893
+Extremo izquierdo;Bénie Traoré;Costa de Marfil;;11;30/11/2002;fc_basel_1893
+Extremo izquierdo;Julien Duranville;Bélgica;;18;05/05/2006;fc_basel_1893
+Extremo izquierdo;Ibrahim Salah;Marruecos;Bélgica;21;30/08/2001;fc_basel_1893
+Extremo derecho;Marin Soticek;Croacia;;19;18/09/2004;fc_basel_1893
+Delantero centro;Moritz Broschinski;Alemania;;17;23/09/2000;fc_basel_1893
+Delantero centro;Albian Ajeti;Suiza;Albania;23;26/02/1997;fc_basel_1893
+Delantero centro;Giacomo Koloto;Suiza;;37;31/01/2008;fc_basel_1893
+Delantero centro;Kaio Eduardo;Brasil;;46;29/04/2005;fc_basel_1893
+Portero;Amir Saipi;Kosovo;Suiza;1;08/07/2000;fc_lugano
+Portero;David von Ballmoos;Suiza;;16;30/12/1994;fc_lugano
+Portero;Diego Mina;Suiza;;99;12/08/2005;fc_lugano
+Portero;Serif Berbic;Suiza;Bosnia y Herzegovina;13;25/11/2001;fc_lugano
+Defensa central;Antonios Papadopoulos;Alemania;Grecia;6;10/09/1999;fc_lugano
+Defensa central;Lukas Mai;Alemania;;17;31/03/2000;fc_lugano
+Defensa central;Hannes Delcroix;Haití;Bélgica;3;28/02/1999;fc_lugano
+Defensa central;Damian Kelvin;Suiza;Nigeria;4;15/06/2002;fc_lugano
+Defensa central;Carbone;Brasil;Italia;44;29/01/2005;fc_lugano
+Lateral izquierdo;Martim Marques;Portugal;;26;11/02/2004;fc_lugano
+Lateral izquierdo;Ezgjan Alioski;Macedonia del Norte;Suiza;7;12/02/1992;fc_lugano
+Lateral izquierdo;Yassin Sbai;Suiza;Italia;47;14/07/2003;fc_lugano
+Lateral derecho;Mattia Zanotti;Italia;;46;11/01/2003;fc_lugano
+Lateral derecho;Zachary Brault-Guillard;Canadá;Francia;2;30/12/1998;fc_lugano
+Pivote;Mohamed Belhadj Mahmoud;Túnez;;29;24/04/2000;fc_lugano
+Pivote;Ilija Maslarov;Macedonia del Norte;Suiza;49;02/01/2007;fc_lugano
+Mediocentro;Uran Bislimi;Suiza;Kosovo;25;25/09/1999;fc_lugano
+Mediocentro;Anto Grgic;Suiza;;8;28/11/1996;fc_lugano
+Mediocentro;Ahmed Kendouci;Argelia;;14;22/06/1999;fc_lugano
+Interior izquierdo;Yanis Cimignani;Francia;Burkina Faso;21;22/01/2002;fc_lugano
+Mediocentro ofensivo;Daniel Dos Santos;Suiza;;27;29/12/2002;fc_lugano
+Mediocentro ofensivo;Claudio Cassano;Italia;;19;22/07/2003;fc_lugano
+Mediocentro ofensivo;Mattia Bottani;Suiza;;10;24/05/1991;fc_lugano
+Extremo izquierdo;Elias Pihlström;Suecia;;24;31/08/2006;fc_lugano
+Extremo derecho;Hicham Mahou;Francia;Marruecos;18;02/07/1999;fc_lugano
+Extremo derecho;Renato Steffen;Suiza;;11;03/11/1991;fc_lugano
+Delantero centro;Georgios Koutsias;Grecia;;9;08/02/2004;fc_lugano
+Delantero centro;Kevin Behrens;Alemania;;91;03/02/1991;fc_lugano
+Portero;Lawrence Ati Zigi;Ghana;;1;29/11/1996;fc_st_gallen_1879
+Portero;Lukas Watkowiak;Alemania;;25;06/03/1996;fc_st_gallen_1879
+Portero;Bela Dumrath;Alemania;Suiza;35;18/11/2003;fc_st_gallen_1879
+Portero;Yannick Bujard;Suiza;;81;20/10/2003;fc_st_gallen_1879
+Defensa central;Cyrill May;Suiza;;72;06/02/2007;fc_st_gallen_1879
+Defensa central;Jozo Stanic;Croacia;Alemania;4;06/04/1999;fc_st_gallen_1879
+Defensa central;Tom Gaal;Alemania;;26;03/03/2001;fc_st_gallen_1879
+Defensa central;Colin Kleine-Bekel;Alemania;;3;24/01/2003;fc_st_gallen_1879
+Defensa central;Joel Ruiz;Suiza;;74;20/10/2006;fc_st_gallen_1879
+Defensa central;Pascal Büttiker;Suiza;;71;07/03/2006;fc_st_gallen_1879
+Lateral izquierdo;Chima Okoroji;Alemania;;36;19/04/1997;fc_st_gallen_1879
+Lateral derecho;Hugo Vandermersch;Francia;;28;05/05/1999;fc_st_gallen_1879
+Pivote;Behar Neziri;Alemania;Kosovo;6;06/01/2003;fc_st_gallen_1879
+Pivote;Jordi Quintillà;España;;8;25/10/1993;fc_st_gallen_1879
+Pivote;Betim Fazliji;Kosovo;Suiza;23;25/04/1999;fc_st_gallen_1879
+Mediocentro;Mihailo Stevanovic;Serbia;Suiza;64;04/01/2002;fc_st_gallen_1879
+Interior derecho;Lukas Görtler;Alemania;;16;15/06/1994;fc_st_gallen_1879
+Interior izquierdo;Christian Witzig;Suiza;;7;09/01/2001;fc_st_gallen_1879
+Mediocentro ofensivo;Carlo Boukhalfa;Alemania;;11;03/05/1999;fc_st_gallen_1879
+Mediocentro ofensivo;Corsin Konietzke;Suiza;;63;21/06/2006;fc_st_gallen_1879
+Mediocentro ofensivo;Lukas Daschner;Alemania;;10;01/10/1998;fc_st_gallen_1879
+Mediocentro ofensivo;Nino Weibel;Suiza;;66;11/04/2007;fc_st_gallen_1879
+Extremo izquierdo;Aliou Baldé;Guinea;Senegal;14;12/12/2002;fc_st_gallen_1879
+Extremo izquierdo;Tiemoko Ouattara;Suiza;;77;25/05/2005;fc_st_gallen_1879
+Extremo izquierdo;Kevin Csoboth;Hungría;;27;20/06/2000;fc_st_gallen_1879
+Extremo derecho;Malamine Efekele;Francia;;21;19/07/2004;fc_st_gallen_1879
+Extremo derecho;Enoch Owusu;Italia;Ghana;47;08/01/2005;fc_st_gallen_1879
+Delantero centro;Alessandro Vogt;Suiza;Italia;18;03/02/2005;fc_st_gallen_1879
+Delantero centro;Diego Besio;Suiza;España;69;23/06/2006;fc_st_gallen_1879
+Delantero centro;Antonio Verinac;Croacia;Alemania;19;27/12/2004;fc_st_gallen_1879
+Portero;Karlo Letica;Croacia;;25;11/02/1997;fc_lausanne_sport
+Portero;Thomas Castella;Suiza;;1;30/06/1993;fc_lausanne_sport
+Defensa central;Karim Sow;Suiza;;71;22/05/2003;fc_lausanne_sport
+Defensa central;Kévin Mouanga;Congo;Francia;14;24/07/2000;fc_lausanne_sport
+Defensa central;Dircssi Ngonzo;Suiza;;5;31/07/2005;fc_lausanne_sport
+Defensa central;Rodolfo Lippo;Finlandia;Bélgica;54;13/05/2004;fc_lausanne_sport
+Lateral izquierdo;Morgan Poaty;Congo;Francia;18;15/07/1997;fc_lausanne_sport
+Lateral izquierdo;Sékou Fofana;Francia;;93;25/03/2003;fc_lausanne_sport
+Lateral derecho;Theo Bergvall;Suecia;;6;21/09/2004;fc_lausanne_sport
+Lateral derecho;Hamza Abdallah;Comoras;Francia;20;13/06/2003;fc_lausanne_sport
+Pivote;Jamie Roche;Suecia;Inglaterra;8;05/04/2001;fc_lausanne_sport
+Pivote;Olivier Custodio;Suiza;;10;10/02/1995;fc_lausanne_sport
+Pivote;Sékou Koné;Malí;;80;03/02/2006;fc_lausanne_sport
+Mediocentro;Gabriel Sigua;Georgia;;38;30/06/2005;fc_lausanne_sport
+Mediocentro;Nicky Beloko;Suiza;Camerún;16;16/02/2000;fc_lausanne_sport
+Mediocentro;Souleymane N'Diaye;Suiza;Senegal;47;01/11/2005;fc_lausanne_sport
+Interior derecho;Brandon Soppy;Francia;;2;21/02/2002;fc_lausanne_sport
+Mediocentro ofensivo;Beyatt Lekoueiry;Mauritania;;27;11/04/2005;fc_lausanne_sport
+Mediocentro ofensivo;Florent Mollet;Francia;;91;19/11/1991;fc_lausanne_sport
+Mediocentro ofensivo;Ethan Bruchez;Suiza;;19;07/04/2008;fc_lausanne_sport
+Extremo derecho;Alban Ajdini;Kosovo;Suiza;7;09/07/1999;fc_lausanne_sport
+Delantero centro;Omar Janneh;España;Gambia;78;23/08/2006;fc_lausanne_sport
+Delantero centro;Gaoussou Diakité;Malí;;70;26/09/2005;fc_lausanne_sport
+Delantero centro;Theo Bair;Canadá;Jamaica;9;27/08/1999;fc_lausanne_sport
+Delantero centro;Nathan Butler-Oyedeji;Inglaterra;;11;04/01/2003;fc_lausanne_sport
+Delantero centro;Seydou Traoré;Costa de Marfil;;17;05/12/2004;fc_lausanne_sport
+Delantero centro;Enzo Kana-Biyik;Francia;;22;08/01/2007;fc_lausanne_sport
+Portero;Pascal Loretz;Suiza;;1;01/06/2003;fc_luzern
+Portero;Julian Bock;Alemania;;41;29/05/2004;fc_luzern
+Portero;Vaso Vasic;Serbia;Suiza;90;26/04/1990;fc_luzern
+Portero;Lionel Huwiler;Suiza;;23;17/02/2007;fc_luzern
+Defensa central;Adrian Bajrami;Suiza;Albania;4;05/04/2002;fc_luzern
+Defensa central;Bung Meng Freimann;Suiza;;46;09/12/2005;fc_luzern
+Defensa central;Stefan Knezevic;Suiza;;5;30/10/1996;fc_luzern
+Defensa central;Jesper Löfgren;Suecia;;3;03/05/1997;fc_luzern
+Defensa central;Mauricio Willimann;México;Suiza;42;16/01/2003;fc_luzern
+Defensa central;Erblin Sadikaj;Suiza;Kosovo;45;13/03/2008;fc_luzern
+Lateral izquierdo;Rúben Dantas Fernandes;Suiza;;22;19/05/2003;fc_luzern
+Lateral izquierdo;Andrejs Ciganiks;Letonia;;14;12/04/1997;fc_luzern
+Lateral derecho;Severin Ottiger;Suiza;;2;20/04/2003;fc_luzern
+Pivote;Taisei Abe;Japón;;6;07/06/2004;fc_luzern
+Pivote;Demir Xhemalija;Suiza;Kosovo;34;07/06/2006;fc_luzern
+Mediocentro;Tyron Owusu;Suiza;;24;08/06/2003;fc_luzern
+Mediocentro;Levin Winkler;Suiza;;29;13/08/2003;fc_luzern
+Mediocentro;Mio Zimmermann;Suiza;;80;08/08/2007;fc_luzern
+Interior derecho;Pius Dorn;Alemania;;20;24/09/1996;fc_luzern
+Mediocentro ofensivo;Matteo Di Giusto;Suiza;;11;18/08/2000;fc_luzern
+Mediocentro ofensivo;Lucas Silva;Portugal;;73;25/11/2006;fc_luzern
+Extremo izquierdo;Kevin Spadanuda;Suiza;;7;16/01/1997;fc_luzern
+Extremo derecho;Oscar Kabwit;RD del Congo;;16;05/05/2005;fc_luzern
+Extremo derecho;Julian Von Moos;Suiza;;81;01/04/2001;fc_luzern
+Delantero centro;Lars Villiger;Suiza;;27;29/04/2003;fc_luzern
+Delantero centro;Adrian Grbic;Austria;;9;04/08/1996;fc_luzern
+Delantero centro;Sandro Wyss;Suiza;;39;03/05/2008;fc_luzern
+Delantero centro;Sinan Karweina;Alemania;;10;29/03/1999;fc_luzern
+Delantero centro;Andrej Vasovic;Suiza;Serbia;19;14/10/2007;fc_luzern
+Delantero centro;Sascha Meyer;Suiza;;71;21/04/2006;fc_luzern
+Portero;Silas Huber;Suiza;;1;10/07/2005;fc_zurich
+Portero;Yanick Brecher;Suiza;;25;25/05/1993;fc_zurich
+Portero;Yevgen Morozov;Ucrania;;12;15/02/2007;fc_zurich
+Defensa central;David Vujevic;Suiza;Croacia;35;20/10/2006;fc_zurich
+Defensa central;Lindrit Kamberi;Suiza;Kosovo;2;07/10/1999;fc_zurich
+Defensa central;Alexander Hack;Alemania;;42;08/09/1993;fc_zurich
+Defensa central;Ilan Sauter;Suiza;Estados Unidos;27;06/02/2001;fc_zurich
+Defensa central;Jorge Segura;Colombia;;4;18/01/1997;fc_zurich
+Defensa central;Daniel Ihendu;Alemania;Nigeria;48;29/09/2005;fc_zurich
+Lateral izquierdo;Neil Volken;Suiza;;43;23/04/2007;fc_zurich
+Lateral derecho;Livano Comenencia;Curazao;Países Bajos;3;03/02/2004;fc_zurich
+Lateral derecho;Chris Kablan;Suiza;Francia;22;30/11/1994;fc_zurich
+Lateral derecho;Selmin Hodza;Suiza;;32;24/05/2003;fc_zurich
+Pivote;Mohamed Bangoura;Guinea;;18;18/02/2006;fc_zurich
+Pivote;Cosimo Fiorini;Italia;;34;27/05/2006;fc_zurich
+Mediocentro;Cheveyo Tsawa;Suiza;;6;09/12/2006;fc_zurich
+Mediocentro;Bledian Krasniqi;Kosovo;Suiza;7;17/06/2001;fc_zurich
+Mediocentro;Nelson Palacio;Colombia;;15;16/06/2001;fc_zurich
+Mediocentro;Miguel Reichmuth;Suiza;Chile;38;26/10/2003;fc_zurich
+Mediocentro;Valon Berisha;Kosovo;Noruega;23;07/02/1993;fc_zurich
+Mediocentro;Jill Stiel;Suiza;;46;01/05/2008;fc_zurich
+Interior izquierdo;Sebastian Walker;Suiza;;44;01/10/2005;fc_zurich
+Mediocentro ofensivo;Nevio Di Giusto;Suiza;;14;18/03/2005;fc_zurich
+Extremo izquierdo;Matthias Phaëton;Guadalupe;Francia;10;08/01/2000;fc_zurich
+Extremo izquierdo;Umeh Emmanuel;Nigeria;;11;31/08/2004;fc_zurich
+Extremo izquierdo;Ivan Cavaleiro;Angola;Portugal;8;18/10/1993;fc_zurich
+Delantero centro;Philippe Keny;Senegal;;19;18/05/1999;fc_zurich
+Delantero centro;Damienus Reverson;Países Bajos;Ghana;29;18/10/2003;fc_zurich
+Delantero centro;Juan José Perea;Colombia;;9;23/02/2000;fc_zurich
+Portero;Niklas Steffen;Suiza;;24;19/01/2001;fc_thun
+Portero;Tim Spycher;Suiza;;25;13/04/2004;fc_thun
+Portero;Nino Ziswiler;Suiza;;1;23/10/1999;fc_thun
+Portero;Jan Eicher;Suiza;;30;16/02/2004;fc_thun
+Defensa central;Genís Montolio;España;;4;23/07/1996;fc_thun
+Defensa central;Jan Bamert;Suiza;;19;09/03/1998;fc_thun
+Defensa central;Marco Bürki;Suiza;;23;10/07/1993;fc_thun
+Lateral izquierdo;Michael Heule;Suiza;;27;27/04/2001;fc_thun
+Lateral izquierdo;Dominik Franke;Alemania;;5;05/10/1998;fc_thun
+Lateral izquierdo;Ashvin Balaruban;Suiza;;17;08/08/2001;fc_thun
+Lateral derecho;Fabio Fehr;Suiza;;47;15/01/2000;fc_thun
+Lateral derecho;Lucien Dähler;Suiza;;37;22/03/2001;fc_thun
+Pivote;Justin Roth;Suiza;;16;29/10/2000;fc_thun
+Pivote;Leonardo Bertone;Suiza;;6;14/03/1994;fc_thun
+Mediocentro;Franz-Ethan Meichtry;Suiza;Camerún;77;08/07/2005;fc_thun
+Mediocentro;Kastriot Imeri;Suiza;;7;27/06/2000;fc_thun
+Mediocentro;Valmir Matoshi;Suiza;;78;04/07/2003;fc_thun
+Mediocentro;Mattias Käit;Estonia;;14;29/06/1998;fc_thun
+Mediocentro;Noah Rupp;Suiza;;20;13/08/2003;fc_thun
+Mediocentro;Vasilije Janjicic;Suiza;;8;02/11/1998;fc_thun
+Mediocentro;Adam Ilic;Suiza;Serbia;52;03/05/2008;fc_thun
+Mediocentro ofensivo;Nils Reichmuth;Suiza;;70;22/02/2002;fc_thun
+Extremo derecho;Marc Gutbub;Suiza;;33;04/02/2003;fc_thun
+Delantero centro;Elmin Rastoder;Macedonia del Norte;Suiza;74;07/10/2001;fc_thun
+Delantero centro;Christopher Ibayi;Congo;Francia;18;18/07/1995;fc_thun
+Delantero centro;Brighton Labeau;Martinica;Francia;96;01/01/1996;fc_thun
+Delantero centro;Furkan Dursun;Austria;Turquía;9;14/03/2005;fc_thun
+Portero;Justin Hammel;Suiza;;71;02/12/2000;grasshopper_club_zurich
+Portero;Nicolas Glaus;Suiza;;1;10/05/2002;grasshopper_club_zurich
+Portero;Laurent Seji;Kosovo;Suiza;50;22/06/2004;grasshopper_club_zurich
+Defensa central;Abdoulaye Diaby;Malí;;15;04/07/2000;grasshopper_club_zurich
+Defensa central;Dorian Paloschi;Italia;;73;21/11/2005;grasshopper_club_zurich
+Defensa central;Luka Mikulic;Bosnia y Herzegovina;Croacia;4;07/05/2005;grasshopper_club_zurich
+Defensa central;Mouhamed El Bachir Ngom;Senegal;;20;12/05/2000;grasshopper_club_zurich
+Defensa central;Dirk Abels;Países Bajos;;2;13/06/1997;grasshopper_club_zurich
+Defensa central;Ismajl Beka;Kosovo;Suiza;30;31/10/1999;grasshopper_club_zurich
+Defensa central;Saulo Decarli;Suiza;;3;04/02/1992;grasshopper_club_zurich
+Defensa central;Yannick Bettkober;Alemania;;58;18/03/2005;grasshopper_club_zurich
+Lateral derecho;Pantaleo Creti;Italia;Uganda;22;22/07/2008;grasshopper_club_zurich
+Lateral derecho;Allan Arigoni;Suiza;;34;04/11/1998;grasshopper_club_zurich
+Pivote;Tim Meyer;Suiza;;8;08/07/2004;grasshopper_club_zurich
+Pivote;Imourane Hassane;Benín;;5;08/04/2003;grasshopper_club_zurich
+Pivote;Sven Köhler;Alemania;;27;08/11/1996;grasshopper_club_zurich
+Pivote;Matteo Mantini;Italia;;16;27/08/2007;grasshopper_club_zurich
+Pivote;Amir Abrashi;Albania;Suiza;6;27/03/1990;grasshopper_club_zurich
+Mediocentro;Leart Kabashi;Suiza;;21;29/11/2007;grasshopper_club_zurich
+Interior derecho;Samuel Marques;Suiza;Portugal;52;04/02/2005;grasshopper_club_zurich
+Interior izquierdo;Simone Stroscio;Suiza;;28;20/08/2003;grasshopper_club_zurich
+Interior izquierdo;Maximilian Ullmann;Austria;;31;17/06/1996;grasshopper_club_zurich
+Interior izquierdo;Samuel Krasniqi;Suiza;;54;03/01/2005;grasshopper_club_zurich
+Mediocentro ofensivo;Jonathan Asp Jensen;Dinamarca;;10;14/01/2006;grasshopper_club_zurich
+Mediocentro ofensivo;Lovro Zvonarek;Croacia;;14;08/05/2005;grasshopper_club_zurich
+Mediocentro ofensivo;Óscar Clemente;España;;17;26/03/1999;grasshopper_club_zurich
+Mediocentro ofensivo;Salifou Diarrassouba;Costa de Marfil;;11;20/12/2001;grasshopper_club_zurich
+Delantero centro;Luke Plange;Inglaterra;;7;04/11/2002;grasshopper_club_zurich
+Delantero centro;Young-jun Lee;Corea del Sur;;18;23/05/2003;grasshopper_club_zurich
+Delantero centro;Emmanuel Tsimba;Suiza;;19;22/06/2006;grasshopper_club_zurich
+Delantero centro;Michael Frey;Suiza;;99;19/07/1994;grasshopper_club_zurich
+Portero;Joël Mall;Chipre;Suiza;1;05/04/1991;servette_fc
+Portero;Jérémy Frick;Suiza;;32;08/03/1993;servette_fc
+Defensa central;Dylan Bronn;Túnez;Francia;25;19/06/1995;servette_fc
+Defensa central;Marco Burch;Suiza;;15;19/10/2000;servette_fc
+Defensa central;Yoan Severin;Francia;;19;24/01/1997;servette_fc
+Defensa central;Téo Allix;Francia;;34;05/07/2004;servette_fc
+Defensa central;Steve Rouiller;Suiza;;4;10/07/1990;servette_fc
+Lateral izquierdo;Lilian Njoh;Francia;Camerún;14;22/11/2001;servette_fc
+Lateral izquierdo;Bradley Mazikou;Congo;Francia;18;02/06/1996;servette_fc
+Lateral derecho;Loun Srdanovic;Suiza;;2;04/08/2006;servette_fc
+Lateral derecho;Houboulang Mendes;Guinea-Bissau;Francia;17;04/05/1998;servette_fc
+Pivote;Lamine Fomba;Francia;Malí;11;26/01/1998;servette_fc
+Pivote;Gaël Ondoua;Camerún;;5;04/11/1995;servette_fc
+Pivote;David Douline;Francia;;28;28/05/1993;servette_fc
+Mediocentro;Timothé Cognat;Francia;;8;25/01/1998;servette_fc
+Interior derecho;Ablie Jallow;Gambia;;30;14/11/1998;servette_fc
+Interior derecho;Miroslav Stevanovic;Bosnia y Herzegovina;Serbia;9;29/07/1990;servette_fc
+Interior derecho;Thomas Lopes;Francia;;36;27/01/2007;servette_fc
+Interior izquierdo;Malek Ishuayed;Suiza;España;38;16/03/2007;servette_fc
+Mediocentro ofensivo;Giotto Morandi;Suiza;;7;04/03/1999;servette_fc
+Extremo izquierdo;Junior Kadile;Francia;RD del Congo;10;16/12/2002;servette_fc
+Extremo izquierdo;Mardochée Miguel;Suiza;RD del Congo;39;22/05/2007;servette_fc
+Delantero centro;Florian Ayé;Francia;;97;19/01/1997;servette_fc
+Delantero centro;Samuel Mráz;Eslovaquia;;90;13/05/1997;servette_fc
+Delantero centro;Jamie Atangana;Suiza;;45;12/11/2007;servette_fc
+Delantero centro;Jérémy Guillemenot;Suiza;;21;06/01/1998;servette_fc
+Portero;Anthony Racioppi;Suiza;;1;31/12/1998;fc_sion
+Portero;Francesco Ruberto;Suiza;Italia;12;19/03/1993;fc_sion
+Portero;Simon Caillet;Suiza;;40;05/07/2006;fc_sion
+Defensa central;Jan Kronig;Suiza;;17;24/06/2000;fc_sion
+Defensa central;Kreshnik Hajrizi;Kosovo;Suiza;28;28/05/1999;fc_sion
+Defensa central;Noé Sow;Francia;;5;18/12/1998;fc_sion
+Defensa central;Ryan Kessler;Suiza;;38;28/08/2005;fc_sion
+Defensa central;Maxime Dubosson;Suiza;;24;24/11/2004;fc_sion
+Defensa central;Nevio Biner;Suiza;;44;17/08/2006;fc_sion
+Lateral izquierdo;Nias Hefti;Suiza;;20;18/09/1999;fc_sion
+Lateral izquierdo;Marquinhos Cipriano;Brasil;;6;09/02/1999;fc_sion
+Lateral derecho;Numa Lavanchy;Suiza;;14;25/08/1993;fc_sion
+Pivote;Ali Kabacalman;Suiza;;88;27/09/1995;fc_sion
+Pivote;Lamine Diack;Senegal;;25;15/11/2000;fc_sion
+Mediocentro;Baltazar;Brasil;;8;06/05/2000;fc_sion
+Mediocentro;Liam Chipperfield;Suiza;;21;14/02/2004;fc_sion
+Interior derecho;Donat Rrudhani;Kosovo;;77;02/05/1999;fc_sion
+Interior izquierdo;Benjamin Kololli;Kosovo;Suiza;70;15/05/1992;fc_sion
+Extremo izquierdo;Ilyas Chouaref;Malta;Francia;7;12/12/2000;fc_sion
+Extremo izquierdo;Franck Surdez;Suiza;;19;05/05/2002;fc_sion
+Extremo izquierdo;Josias Lukembila;Suiza;RD del Congo;39;09/09/1999;fc_sion
+Extremo derecho;Théo Berdayes;Suiza;;29;23/05/2002;fc_sion
+Extremo derecho;Altin Shala;Kosovo;Suiza;23;18/12/2002;fc_sion
+Delantero centro;Rilind Nivokazi;Kosovo;Italia;33;26/01/2000;fc_sion
+Delantero centro;Winsley Boteli;Suiza;RD del Congo;13;05/07/2006;fc_sion
+Delantero centro;Adrien Llukes;Suiza;Kosovo;22;21/07/2008;fc_sion
+Delantero centro;Dejan Djokic;Suiza;;-;26/09/2000;fc_sion
+Portero;Stefanos Kapino;Grecia;;1;18/03/1994;fc_winterthur
+Portero;Antonio Spagnoli;Suiza;;75;31/05/2005;fc_winterthur
+Portero;Noah Brogli;Suiza;;30;28/05/2008;fc_winterthur
+Defensa central;Loïc Lüthi;Suiza;;21;30/09/2003;fc_winterthur
+Defensa central;Remo Arnold;Suiza;;16;17/01/1997;fc_winterthur
+Defensa central;Tibault Citherlet;Suiza;;33;05/03/2005;fc_winterthur
+Defensa central;Mirlind Kryeziu;Kosovo;Suiza;31;26/01/1997;fc_winterthur
+Defensa central;Lukas Mühl;Alemania;;5;27/01/1997;fc_winterthur
+Defensa central;Basil Stillhart;Suiza;;4;24/03/1994;fc_winterthur
+Lateral izquierdo;Rhodri Smith;Suiza;Inglaterra;3;09/09/2006;fc_winterthur
+Lateral izquierdo;Souleymane Diaby;Costa de Marfil;;18;08/10/1999;fc_winterthur
+Lateral derecho;Silvan Sidler;Suiza;;24;07/07/1998;fc_winterthur
+Lateral derecho;Dario Ulrich;Suiza;;19;12/03/1998;fc_winterthur
+Lateral derecho;Ledjan Sahitaj;Kosovo;Suiza;26;12/01/2004;fc_winterthur
+Pivote;Adrian Durrer;Suiza;;22;13/07/2001;fc_winterthur
+Mediocentro;Alexandre Jankewitz;Suiza;;45;25/12/2001;fc_winterthur
+Mediocentro;Emmanuel Essiam;Ghana;;6;19/12/2003;fc_winterthur
+Mediocentro;Stéphane Cueni;Cabo Verde;Suiza;44;14/03/2001;fc_winterthur
+Mediocentro;Pajtim Kasami;Suiza;Macedonia del Norte;23;02/06/1992;fc_winterthur
+Mediocentro;Luca Zuffi;Suiza;;7;27/03/1990;fc_winterthur
+Interior derecho;Elias Maluvunu;Suiza;;37;03/08/2004;fc_winterthur
+Interior derecho;Fabian Rohner;Suiza;;27;17/08/1998;fc_winterthur
+Interior izquierdo;Carmine Chiappetta;Suiza;;20;09/03/2003;fc_winterthur
+Mediocentro ofensivo;Théo Golliard;Suiza;;8;27/09/2002;fc_winterthur
+Mediocentro ofensivo;Randy Schneider;Filipinas;Suiza;10;27/08/2001;fc_winterthur
+Extremo izquierdo;Nishan Burkart;Suiza;;99;31/01/2000;fc_winterthur
+Extremo izquierdo;Bafodé Dansoko;Guinea;Francia;11;28/12/1995;fc_winterthur
+Delantero centro;Andrin Hunziker;Suiza;;17;21/02/2003;fc_winterthur
+Delantero centro;Francis Momoh;Nigeria;;14;25/03/2001;fc_winterthur
+Delantero centro;Roman Buess;Suiza;;9;21/09/1992;fc_winterthur

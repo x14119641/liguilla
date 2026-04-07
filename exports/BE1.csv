@@ -1,0 +1,453 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Nordin Jackers;Bélgica;;29;05/09/1997;fc_brugge
+Portero;Simon Mignolet;Bélgica;;22;06/03/1988;fc_brugge
+Portero;Dani van den Heuvel;Países Bajos;;16;28/05/2003;fc_brugge
+Portero;Axl De Corte;Bélgica;;71;24/03/2006;fc_brugge
+Defensa central;Joel Ordóñez;Ecuador;;4;21/04/2004;fc_brugge
+Defensa central;Brandon Mechele;Bélgica;;44;28/01/1993;fc_brugge
+Defensa central;Jorne Spileers;Bélgica;;58;21/01/2005;fc_brugge
+Defensa central;Vince Osuji;Nigeria;;24;06/04/2006;fc_brugge
+Lateral izquierdo;Joaquin Seys;Bélgica;;65;28/03/2005;fc_brugge
+Lateral izquierdo;Bjorn Meijer;Países Bajos;;14;18/03/2003;fc_brugge
+Lateral derecho;Kyriani Sabbe;Bélgica;;64;26/01/2005;fc_brugge
+Lateral derecho;Hugo Siquet;Bélgica;;41;09/07/2002;fc_brugge
+Pivote;Aleksandar Stanković;Serbia;Italia;25;03/08/2005;fc_brugge
+Pivote;Raphael Onyedika;Nigeria;;15;19/04/2001;fc_brugge
+Pivote;Lynnt Audoor;Bélgica;;62;13/10/2003;fc_brugge
+Mediocentro;Ludovit Reis;Países Bajos;Eslovaquia;6;01/06/2000;fc_brugge
+Mediocentro;Hugo Vetlesen;Noruega;;10;29/02/2000;fc_brugge
+Mediocentro;Alejandro Granados;España;Estados Unidos;70;30/05/2006;fc_brugge
+Mediocentro ofensivo;Félix Lemaréchal;Francia;Costa de Marfil;80;07/08/2003;fc_brugge
+Mediocentro ofensivo;Hans Vanaken;Bélgica;;20;24/08/1992;fc_brugge
+Mediocentro ofensivo;Cisse Sandra;Bélgica;;11;16/12/2003;fc_brugge
+Extremo izquierdo;Christos Tzolis;Grecia;;8;30/01/2002;fc_brugge
+Extremo izquierdo;Carlos Forbs;Portugal;Guinea-Bissau;9;19/03/2004;fc_brugge
+Extremo izquierdo;Mamadou Diakhon;Senegal;Francia;67;22/09/2005;fc_brugge
+Extremo izquierdo;Shandre Campbell;Sudáfrica;;84;15/07/2005;fc_brugge
+Delantero centro;Nicolò Tresoldi;Alemania;Italia;7;20/08/2004;fc_brugge
+Delantero centro;Romeo Vermant;Bélgica;;17;24/01/2004;fc_brugge
+Delantero centro;Gustaf Nilsson;Suecia;;19;23/05/1997;fc_brugge
+Portero;Tobias Lawal;Austria;;26;07/06/2000;krc_genk
+Portero;Hendrik Van Crombrugge;Bélgica;;1;30/04/1993;krc_genk
+Portero;Lucca Brughmans;Bélgica;;28;27/06/2008;krc_genk
+Portero;Emile Doucouré;Malí;Bélgica;97;28/09/2007;krc_genk
+Portero;Brent Stevens;Bélgica;;71;11/08/2003;krc_genk
+Defensa central;Matte Smets;Bélgica;;6;04/01/2004;krc_genk
+Defensa central;Mujaid Sadick;España;Nigeria;3;14/03/2000;krc_genk
+Defensa central;Josué Kongolo;Bélgica;RD del Congo;44;13/04/2006;krc_genk
+Defensa central;Adrián Palacios;Venezuela;Colombia;34;07/06/2004;krc_genk
+Lateral izquierdo;Yaimar Medina;Ecuador;;19;05/11/2004;krc_genk
+Lateral izquierdo;Joris Kayembe;RD del Congo;Bélgica;18;08/08/1994;krc_genk
+Lateral derecho;Zakaria El Ouahdi;Marruecos;Bélgica;77;31/12/2001;krc_genk
+Lateral derecho;Ken Nkuba;Bélgica;RD del Congo;27;21/01/2002;krc_genk
+Pivote;Ibrahima Sory Bangoura;Guinea;;21;05/01/2004;krc_genk
+Pivote;Nikolas Sattlberger;Austria;;24;18/01/2004;krc_genk
+Mediocentro;Bryan Heynen;Bélgica;;8;06/02/1997;krc_genk
+Mediocentro;August De Wannemacker;Bélgica;;56;25/12/2008;krc_genk
+Mediocentro ofensivo;Konstantinos Karetsas;Grecia;Bélgica;20;19/11/2007;krc_genk
+Mediocentro ofensivo;Daan Heymans;Bélgica;;38;15/06/1999;krc_genk
+Extremo izquierdo;Noah Adedeji-Sternberg;Bélgica;Alemania;32;19/06/2005;krc_genk
+Extremo izquierdo;Yira Sor;Nigeria;;14;24/07/2000;krc_genk
+Extremo izquierdo;Ayumu Yokoyama;Japón;;30;04/03/2003;krc_genk
+Extremo derecho;Jarne Steuckers;Bélgica;;7;04/02/2002;krc_genk
+Extremo derecho;Junya Ito;Japón;;10;09/03/1993;krc_genk
+Delantero centro;Robin Mirisola;Bélgica;;29;08/12/2006;krc_genk
+Delantero centro;Jusef Erabi;Suecia;Afganistán;99;08/06/2003;krc_genk
+Delantero centro;Aaron Bibout;Camerún;;23;09/09/2004;krc_genk
+Portero;Kjell Scherpen;Países Bajos;;37;23/01/2000;royale_union_saint_gilloise
+Portero;Vic Chambaere;Bélgica;;1;10/01/2003;royale_union_saint_gilloise
+Portero;Giorgi Kavlashvili;Georgia;Bélgica;18;24/01/2007;royale_union_saint_gilloise
+Portero;Jens Teunckens;Bélgica;;21;30/01/1998;royale_union_saint_gilloise
+Defensa central;Kevin Mac Allister;Argentina;Italia;5;07/11/1997;royale_union_saint_gilloise
+Defensa central;Fedde Leysen;Bélgica;;48;09/07/2003;royale_union_saint_gilloise
+Defensa central;Ross Sykes;Inglaterra;;26;26/03/1999;royale_union_saint_gilloise
+Defensa central;Christian Burgess;Inglaterra;;16;07/10/1991;royale_union_saint_gilloise
+Defensa central;Mamadou Thierno Barry;Senegal;;3;20/03/2005;royale_union_saint_gilloise
+Defensa central;Massiré Sylla;Senegal;;29;07/01/2005;royale_union_saint_gilloise
+Lateral derecho;Louis Patris;Bélgica;;27;07/06/2001;royale_union_saint_gilloise
+Lateral derecho;Guillaume François;Bélgica;;19;03/06/1990;royale_union_saint_gilloise
+Mediocentro;Adem Zorgane;Argelia;;8;06/01/2000;royale_union_saint_gilloise
+Mediocentro;Kamiel Van De Perre;Bélgica;;6;12/02/2004;royale_union_saint_gilloise
+Mediocentro;Besfort Zeneli;Suecia;Kosovo;23;21/11/2002;royale_union_saint_gilloise
+Mediocentro;Rob Schoofs;Bélgica;;17;23/03/1994;royale_union_saint_gilloise
+Mediocentro;Ivan Pavlic;Bélgica;Países Bajos;14;10/11/2001;royale_union_saint_gilloise
+Interior derecho;Anan Khalaili;Israel;;25;03/09/2004;royale_union_saint_gilloise
+Interior izquierdo;Ousseynou Niang;Senegal;;22;12/10/2001;royale_union_saint_gilloise
+Mediocentro ofensivo;Anouar Ait El Hadj;Bélgica;Marruecos;10;20/04/2002;royale_union_saint_gilloise
+Extremo izquierdo;Guilherme Smith;Brasil;;11;11/06/2003;royale_union_saint_gilloise
+Delantero centro;Promise David;Canadá;Nigeria;12;03/07/2001;royale_union_saint_gilloise
+Delantero centro;Raul Florucz;Austria;;30;10/06/2001;royale_union_saint_gilloise
+Delantero centro;Kevin Rodríguez;Ecuador;;13;04/03/2000;royale_union_saint_gilloise
+Delantero centro;Mohammed Fuseini;Ghana;;7;16/05/2002;royale_union_saint_gilloise
+Delantero centro;Marc Giger;Suiza;Camerún;20;27/03/2004;royale_union_saint_gilloise
+Delantero centro;Mateo Biondic;Alemania;Croacia;9;24/07/2003;royale_union_saint_gilloise
+Portero;Colin Coosemans;Bélgica;;26;03/08/1992;rsc_anderlecht
+Portero;Justin Heekeren;Alemania;;32;27/11/2000;rsc_anderlecht
+Portero;Joachim Imbrechts;Suecia;Bélgica;73;09/10/2001;rsc_anderlecht
+Defensa central;Lucas Hey;Dinamarca;;3;13/04/2003;rsc_anderlecht
+Defensa central;Marco Kana;Bélgica;RD del Congo;55;08/08/2002;rsc_anderlecht
+Defensa central;Mihajlo Ilić;Serbia;;15;04/06/2003;rsc_anderlecht
+Defensa central;Moussa Diarra;Malí;Francia;93;10/11/2000;rsc_anderlecht
+Defensa central;Mathys Angély;Francia;Martinica;4;21/04/2007;rsc_anderlecht
+Lateral izquierdo;Ludwig Augustinsson;Suecia;;6;21/04/1994;rsc_anderlecht
+Lateral derecho;Ilay Camara;Senegal;Bélgica;7;18/01/2003;rsc_anderlecht
+Lateral derecho;Killian Sardella;Bélgica;Camerún;54;02/05/2002;rsc_anderlecht
+Lateral derecho;Ali Maamar;Marruecos;Bélgica;79;23/03/2005;rsc_anderlecht
+Lateral derecho;Thomas Foket;Bélgica;;25;25/09/1994;rsc_anderlecht
+Pivote;Enric Llansana;Países Bajos;España;24;12/04/2001;rsc_anderlecht
+Pivote;Mats Rits;Bélgica;;23;18/07/1993;rsc_anderlecht
+Mediocentro;Nathan De Cat;Bélgica;;74;19/07/2008;rsc_anderlecht
+Mediocentro;Nathan-Dylan Saliba;Canadá;Haití;13;07/02/2004;rsc_anderlecht
+Mediocentro;Anas Tajaouart;Marruecos;Bélgica;78;07/09/2005;rsc_anderlecht
+Mediocentro ofensivo;Mario Stroeykens;RD del Congo;Bélgica;29;29/09/2004;rsc_anderlecht
+Mediocentro ofensivo;Yari Verschaeren;Bélgica;;10;12/07/2001;rsc_anderlecht
+Mediocentro ofensivo;Thorgan Hazard;Bélgica;;11;29/03/1993;rsc_anderlecht
+Mediocentro ofensivo;Alexis Flips;Francia;;70;18/01/2000;rsc_anderlecht
+Extremo izquierdo;César Huerta;México;;21;03/12/2000;rsc_anderlecht
+Extremo izquierdo;Coba da Costa;Guinea-Bissau;España;77;26/07/2002;rsc_anderlecht
+Extremo izquierdo;Ibrahim Kanaté;Malí;;99;23/10/2006;rsc_anderlecht
+Extremo derecho;Tristan Degreef;Bélgica;;83;19/01/2005;rsc_anderlecht
+Delantero centro;Mihajlo Cvetkovic;Serbia;;9;10/01/2007;rsc_anderlecht
+Delantero centro;Danylo Sikan;Ucrania;;14;16/04/2001;rsc_anderlecht
+Delantero centro;Adriano Bertaccini;Bélgica;Italia;91;13/08/2000;rsc_anderlecht
+Delantero centro;Elyèss Dao;Marruecos;Francia;22;20/11/2006;rsc_anderlecht
+Portero;Davy Roef;Bélgica;;33;06/02/1994;kaa_gent
+Portero;Kjell Peersman;Bélgica;;30;21/05/2004;kaa_gent
+Portero;Tom Vandenberghe;Bélgica;;23;17/08/1992;kaa_gent
+Portero;Bas Evers;Bélgica;;31;02/12/2008;kaa_gent
+Defensa central;Maksim Paskotsi;Estonia;;3;19/01/2003;kaa_gent
+Defensa central;Siebe Van der Heyden;Bélgica;;44;30/05/1998;kaa_gent
+Defensa central;Jean-Kévin Duverne;Haití;Francia;29;12/07/1997;kaa_gent
+Defensa central;Matties Volckaert;Bélgica;;57;12/10/2002;kaa_gent
+Defensa central;Hatim Es-Saoubi;Marruecos;;25;13/12/2000;kaa_gent
+Lateral izquierdo;Tiago Araújo;Portugal;;20;27/03/2001;kaa_gent
+Lateral izquierdo;Abdoul Ayinde;Burkina Faso;;39;17/07/2005;kaa_gent
+Lateral derecho;Daiki Hashioka;Japón;;4;17/05/1999;kaa_gent
+Lateral derecho;Gilles De Meyer;Bélgica;;35;17/09/2006;kaa_gent
+Pivote;Mohammed El Âdfaoui;Bélgica;Marruecos;28;28/02/2008;kaa_gent
+Pivote;Wout Asselman;Bélgica;;62;20/01/2005;kaa_gent
+Mediocentro;Mathias Delorge;Bélgica;;17;31/07/2004;kaa_gent
+Mediocentro;Atsuki Ito;Japón;;15;11/08/1998;kaa_gent
+Mediocentro;Leonardo Lopes;Portugal;Cabo Verde;22;30/11/1998;kaa_gent
+Interior derecho;Matisse Samoise;Bélgica;;18;21/11/2001;kaa_gent
+Mediocentro ofensivo;Hyun-seok Hong;Corea del Sur;;24;16/06/1999;kaa_gent
+Mediocentro ofensivo;Abdelkahar Kadri;Argelia;;37;24/06/2000;kaa_gent
+Mediocentro ofensivo;Aimé Omgba;Países Bajos;Camerún;10;22/10/2002;kaa_gent
+Mediocentro ofensivo;Tibe De Vlieger;Bélgica;;27;05/11/2005;kaa_gent
+Extremo izquierdo;Michal Skoras;Polonia;;8;15/02/2000;kaa_gent
+Extremo izquierdo;Momodou Sonko;Suecia;Gambia;11;31/01/2005;kaa_gent
+Delantero centro;Hyllarion Goore;Costa de Marfil;;45;24/08/2005;kaa_gent
+Delantero centro;Wilfried Kanga;Costa de Marfil;Francia;7;21/02/1998;kaa_gent
+Delantero centro;Max Dean;Inglaterra;;21;21/02/2004;kaa_gent
+Delantero centro;Moctar Diop;Senegal;;19;06/01/2005;kaa_gent
+Portero;Taishi Brandon Nozawa;Japón;;41;25/12/2002;royal_antwerpen_fc
+Portero;Yannick Thoelen;Bélgica;;15;18/07/1990;royal_antwerpen_fc
+Portero;Niels Devalckeneer;Bélgica;;81;17/05/2004;royal_antwerpen_fc
+Defensa central;Zeno Van Den Bosch;Bélgica;;33;06/07/2003;royal_antwerpen_fc
+Defensa central;Rein Van Helden;Bélgica;;20;24/07/2002;royal_antwerpen_fc
+Defensa central;Kiki Kouyaté;Malí;;25;15/04/1997;royal_antwerpen_fc
+Defensa central;Yuto Tsunashima;Japón;;4;15/08/2000;royal_antwerpen_fc
+Defensa central;Andreas Verstraeten;Bélgica;;21;10/01/2006;royal_antwerpen_fc
+Defensa central;Björn Engels;Bélgica;;3;15/09/1994;royal_antwerpen_fc
+Lateral izquierdo;Daam Foulon;Bélgica;;5;23/03/1999;royal_antwerpen_fc
+Lateral derecho;Semm Renders;Bélgica;;17;17/12/2007;royal_antwerpen_fc
+Lateral derecho;Kobe Corbanie;Bélgica;;2;10/05/2005;royal_antwerpen_fc
+Lateral derecho;Glenn Bijl;Países Bajos;;23;13/07/1995;royal_antwerpen_fc
+Pivote;Mauricio Benítez;Argentina;;16;03/02/2004;royal_antwerpen_fc
+Pivote;Jules Ahoka;RD del Congo;;6;08/05/2006;royal_antwerpen_fc
+Mediocentro;Dennis Praet;Bélgica;;8;14/05/1994;royal_antwerpen_fc
+Mediocentro;Xander Dierckx;Bélgica;;78;27/02/2009;royal_antwerpen_fc
+Mediocentro;Mahamadou Diawara;Francia;Malí;34;17/02/2005;royal_antwerpen_fc
+Mediocentro;Youssef Hamdaoui;Marruecos;Bélgica;43;20/03/2008;royal_antwerpen_fc
+Interior izquierdo;Christopher Scott;Alemania;Ghana;30;07/06/2002;royal_antwerpen_fc
+Mediocentro ofensivo;Isaac Babadi;Países Bajos;Sierra Leona;10;06/04/2005;royal_antwerpen_fc
+Mediocentro ofensivo;Farouck Adekami;Costa de Marfil;;22;07/08/2006;royal_antwerpen_fc
+Extremo izquierdo;Marwan Al-Sahafi;Arabia Saudita;;9;17/02/2004;royal_antwerpen_fc
+Extremo derecho;Gyrano Kerk;Surinam;Países Bajos;7;02/12/1995;royal_antwerpen_fc
+Extremo derecho;Thibo Somers;Bélgica;;24;16/03/1999;royal_antwerpen_fc
+Extremo derecho;Anthony Valencia;Ecuador;;14;21/07/2003;royal_antwerpen_fc
+Extremo derecho;Mukhammadali Urinboev;Uzbekistán;;19;24/04/2005;royal_antwerpen_fc
+Extremo derecho;Geoffry Hairemans;Bélgica;;11;21/10/1991;royal_antwerpen_fc
+Delantero centro;Vincent Janssen;Países Bajos;;18;15/06/1994;royal_antwerpen_fc
+Delantero centro;Gerard Vandeplas;Bélgica;;79;25/02/2006;royal_antwerpen_fc
+Delantero centro;Gabriel Jesus David;Nigeria;;92;02/01/2007;royal_antwerpen_fc
+Portero;Matthieu Epolo;RD del Congo;Bélgica;1;15/01/2005;standard_luttich
+Portero;Lucas Pirard;Bélgica;;21;10/03/1995;standard_luttich
+Portero;Belmin Dizdarevic;Bosnia y Herzegovina;;35;09/08/2001;standard_luttich
+Portero;Matteo Godfroid;Bélgica;;12;25/02/2004;standard_luttich
+Defensa central;Ibe Hautekiet;Bélgica;;25;13/04/2002;standard_luttich
+Defensa central;Ibrahim Karamoko;Francia;Costa de Marfil;20;23/07/2001;standard_luttich
+Defensa central;Daan Dierckx;Bélgica;;29;24/02/2003;standard_luttich
+Defensa central;David Bates;Escocia;;4;05/10/1996;standard_luttich
+Defensa central;Josué Homawoo;Togo;Francia;24;12/11/1997;standard_luttich
+Lateral izquierdo;Gustav Mortensen;Dinamarca;;3;19/03/2004;standard_luttich
+Lateral izquierdo;Alexandro Calut;Bélgica;;22;22/04/2003;standard_luttich
+Lateral izquierdo;Boli Bolingoli;Bélgica;RD del Congo;5;01/07/1995;standard_luttich
+Lateral izquierdo;Souleyman Doumbia;Costa de Marfil;Francia;15;24/09/1996;standard_luttich
+Lateral derecho;Marlon Fossey;Estados Unidos;Jersey;13;09/09/1998;standard_luttich
+Lateral derecho;Henry Lawrence;Inglaterra;;18;21/09/2001;standard_luttich
+Lateral derecho;Steeven Assengue;Bélgica;Camerún;53;14/06/2005;standard_luttich
+Pivote;Marco Ilaimaharitra;Madagascar;Francia;23;26/07/1995;standard_luttich
+Mediocentro;Teddy Teuma;Malta;Francia;80;30/09/1993;standard_luttich
+Mediocentro;Nayel Mehssatou;Chile;Bélgica;8;11/04/2002;standard_luttich
+Mediocentro;Casper Nielsen;Dinamarca;;94;29/04/1994;standard_luttich
+Mediocentro;Léandre Kuavita;Bélgica;Angola;14;31/05/2004;standard_luttich
+Interior izquierdo;Tobias Mohr;Alemania;;7;24/08/1995;standard_luttich
+Mediocentro ofensivo;Mohammed El Hankouri;Marruecos;Países Bajos;27;01/07/1997;standard_luttich
+Extremo izquierdo;Rafiki Saïd;Comoras;Francia;17;15/03/2000;standard_luttich
+Extremo derecho;Adnane Abid;Bélgica;Marruecos;11;23/08/2003;standard_luttich
+Delantero centro;Dennis Eckert Ayensa;Irán;Alemania;10;09/01/1997;standard_luttich
+Delantero centro;Timothé Nkada;Francia;Camerún;59;20/07/1999;standard_luttich
+Delantero centro;René Mitongo;Bélgica;;19;18/01/2008;standard_luttich
+Delantero centro;Thomas Henry;Francia;;9;20/09/1994;standard_luttich
+Delantero centro;Bernard Nguene;Camerún;;26;04/08/2006;standard_luttich
+Delantero centro;Grejohn Kyei;Francia;Ghana;95;12/08/1995;standard_luttich
+Portero;Andreas Jungdal;Dinamarca;;99;22/02/2002;kvc_westerlo
+Portero;Koen Van Langendonck;Bélgica;;30;09/06/1989;kvc_westerlo
+Portero;Oskar Annell;Bélgica;;31;15/02/2005;kvc_westerlo
+Defensa central;Emin Bayram;Turquía;;40;02/04/2003;kvc_westerlo
+Defensa central;Seiji Kimura;Japón;;5;24/08/2001;kvc_westerlo
+Defensa central;Amando Lapage;Bélgica;;4;08/11/2004;kvc_westerlo
+Defensa central;Clinton Nsiala;Francia;RD del Congo;6;17/01/2004;kvc_westerlo
+Defensa central;Michée Ndembi;Bélgica;;24;04/07/2007;kvc_westerlo
+Defensa central;Bakary Haidara;Costa de Marfil;;3;01/06/2005;kvc_westerlo
+Defensa central;Roman Neustädter;Rusia;Alemania;33;18/02/1988;kvc_westerlo
+Lateral izquierdo;Dylan Ourega;Francia;Costa de Marfil;28;06/10/2004;kvc_westerlo
+Lateral derecho;Bryan Reynolds;Estados Unidos;;22;28/06/2001;kvc_westerlo
+Lateral derecho;Lucas Mbamba;Bélgica;RD del Congo;23;12/08/2006;kvc_westerlo
+Pivote;Doğucan Haspolat;Turquía;Países Bajos;34;11/02/2000;kvc_westerlo
+Pivote;Arthur Piedfort;Bélgica;;46;01/02/2005;kvc_westerlo
+Pivote;Sergiy Sydorchuk;Ucrania;;8;02/05/1991;kvc_westerlo
+Mediocentro;Thomas Van den Keybus;Bélgica;;39;25/04/2001;kvc_westerlo
+Mediocentro;Reda Laalaoui;Marruecos;;12;11/05/2005;kvc_westerlo
+Mediocentro;Raf Smekens;Bélgica;;17;29/01/2004;kvc_westerlo
+Mediocentro ofensivo;Isa Sakamoto;Japón;;13;26/08/2003;kvc_westerlo
+Extremo izquierdo;Josimar Alcócer;Costa Rica;Nicaragua;77;07/07/2004;kvc_westerlo
+Extremo izquierdo;Naoufal Bohamdi-Kamoni;Bélgica;Marruecos;11;20/08/2007;kvc_westerlo
+Extremo derecho;Allahyar Sayyadmanesh;Irán;;7;29/06/2001;kvc_westerlo
+Extremo derecho;Shunsuke Saito;Japón;;38;26/04/2005;kvc_westerlo
+Delantero centro;Nacho Ferri;España;;90;05/10/2004;kvc_westerlo
+Delantero centro;Enis Destan;Turquía;;94;15/06/2002;kvc_westerlo
+Delantero centro;Afonso Patrão;Portugal;;10;03/02/2007;kvc_westerlo
+Delantero centro;Eliot Bujupi;Kosovo;Alemania;9;03/07/2006;kvc_westerlo
+Delantero centro;Fernand Goure;Costa de Marfil;;29;12/04/2002;kvc_westerlo
+Portero;Leo Kokubo;Japón;;16;23/01/2001;vv_st_truiden
+Portero;Jo Coppens;Bélgica;;12;21/12/1990;vv_st_truiden
+Portero;Matt Lendfers;Bélgica;Países Bajos;21;10/03/2006;vv_st_truiden
+Defensa central;Loïc Mbe Soh;Francia;Camerún;4;13/06/2001;vv_st_truiden
+Defensa central;Joedrick Pupe;Bélgica;;23;04/06/1997;vv_st_truiden
+Defensa central;Visar Musliu;Macedonia del Norte;;26;13/11/1994;vv_st_truiden
+Defensa central;Shogo Taniguchi;Japón;;5;15/07/1991;vv_st_truiden
+Defensa central;Wolke Janssens;Bélgica;;22;11/01/1995;vv_st_truiden
+Defensa central;Hugo Lambotte;Bélgica;;34;20/06/2006;vv_st_truiden
+Lateral izquierdo;Taiga Hata;Japón;;3;20/01/2002;vv_st_truiden
+Lateral izquierdo;Simen Juklerød;Noruega;;18;18/05/1994;vv_st_truiden
+Lateral derecho;Robert-Jan Vanwesemael;Bélgica;;60;26/03/2002;vv_st_truiden
+Pivote;Abdoulaye Sissako;Francia;Malí;8;26/05/1998;vv_st_truiden
+Pivote;Alouis Diriken;Bélgica;;33;01/04/2004;vv_st_truiden
+Mediocentro;Rihito Yamamoto;Japón;;6;12/12/2001;vv_st_truiden
+Mediocentro;Ryan Merlen;Francia;;14;11/05/2002;vv_st_truiden
+Mediocentro ofensivo;Ryotaro Ito;Japón;;13;06/02/1998;vv_st_truiden
+Mediocentro ofensivo;Isaías Delpupo;Argentina;Italia;11;31/03/2003;vv_st_truiden
+Mediocentro ofensivo;Adam Nhaili;Bélgica;;53;09/08/2005;vv_st_truiden
+Mediocentro ofensivo;Illyès Benachour;Marruecos;Francia;31;09/01/2007;vv_st_truiden
+Extremo izquierdo;Ilias Sebaoui;Marruecos;Bélgica;10;04/10/2001;vv_st_truiden
+Extremo izquierdo;Kaito Matsuzawa;Japón;;38;05/02/2001;vv_st_truiden
+Extremo derecho;Arbnor Muja;Albania;Kosovo;7;29/11/1998;vv_st_truiden
+Delantero centro;Keisuke Goto;Japón;;42;03/06/2005;vv_st_truiden
+Delantero centro;Oumar Diouf;Senegal;;77;15/05/2003;vv_st_truiden
+Delantero centro;Shion Shinkawa;Japón;;99;06/08/2007;vv_st_truiden
+Portero;Martin Delavallée;Bélgica;;55;18/03/2004;rsc_charleroi
+Portero;Mohamed Koné;Costa de Marfil;Francia;30;07/03/2002;rsc_charleroi
+Portero;Théo Defourny;Bélgica;Francia;33;25/04/1992;rsc_charleroi
+Portero;Nicolas Closset;Bélgica;;60;10/07/2004;rsc_charleroi
+Defensa central;Aiham Ousou;Siria;Suecia;4;09/01/2000;rsc_charleroi
+Defensa central;Check Keita;Malí;Francia;95;02/04/2003;rsc_charleroi
+Defensa central;Mehdi Boukamir;Marruecos;Bélgica;32;26/01/2004;rsc_charleroi
+Defensa central;Massamba Sow;Francia;Senegal;44;13/06/2004;rsc_charleroi
+Defensa central;Robin Denuit;Bélgica;;50;21/02/2002;rsc_charleroi
+Lateral izquierdo;Mardochée Nzita;Bélgica;RD del Congo;24;24/02/2000;rsc_charleroi
+Lateral izquierdo;Jules Gaudin;Francia;;23;09/05/2000;rsc_charleroi
+Lateral derecho;Lewin Blum;Suiza;;27;27/07/2001;rsc_charleroi
+Lateral derecho;Kevin Van Den Kerkhof;Argelia;Francia;3;14/03/1996;rsc_charleroi
+Pivote;Étienne Camara;Francia;Guinea;5;30/03/2003;rsc_charleroi
+Pivote;Amine Boukamir;Marruecos;Bélgica;56;23/10/2006;rsc_charleroi
+Pivote;Mory Kera;Bélgica;;51;26/06/2008;rsc_charleroi
+Mediocentro;Yassine Titraoui;Argelia;;22;26/07/2003;rsc_charleroi
+Mediocentro;Yassine Khalifi;Marruecos;;40;09/08/2005;rsc_charleroi
+Interior derecho;Patrick Pflücke;Alemania;;14;30/11/1996;rsc_charleroi
+Mediocentro ofensivo;Jakob Napoleon Romsaas;Noruega;;8;16/05/2004;rsc_charleroi
+Extremo izquierdo;Parfait Guiagon;Costa de Marfil;;10;22/02/2001;rsc_charleroi
+Extremo derecho;Antoine Bernier;Bélgica;;17;10/09/1997;rsc_charleroi
+Extremo derecho;Filip Szymczak;Polonia;;9;06/05/2002;rsc_charleroi
+Extremo derecho;Isaac Mbenza;Bélgica;RD del Congo;7;08/03/1996;rsc_charleroi
+Extremo derecho;Quentin Benaets;Bélgica;;43;26/08/2003;rsc_charleroi
+Delantero centro;Aurélien Scheidler;Francia;;21;04/06/1998;rsc_charleroi
+Delantero centro;Antoine Colassin;Bélgica;;25;26/02/2001;rsc_charleroi
+Portero;Nacho Miras;España;;13;19/07/1997;kv_mechelen
+Portero;Ortwin De Wolf;Bélgica;;1;23/04/1997;kv_mechelen
+Portero;Tijn Van Ingelgom;Bélgica;;15;05/03/2007;kv_mechelen
+Portero;Axel Willockx;Bélgica;;32;07/02/2007;kv_mechelen
+Defensa central;Redouane Halhal;Marruecos;Francia;2;05/03/2003;kv_mechelen
+Defensa central;José Marsà;España;;3;04/03/2002;kv_mechelen
+Defensa central;Gora Diouf;Senegal;;4;20/09/2003;kv_mechelen
+Defensa central;Tommy St. Jago;Curazao;Países Bajos;33;03/01/2000;kv_mechelen
+Defensa central;Ian Struyf;Bélgica;;18;22/08/2007;kv_mechelen
+Defensa central;Lovro Golic;Eslovenia;;22;05/03/2006;kv_mechelen
+Lateral izquierdo;Moncef Zekri;Marruecos;Bélgica;23;20/09/2008;kv_mechelen
+Lateral derecho;Thérence Koudou;Francia;Costa de Marfil;7;13/12/2004;kv_mechelen
+Pivote;Fredrik Hammar;Suecia;;6;26/02/2001;kv_mechelen
+Pivote;Mory Konaté;Guinea;;8;15/11/1993;kv_mechelen
+Pivote;Massimo Decoene;Bélgica;;39;11/02/2004;kv_mechelen
+Mediocentro;Dikeni Salifou;Alemania;;29;08/06/2003;kv_mechelen
+Mediocentro;Amine Ouahabi;Marruecos;Bélgica;40;04/07/2008;kv_mechelen
+Mediocentro ofensivo;Mathis Servais;Bélgica;;17;23/11/2004;kv_mechelen
+Mediocentro ofensivo;Bilal Bafdili;Bélgica;;11;03/08/2004;kv_mechelen
+Mediocentro ofensivo;Kerim Mrabti;Suecia;Túnez;19;20/05/1994;kv_mechelen
+Mediocentro ofensivo;Maksim Kireev;Bielorrusia;Bélgica;10;09/07/2004;kv_mechelen
+Extremo izquierdo;Myron van Brederode;Países Bajos;;9;06/07/2003;kv_mechelen
+Extremo izquierdo;Hassane Bandé;Burkina Faso;;12;30/10/1998;kv_mechelen
+Extremo derecho;Bill Antonio;Zimbabue;;38;03/09/2002;kv_mechelen
+Mediapunta;Halil Özdemir;Turquía;Bélgica;21;18/08/2005;kv_mechelen
+Delantero centro;Keano Vanrafelghem;Bélgica;;27;02/08/2003;kv_mechelen
+Delantero centro;Benito Raman;Bélgica;;14;07/11/1994;kv_mechelen
+Delantero centro;Bouke Boersma;Países Bajos;;28;23/06/2005;kv_mechelen
+Delantero centro;Mauro Lenaerts;Bélgica;Italia;34;06/09/2007;kv_mechelen
+Portero;Maxime Delanghe;Bélgica;;21;23/05/2001;cercle_brugge
+Portero;Warleson;Brasil;Bélgica;1;31/08/1996;cercle_brugge
+Portero;Bas Langenbick;Bélgica;;84;16/06/2003;cercle_brugge
+Defensa central;Christiaan Ravych;Bélgica;;66;30/07/2002;cercle_brugge
+Defensa central;Emmanuel Kakou;Costa de Marfil;;5;30/06/2005;cercle_brugge
+Defensa central;Royer Caicedo;Colombia;;33;05/05/2006;cercle_brugge
+Lateral izquierdo;Nazinho;Portugal;Guinea-Bissau;20;20/07/2003;cercle_brugge
+Lateral izquierdo;Geoffrey Kondo;Francia;RD del Congo;24;02/05/2002;cercle_brugge
+Lateral izquierdo;Valy Konaté;Costa de Marfil;;12;14/11/2006;cercle_brugge
+Lateral derecho;Gary Magnée;Bélgica;;15;12/10/1999;cercle_brugge
+Lateral derecho;Ibrahim Diakité;Guinea;Francia;2;31/10/2003;cercle_brugge
+Pivote;Ibrahima Diaby;Francia;Guinea;19;17/03/2007;cercle_brugge
+Pivote;Hannes Van Der Bruggen;Bélgica;;28;01/04/1993;cercle_brugge
+Mediocentro;Edan Diop;Francia;Senegal;37;28/08/2004;cercle_brugge
+Mediocentro;Lawrence Agyekum;Ghana;;6;23/11/2003;cercle_brugge
+Mediocentro;Nils De Wilde;Bélgica;;27;27/01/2003;cercle_brugge
+Interior derecho;Erick Nunes;Brasil;;8;29/02/2004;cercle_brugge
+Mediocentro ofensivo;Pieter Gerkens;Bélgica;;18;17/02/1995;cercle_brugge
+Mediocentro ofensivo;Oluwaseun Adewumi;Austria;;17;23/02/2005;cercle_brugge
+Extremo izquierdo;Heriberto Jurado;México;;23;03/01/2005;cercle_brugge
+Extremo derecho;Charles Herrmann;Alemania;Ghana;11;21/01/2006;cercle_brugge
+Extremo derecho;Krys Kouassi;Francia;;41;08/03/2007;cercle_brugge
+Delantero centro;Oumar Diakité;Costa de Marfil;;10;20/12/2003;cercle_brugge
+Delantero centro;Steve Ngoura;Francia;Camerún;9;22/02/2005;cercle_brugge
+Delantero centro;Dante Vanzeir;Bélgica;;13;16/04/1998;cercle_brugge
+Delantero centro;Abdoul Kader Ouattara;Burkina Faso;;7;26/05/2005;cercle_brugge
+Portero;Tobe Leysen;Bélgica;;1;09/03/2002;oud_heverlee_leuven
+Portero;Maxence Prévot;Francia;;16;09/04/1997;oud_heverlee_leuven
+Portero;Owen Jochmans;Bélgica;;61;28/01/2003;oud_heverlee_leuven
+Portero;Théo Radelet;Bélgica;;95;15/11/2007;oud_heverlee_leuven
+Defensa central;Roggerio Nyakossi;Suiza;Togo;34;13/01/2004;oud_heverlee_leuven
+Defensa central;Ewoud Pletinckx;Bélgica;;28;10/10/2000;oud_heverlee_leuven
+Defensa central;Takuma Ominami;Japón;;5;13/12/1997;oud_heverlee_leuven
+Defensa central;Noë Dussenne;Bélgica;;3;07/04/1992;oud_heverlee_leuven
+Defensa central;Viktor Damjanic;Croacia;;15;03/11/2005;oud_heverlee_leuven
+Defensa central;Christ Souanga;Bélgica;;63;23/10/2006;oud_heverlee_leuven
+Lateral izquierdo;Takahiro Akimoto;Japón;;30;31/01/1998;oud_heverlee_leuven
+Lateral derecho;Óscar Gil;España;;27;26/04/1998;oud_heverlee_leuven
+Lateral derecho;Thibault Vlietinck;Bélgica;;77;19/08/1997;oud_heverlee_leuven
+Lateral derecho;Davis Opoku;Bélgica;;99;29/10/2007;oud_heverlee_leuven
+Pivote;Lukasz Lakomy;Polonia;;24;18/01/2001;oud_heverlee_leuven
+Pivote;Birger Verstraete;Bélgica;;4;16/04/1994;oud_heverlee_leuven
+Mediocentro;Siebe Schrijvers;Bélgica;;8;18/07/1996;oud_heverlee_leuven
+Mediocentro;Wouter George;Bélgica;;6;03/03/2002;oud_heverlee_leuven
+Mediocentro;Bryang Kayo;Estados Unidos;Camerún;48;27/07/2002;oud_heverlee_leuven
+Mediocentro ofensivo;Youssef Maziz;Francia;Marruecos;10;24/06/1998;oud_heverlee_leuven
+Mediocentro ofensivo;Mathieu Maertens;Bélgica;;33;27/03/1995;oud_heverlee_leuven
+Mediocentro ofensivo;William Balikwisha;RD del Congo;Bélgica;21;12/05/1999;oud_heverlee_leuven
+Extremo izquierdo;Thibaud Verlinden;Bélgica;Francia;7;09/07/1999;oud_heverlee_leuven
+Extremo izquierdo;Henok Teklab;Alemania;Eritrea;14;16/11/1998;oud_heverlee_leuven
+Delantero centro;Chukwubuikem Ikwuemesi;Nigeria;;19;05/08/2001;oud_heverlee_leuven
+Delantero centro;Sory Kaba;Guinea;;39;28/07/1995;oud_heverlee_leuven
+Delantero centro;Abdoul Karim Traoré;Guinea;;9;12/01/2007;oud_heverlee_leuven
+Delantero centro;Kyan Vaesen;Bélgica;;17;13/04/2001;oud_heverlee_leuven
+Portero;Brent Gabriël;Bélgica;;13;27/01/1999;sv_zulte_waregem
+Portero;Louis Bostyn;Bélgica;;1;04/10/1993;sv_zulte_waregem
+Portero;Arnaud Dobbels;Bélgica;;42;02/02/2005;sv_zulte_waregem
+Defensa central;Anton Tanghe;Bélgica;;3;28/01/1999;sv_zulte_waregem
+Defensa central;Jakob Kiilerich;Dinamarca;;5;10/05/2000;sv_zulte_waregem
+Defensa central;Lukas Willen;Bélgica;;31;25/04/2003;sv_zulte_waregem
+Defensa central;Laurent Lemoine;Bélgica;Brasil;4;24/04/1998;sv_zulte_waregem
+Defensa central;Kadir Seven;Turquía;;2;05/05/2003;sv_zulte_waregem
+Defensa central;Benoit De Jaegere;Bélgica;;45;12/04/2004;sv_zulte_waregem
+Defensa central;Mouhamadou Sall;Senegal;;24;21/10/2007;sv_zulte_waregem
+Lateral izquierdo;Yannick Cappelle;Bélgica;;55;07/07/2003;sv_zulte_waregem
+Lateral izquierdo;Emran Soglo;Inglaterra;Francia;17;11/07/2005;sv_zulte_waregem
+Lateral derecho;Wilguens Paugain;Haití;Francia;12;24/08/2001;sv_zulte_waregem
+Lateral derecho;Benoît Nyssen;Bélgica;;19;12/09/1997;sv_zulte_waregem
+Pivote;Enrique Lofolomo;Alemania;RD del Congo;6;14/04/2000;sv_zulte_waregem
+Centrocampista;Ibrahim Diabaté;Costa de Marfil;;27;16/06/2004;sv_zulte_waregem
+Mediocentro;Thomas Claes;Bélgica;;8;26/03/2004;sv_zulte_waregem
+Mediocentro;Dirk Asare;Bélgica;Ghana;40;04/07/2004;sv_zulte_waregem
+Mediocentro;Tristan Panduro;Dinamarca;Inglaterra;25;10/01/2008;sv_zulte_waregem
+Mediocentro;Thibaud Sergeant;Bélgica;;64;19/09/2005;sv_zulte_waregem
+Mediocentro ofensivo;Jeppe Erenbjerg;Dinamarca;;10;29/04/2000;sv_zulte_waregem
+Mediocentro ofensivo;Serxho Ujka;Albania;;36;27/08/1998;sv_zulte_waregem
+Extremo izquierdo;Joseph Opoku;Ghana;;22;08/08/2005;sv_zulte_waregem
+Extremo izquierdo;Marley Aké;Francia;Costa de Marfil;39;05/01/2001;sv_zulte_waregem
+Extremo derecho;Stavros Gavriel;Chipre;Grecia;11;29/01/2002;sv_zulte_waregem
+Extremo derecho;Nikola Mituljikic;Serbia;;7;20/01/2003;sv_zulte_waregem
+Extremo derecho;Malick Mbaye;Senegal;;30;06/04/2004;sv_zulte_waregem
+Delantero centro;Anosike Ementa;Dinamarca;Nigeria;18;03/05/2002;sv_zulte_waregem
+Delantero centro;Tobias Hedl;Austria;;20;15/01/2003;sv_zulte_waregem
+Delantero centro;Jelle Vossen;Bélgica;;9;22/03/1989;sv_zulte_waregem
+Delantero centro;Siebe Van Keymolen;Bélgica;;58;10/02/2005;sv_zulte_waregem
+Portero;Michael Verrips;Países Bajos;;34;03/12/1996;fcv_dender_eh
+Portero;Gauthier Gallon;Francia;;93;23/04/1993;fcv_dender_eh
+Portero;Guillaume Dietsch;Francia;;30;17/04/2001;fcv_dender_eh
+Portero;Louis Fortin;Bélgica;;1;12/01/2002;fcv_dender_eh
+Defensa central;Luc Marijnissen;Países Bajos;;5;09/01/2003;fcv_dender_eh
+Defensa central;Luc De Fougerolles;Canadá;Inglaterra;44;12/10/2005;fcv_dender_eh
+Defensa central;Kobe Cools;Bélgica;;21;25/07/1997;fcv_dender_eh
+Defensa central;Benjamin Fredrick;Nigeria;;22;28/05/2005;fcv_dender_eh
+Defensa central;Bo De Kerf;Bélgica;;6;21/11/2003;fcv_dender_eh
+Defensa central;Bryan Goncalves;Francia;Portugal;7;19/07/1996;fcv_dender_eh
+Lateral izquierdo;Fabio Ferraro;Bélgica;Italia;88;03/09/2002;fcv_dender_eh
+Lateral izquierdo;Nail Moutha-Sebtaoui;Marruecos;Bélgica;67;17/11/2005;fcv_dender_eh
+Lateral derecho;Marsoni Sambu;Angola;Bélgica;70;03/06/1996;fcv_dender_eh
+Pivote;Malcolm Viltard;Francia;Guadalupe;24;24/10/2002;fcv_dender_eh
+Pivote;Nathan Rôdes;Bélgica;;18;11/12/1997;fcv_dender_eh
+Pivote;Krzysztof Koton;Polonia;;15;17/05/2003;fcv_dender_eh
+Mediocentro;Noah Mbamba;Bélgica;;17;05/01/2005;fcv_dender_eh
+Mediocentro;Roman Kvet;República Checa;;16;17/12/1997;fcv_dender_eh
+Mediocentro;Desmond Acquah;Bélgica;Ghana;23;23/07/2002;fcv_dender_eh
+Interior derecho;David Hrncar;Eslovaquia;;20;10/12/1997;fcv_dender_eh
+Mediocentro ofensivo;Amine Daali;Bélgica;Marruecos;45;25/04/2004;fcv_dender_eh
+Extremo izquierdo;Ragnar Oratmangoen;Indonesia;Países Bajos;26;21/01/1998;fcv_dender_eh
+Extremo derecho;Alireza Jahanbakhsh;Irán;Países Bajos;27;11/08/1993;fcv_dender_eh
+Mediapunta;Mohamed Berte;Bélgica;Costa de Marfil;90;25/03/2002;fcv_dender_eh
+Delantero centro;Bruny Nsimba;Bélgica;Angola;77;05/04/2000;fcv_dender_eh
+Delantero centro;David Toshevski;Macedonia del Norte;;9;16/07/2001;fcv_dender_eh
+Delantero centro;Jordan Kadiri;Nigeria;;19;11/03/2000;fcv_dender_eh
+Delantero centro;Ryan Adewusi;Bélgica;;37;04/02/2005;fcv_dender_eh
+Portero;Marcos Peano;Argentina;Italia;21;15/10/1998;raal_la_louviere
+Portero;Célestin De Schrevel;Bélgica;;1;02/04/2002;raal_la_louviere
+Portero;Lucas Monteiro;Portugal;Bélgica;71;04/08/2005;raal_la_louviere
+Defensa central;Djibril Lamego;Francia;Guadalupe;25;25/02/2003;raal_la_louviere
+Defensa central;Yllan Okou;Francia;Costa de Marfil;99;23/12/2002;raal_la_louviere
+Defensa central;Maxence Maisonneuve;Francia;;13;11/02/1999;raal_la_louviere
+Defensa central;Wagane Faye;Senegal;Bélgica;4;20/11/1993;raal_la_louviere
+Defensa central;Matthis Riou;Francia;;26;19/01/2001;raal_la_louviere
+Lateral izquierdo;Thierry Lutonda;Bélgica;RD del Congo;5;27/10/2000;raal_la_louviere
+Lateral izquierdo;Nolan Gillot;Francia;;3;31/10/2002;raal_la_louviere
+Lateral derecho;Darío Benavides;España;;19;12/01/2003;raal_la_louviere
+Pivote;Alexis Beka Beka;Francia;Congo;6;29/03/2001;raal_la_louviere
+Mediocentro;Majeed Ashimeru;Ghana;;18;10/10/1997;raal_la_louviere
+Mediocentro;Sami Lahssaini;Bélgica;Marruecos;15;18/09/1998;raal_la_louviere
+Mediocentro;Samuel Gueulette;Ruanda;Bélgica;8;19/05/2000;raal_la_louviere
+Interior derecho;Jordi Liongola;Burundi;Bélgica;11;17/05/2000;raal_la_louviere
+Mediocentro ofensivo;Joël Ito;Bélgica;;23;27/03/1998;raal_la_louviere
+Mediocentro ofensivo;Owen Maës;Francia;Guadalupe;98;24/09/1998;raal_la_louviere
+Mediocentro ofensivo;Bryan Soumaré;Francia;;28;11/02/1999;raal_la_louviere
+Mediocentro ofensivo;Noah Makembo-Ntemo;Bélgica;RD del Congo;20;14/03/2007;raal_la_louviere
+Delantero centro;Pape Moussa Fall;Senegal;;7;04/07/2004;raal_la_louviere
+Delantero centro;Jerry Afriyie;Ghana;;22;10/12/2006;raal_la_louviere
+Delantero centro;Mouhamed Belkheir;Argelia;Francia;14;02/01/1999;raal_la_louviere
+Delantero centro;Nachon Nsingi;Bélgica;RD del Congo;27;24/04/2001;raal_la_louviere
+Delantero centro;Cristian Makaté;Guinea Ecuatorial;España;29;21/09/2002;raal_la_louviere

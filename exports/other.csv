@@ -1,0 +1,1246 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Peter Vindahl;Dinamarca;;1;16/02/1998;ac_sparta_praga
+Portero;Jakub Surovcik;Eslovaquia;;44;28/06/2002;ac_sparta_praga
+Portero;Daniel Kerl;República Checa;;61;14/01/2001;ac_sparta_praga
+Defensa central;Emmanuel Uchenna;Nigeria;;16;04/12/2003;ac_sparta_praga
+Defensa central;Adam Sevinsky;República Checa;;19;19/06/2004;ac_sparta_praga
+Defensa central;Asger Sörensen;Dinamarca;;25;05/06/1996;ac_sparta_praga
+Defensa central;Filip Panák;República Checa;;27;02/11/1995;ac_sparta_praga
+Defensa central;Jakub Martinec;República Checa;;4;13/03/1998;ac_sparta_praga
+Defensa central;Jaroslav Zelený;República Checa;;30;20/08/1992;ac_sparta_praga
+Defensa central;Elias Cobbaut;Bélgica;;33;24/11/1997;ac_sparta_praga
+Defensa central;Ivan Mensah;Ghana;;50;22/04/2004;ac_sparta_praga
+Lateral izquierdo;Jhoanner Chávez;Ecuador;;14;25/04/2002;ac_sparta_praga
+Lateral derecho;Oliver Sonne;Perú;Dinamarca;17;10/11/2000;ac_sparta_praga
+Pivote;Patrik Vydra;República Checa;;26;20/06/2003;ac_sparta_praga
+Pivote;Sivert Mannsverk;Noruega;;20;08/05/2002;ac_sparta_praga
+Mediocentro;Kaan Kairinen;Finlandia;Turquía;6;22/12/1998;ac_sparta_praga
+Mediocentro;Andrew Irving;Escocia;;18;13/05/2000;ac_sparta_praga
+Mediocentro;Magnus Kofod Andersen;Dinamarca;;8;10/05/1999;ac_sparta_praga
+Mediocentro;Hugo Sochurek;República Checa;;38;07/06/2008;ac_sparta_praga
+Interior derecho;Pavel Kaderabek;República Checa;;3;25/04/1992;ac_sparta_praga
+Interior izquierdo;Matej Rynes;República Checa;;11;30/05/2001;ac_sparta_praga
+Mediocentro ofensivo;Santiago Eneme;Guinea Ecuatorial;;5;29/09/2000;ac_sparta_praga
+Extremo izquierdo;Lukas Haraslin;Eslovaquia;;22;26/05/1996;ac_sparta_praga
+Extremo izquierdo;John Mercado;Ecuador;;7;03/06/2002;ac_sparta_praga
+Extremo izquierdo;Garang Kuol;Australia;Sudán del Sur;36;15/09/2004;ac_sparta_praga
+Extremo izquierdo;Joao Grimaldo;Perú;;21;20/02/2003;ac_sparta_praga
+Extremo izquierdo;Ondrej Penxa;República Checa;;52;23/03/2007;ac_sparta_praga
+Delantero centro;Albion Rrahmani;Kosovo;;9;31/08/2000;ac_sparta_praga
+Delantero centro;Matyas Vojta;República Checa;;29;26/02/2004;ac_sparta_praga
+Delantero centro;Jan Kuchta;República Checa;;10;08/01/1997;ac_sparta_praga
+Portero;Tomas Koubek;República Checa;;40;26/08/1992;slovan_liberec
+Portero;Ivan Krajcirik;Eslovaquia;;1;15/06/2000;slovan_liberec
+Portero;Dominik Kudelcik;Eslovaquia;;-;16/11/2004;slovan_liberec
+Portero;Lukas Pesl;República Checa;;33;12/04/2002;slovan_liberec
+Defensa central;Ange N'Guessan;Francia;Costa de Marfil;16;01/09/2003;slovan_liberec
+Defensa central;Simon Gabriel;República Checa;;32;28/05/2001;slovan_liberec
+Defensa central;Augustin Drakpe;Togo;Países Bajos;14;08/12/2001;slovan_liberec
+Defensa central;Haris Berbic;Bosnia y Herzegovina;;23;12/04/2006;slovan_liberec
+Defensa central;Jan Knapik;República Checa;;22;11/12/2000;slovan_liberec
+Defensa central;Jan Mikula;República Checa;;3;05/01/1992;slovan_liberec
+Defensa central;Martin Ryzek;Eslovaquia;;4;23/05/2005;slovan_liberec
+Lateral izquierdo;Aziz Kayondo;Uganda;;27;06/10/2002;slovan_liberec
+Lateral derecho;Petr Hodous;República Checa;;5;19/12/2003;slovan_liberec
+Lateral derecho;Josef Kozeluh;República Checa;;18;15/02/2002;slovan_liberec
+Pivote;Marek Icha;República Checa;;8;14/03/2002;slovan_liberec
+Mediocentro;Toumani Diakite;Costa de Marfil;;30;19/01/2006;slovan_liberec
+Mediocentro;Vojtech Stransky;República Checa;;12;13/03/2003;slovan_liberec
+Mediocentro;Qëndrim Zyba;Kosovo;;10;03/02/2001;slovan_liberec
+Interior derecho;Patrik Dulay;Eslovaquia;;24;03/03/2005;slovan_liberec
+Interior derecho;Lukas Masopust;República Checa;;26;12/02/1993;slovan_liberec
+Interior izquierdo;Vojtech Sychra;República Checa;;28;30/11/2001;slovan_liberec
+Mediocentro ofensivo;Ermin Mahmic;Austria;Bosnia y Herzegovina;20;14/03/2005;slovan_liberec
+Mediocentro ofensivo;Milan Lexa;República Checa;;15;21/08/2004;slovan_liberec
+Extremo izquierdo;Afolabi Soliu;Nigeria;;7;08/08/2005;slovan_liberec
+Extremo derecho;Petr Julis;República Checa;;17;17/04/2003;slovan_liberec
+Delantero centro;Lukas Masek;República Checa;;9;08/05/2004;slovan_liberec
+Delantero centro;Raimonds Krollis;Letonia;;99;28/10/2001;slovan_liberec
+Delantero centro;Daniel Rus;República Checa;;29;02/02/2006;slovan_liberec
+Delantero centro;Filip Spatenka;República Checa;;11;22/02/2004;slovan_liberec
+Delantero centro;Lukas Letenay;Eslovaquia;;21;19/04/2001;slovan_liberec
+Portero;Florian Wiegele;Austria;;44;21/03/2001;viktoria_plzen
+Portero;Viktor Baier;República Checa;;-;16/01/2005;viktoria_plzen
+Portero;Dominik Tapaj;Eslovaquia;;1;10/05/2004;viktoria_plzen
+Portero;Marian Tvrdon;Eslovaquia;;13;18/08/1994;viktoria_plzen
+Portero;Matyas Silhavy;República Checa;;15;06/03/2007;viktoria_plzen
+Defensa central;Sampson Dweh;Liberia;;40;10/10/2001;viktoria_plzen
+Defensa central;Karel Spacil;República Checa;;5;18/05/2003;viktoria_plzen
+Defensa central;Jan Paluska;República Checa;;22;23/06/2005;viktoria_plzen
+Defensa central;Vaclav Jemelka;República Checa;;21;23/06/1995;viktoria_plzen
+Defensa central;David Krcik;Eslovaquia;;37;28/06/1999;viktoria_plzen
+Defensa central;Vaclav Mika;República Checa;;-;01/06/2000;viktoria_plzen
+Lateral izquierdo;Merchas Doski;Irak;Alemania;14;07/12/1999;viktoria_plzen
+Lateral derecho;Adam Kadlec;República Checa;;16;06/07/2003;viktoria_plzen
+Mediocentro;Lukas Cerv;República Checa;;6;10/04/2001;viktoria_plzen
+Mediocentro;Jiri Panos;República Checa;;20;15/11/2007;viktoria_plzen
+Mediocentro;Patrik Hrosovsky;Eslovaquia;;17;22/04/1992;viktoria_plzen
+Mediocentro;Matej Valenta;República Checa;;32;09/02/2000;viktoria_plzen
+Mediocentro;Alexandr Sojka;República Checa;;12;02/04/2003;viktoria_plzen
+Interior derecho;Amar Memić;Bosnia y Herzegovina;;99;20/01/2001;viktoria_plzen
+Interior izquierdo;Cheick Souaré;Francia;Guinea;19;03/09/2002;viktoria_plzen
+Mediocentro ofensivo;Tom Sloncik;República Checa;;29;21/12/2004;viktoria_plzen
+Mediocentro ofensivo;Denis Visinsky;República Checa;;9;21/03/2003;viktoria_plzen
+Mediocentro ofensivo;Tomas Ladra;República Checa;;18;24/04/1997;viktoria_plzen
+Delantero centro;Prince Adu;Ghana;;80;23/09/2003;viktoria_plzen
+Delantero centro;Salim Fago Lawal;Nigeria;;70;15/01/2003;viktoria_plzen
+Delantero centro;Daniel Vasulin;República Checa;;51;11/06/1998;viktoria_plzen
+Delantero centro;Mohamed Touré;Guinea;;10;03/11/2005;viktoria_plzen
+Delantero centro;Matej Vydra;República Checa;;11;01/05/1992;viktoria_plzen
+Portero;Jakub Markovic;República Checa;;35;13/07/2001;sk_slavia_praga
+Portero;Jindrich Stanek;República Checa;;36;27/04/1996;sk_slavia_praga
+Portero;Ondrej Kolar;República Checa;;1;17/10/1994;sk_slavia_praga
+Defensa central;Stepan Chaloupek;República Checa;;2;08/03/2003;sk_slavia_praga
+Defensa central;David Zima;República Checa;;4;08/11/2000;sk_slavia_praga
+Defensa central;Igoh Ogbu;Nigeria;;5;08/02/2000;sk_slavia_praga
+Defensa central;Tomas Vlcek;República Checa;;27;28/02/2001;sk_slavia_praga
+Defensa central;Tomas Holes;República Checa;;3;31/03/1993;sk_slavia_praga
+Defensa central;Jan Boril;República Checa;;18;11/01/1991;sk_slavia_praga
+Lateral izquierdo;David Jurásek;República Checa;;39;07/08/2000;sk_slavia_praga
+Lateral izquierdo;Youssoupha Mbodji;Senegal;;12;09/01/2004;sk_slavia_praga
+Lateral izquierdo;Dominik Javorcek;Eslovaquia;;37;02/11/2002;sk_slavia_praga
+Lateral derecho;Samuel Isife;Nigeria;;14;13/07/2004;sk_slavia_praga
+Mediocentro;David Moses;Nigeria;;16;20/01/2004;sk_slavia_praga
+Mediocentro;Michal Sadílek;República Checa;;23;31/05/1999;sk_slavia_praga
+Mediocentro;Oscar;Liberia;;19;19/07/1998;sk_slavia_praga
+Mediocentro;Mubarak Suleiman;Nigeria;;45;13/04/2007;sk_slavia_praga
+Mediocentro;Alexandr Buzek;República Checa;;20;02/08/2004;sk_slavia_praga
+Mediocentro;Petr Sevcik;República Checa;;-;04/05/1994;sk_slavia_praga
+Interior derecho;David Doudera;República Checa;;21;31/05/1998;sk_slavia_praga
+Interior derecho;Simion Michez;Camerún;Bélgica;41;09/02/2002;sk_slavia_praga
+Mediocentro ofensivo;Lukas Provod;República Checa;;17;23/10/1996;sk_slavia_praga
+Mediocentro ofensivo;Muhammed Cham;Austria;;10;26/09/2000;sk_slavia_praga
+Extremo izquierdo;Vasil Kusej;República Checa;;9;24/05/2000;sk_slavia_praga
+Extremo izquierdo;Youssoupha Sanyang;Gambia;Senegal;11;31/08/2005;sk_slavia_praga
+Extremo derecho;Ivan Schranz;Eslovaquia;;26;13/09/1993;sk_slavia_praga
+Delantero centro;Mojmír Chytil;República Checa;;13;29/04/1999;sk_slavia_praga
+Delantero centro;Tomas Chory;República Checa;;25;26/01/1995;sk_slavia_praga
+Delantero centro;Erik Prekop;Eslovaquia;;33;08/10/1997;sk_slavia_praga
+Portero;Nikita Haikin;Rusia;Inglaterra;12;11/07/1995;fk_bodo_glimt
+Portero;Julian Faye Lund;Noruega;;1;20/05/1999;fk_bodo_glimt
+Portero;Isak Sjong;Noruega;;45;08/01/2007;fk_bodo_glimt
+Defensa central;Odin Bjørtuft;Noruega;;4;19/12/1998;fk_bodo_glimt
+Defensa central;Villads Nielsen;Dinamarca;;2;29/01/2005;fk_bodo_glimt
+Defensa central;Jostein Gundersen;Noruega;;6;02/04/1996;fk_bodo_glimt
+Defensa central;Haitam Aleesami;Noruega;;5;31/07/1991;fk_bodo_glimt
+Lateral izquierdo;Fredrik Bjørkan;Noruega;;15;21/08/1998;fk_bodo_glimt
+Lateral derecho;Fredrik Sjøvold;Noruega;;20;17/08/2003;fk_bodo_glimt
+Pivote;Patrick Berg;Noruega;;7;24/11/1997;fk_bodo_glimt
+Mediocentro;Håkon Evjen;Noruega;;26;14/02/2000;fk_bodo_glimt
+Mediocentro;Sondre Auklend;Noruega;;8;10/06/2003;fk_bodo_glimt
+Mediocentro;Magnus Riisnæs;Noruega;;23;04/11/2004;fk_bodo_glimt
+Mediocentro;Sondre Brunstad Fet;Noruega;;19;17/01/1997;fk_bodo_glimt
+Mediocentro;Anders Klynge;Dinamarca;;22;14/10/2000;fk_bodo_glimt
+Mediocentro;Ulrik Saltnes;Noruega;;14;10/11/1992;fk_bodo_glimt
+Extremo izquierdo;Jens Petter Hauge;Noruega;;10;12/10/1999;fk_bodo_glimt
+Extremo izquierdo;Daniel Bassi;Noruega;Inglaterra;24;31/10/2004;fk_bodo_glimt
+Extremo derecho;Ole Didrik Blomberg;Noruega;;11;12/06/2000;fk_bodo_glimt
+Extremo derecho;Isak Dybvik Määttä;Noruega;;25;19/09/2001;fk_bodo_glimt
+Mediapunta;August Mikkelsen;Noruega;;94;24/10/2000;fk_bodo_glimt
+Delantero centro;Kasper Høgh;Dinamarca;;9;06/12/2000;fk_bodo_glimt
+Delantero centro;Ola Brynhildsen;Noruega;;17;27/04/1999;fk_bodo_glimt
+Delantero centro;Andreas Helmersen;Noruega;;21;15/03/1998;fk_bodo_glimt
+Delantero centro;Mikkel Bro Hansen;Dinamarca;;77;25/01/2009;fk_bodo_glimt
+Portero;Albert Posiadala;Polonia;;22;25/02/2003;molde_fk
+Portero;Mads Kikkenborg;Dinamarca;;1;07/10/1999;molde_fk
+Portero;Oliver Petersen;Noruega;;-;26/09/2001;molde_fk
+Portero;Peder Hoel Lervik;Noruega;;12;24/04/2005;molde_fk
+Defensa central;Birk Risa;Noruega;;33;13/02/1998;molde_fk
+Defensa central;Sivert Sira Hansen;Noruega;;4;30/05/2002;molde_fk
+Defensa central;Casper Øyvann;Noruega;;3;07/12/1999;molde_fk
+Defensa central;Fredrik Kristensen Dahl;Noruega;;-;30/01/1999;molde_fk
+Defensa central;Isak Helstad Amundsen;Noruega;;6;14/10/1999;molde_fk
+Defensa central;Eirik Haugan;Noruega;;19;27/08/1997;molde_fk
+Lateral izquierdo;Samukele Kabini;Sudáfrica;;26;15/03/2004;molde_fk
+Lateral derecho;Martin Linnes;Noruega;;21;20/09/1991;molde_fk
+Pivote;Jacob Christensen;Dinamarca;;14;25/06/2001;molde_fk
+Pivote;Vebjørn Hoff;Noruega;;15;13/02/1996;molde_fk
+Mediocentro;Emil Breivik;Noruega;;10;11/06/2000;molde_fk
+Mediocentro;Sondre Granaas;Noruega;;23;30/08/2006;molde_fk
+Mediocentro;Mats Møller Dæhli;Noruega;;17;02/03/1995;molde_fk
+Mediocentro;Daniel Daga;Nigeria;;27;10/01/2007;molde_fk
+Mediocentro;Viktor Bender;Dinamarca;;28;12/07/2007;molde_fk
+Interior derecho;Halldor Stenevik;Noruega;;18;02/02/2000;molde_fk
+Mediocentro ofensivo;Blerton Isufi;Kosovo;Noruega;31;14/02/2006;molde_fk
+Extremo izquierdo;Oskar Spiten-Nysæter;Noruega;;25;29/08/2007;molde_fk
+Extremo izquierdo;Caleb Zady Sery;Costa de Marfil;;11;20/12/1999;molde_fk
+Extremo izquierdo;Trent Kone-Doherty;Irlanda;Irlanda del Norte;24;30/06/2006;molde_fk
+Extremo derecho;Eirik Hestad;Noruega;;5;26/06/1995;molde_fk
+Delantero centro;Jalal Abdullai;Ghana;;9;05/01/2005;molde_fk
+Delantero centro;Fredrik Gulbrandsen;Noruega;;8;10/09/1992;molde_fk
+Portero;Jiri Pavlenka;República Checa;;1;14/04/1992;paok_de_salonica
+Portero;Antonis Tsiftsis;Grecia;;99;21/07/1999;paok_de_salonica
+Portero;Dimitrios Monastirlis;Grecia;;41;22/03/2004;paok_de_salonica
+Defensa central;Giannis Michailidis;Grecia;;5;18/02/2000;paok_de_salonica
+Defensa central;Alessandro Vogliacco;Italia;;4;14/09/1998;paok_de_salonica
+Defensa central;Tomasz Kedziora;Polonia;;16;11/06/1994;paok_de_salonica
+Defensa central;Dejan Lovren;Croacia;;6;05/07/1989;paok_de_salonica
+Defensa central;Dimitrios Bataoulas;Grecia;;97;14/03/2007;paok_de_salonica
+Lateral izquierdo;Greg Taylor;Escocia;;32;05/11/1997;paok_de_salonica
+Lateral izquierdo;Abdul Rahman Baba;Ghana;;21;02/07/1994;paok_de_salonica
+Lateral derecho;Jonjoe Kenny;Inglaterra;Irlanda;3;15/03/1997;paok_de_salonica
+Lateral derecho;Jorge Sánchez;México;;35;10/12/1997;paok_de_salonica
+Lateral derecho;Joan Sastre;España;;23;30/04/1997;paok_de_salonica
+Pivote;Soualiho Meïté;Francia;Costa de Marfil;8;17/03/1994;paok_de_salonica
+Pivote;Magomed Ozdoev;Rusia;;27;05/11/1992;paok_de_salonica
+Pivote;Konstantinos Thymianis;Grecia;;25;28/02/2001;paok_de_salonica
+Mediocentro;Christos Zafeiris;Grecia;Noruega;20;23/02/2003;paok_de_salonica
+Mediocentro;Mady Camara;Guinea;;2;28/02/1997;paok_de_salonica
+Mediocentro;Alessandro Bianco;Italia;;22;01/10/2002;paok_de_salonica
+Mediocentro;Dimitrios Tsopouroglou;Grecia;;33;21/06/2002;paok_de_salonica
+Mediocentro ofensivo;Giannis Konstantelias;Grecia;;65;05/03/2003;paok_de_salonica
+Mediocentro ofensivo;Luka Ivanušec;Croacia;;18;26/11/1998;paok_de_salonica
+Mediocentro ofensivo;Dimitrios Pelkas;Grecia;;10;26/10/1993;paok_de_salonica
+Extremo izquierdo;Taison;Brasil;;11;13/01/1988;paok_de_salonica
+Extremo izquierdo;Dimitrios Berdos;Grecia;;39;27/05/2008;paok_de_salonica
+Extremo derecho;Andrija Zivkovic;Serbia;;14;11/07/1996;paok_de_salonica
+Extremo derecho;Kiril Despodov;Bulgaria;;77;11/11/1996;paok_de_salonica
+Extremo derecho;Dimitrios Chatsidis;Grecia;;52;14/06/2006;paok_de_salonica
+Delantero centro;Georgios Giakoumakis;Grecia;;7;09/12/1994;paok_de_salonica
+Delantero centro;Anestis Mythou;Grecia;;56;22/05/2007;paok_de_salonica
+Delantero centro;Alexander Jeremejeff;Suecia;;19;12/10/1993;paok_de_salonica
+Portero;Thomas Strakosha;Albania;Grecia;1;19/03/1995;aek_athenas
+Portero;Alberto Brignoli;Italia;;91;19/08/1991;aek_athenas
+Portero;Angelos Angelopoulos;Grecia;;81;19/02/2003;aek_athenas
+Portero;Marios Balamotis;Grecia;;41;06/05/2005;aek_athenas
+Defensa central;Harold Moukoudi;Camerún;Francia;2;27/11/1997;aek_athenas
+Defensa central;Filipe Relvas;Portugal;;44;20/09/1999;aek_athenas
+Defensa central;Martin Georgiev;Bulgaria;;15;24/09/2005;aek_athenas
+Defensa central;Domagoj Vida;Croacia;;21;29/04/1989;aek_athenas
+Defensa central;Alexander Callens;Perú;España;22;04/05/1992;aek_athenas
+Defensa central;Christos Kosidis;Grecia;;34;28/02/2005;aek_athenas
+Lateral izquierdo;James Penrice;Escocia;;29;22/12/1998;aek_athenas
+Lateral izquierdo;Stavro Pilo;Albania;Grecia;3;10/12/2000;aek_athenas
+Lateral derecho;Lazaros Rota;Grecia;Albania;12;23/08/1997;aek_athenas
+Pivote;Marko Grujić;Serbia;;4;13/04/1996;aek_athenas
+Pivote;Hakim Sahabo;Ruanda;Bélgica;80;16/06/2005;aek_athenas
+Pivote;Jens Jönsson;Dinamarca;;6;10/01/1993;aek_athenas
+Mediocentro;Orbelín Pineda;México;;13;24/03/1996;aek_athenas
+Mediocentro;Răzvan Marin;Rumania;;18;23/05/1996;aek_athenas
+Mediocentro;Robert Ljubicic;Croacia;Austria;23;14/07/1999;aek_athenas
+Mediocentro;Roberto Pereyra;Argentina;;37;07/01/1991;aek_athenas
+Interior derecho;Niclas Eliasson;Suecia;Brasil;19;07/12/1995;aek_athenas
+Mediocentro ofensivo;Mijat Gacinovic;Serbia;Bosnia y Herzegovina;8;08/02/1995;aek_athenas
+Mediocentro ofensivo;João Mário;Portugal;Angola;10;19/01/1993;aek_athenas
+Mediocentro ofensivo;Dimitrios Kaloskamis;Grecia;;17;01/03/2005;aek_athenas
+Mediocentro ofensivo;Petros Mantalos;Grecia;;20;31/08/1991;aek_athenas
+Extremo izquierdo;Aboubakary Koita;Mauritania;Bélgica;11;20/09/1998;aek_athenas
+Extremo izquierdo;Dereck Kutesa;Suiza;Angola;7;06/12/1997;aek_athenas
+Delantero centro;Luka Jović;Serbia;Bosnia y Herzegovina;9;23/12/1997;aek_athenas
+Delantero centro;Barnabás Varga;Hungría;;25;25/10/1994;aek_athenas
+Delantero centro;Zini;Angola;;90;03/07/2002;aek_athenas
+Portero;Konstantinos Tzolakis;Grecia;;88;08/11/2002;olympiacos_el_pireo
+Portero;Alexandros Paschalakis;Grecia;;1;28/07/1989;olympiacos_el_pireo
+Portero;Nikolaos Botis;Grecia;;31;31/03/2004;olympiacos_el_pireo
+Portero;Georgios Kouraklis;Grecia;;61;18/03/2006;olympiacos_el_pireo
+Defensa central;Lorenzo Pirola;Italia;;5;20/02/2002;olympiacos_el_pireo
+Defensa central;Panagiotis Retsos;Grecia;;45;09/08/1998;olympiacos_el_pireo
+Defensa central;Giulian Biancone;Francia;;4;31/03/2000;olympiacos_el_pireo
+Defensa central;Alexios Kalogeropoulos;Grecia;;6;26/07/2004;olympiacos_el_pireo
+Defensa central;Rúben Vezo;Portugal;Cabo Verde;21;25/04/1994;olympiacos_el_pireo
+Lateral izquierdo;Francisco Ortega;Argentina;;3;19/03/1999;olympiacos_el_pireo
+Lateral izquierdo;Bruno Onyemaechi;Nigeria;;70;03/04/1999;olympiacos_el_pireo
+Lateral derecho;Costinha;Portugal;;20;26/03/2000;olympiacos_el_pireo
+Lateral derecho;Rodinei;Brasil;;23;29/01/1992;olympiacos_el_pireo
+Pivote;Santiago Hezze;Argentina;Polonia;32;22/10/2001;olympiacos_el_pireo
+Pivote;Lorenzo Scipioni;Argentina;Italia;16;24/11/2004;olympiacos_el_pireo
+Pivote;Theofanis Bakoulas;Grecia;;-;04/01/2005;olympiacos_el_pireo
+Pivote;Dani García;España;;14;24/05/1990;olympiacos_el_pireo
+Pivote;Argyrios Liatsikouras;Grecia;;67;20/12/2006;olympiacos_el_pireo
+Mediocentro;Christos Mouzakitis;Grecia;;96;25/12/2006;olympiacos_el_pireo
+Mediocentro;Diogo Nascimento;Portugal;;8;02/11/2002;olympiacos_el_pireo
+Mediocentro ofensivo;Chiquinho;Portugal;;22;19/07/1995;olympiacos_el_pireo
+Mediocentro ofensivo;Yusuf Yazıcı;Turquía;;97;29/01/1997;olympiacos_el_pireo
+Extremo izquierdo;Daniel Podence;Portugal;;56;21/10/1995;olympiacos_el_pireo
+Extremo derecho;André Luiz;Brasil;;17;23/02/2002;olympiacos_el_pireo
+Extremo derecho;Gelson Martins;Portugal;Cabo Verde;10;11/05/1995;olympiacos_el_pireo
+Delantero centro;Clayton;Brasil;;19;11/01/1999;olympiacos_el_pireo
+Delantero centro;Ayoub El Kaabi;Marruecos;;9;25/06/1993;olympiacos_el_pireo
+Delantero centro;Mehdi Taremi;Irán;;99;18/07/1992;olympiacos_el_pireo
+Delantero centro;Konstantinos Angelakis;Grecia;;81;07/08/2007;olympiacos_el_pireo
+Portero;Alban Lafont;Costa de Marfil;Francia;40;23/01/1999;panathinaikos_fc
+Portero;Lucas Chaves;Argentina;;12;09/08/1995;panathinaikos_fc
+Portero;Konstantinos Kotsaris;Grecia;;70;25/07/1996;panathinaikos_fc
+Defensa central;Ahmed Touba;Argelia;Bélgica;5;13/03/1998;panathinaikos_fc
+Defensa central;Tin Jedvaj;Croacia;;21;28/11/1995;panathinaikos_fc
+Defensa central;Sverrir Ingi Ingason;Islandia;;15;05/08/1993;panathinaikos_fc
+Defensa central;Erik Palmer-Brown;Estados Unidos;;14;24/04/1997;panathinaikos_fc
+Defensa central;Georgios Katris;Grecia;;3;14/10/2005;panathinaikos_fc
+Lateral izquierdo;Javi Hernández;España;;26;02/05/1998;panathinaikos_fc
+Lateral izquierdo;Georgios Kyriakopoulos;Grecia;;77;05/02/1996;panathinaikos_fc
+Lateral derecho;Davide Calabria;Italia;;2;06/12/1996;panathinaikos_fc
+Lateral derecho;Giannis Kotsiras;Grecia;;27;16/12/1992;panathinaikos_fc
+Pivote;Pedro Chirivella;España;;4;23/05/1997;panathinaikos_fc
+Pivote;Manolis Siopis;Grecia;;6;14/05/1994;panathinaikos_fc
+Mediocentro;Adam Gnezda Cerin;Eslovenia;;16;16/07/1999;panathinaikos_fc
+Mediocentro;Renato Sanches;Portugal;Santo Tomé y Príncipe;8;18/08/1997;panathinaikos_fc
+Mediocentro;Sotiris Kontouris;Grecia;;18;24/02/2005;panathinaikos_fc
+Mediocentro;Tonny Vilhena;Países Bajos;Angola;52;03/01/1995;panathinaikos_fc
+Mediocentro;Moussa Sissoko;Francia;Malí;17;16/08/1989;panathinaikos_fc
+Interior izquierdo;Santino Andino;Argentina;Italia;10;25/10/2005;panathinaikos_fc
+Mediocentro ofensivo;Adriano Jagusic;Croacia;;88;06/09/2005;panathinaikos_fc
+Mediocentro ofensivo;Anastasios Bakasetas;Grecia;;11;28/06/1993;panathinaikos_fc
+Mediocentro ofensivo;Vicente Taborda;Argentina;Italia;20;14/06/2001;panathinaikos_fc
+Mediocentro ofensivo;Filip Djuricic;Serbia;;31;30/01/1992;panathinaikos_fc
+Extremo izquierdo;Anass Zaroury;Marruecos;Bélgica;9;07/11/2000;panathinaikos_fc
+Extremo derecho;Facundo Pellistri;Uruguay;España;28;20/12/2001;panathinaikos_fc
+Extremo derecho;Pavlos Pantelidis;Grecia;;23;16/09/2002;panathinaikos_fc
+Extremo derecho;Georgios Kyriopoulos;Grecia;;22;24/08/2004;panathinaikos_fc
+Extremo derecho;Giannis Bokos;Grecia;;39;03/02/2007;panathinaikos_fc
+Delantero centro;Karol Świderski;Polonia;;19;23/01/1997;panathinaikos_fc
+Delantero centro;Cyriel Dessers;Nigeria;Bélgica;33;08/12/1994;panathinaikos_fc
+Delantero centro;Andreas Tetteh;Grecia;Ghana;7;25/05/2001;panathinaikos_fc
+Delantero centro;Milos Pantovic;Serbia;;72;24/08/2002;panathinaikos_fc
+Portero;Alexander Schlager;Austria;;1;01/02/1996;red_bull_salzburgo
+Portero;Christian Zawieschitzky;Austria;;52;02/05/2007;red_bull_salzburgo
+Portero;Salko Hamzic;Austria;Bosnia y Herzegovina;92;17/09/2006;red_bull_salzburgo
+Defensa central;Joane Gadou;Francia;Costa de Marfil;23;17/01/2007;red_bull_salzburgo
+Defensa central;Jannik Schuster;Austria;;44;16/05/2006;red_bull_salzburgo
+Defensa central;Tim Drexler;Alemania;;21;06/03/2005;red_bull_salzburgo
+Defensa central;John Mellberg;Suecia;;4;30/07/2006;red_bull_salzburgo
+Defensa central;Anrie Chase;Japón;Estados Unidos;91;24/03/2004;red_bull_salzburgo
+Lateral izquierdo;Aleksa Terzic;Serbia;;3;17/08/1999;red_bull_salzburgo
+Lateral izquierdo;Frans Krätzig;Alemania;;13;14/01/2003;red_bull_salzburgo
+Lateral derecho;Tim Trummer;Austria;;37;10/11/2005;red_bull_salzburgo
+Lateral derecho;Stefan Lainer;Austria;;22;27/08/1992;red_bull_salzburgo
+Pivote;Soumaïla Diabaté;Malí;;5;22/11/2004;red_bull_salzburgo
+Pivote;Mamady Diambou;Malí;;15;11/11/2002;red_bull_salzburgo
+Pivote;Takumu Kawamura;Japón;;16;28/08/1999;red_bull_salzburgo
+Mediocentro;Mads Bidstrup;Dinamarca;;18;25/02/2001;red_bull_salzburgo
+Mediocentro;Maurits Kjaergaard;Dinamarca;;14;26/06/2003;red_bull_salzburgo
+Mediocentro;Valentin Sulzbacher;Austria;;38;11/03/2005;red_bull_salzburgo
+Mediocentro;Oliver Lukic;Croacia;Austria;25;22/09/2006;red_bull_salzburgo
+Mediocentro;Justin Omoregie;Austria;;36;21/09/2003;red_bull_salzburgo
+Interior derecho;Sota Kitano;Japón;;8;13/08/2004;red_bull_salzburgo
+Extremo izquierdo;Kerim Alajbegovic;Bosnia y Herzegovina;Alemania;27;21/09/2007;red_bull_salzburgo
+Extremo izquierdo;Clement Bischoff;Dinamarca;Kenia;7;16/12/2005;red_bull_salzburgo
+Extremo derecho;Moussa Yeo;Malí;;49;01/06/2004;red_bull_salzburgo
+Extremo derecho;Damir Redzic;Hungría;Bosnia y Herzegovina;24;23/03/2003;red_bull_salzburgo
+Delantero centro;Karim Konaté;Costa de Marfil;;19;21/03/2004;red_bull_salzburgo
+Delantero centro;Edmund Baidoo;Ghana;;20;30/01/2006;red_bull_salzburgo
+Delantero centro;Yorbe Vertessen;Bélgica;;11;08/01/2001;red_bull_salzburgo
+Delantero centro;Enrique Aguilar;Suiza;España;43;27/01/2007;red_bull_salzburgo
+Delantero centro;Karim Onisiwo;Austria;;9;17/03/1992;red_bull_salzburgo
+Portero;Lukas Jungwirth;Austria;;1;30/04/2004;lask
+Portero;Tobias Schützenauer;Austria;;33;19/05/1997;lask
+Portero;Fabian Schillinger;Austria;;50;24/05/2007;lask
+Defensa central;Modou Kéba Cissé;Senegal;;48;04/08/2005;lask
+Defensa central;Andrés Andrade;Panamá;;16;16/10/1998;lask
+Defensa central;João Tornich;Brasil;;43;06/11/2002;lask
+Defensa central;Xavier Mbuyamba;Países Bajos;RD del Congo;3;31/12/2001;lask
+Lateral izquierdo;George Bello;Estados Unidos;Nigeria;2;22/01/2002;lask
+Lateral izquierdo;Emmanuel Michael;Nigeria;;41;16/06/2006;lask
+Lateral derecho;Kasper Jørgensen;Dinamarca;;20;07/11/1999;lask
+Pivote;Melayro Bogarde;Surinam;Países Bajos;6;28/05/2002;lask
+Pivote;Art Smakaj;Kosovo;Croacia;5;04/02/2003;lask
+Pivote;Adetunji Rasaq Adeshina;Nigeria;;13;02/12/2004;lask
+Mediocentro;Sascha Horvath;Austria;;30;22/08/1996;lask
+Mediocentro;Ismaila Coulibaly;Malí;;4;25/12/2000;lask
+Mediocentro;Mohamed Sanogo;Malí;;15;02/11/2003;lask
+Interior derecho;Florian Flecker;Austria;;29;29/10/1995;lask
+Mediocentro ofensivo;Krystof Danek;República Checa;;9;05/01/2003;lask
+Mediocentro ofensivo;Christoph Lang;Austria;;27;07/01/2002;lask
+Mediocentro ofensivo;Lukas Kacavenda;Croacia;;44;02/03/2003;lask
+Mediocentro ofensivo;Armin Haider;Austria;;38;05/09/2005;lask
+Delantero centro;Moses Usor;Nigeria;;8;05/02/2002;lask
+Delantero centro;Sasa Kalajdzic;Austria;;10;07/07/1997;lask
+Delantero centro;Samuel Adeniran;Estados Unidos;Nigeria;7;30/09/1998;lask
+Delantero centro;Maximilian Entrup;Austria;;11;25/07/1997;lask
+Portero;Niklas Hedl;Austria;;1;17/03/2001;sk_rapid_viena
+Portero;Paul Gartler;Austria;;25;10/03/1997;sk_rapid_viena
+Portero;Laurenz Orgler;Austria;;50;13/10/2004;sk_rapid_viena
+Portero;Benjamin Göschl;Austria;;51;16/11/2005;sk_rapid_viena
+Defensa central;Serge-Philippe Raux-Yao;Francia;Costa de Marfil;6;30/05/1999;sk_rapid_viena
+Defensa central;Ange Ahoussou;Costa de Marfil;;20;22/12/2003;sk_rapid_viena
+Defensa central;Nenad Cvetkovic;Serbia;;55;06/01/1996;sk_rapid_viena
+Defensa central;Jean Marcelin;Madagascar;Francia;24;12/02/2000;sk_rapid_viena
+Defensa central;Jakob Schöller;Austria;;4;09/12/2005;sk_rapid_viena
+Defensa central;Amin-Elias Gröller;Túnez;Austria;47;25/01/2005;sk_rapid_viena
+Lateral izquierdo;Jannes Horn;Alemania;;38;06/02/1997;sk_rapid_viena
+Lateral izquierdo;Jonas Auer;Austria;;23;05/08/2000;sk_rapid_viena
+Lateral derecho;Bendegúz Bolla;Hungría;;77;22/11/1999;sk_rapid_viena
+Lateral derecho;Furkan Demir;Turquía;Austria;61;29/11/2004;sk_rapid_viena
+Pivote;Martin Ndzie;Camerún;;14;16/01/2003;sk_rapid_viena
+Pivote;Lukas Grgic;Austria;;8;17/08/1995;sk_rapid_viena
+Pivote;Tobias Børkeeiet;Noruega;;16;18/04/1999;sk_rapid_viena
+Mediocentro;Romeo Amane;Costa de Marfil;;29;20/02/2003;sk_rapid_viena
+Interior derecho;Louis Schaub;Austria;;21;29/12/1994;sk_rapid_viena
+Mediocentro ofensivo;Tobias Gulliksen;Noruega;;17;09/07/2003;sk_rapid_viena
+Mediocentro ofensivo;Matthias Seidl;Austria;;18;24/01/2001;sk_rapid_viena
+Extremo izquierdo;Petter Nosa Dahl;Noruega;;10;22/10/2003;sk_rapid_viena
+Extremo izquierdo;Dominik Weixelbraun;Austria;;41;17/12/2003;sk_rapid_viena
+Extremo derecho;Nikolaus Wurmbrand;Austria;;15;05/01/2006;sk_rapid_viena
+Extremo derecho;Yusuf Demir;Austria;;22;02/06/2003;sk_rapid_viena
+Extremo derecho;Marco Tilio;Australia;Italia;7;23/08/2001;sk_rapid_viena
+Extremo derecho;Daniel Nunoo;Ghana;;54;20/08/2006;sk_rapid_viena
+Delantero centro;Claudy Mbuyi;Francia;RD del Congo;71;03/06/1999;sk_rapid_viena
+Delantero centro;Janis Antiste;Martinica;Francia;90;18/08/2002;sk_rapid_viena
+Delantero centro;Ercan Kara;Austria;;9;03/01/1996;sk_rapid_viena
+Delantero centro;Andreas Weimann;Austria;;26;05/08/1991;sk_rapid_viena
+Portero;Daniil Khudyakov;Rusia;;53;09/01/2004;sk_sturm_graz
+Portero;Matteo Bignetti;Austria;;40;06/05/2004;sk_sturm_graz
+Portero;Elias Lorenz;Austria;;41;27/03/2006;sk_sturm_graz
+Defensa central;Dimitri Lavalée;Bélgica;;24;13/01/1997;sk_sturm_graz
+Defensa central;Jeyland Mitchell;Costa Rica;;2;29/09/2004;sk_sturm_graz
+Defensa central;Paul Koller;Austria;;30;22/02/2002;sk_sturm_graz
+Defensa central;Emanuel Aiwu;Austria;;47;25/12/2000;sk_sturm_graz
+Defensa central;Niklas Geyrhofer;Austria;;35;11/02/2000;sk_sturm_graz
+Defensa central;Albert Vallci;Austria;;5;02/07/1995;sk_sturm_graz
+Lateral izquierdo;Emir Karic;Bosnia y Herzegovina;Austria;17;09/06/1997;sk_sturm_graz
+Lateral derecho;Jusuf Gazibegovic;Bosnia y Herzegovina;;22;11/03/2000;sk_sturm_graz
+Lateral derecho;Arjan Malic;Bosnia y Herzegovina;Eslovenia;23;28/08/2005;sk_sturm_graz
+Pivote;Jon Gorenc Stankovic;Eslovenia;;4;14/01/1996;sk_sturm_graz
+Pivote;Ryan Fosso;Camerún;Suiza;80;17/06/2002;sk_sturm_graz
+Mediocentro;Luca Weinhandl;Austria;;39;11/01/2009;sk_sturm_graz
+Interior derecho;Jacob Peter Hödl;Austria;;43;31/01/2007;sk_sturm_graz
+Interior derecho;Stefan Hierländer;Austria;;25;03/02/1991;sk_sturm_graz
+Mediocentro ofensivo;Otar Kiteishvili;Georgia;;10;26/03/1996;sk_sturm_graz
+Mediocentro ofensivo;Filip Rózga;Polonia;;8;07/08/2006;sk_sturm_graz
+Mediocentro ofensivo;Gizo Mamageishvili;Georgia;;15;15/01/2003;sk_sturm_graz
+Delantero centro;Leon Grgic;Croacia;Austria;38;22/01/2006;sk_sturm_graz
+Delantero centro;Axel Kayombo;Francia;RD del Congo;11;25/02/2006;sk_sturm_graz
+Delantero centro;Maurice Malone;Alemania;Estados Unidos;77;17/08/2000;sk_sturm_graz
+Delantero centro;Seedy Jatta;Noruega;;20;18/03/2003;sk_sturm_graz
+Delantero centro;Belmin Beganovic;Austria;Bosnia y Herzegovina;26;09/09/2004;sk_sturm_graz
+Delantero centro;Rory Wilson;Escocia;;9;05/01/2006;sk_sturm_graz
+Portero;Sławomir Abramowicz;Polonia;;50;09/06/2004;jagiellonia_bialystok
+Portero;Miłosz Piekutowski;Polonia;;22;08/05/2006;jagiellonia_bialystok
+Portero;Adrian Damasiewicz;Polonia;;66;09/09/2008;jagiellonia_bialystok
+Portero;Jakub Rabiczko;Polonia;;67;21/02/2008;jagiellonia_bialystok
+Defensa central;Bernardo Vital;Portugal;;13;29/12/2000;jagiellonia_bialystok
+Defensa central;Andy Pelmard;Madagascar;Francia;70;12/03/2000;jagiellonia_bialystok
+Defensa central;Dusan Stojinovic;Eslovenia;;3;26/08/2000;jagiellonia_bialystok
+Defensa central;Apostolos Konstantopoulos;Grecia;;44;02/08/2002;jagiellonia_bialystok
+Defensa central;Yuki Kobayashi;Japón;;4;18/07/2000;jagiellonia_bialystok
+Defensa central;Bartłomiej Krasiewicz;Polonia;;53;26/11/2005;jagiellonia_bialystok
+Lateral izquierdo;Bartlomiej Wdowik;Polonia;;27;25/09/2000;jagiellonia_bialystok
+Lateral izquierdo;Guilherme Montóia;Portugal;;23;14/09/2003;jagiellonia_bialystok
+Lateral derecho;Norbert Wojtuszek;Polonia;;15;05/10/2001;jagiellonia_bialystok
+Pivote;Sergio Lozano;España;;21;24/03/1999;jagiellonia_bialystok
+Pivote;Leon Flach;Estados Unidos;Alemania;31;28/02/2001;jagiellonia_bialystok
+Pivote;Taras Romanczuk;Polonia;;6;14/11/1991;jagiellonia_bialystok
+Pivote;Eryk Kozłowski;Polonia;;85;27/09/2006;jagiellonia_bialystok
+Mediocentro ofensivo;Bartosz Mazurek;Polonia;;86;03/01/2007;jagiellonia_bialystok
+Mediocentro ofensivo;Dawid Drachal;Polonia;;8;31/01/2005;jagiellonia_bialystok
+Mediocentro ofensivo;Jesús Imaz;España;;11;26/09/1990;jagiellonia_bialystok
+Extremo izquierdo;Matías Nahuel;España;Argentina;19;22/11/1996;jagiellonia_bialystok
+Extremo izquierdo;Kamil Jóźwiak;Polonia;;72;22/04/1998;jagiellonia_bialystok
+Extremo izquierdo;Kajetan Szmyt;Polonia;;77;29/05/2002;jagiellonia_bialystok
+Extremo derecho;Álex Pozo;España;;7;22/02/1999;jagiellonia_bialystok
+Extremo derecho;Zachary Zalewski;Polonia;Canadá;80;03/01/2009;jagiellonia_bialystok
+Extremo derecho;Maciej Kuczyński;Polonia;;90;01/02/2007;jagiellonia_bialystok
+Delantero centro;Afimico Pululu;RD del Congo;Francia;10;23/03/1999;jagiellonia_bialystok
+Delantero centro;Samed Bazdar;Bosnia y Herzegovina;Serbia;14;31/01/2004;jagiellonia_bialystok
+Delantero centro;Dimitris Rallis;Grecia;Países Bajos;9;26/03/2005;jagiellonia_bialystok
+Delantero centro;Youssuf Sylla;Bélgica;Guinea;17;19/12/2002;jagiellonia_bialystok
+Portero;Bartosz Mrozek;Polonia;;41;23/02/2000;lech_poznan
+Portero;Plamen Andreev;Bulgaria;;1;15/12/2004;lech_poznan
+Portero;Mateusz Pruchniewski;Polonia;;33;15/02/2007;lech_poznan
+Defensa central;Wojciech Mońka;Polonia;;27;18/01/2007;lech_poznan
+Defensa central;Alex Douglas;Suecia;Ghana;3;17/08/2001;lech_poznan
+Defensa central;Mateusz Skrzypczak;Polonia;;72;22/08/2000;lech_poznan
+Defensa central;Antonio Milic;Croacia;;16;10/03/1994;lech_poznan
+Defensa central;Hubert Janyszka;Polonia;;90;18/03/2009;lech_poznan
+Lateral izquierdo;Michał Gurgul;Polonia;;15;30/01/2006;lech_poznan
+Lateral izquierdo;João Moutinho;Portugal;;4;12/01/1998;lech_poznan
+Lateral derecho;Joel Pereira;Portugal;;2;28/09/1996;lech_poznan
+Lateral derecho;Robert Gumny;Polonia;;20;04/06/1998;lech_poznan
+Pivote;Antoni Kozubal;Polonia;;43;18/08/2004;lech_poznan
+Pivote;Timothy Ouma;Kenia;;6;10/06/2004;lech_poznan
+Pivote;Gísli Thórdarson;Islandia;;23;12/09/2004;lech_poznan
+Pivote;Radosław Murawski;Polonia;;22;22/04/1994;lech_poznan
+Pivote;Sammy Dudek;Polonia;Alemania;53;18/04/2008;lech_poznan
+Mediocentro ofensivo;Patrik Wålemark;Suecia;;10;14/10/2001;lech_poznan
+Mediocentro ofensivo;Pablo Rodríguez;España;;99;04/08/2001;lech_poznan
+Mediocentro ofensivo;Filip Jagiełło;Polonia;;24;08/08/1997;lech_poznan
+Extremo izquierdo;Luis Palma;Honduras;;77;17/01/2000;lech_poznan
+Extremo izquierdo;Daniel Håkans;Finlandia;;11;26/10/2000;lech_poznan
+Extremo izquierdo;Leo Bengtsson;Suecia;;14;26/05/1998;lech_poznan
+Extremo izquierdo;Kornel Lisman;Polonia;;56;20/02/2006;lech_poznan
+Extremo derecho;Ali Gholizadeh;Irán;;8;10/03/1996;lech_poznan
+Extremo derecho;Taofeek Ismaheel;Nigeria;;88;16/07/2000;lech_poznan
+Delantero centro;Yannick Agnero;Costa de Marfil;;7;20/02/2003;lech_poznan
+Delantero centro;Mikael Ishak;Suecia;Siria;9;31/03/1993;lech_poznan
+Delantero centro;Kamil Jakóbczyk;Polonia;;54;23/10/2007;lech_poznan
+Delantero centro;Wojciech Szymczak;Polonia;;17;05/01/2008;lech_poznan
+Portero;Otto Hindrich;Rumania;Hungría;89;05/08/2002;legia_de_varsovia
+Portero;Kacper Tobiasz;Polonia;;1;04/11/2002;legia_de_varsovia
+Portero;Gabriel Kobylak;Polonia;;27;20/02/2002;legia_de_varsovia
+Defensa central;Kamil Piątkowski;Polonia;;91;21/06/2000;legia_de_varsovia
+Defensa central;Radovan Pankov;Serbia;;12;05/08/1995;legia_de_varsovia
+Defensa central;Rafał Augustyniak;Polonia;;8;14/10/1993;legia_de_varsovia
+Defensa central;Jan Leszczyński;Polonia;;56;12/04/2007;legia_de_varsovia
+Defensa central;Artur Jędrzejczyk;Polonia;;55;04/11/1987;legia_de_varsovia
+Pivote;Juergen Elitim;Colombia;España;22;13/07/1999;legia_de_varsovia
+Pivote;Damian Szymański;Polonia;;44;16/06/1995;legia_de_varsovia
+Pivote;Henrique Arreiol;Portugal;;6;21/06/2005;legia_de_varsovia
+Pivote;Claude Gonçalves;Portugal;Francia;5;09/04/1994;legia_de_varsovia
+Pivote;Pascal Mozie;Polonia;Nigeria;51;06/05/2008;legia_de_varsovia
+Interior derecho;Ermal Krasniqi;Kosovo;;77;07/09/1998;legia_de_varsovia
+Interior derecho;Petar Stojanović;Eslovenia;;30;07/10/1995;legia_de_varsovia
+Interior derecho;Kacper Chodyna;Polonia;;11;24/05/1999;legia_de_varsovia
+Interior derecho;Paweł Wszołek;Polonia;;7;30/04/1992;legia_de_varsovia
+Interior izquierdo;Rúben Vinagre;Portugal;;19;09/04/1999;legia_de_varsovia
+Interior izquierdo;Arkadiusz Reca;Polonia;;13;17/06/1995;legia_de_varsovia
+Interior izquierdo;Patryk Kun;Polonia;;23;20/04/1995;legia_de_varsovia
+Mediocentro ofensivo;Kacper Urbański;Polonia;;82;07/09/2004;legia_de_varsovia
+Mediocentro ofensivo;Wojciech Urbański;Polonia;;53;12/01/2005;legia_de_varsovia
+Mediocentro ofensivo;Bartosz Kapustka;Polonia;;67;23/12/1996;legia_de_varsovia
+Mediocentro ofensivo;Vahan Bichakhchyan;Armenia;;21;09/07/1999;legia_de_varsovia
+Mediocentro ofensivo;Jakub Żewłakow;Polonia;;20;02/12/2006;legia_de_varsovia
+Mediocentro ofensivo;Samuel Kovacik;Eslovaquia;;99;28/05/2007;legia_de_varsovia
+Delantero centro;Mileta Rajović;Dinamarca;Montenegro;29;17/07/1999;legia_de_varsovia
+Delantero centro;Antonio Colak;Croacia;Alemania;14;17/09/1993;legia_de_varsovia
+Delantero centro;Jean-Pierre Nsame;Camerún;Francia;18;01/05/1993;legia_de_varsovia
+Delantero centro;Rafał Adamski;Polonia;;9;21/11/2001;legia_de_varsovia
+Portero;Niv Eliasi;Israel;;55;21/02/2002;hapoel_beer_sheva
+Portero;Ofir Marciano;Israel;Portugal;1;07/10/1989;hapoel_beer_sheva
+Portero;Yonatan Shani;Israel;;36;16/06/2006;hapoel_beer_sheva
+Defensa central;Or Blorian;Israel;Portugal;5;07/03/2000;hapoel_beer_sheva
+Defensa central;Matan Baltaxa;Israel;Polonia;3;20/09/1995;hapoel_beer_sheva
+Defensa central;Djibril Diop;Senegal;;44;06/01/1999;hapoel_beer_sheva
+Defensa central;Miguel Vítor;Israel;Portugal;4;30/06/1989;hapoel_beer_sheva
+Lateral izquierdo;Hélder Lopes;Portugal;;22;04/01/1989;hapoel_beer_sheva
+Lateral izquierdo;Ofir Davidzada;Israel;;13;05/05/1991;hapoel_beer_sheva
+Lateral derecho;Guy Mizrahi;Israel;España;2;30/03/2001;hapoel_beer_sheva
+Pivote;Lucas Ventura;Brasil;;25;19/05/1998;hapoel_beer_sheva
+Pivote;Shai Elias;Israel;Portugal;19;25/02/1999;hapoel_beer_sheva
+Mediocentro;Kings Kangwa;Zambia;;17;06/04/1999;hapoel_beer_sheva
+Mediocentro;Eliel Peretz;Israel;Portugal;7;18/11/1996;hapoel_beer_sheva
+Interior derecho;Roy Levy;Israel;Portugal;18;13/01/2000;hapoel_beer_sheva
+Mediocentro ofensivo;Hamode Kanaan;Israel;;8;14/01/2000;hapoel_beer_sheva
+Mediocentro ofensivo;Yoan Stoyanov;Bulgaria;Israel;27;22/05/2001;hapoel_beer_sheva
+Mediocentro ofensivo;Itay Hazut;Israel;España;23;20/09/2006;hapoel_beer_sheva
+Extremo izquierdo;Amir Ganah;Israel;Portugal;11;09/07/2004;hapoel_beer_sheva
+Extremo derecho;Dan Biton;Israel;;10;20/07/1995;hapoel_beer_sheva
+Extremo derecho;Javon East;Jamaica;;14;22/03/1995;hapoel_beer_sheva
+Extremo derecho;Muhammad Abu Rumi;Israel;;45;23/04/2004;hapoel_beer_sheva
+Mediapunta;Zahi Ahmed;Israel;;9;12/08/2001;hapoel_beer_sheva
+Delantero centro;Igor Zlatanovic;Serbia;;66;10/02/1998;hapoel_beer_sheva
+Delantero centro;Samir Farhud;Israel;Armenia;70;09/12/2000;hapoel_beer_sheva
+Portero;Georgiy Yermakov;Ucrania;Israel;89;28/03/2002;maccabi_haifa
+Portero;Sharif Kaiuf;Israel;;40;25/06/2001;maccabi_haifa
+Portero;Roee Fucs;Israel;;77;14/12/1998;maccabi_haifa
+Defensa central;Pedrão;Brasil;;44;03/05/1997;maccabi_haifa
+Defensa central;Shon Goldberg;Israel;Italia;3;13/06/1995;maccabi_haifa
+Defensa central;Lisav Naif Eissat;Rumania;Israel;24;13/01/2005;maccabi_haifa
+Defensa central;Abdoulaye Seck;Senegal;;30;04/06/1992;maccabi_haifa
+Defensa central;Elad Amir;Israel;;37;24/01/2006;maccabi_haifa
+Lateral izquierdo;Pierre Cornud;Francia;Israel;27;12/12/1996;maccabi_haifa
+Lateral izquierdo;Yinon Faingezicht;Israel;Polonia;29;01/05/2007;maccabi_haifa
+Lateral izquierdo;Tommy Tsitsuashvili;Israel;;-;01/01/2006;maccabi_haifa
+Lateral derecho;Jelle Bataille;Bélgica;;25;20/05/1999;maccabi_haifa
+Lateral derecho;Zohar Zasano;Israel;Etiopía;2;21/11/2001;maccabi_haifa
+Pivote;Ali Mohamed;Níger;Israel;4;07/10/1995;maccabi_haifa
+Pivote;Peter Agba;Nigeria;;80;20/12/2002;maccabi_haifa
+Pivote;Navot Ratner;Israel;;36;06/06/2007;maccabi_haifa
+Mediocentro;Cédric Don;Costa de Marfil;;45;03/05/2004;maccabi_haifa
+Mediocentro;Ethane Azoulay;Israel;Francia;19;26/05/2002;maccabi_haifa
+Mediocentro;Lior Kassa;Israel;Etiopía;15;27/09/2005;maccabi_haifa
+Interior izquierdo;Kenny Saief;Estados Unidos;Israel;16;17/12/1993;maccabi_haifa
+Mediocentro ofensivo;Michael Ohana;Israel;;26;04/10/1995;maccabi_haifa
+Extremo izquierdo;Dolev Haziza;Israel;Francia;8;05/07/1995;maccabi_haifa
+Extremo izquierdo;Suf Podgoreanu;Israel;Rumania;17;20/01/2002;maccabi_haifa
+Extremo izquierdo;Kenji Gorré;Curazao;Países Bajos;11;29/09/1994;maccabi_haifa
+Extremo derecho;Manuel Benson;Angola;Bélgica;14;28/03/1997;maccabi_haifa
+Extremo derecho;Silva Kani;Israel;Togo;7;15/05/2003;maccabi_haifa
+Delantero centro;Trivante Stewart;Jamaica;;9;22/03/2000;maccabi_haifa
+Delantero centro;Djordje Jovanovic;Serbia;;99;15/02/1999;maccabi_haifa
+Delantero centro;Guy Melamed;Israel;Lituania;18;21/12/1992;maccabi_haifa
+Delantero centro;Niv Gabay;Israel;;39;15/07/2007;maccabi_haifa
+Portero;Ofek Melika;Israel;;22;23/01/2005;maccabi_tel_aviv
+Portero;Roi Mishpati;Israel;;90;23/11/1992;maccabi_tel_aviv
+Portero;Shalev Saadia;Israel;;51;23/02/2006;maccabi_tel_aviv
+Defensa central;Tyrese Asante;Países Bajos;Ghana;6;09/04/2002;maccabi_tel_aviv
+Defensa central;Mohamed Camara;Guinea;;5;28/08/1997;maccabi_tel_aviv
+Defensa central;Raz Shlomo;Israel;;13;13/08/1999;maccabi_tel_aviv
+Defensa central;Heitor;Brasil;;4;27/04/2000;maccabi_tel_aviv
+Defensa central;Itay Ben Hamo;Israel;;41;06/02/2002;maccabi_tel_aviv
+Lateral izquierdo;Roy Revivo;Israel;;3;22/05/2003;maccabi_tel_aviv
+Lateral izquierdo;Denny Gropper;Israel;Rumania;14;16/03/1999;maccabi_tel_aviv
+Lateral derecho;Noam Ben Harush;Israel;;21;13/05/2005;maccabi_tel_aviv
+Pivote;Kristijan Belic;Serbia;Bélgica;17;25/03/2001;maccabi_tel_aviv
+Pivote;Issouf Sissokho;Malí;;28;30/01/2002;maccabi_tel_aviv
+Pivote;Ben Lederman;Polonia;Israel;23;08/05/2000;maccabi_tel_aviv
+Mediocentro;Dor Peretz;Israel;Portugal;42;17/05/1995;maccabi_tel_aviv
+Mediocentro;Ido Shahar;Israel;Hungría;36;20/08/2001;maccabi_tel_aviv
+Mediocentro;Itamar Noy;Israel;Francia;30;28/04/2001;maccabi_tel_aviv
+Mediocentro ofensivo;Kervin Andrade;Venezuela;;10;13/04/2005;maccabi_tel_aviv
+Extremo izquierdo;Hélio Varela;Cabo Verde;Portugal;29;03/05/2002;maccabi_tel_aviv
+Extremo derecho;Osher Davida;Israel;;77;18/02/2001;maccabi_tel_aviv
+Extremo derecho;Emir Sahiti;Kosovo;Albania;70;29/11/1998;maccabi_tel_aviv
+Extremo derecho;Sagiv Jehezkel;Israel;;11;21/03/1995;maccabi_tel_aviv
+Delantero centro;Sayed Abu Farkhi;Israel;;34;11/05/2006;maccabi_tel_aviv
+Delantero centro;Ion Nicolaescu;Moldavia;Rumania;98;07/09/1998;maccabi_tel_aviv
+Delantero centro;Elad Madmon;Israel;;19;10/02/2004;maccabi_tel_aviv
+Delantero centro;Ilay Ben Simon;Israel;;60;30/03/2009;maccabi_tel_aviv
+Delantero centro;Yonas Malede;Israel;Etiopía;15;14/11/1999;maccabi_tel_aviv
+Portero;Gabriel Pereira;Brasil;Italia;1;02/07/2002;apoel_fc
+Portero;Vid Belec;Eslovenia;;27;06/06/1990;apoel_fc
+Portero;Andreas Christodoulou;Chipre;Estados Unidos;22;26/03/1997;apoel_fc
+Portero;Savvas Michos;Chipre;;78;03/12/2007;apoel_fc
+Defensa central;Konstantinos Laifis;Chipre;;34;19/05/1993;apoel_fc
+Defensa central;Franz Brorsson;Suecia;;31;30/01/1996;apoel_fc
+Defensa central;Milos Degenek;Australia;Serbia;5;28/04/1994;apoel_fc
+Defensa central;Evagoras Antoniou;Chipre;;2;04/11/2002;apoel_fc
+Defensa central;Konstantinos Giannakou;Chipre;;45;25/04/2005;apoel_fc
+Lateral izquierdo;Konstantinos Stafylidis;Grecia;;3;02/12/1993;apoel_fc
+Lateral izquierdo;Vitor Meer;Brasil;;6;21/06/2004;apoel_fc
+Lateral izquierdo;Andreas Angelidis;Chipre;;-;24/06/2007;apoel_fc
+Lateral derecho;Nanu;Guinea-Bissau;Portugal;14;17/05/1994;apoel_fc
+Lateral derecho;Konstantinos Poursaitidis;Chipre;Grecia;21;24/01/2006;apoel_fc
+Pivote;Diego Rosa;Brasil;;29;12/10/2002;apoel_fc
+Mediocentro;Max Meyer;Alemania;;7;18/09/1995;apoel_fc
+Mediocentro;Dálcio;Guinea-Bissau;Portugal;20;22/05/1996;apoel_fc
+Mediocentro;Geovane Meurer;Brasil;;38;25/05/2002;apoel_fc
+Mediocentro ofensivo;Mathías Tomás;Uruguay;;15;30/01/2001;apoel_fc
+Mediocentro ofensivo;Panagiotis Kattirtzis;Chipre;;23;12/04/2006;apoel_fc
+Mediocentro ofensivo;Christos Karanatsios;Grecia;;25;04/02/2004;apoel_fc
+Extremo izquierdo;Peter Olayinka;Nigeria;;99;16/11/1995;apoel_fc
+Extremo izquierdo;Marquinhos;Brasil;;10;26/01/1997;apoel_fc
+Extremo derecho;Daniel Mancini;Argentina;Italia;77;11/11/1996;apoel_fc
+Extremo derecho;Gabriel Maioli;Brasil;;11;02/02/2003;apoel_fc
+Extremo derecho;Charles Yaw Appiah;Ghana;;36;23/01/2006;apoel_fc
+Delantero centro;Pieros Sotiriou;Chipre;;79;13/01/1993;apoel_fc
+Delantero centro;Nikolas Koutsakos;Chipre;;89;14/11/2003;apoel_fc
+Delantero centro;Dimitrios Diamantakos;Grecia;;18;05/03/1993;apoel_fc
+Delantero centro;Stefan Drazic;Serbia;;9;14/08/1992;apoel_fc
+Delantero centro;Pedro Ataíde;Brasil;;39;28/06/2005;apoel_fc
+Portero;Francis Uzoho;Nigeria;;23;28/10/1998;omonia_nicosia
+Portero;Fabiano;Chipre;Brasil;40;29/02/1988;omonia_nicosia
+Portero;Charalampos Kyriakidis;Chipre;;98;30/11/1998;omonia_nicosia
+Portero;Pantelis Michail;Chipre;;78;27/10/2005;omonia_nicosia
+Defensa central;Nikolas Panagiotou;Chipre;;30;12/05/2000;omonia_nicosia
+Defensa central;Senou Coulibaly;Malí;Francia;5;04/09/1994;omonia_nicosia
+Defensa central;Saad Agouzoul;Marruecos;;17;10/08/1997;omonia_nicosia
+Defensa central;Stefan Simic;República Checa;Croacia;27;20/01/1995;omonia_nicosia
+Defensa central;Christos Konstantinidis;Chipre;;90;24/06/2008;omonia_nicosia
+Lateral izquierdo;Jure Balkovec;Eslovenia;;29;09/09/1994;omonia_nicosia
+Lateral izquierdo;Fotis Kitsos;Grecia;;3;31/03/2003;omonia_nicosia
+Lateral izquierdo;Andreas Christou;Chipre;Inglaterra;82;05/08/2005;omonia_nicosia
+Lateral izquierdo;Michalis Antoniou;Chipre;Moldavia;-;03/09/2008;omonia_nicosia
+Lateral derecho;Alpha Diounkou;Senegal;España;2;10/10/2001;omonia_nicosia
+Lateral derecho;Giannis Masouras;Grecia;;21;24/08/1996;omonia_nicosia
+Lateral derecho;Moses Odubajo;Inglaterra;Nigeria;28;28/07/1993;omonia_nicosia
+Pivote;Mateo Maric;Bosnia y Herzegovina;Croacia;14;18/03/1998;omonia_nicosia
+Pivote;Ioannis Kousoulos;Chipre;;31;14/06/1996;omonia_nicosia
+Mediocentro;Carel Eiting;Países Bajos;;6;11/02/1998;omonia_nicosia
+Mediocentro;Novica Erakovic;Montenegro;;44;12/11/1999;omonia_nicosia
+Mediocentro;Panagiotis Andreou;Chipre;;74;29/04/2006;omonia_nicosia
+Mediocentro ofensivo;Muamer Tankovic;Suecia;Bosnia y Herzegovina;22;22/02/1995;omonia_nicosia
+Mediocentro ofensivo;Ewandro Costa;Brasil;;11;15/03/1996;omonia_nicosia
+Mediocentro ofensivo;Mateusz Musiałowski;Polonia;;33;16/10/2003;omonia_nicosia
+Extremo izquierdo;Willy Semedo;Cabo Verde;Francia;7;27/04/1994;omonia_nicosia
+Extremo izquierdo;Anastasios Chatzigiovanis;Grecia;;10;31/05/1997;omonia_nicosia
+Extremo izquierdo;Vladimiros Savva;Chipre;Ucrania;87;21/05/2008;omonia_nicosia
+Extremo izquierdo;Konstantinos Panagi;Chipre;;91;23/04/2007;omonia_nicosia
+Extremo derecho;Mihlali Mayambela;Sudáfrica;;18;25/08/1996;omonia_nicosia
+Extremo derecho;Evangelos Andreou;Chipre;;20;24/09/2002;omonia_nicosia
+Extremo derecho;Chrysis Evangelou;Chipre;;88;03/11/2007;omonia_nicosia
+Mediapunta;Stevan Jovetić;Montenegro;Serbia;8;02/11/1989;omonia_nicosia
+Delantero centro;Ryan Mmaee;Marruecos;Bélgica;19;01/11/1997;omonia_nicosia
+Delantero centro;Angelos Neofytou;Chipre;;85;23/05/2005;omonia_nicosia
+Portero;Filip Manojlovic;Serbia;;45;25/04/1996;djurgardens_if
+Portero;Jacob Rinne;Suecia;;35;20/06/1993;djurgardens_if
+Portero;Malkolm Nilsson Säfqvist;Suecia;;30;03/08/1993;djurgardens_if
+Defensa central;Miro Tenho;Finlandia;;5;02/04/1995;djurgardens_if
+Defensa central;Jacob Une;Suecia;;4;08/04/1994;djurgardens_if
+Defensa central;Leon Hien;Suecia;Ghana;3;31/07/2001;djurgardens_if
+Defensa central;Mikael Marqués;Suecia;Ecuador;21;08/09/2001;djurgardens_if
+Lateral izquierdo;Max Larsson;Suecia;;24;07/07/2003;djurgardens_if
+Lateral derecho;Adam Ståhl;Finlandia;Suecia;18;08/10/1994;djurgardens_if
+Lateral derecho;Piotr Johansson;Suecia;Polonia;2;28/02/1995;djurgardens_if
+Pivote;Daniel Stensson;Suecia;;13;24/03/1997;djurgardens_if
+Pivote;Hampus Finndell;Suecia;;14;06/06/2000;djurgardens_if
+Mediocentro;Matias Siltanen;Finlandia;;20;29/03/2007;djurgardens_if
+Mediocentro;Mikael Anderson;Islandia;Dinamarca;10;01/07/1998;djurgardens_if
+Mediocentro;Patric Åslund;Suecia;;8;01/08/2002;djurgardens_if
+Mediocentro;Peter Langhoff;Dinamarca;;6;09/01/2004;djurgardens_if
+Extremo izquierdo;Jeppe Okkels;Dinamarca;;19;27/07/1999;djurgardens_if
+Extremo derecho;Joel Asoro;Suecia;Nigeria;22;27/04/1999;djurgardens_if
+Extremo derecho;Nino Zugelj;Eslovenia;;23;23/05/2000;djurgardens_if
+Extremo derecho;Santeri Haarala;Finlandia;;29;17/12/1999;djurgardens_if
+Extremo derecho;Oskar Fallenius;Suecia;;15;01/11/2001;djurgardens_if
+Extremo derecho;Ahmed Saeed;Suecia;Irak;17;22/04/2008;djurgardens_if
+Delantero centro;Bo Hegland;Noruega;;16;18/06/2004;djurgardens_if
+Delantero centro;Kristian Strømland Lien;Noruega;;9;30/09/2001;djurgardens_if
+Portero;Robin Olsen;Suecia;Dinamarca;30;08/01/1990;malmoe_ff
+Portero;Ricardo Friedrich;Brasil;;1;18/02/1993;malmoe_ff
+Portero;Johan Dahlin;Suecia;;27;08/09/1986;malmoe_ff
+Portero;William Nieroth Lundgren;Suecia;;39;13/03/2006;malmoe_ff
+Defensa central;Colin Rösler;Noruega;;19;22/04/2000;malmoe_ff
+Defensa central;Bleon Kurtulus;Suecia;Kosovo;4;24/06/2007;malmoe_ff
+Defensa central;Pontus Jansson;Suecia;;18;13/02/1991;malmoe_ff
+Defensa central;Andrej Djuric;Montenegro;Serbia;5;21/09/2003;malmoe_ff
+Defensa central;Malte Frejd Pålsson;Suecia;;44;20/02/2006;malmoe_ff
+Lateral izquierdo;Busanello;Brasil;;25;29/10/1998;malmoe_ff
+Lateral izquierdo;Noah Åstrand John;Suecia;;23;13/12/2003;malmoe_ff
+Lateral derecho;Johan Karlsson;Suecia;;2;20/06/2001;malmoe_ff
+Lateral derecho;Jens Stryger;Dinamarca;;17;21/02/1991;malmoe_ff
+Pivote;Yanis Karabelyov;Bulgaria;;6;23/01/1996;malmoe_ff
+Mediocentro;Otto Rosengren;Suecia;;7;16/05/2003;malmoe_ff
+Mediocentro;Jovan Milosavljevic;Serbia;;28;08/02/2007;malmoe_ff
+Mediocentro;Adrian Skogmar;Suecia;Tailandia;37;23/11/2005;malmoe_ff
+Mediocentro;Kenan Busuladzic;Suecia;Bosnia y Herzegovina;40;06/02/2007;malmoe_ff
+Mediocentro;Anders Christiansen;Dinamarca;;10;08/06/1990;malmoe_ff
+Mediocentro;Theodor Lundbergh;Suecia;;47;21/08/2008;malmoe_ff
+Mediocentro;Viggo Jeppsson;Suecia;;42;24/03/2006;malmoe_ff
+Interior izquierdo;Gentian Lajqi;Suecia;;43;08/01/2007;malmoe_ff
+Mediocentro ofensivo;Anton Höög;Suecia;;45;19/03/2007;malmoe_ff
+Mediocentro ofensivo;Antonio Palac;Croacia;Suecia;46;14/01/2007;malmoe_ff
+Extremo izquierdo;Sead Haksabanovic;Montenegro;Suecia;29;04/05/1999;malmoe_ff
+Extremo izquierdo;Arnór Sigurdsson;Islandia;;8;15/05/1999;malmoe_ff
+Extremo izquierdo;Taha Ali;Suecia;Somalia;22;01/07/1998;malmoe_ff
+Extremo izquierdo;Oscar Sjöstrand;Suecia;;-;08/11/2004;malmoe_ff
+Extremo izquierdo;Stefano Vecchia;Suecia;Italia;21;23/01/1995;malmoe_ff
+Extremo izquierdo;Emmanuel Ekong;Suecia;Nigeria;11;25/06/2002;malmoe_ff
+Delantero centro;Erik Botheim;Noruega;;20;10/01/2000;malmoe_ff
+Delantero centro;Daníel Gudjohnsen;Islandia;;32;01/03/2006;malmoe_ff
+Delantero centro;Alexandru Ghiţă;Suecia;Rumania;-;02/02/2006;malmoe_ff
+Portero;Dominik Livakovic;Croacia;;40;09/01/1995;gnk_dinamo_zagreb
+Portero;Ivan Nevistic;Croacia;;33;31/07/1998;gnk_dinamo_zagreb
+Portero;Ivan Filipovic;Croacia;;44;13/11/1994;gnk_dinamo_zagreb
+Portero;Antonio Rajic;Croacia;;88;04/03/2007;gnk_dinamo_zagreb
+Portero;Danijel Zagorac;Croacia;;1;07/02/1987;gnk_dinamo_zagreb
+Defensa central;Scott McKenna;Escocia;;26;12/11/1996;gnk_dinamo_zagreb
+Defensa central;Raúl Torrente;España;;16;11/09/2001;gnk_dinamo_zagreb
+Defensa central;Niko Galesic;Croacia;Alemania;15;26/03/2001;gnk_dinamo_zagreb
+Defensa central;Sergi Domínguez;España;;36;01/04/2005;gnk_dinamo_zagreb
+Defensa central;Kévin Théophile-Catherine;Martinica;Francia;28;28/10/1989;gnk_dinamo_zagreb
+Defensa central;Dino Peric;Croacia;;55;12/07/1994;gnk_dinamo_zagreb
+Defensa central;Matija Ruskovacki;Croacia;;-;24/05/2005;gnk_dinamo_zagreb
+Lateral izquierdo;Matteo Pérez Vinlöf;Suecia;Perú;22;18/12/2005;gnk_dinamo_zagreb
+Lateral izquierdo;Bruno Goda;Croacia;;3;17/04/1998;gnk_dinamo_zagreb
+Lateral derecho;Ronaël Pierre-Gabriel;Francia;Martinica;18;13/06/1998;gnk_dinamo_zagreb
+Lateral derecho;Moris Valincic;Croacia;;25;17/11/2002;gnk_dinamo_zagreb
+Lateral derecho;Noa Mikic;Croacia;;35;27/01/2007;gnk_dinamo_zagreb
+Lateral derecho;Paul Tabinas;Filipinas;;13;05/07/2002;gnk_dinamo_zagreb
+Pivote;Ismaël Bennacer;Argelia;Francia;4;01/12/1997;gnk_dinamo_zagreb
+Pivote;Marko Soldo;Croacia;Bosnia y Herzegovina;14;22/11/2003;gnk_dinamo_zagreb
+Pivote;Josip Misic;Croacia;;27;28/06/1994;gnk_dinamo_zagreb
+Mediocentro;Miha Zajc;Eslovenia;;8;01/07/1994;gnk_dinamo_zagreb
+Mediocentro ofensivo;Luka Stojkovic;Croacia;;7;28/10/2003;gnk_dinamo_zagreb
+Extremo izquierdo;Gabriel Vidovic;Croacia;Alemania;10;01/12/2003;gnk_dinamo_zagreb
+Extremo izquierdo;Arbër Hoxha;Albania;Kosovo;11;06/10/1998;gnk_dinamo_zagreb
+Extremo izquierdo;Cardoso Varela;Portugal;Angola;23;29/10/2008;gnk_dinamo_zagreb
+Extremo derecho;Mateo Lisica;Croacia;;21;09/07/2003;gnk_dinamo_zagreb
+Extremo derecho;Fran Topic;Croacia;Bosnia y Herzegovina;30;20/03/2004;gnk_dinamo_zagreb
+Extremo derecho;Juan Córdoba;Colombia;;70;11/07/2003;gnk_dinamo_zagreb
+Delantero centro;Dion Beljo;Croacia;;9;01/03/2002;gnk_dinamo_zagreb
+Delantero centro;Monsef Bakrar;Argelia;;71;13/01/2001;gnk_dinamo_zagreb
+Portero;Matheus;Brasil;Portugal;1;29/03/1992;estrella_roja_de_belgrado
+Portero;Omri Glazer;Israel;Rumania;18;11/03/1996;estrella_roja_de_belgrado
+Portero;Ivan Gutesa;Serbia;;77;04/04/2002;estrella_roja_de_belgrado
+Portero;Savo Radanovic;Serbia;Bosnia y Herzegovina;50;28/02/2009;estrella_roja_de_belgrado
+Portero;Vuk Draskic;Serbia;;28;11/05/2007;estrella_roja_de_belgrado
+Defensa central;Strahinja Erakovic;Serbia;Australia;25;22/01/2001;estrella_roja_de_belgrado
+Defensa central;Rodrigão;Brasil;;5;11/09/1995;estrella_roja_de_belgrado
+Defensa central;Milos Veljkovic;Serbia;Suiza;13;26/09/1995;estrella_roja_de_belgrado
+Defensa central;Franklin Tebo Uchenna;Nigeria;;30;15/01/2000;estrella_roja_de_belgrado
+Defensa central;Stefan Gudelj;Serbia;Bosnia y Herzegovina;45;18/05/2006;estrella_roja_de_belgrado
+Lateral izquierdo;Nair Tiknizyan;Armenia;Rusia;23;12/05/1999;estrella_roja_de_belgrado
+Lateral izquierdo;Adem Avdic;Serbia;;71;24/09/2007;estrella_roja_de_belgrado
+Lateral derecho;Young-woo Seol;Corea del Sur;;66;05/12/1998;estrella_roja_de_belgrado
+Lateral derecho;Nikola Stankovic;Serbia;;24;24/04/2003;estrella_roja_de_belgrado
+Pivote;Tomás Händel;Portugal;Austria;20;27/11/2000;estrella_roja_de_belgrado
+Pivote;Rade Krunic;Bosnia y Herzegovina;Serbia;33;07/10/1993;estrella_roja_de_belgrado
+Pivote;Mahmudu Bajo;Gambia;;6;15/08/2004;estrella_roja_de_belgrado
+Mediocentro;Timi Max Elsnik;Eslovenia;;21;29/04/1998;estrella_roja_de_belgrado
+Mediocentro ofensivo;Vasilije Kostov;Serbia;;22;11/05/2008;estrella_roja_de_belgrado
+Mediocentro ofensivo;Mirko Ivanic;Montenegro;Serbia;4;13/09/1993;estrella_roja_de_belgrado
+Mediocentro ofensivo;Aleksandar Katai;Serbia;;10;06/02/1991;estrella_roja_de_belgrado
+Extremo izquierdo;Vladimir Lucic;Serbia;;37;28/06/2002;estrella_roja_de_belgrado
+Extremo izquierdo;Nemanja Radonjic;Serbia;;49;15/02/1996;estrella_roja_de_belgrado
+Extremo derecho;Douglas Owusu;Ghana;Serbia;35;10/04/2006;estrella_roja_de_belgrado
+Extremo derecho;Luka Zaric;Serbia;;40;31/10/2008;estrella_roja_de_belgrado
+Delantero centro;Aleksa Damjanovic;Serbia;Austria;19;04/12/2008;estrella_roja_de_belgrado
+Delantero centro;Bruno Duarte;Brasil;Italia;17;24/03/1996;estrella_roja_de_belgrado
+Delantero centro;Jay Enem;Países Bajos;Nigeria;42;11/03/2003;estrella_roja_de_belgrado
+Delantero centro;Marko Arnautovic;Austria;Serbia;89;19/04/1989;estrella_roja_de_belgrado
+Portero;Oleksandr Saputin;Ucrania;;1;13/11/2003;zorya_lugansk
+Portero;Mykyta Turbayevskyi;Ucrania;;12;12/03/2002;zorya_lugansk
+Portero;Valeriy Kosivskyi;Ucrania;;31;04/08/2005;zorya_lugansk
+Defensa central;Jordan;Brasil;;55;22/04/1999;zorya_lugansk
+Defensa central;Andrija Janjic;Bosnia y Herzegovina;;5;20/05/2002;zorya_lugansk
+Defensa central;Gabriel Eskinja;Austria;;4;29/08/2003;zorya_lugansk
+Defensa central;Christopher Nwaeze;Nigeria;;25;16/11/2002;zorya_lugansk
+Lateral izquierdo;Juninho;Brasil;;10;26/12/1995;zorya_lugansk
+Lateral izquierdo;Roman Vantukh;Ucrania;;47;04/07/1998;zorya_lugansk
+Lateral derecho;Igor Perduta;Ucrania;;44;15/11/1990;zorya_lugansk
+Pivote;Dejan Popara;Bosnia y Herzegovina;;6;10/03/2003;zorya_lugansk
+Pivote;Jakov Basic;Croacia;;21;25/11/1996;zorya_lugansk
+Pivote;Bogdan Kushnirenko;Ucrania;;77;02/11/1995;zorya_lugansk
+Pivote;Navin Malysh;Ucrania;;23;27/07/2003;zorya_lugansk
+Mediocentro;Kyrylo Dryshlyuk;Ucrania;;8;16/09/1999;zorya_lugansk
+Mediocentro;Roman Salenko;Ucrania;;19;18/05/2005;zorya_lugansk
+Mediocentro ofensivo;Nemanja Andjusic;Bosnia y Herzegovina;Serbia;7;17/10/1996;zorya_lugansk
+Mediocentro ofensivo;Petar Micin;Serbia;;22;29/09/1998;zorya_lugansk
+Mediocentro ofensivo;Sallieu Bah;Sierra Leona;;88;10/09/2006;zorya_lugansk
+Mediocentro ofensivo;Ivan Golovkin;Ucrania;;24;24/05/2000;zorya_lugansk
+Extremo izquierdo;Domagoj Jelavic;Croacia;;27;27/09/2001;zorya_lugansk
+Extremo izquierdo;Vladyslav Vakula;Ucrania;;99;29/04/1999;zorya_lugansk
+Extremo derecho;Artem Slesar;Ucrania;;9;12/12/2004;zorya_lugansk
+Delantero centro;Igor Gorbach;Ucrania;;11;27/05/2004;zorya_lugansk
+Delantero centro;Pylyp Budkivskyi;Ucrania;;28;10/03/1992;zorya_lugansk
+Delantero centro;Reynaldiño Verley;Panamá;;70;19/09/2002;zorya_lugansk
+Delantero centro;Fedir Zadorozhnyi;Ucrania;;17;16/11/2006;zorya_lugansk
+Portero;Dmytro Riznyk;Ucrania;;31;30/01/1999;shakhtar_donetsk
+Portero;Kiril Fesyun;Ucrania;;23;07/08/2002;shakhtar_donetsk
+Portero;Denys Tvardovskyi;Ucrania;;48;13/06/2003;shakhtar_donetsk
+Defensa central;Mykola Matvienko;Ucrania;;22;02/05/1996;shakhtar_donetsk
+Defensa central;Valeriy Bondar;Ucrania;;5;27/02/1999;shakhtar_donetsk
+Defensa central;Marlon;Brasil;;4;07/09/1995;shakhtar_donetsk
+Defensa central;Alaa Ghram;Túnez;;18;24/07/2001;shakhtar_donetsk
+Defensa central;Diego Arroyo;Bolivia;;3;29/04/2005;shakhtar_donetsk
+Defensa central;Danylo Udod;Ucrania;;46;09/03/2004;shakhtar_donetsk
+Defensa central;Roman Savchenko;Ucrania;;-;17/02/2004;shakhtar_donetsk
+Lateral izquierdo;Pedro Henrique;Brasil;;13;11/07/2002;shakhtar_donetsk
+Lateral izquierdo;Irakli Azarovi;Georgia;;16;21/02/2002;shakhtar_donetsk
+Lateral izquierdo;Viktor Korniyenko;Ucrania;;99;14/02/1999;shakhtar_donetsk
+Lateral derecho;Vinícius Tobias;Brasil;España;17;23/02/2004;shakhtar_donetsk
+Lateral derecho;Yukhym Konoplya;Ucrania;;26;26/08/1999;shakhtar_donetsk
+Mediocentro;Marlon Gomes;Brasil;;6;14/12/2003;shakhtar_donetsk
+Mediocentro;Dmytro Kryskiv;Ucrania;;8;06/10/2000;shakhtar_donetsk
+Mediocentro;Yegor Nazaryna;Ucrania;;29;10/07/1997;shakhtar_donetsk
+Mediocentro;Viktor Tsukanov;Ucrania;;24;04/02/2006;shakhtar_donetsk
+Mediocentro;Kyrylo Sigeev;Ucrania;;-;16/05/2004;shakhtar_donetsk
+Mediocentro ofensivo;Isaque;Brasil;;14;24/02/2007;shakhtar_donetsk
+Mediocentro ofensivo;Artem Bondarenko;Ucrania;;21;21/08/2000;shakhtar_donetsk
+Mediocentro ofensivo;Oleg Ocheretko;Ucrania;;27;25/05/2003;shakhtar_donetsk
+Extremo izquierdo;Newerton;Brasil;;11;03/06/2005;shakhtar_donetsk
+Extremo izquierdo;Eguinaldo;Brasil;;7;09/08/2004;shakhtar_donetsk
+Extremo izquierdo;Ivan Petryak;Ucrania;;34;13/03/1994;shakhtar_donetsk
+Extremo derecho;Pedrinho;Brasil;;10;13/04/1998;shakhtar_donetsk
+Extremo derecho;Alisson;Brasil;;30;21/09/2005;shakhtar_donetsk
+Extremo derecho;Lucas Ferreira;Brasil;;37;28/04/2006;shakhtar_donetsk
+Extremo derecho;Prosper Obah;Nigeria;;68;24/11/2003;shakhtar_donetsk
+Extremo derecho;Maryan Shved;Ucrania;;9;16/07/1997;shakhtar_donetsk
+Delantero centro;Kauã Elias;Brasil;;19;28/03/2006;shakhtar_donetsk
+Delantero centro;Luca Meirelles;Brasil;;49;15/03/2007;shakhtar_donetsk
+Delantero centro;Lassina Traoré;Burkina Faso;;2;12/01/2001;shakhtar_donetsk
+Portero;Ruslan Neshcheret;Ucrania;;35;22/01/2002;fc_dynamo_kyiv
+Portero;Valentyn Morgun;Ucrania;;51;10/08/2001;fc_dynamo_kyiv
+Portero;Denys Ignatenko;Ucrania;;74;11/01/2003;fc_dynamo_kyiv
+Defensa central;Taras Mykhavko;Ucrania;;32;30/05/2005;fc_dynamo_kyiv
+Defensa central;Denys Popov;Ucrania;;4;17/02/1999;fc_dynamo_kyiv
+Defensa central;Kristian Bilovar;Ucrania;Hungría;40;05/02/2001;fc_dynamo_kyiv
+Defensa central;Aliou Thiaré;Senegal;;66;20/12/2003;fc_dynamo_kyiv
+Defensa central;Vladyslav Zakharchenko;Ucrania;;34;16/06/2006;fc_dynamo_kyiv
+Lateral izquierdo;Kostyantyn Vivcharenko;Ucrania;Bulgaria;2;10/06/2002;fc_dynamo_kyiv
+Lateral izquierdo;Vladyslav Dubinchak;Ucrania;;44;01/07/1998;fc_dynamo_kyiv
+Lateral derecho;Oleksandr Tymchyk;Ucrania;;18;20/01/1997;fc_dynamo_kyiv
+Lateral derecho;Oleksandr Karavaev;Ucrania;;20;02/06/1992;fc_dynamo_kyiv
+Lateral derecho;Maksym Korobov;Ucrania;;13;06/03/2006;fc_dynamo_kyiv
+Pivote;Volodymyr Brazhko;Ucrania;;6;23/01/2002;fc_dynamo_kyiv
+Pivote;Mykola Mykhaylenko;Ucrania;;91;22/05/2001;fc_dynamo_kyiv
+Mediocentro;Mykola Shaparenko;Ucrania;;10;04/10/1998;fc_dynamo_kyiv
+Mediocentro;Oleksandr Pikhalyonok;Ucrania;;8;07/05/1997;fc_dynamo_kyiv
+Mediocentro;Oleksandr Yatsyk;Ucrania;;5;03/01/2003;fc_dynamo_kyiv
+Mediocentro ofensivo;Vitaliy Buyalskyi;Ucrania;;29;06/01/1993;fc_dynamo_kyiv
+Extremo izquierdo;Vladyslav Kabaev;Ucrania;;22;01/09/1995;fc_dynamo_kyiv
+Extremo izquierdo;Bogdan Redushko;Ucrania;;70;07/01/2007;fc_dynamo_kyiv
+Extremo izquierdo;Shola Ogundana;Nigeria;;16;22/02/2005;fc_dynamo_kyiv
+Extremo derecho;Nazar Voloshyn;Ucrania;;9;17/06/2003;fc_dynamo_kyiv
+Extremo derecho;Andriy Yarmolenko;Ucrania;;7;23/10/1989;fc_dynamo_kyiv
+Delantero centro;Matviy Ponomarenko;Ucrania;;11;11/01/2006;fc_dynamo_kyiv
+Delantero centro;Eduardo Guerrero;Panamá;;39;21/02/2000;fc_dynamo_kyiv
+Delantero centro;Vladislav Blănuță;Rumania;Moldavia;77;12/01/2002;fc_dynamo_kyiv
+Portero;Dénes Dibusz;Hungría;;90;16/11/1990;ferencvaros_tc
+Portero;Ádám Varga;Hungría;;1;12/02/1999;ferencvaros_tc
+Portero;Dániel Radnóti;Hungría;;63;01/10/2006;ferencvaros_tc
+Portero;Dávid Gróf;Hungría;;99;17/04/1989;ferencvaros_tc
+Portero;Gergő Szécsi;Hungría;;29;07/02/1989;ferencvaros_tc
+Defensa central;Ibrahim Cissé;Francia;Senegal;27;02/05/1996;ferencvaros_tc
+Defensa central;Stefan Gartenmann;Suiza;Dinamarca;3;02/02/1997;ferencvaros_tc
+Defensa central;Toon Raemaekers;Bélgica;;28;09/09/2000;ferencvaros_tc
+Defensa central;Mariano Gómez;Argentina;España;4;05/02/1999;ferencvaros_tc
+Defensa central;Gábor Szalai;Hungría;;22;09/06/2000;ferencvaros_tc
+Defensa central;Ismaïl Aaneba;Francia;Marruecos;44;29/05/1999;ferencvaros_tc
+Defensa central;Csongor Lakatos;Hungría;;71;29/03/2006;ferencvaros_tc
+Lateral izquierdo;Barnabás Nagy;Hungría;;77;05/09/2000;ferencvaros_tc
+Lateral derecho;Cebrail Makreckis;Letonia;Alemania;25;10/05/2000;ferencvaros_tc
+Lateral derecho;Attila Osváth;Hungría;;14;10/12/1995;ferencvaros_tc
+Lateral derecho;Endre Botka;Hungría;;21;25/08/1994;ferencvaros_tc
+Pivote;Habib Maïga;Costa de Marfil;;80;01/01/1996;ferencvaros_tc
+Pivote;Bence Ötvös;Hungría;;23;13/03/1998;ferencvaros_tc
+Pivote;Júlio Romão;Brasil;;66;29/03/1998;ferencvaros_tc
+Mediocentro;Mohammed Abu Fani;Israel;;15;27/04/1998;ferencvaros_tc
+Mediocentro;Naby Keïta;Guinea;;5;10/02/1995;ferencvaros_tc
+Mediocentro;Philippe Rommens;Bélgica;;88;20/08/1997;ferencvaros_tc
+Mediocentro;Ádám Madarász;Hungría;;72;16/02/2007;ferencvaros_tc
+Interior derecho;Cadu;Brasil;;20;08/08/1997;ferencvaros_tc
+Interior izquierdo;Callum O'Dowda;Irlanda;Inglaterra;47;23/04/1995;ferencvaros_tc
+Mediocentro ofensivo;Gabi Kanichowsky;Israel;;36;24/08/1997;ferencvaros_tc
+Mediocentro ofensivo;Kristoffer Zachariassen;Noruega;;16;27/01/1994;ferencvaros_tc
+Mediocentro ofensivo;Krisztián Lisztes;Hungría;;76;06/05/2005;ferencvaros_tc
+Mediocentro ofensivo;Marius Corbu;Rumania;Hungría;17;07/05/2002;ferencvaros_tc
+Extremo izquierdo;Elton Acolatse;Países Bajos;Ghana;7;25/07/1995;ferencvaros_tc
+Extremo derecho;Bamidele Yusuf;Nigeria;;11;22/02/2001;ferencvaros_tc
+Extremo derecho;Jonathan Levi;Suecia;Italia;10;23/01/1996;ferencvaros_tc
+Delantero centro;Franko Kovacevic;Croacia;;19;08/08/1999;ferencvaros_tc
+Delantero centro;Zsombor Gruber;Hungría;;30;07/09/2004;ferencvaros_tc
+Delantero centro;Lenny Joseph;Francia;Haití;75;12/10/2000;ferencvaros_tc
+Delantero centro;Aleksandar Pesic;Serbia;;8;21/05/1992;ferencvaros_tc
+Delantero centro;Fortune Bassey;Nigeria;;40;06/10/1998;ferencvaros_tc
+Delantero centro;Benjámin Gólik;Hungría;;62;19/01/2008;ferencvaros_tc
+Portero;Ștefan Târnovanu;Rumania;;32;09/05/2000;fcsb
+Portero;Lukas Zima;República Checa;;38;09/01/1994;fcsb
+Portero;Matei Popa;Rumania;;13;29/04/2007;fcsb
+Portero;Mihai Udrea;Rumania;;34;20/07/2001;fcsb
+Defensa central;Siyabonga Ngezana;Sudáfrica;;30;15/07/1997;fcsb
+Defensa central;Joyskim Dawa;Camerún;Francia;5;09/04/1996;fcsb
+Defensa central;André Duarte;Portugal;;3;12/09/1997;fcsb
+Defensa central;Mihai Popescu;Rumania;;17;07/05/1993;fcsb
+Defensa central;Daniel Graovac;Bosnia y Herzegovina;Croacia;4;08/08/1993;fcsb
+Defensa central;Andrei Dăncuș;Rumania;;6;20/01/2009;fcsb
+Lateral izquierdo;Risto Radunovic;Montenegro;;33;04/05/1992;fcsb
+Lateral izquierdo;David Kiki;Benín;Francia;12;25/11/1993;fcsb
+Lateral derecho;Alexandru Pantea;Rumania;;28;11/09/2003;fcsb
+Lateral derecho;Ionuț Cercel;Rumania;;23;14/11/2006;fcsb
+Lateral derecho;Valentin Crețu;Rumania;;2;02/01/1989;fcsb
+Pivote;Ofri Arad;Israel;Alemania;15;11/09/1998;fcsb
+Pivote;Baba Alhassan;Uganda;Ghana;42;03/01/2000;fcsb
+Pivote;João Paulo;Cabo Verde;;18;26/05/1998;fcsb
+Pivote;Vlad Chiricheș;Rumania;;21;14/11/1989;fcsb
+Mediocentro;Mihai Lixandru;Rumania;;16;05/06/2001;fcsb
+Mediocentro;Juri Cisotti;Italia;;31;05/05/1993;fcsb
+Interior izquierdo;Mihai Toma;Rumania;;22;17/02/2007;fcsb
+Mediocentro ofensivo;Darius Olaru;Rumania;;27;03/03/1998;fcsb
+Mediocentro ofensivo;Florin Tănase;Rumania;;10;30/12/1994;fcsb
+Extremo izquierdo;Octavian Popescu;Rumania;;37;27/12/2002;fcsb
+Extremo derecho;David Miculescu;Rumania;;11;02/05/2001;fcsb
+Extremo derecho;David Popa;Rumania;;98;13/03/2007;fcsb
+Delantero centro;Daniel Bîrligea;Rumania;;9;19/04/2000;fcsb
+Delantero centro;Mamadou Thiam;Senegal;Francia;93;20/03/1995;fcsb
+Delantero centro;Alexandru Stoian;Rumania;;90;15/12/2007;fcsb
+Portero;Dominik Takac;Eslovaquia;;71;12/01/1999;slovan_bratislava
+Portero;Martin Trnovsky;Eslovaquia;;31;07/06/2000;slovan_bratislava
+Portero;Matus Macik;Eslovaquia;;44;19/05/1993;slovan_bratislava
+Defensa central;Svetozar Markovic;Serbia;Bosnia y Herzegovina;15;23/03/2000;slovan_bratislava
+Defensa central;Kenan Bajric;Eslovenia;;12;20/12/1994;slovan_bratislava
+Defensa central;Kevin Wimmer;Austria;;6;15/11/1992;slovan_bratislava
+Defensa central;Sidoine Fogning;Camerún;;19;14/11/2001;slovan_bratislava
+Defensa central;Guram Kashia;Georgia;;4;04/07/1987;slovan_bratislava
+Lateral izquierdo;Sandro Cruz;Angola;Portugal;57;12/05/2001;slovan_bratislava
+Lateral izquierdo;Sharani Zuberu;Togo;Ghana;23;07/01/2000;slovan_bratislava
+Lateral derecho;César Blackman;Panamá;;28;02/04/1998;slovan_bratislava
+Pivote;Peter Pokorný;Eslovaquia;;3;08/08/2001;slovan_bratislava
+Mediocentro;Rahim Ibrahim;Ghana;;5;10/06/2001;slovan_bratislava
+Mediocentro;Danylo Ignatenko;Ucrania;;77;13/03/1997;slovan_bratislava
+Mediocentro;Daiki Matsuoka;Japón;;41;01/06/2001;slovan_bratislava
+Mediocentro;Maxim Mateas;Eslovaquia;;16;12/05/2008;slovan_bratislava
+Mediocentro ofensivo;Niko Jankovic;Croacia;;10;25/08/2001;slovan_bratislava
+Mediocentro ofensivo;Artur Gajdos;Eslovaquia;;8;20/01/2004;slovan_bratislava
+Extremo izquierdo;Nino Marcelli;Eslovaquia;;18;29/05/2005;slovan_bratislava
+Extremo izquierdo;Alasana Yirajang;Gambia;;14;12/11/2004;slovan_bratislava
+Extremo izquierdo;Robert Mak;Eslovaquia;;21;08/03/1991;slovan_bratislava
+Extremo izquierdo;Vladimír Weiss;Eslovaquia;;7;30/11/1989;slovan_bratislava
+Extremo derecho;Tigran Barseghyan;Armenia;;11;22/09/1993;slovan_bratislava
+Delantero centro;Mykola Kukharevych;Ucrania;;9;01/07/2001;slovan_bratislava
+Delantero centro;Andraz Sporar;Eslovenia;;99;27/02/1994;slovan_bratislava
+Delantero centro;Adam Griger;Eslovaquia;;30;16/03/2004;slovan_bratislava
+Portero;Hendrik Bonmann;Alemania;;39;22/01/1994;ludogorets_razgrad
+Portero;Sergio Padt;Países Bajos;Italia;1;06/06/1990;ludogorets_razgrad
+Defensa central;Edvin Kurtulus;Suecia;Kosovo;15;05/03/2000;ludogorets_razgrad
+Defensa central;Olivier Verdon;Benín;Francia;24;05/10/1995;ludogorets_razgrad
+Defensa central;Dinis Almeida;Portugal;;4;28/06/1995;ludogorets_razgrad
+Defensa central;Idan Nachmias;Israel;Portugal;55;17/03/1997;ludogorets_razgrad
+Lateral izquierdo;Anton Nedyalkov;Bulgaria;;3;30/04/1993;ludogorets_razgrad
+Lateral izquierdo;Vinícius Nogueira;Brasil;;27;11/12/2001;ludogorets_razgrad
+Lateral derecho;Son;España;;17;30/03/1994;ludogorets_razgrad
+Lateral derecho;Joel Andersson;Suecia;;2;11/11/1996;ludogorets_razgrad
+Pivote;Pedro Naressi;Brasil;;30;10/01/1998;ludogorets_razgrad
+Pivote;Ivan Yordanov;Bulgaria;;82;07/11/2000;ludogorets_razgrad
+Mediocentro;Ivaylo Chochev;Bulgaria;;18;18/02/1993;ludogorets_razgrad
+Mediocentro;Deroy Duarte;Cabo Verde;Países Bajos;23;04/07/1999;ludogorets_razgrad
+Mediocentro;Filip Kaloc;República Checa;;26;27/02/2000;ludogorets_razgrad
+Mediocentro ofensivo;Petar Stanic;Serbia;Croacia;14;14/08/2001;ludogorets_razgrad
+Mediocentro ofensivo;Aguibou Camara;Guinea;;20;20/05/2001;ludogorets_razgrad
+Extremo izquierdo;Caio Vidal;Brasil;Bulgaria;11;04/11/2000;ludogorets_razgrad
+Extremo derecho;Erick Marcus;Brasil;;77;01/03/2004;ludogorets_razgrad
+Extremo derecho;Bernard Tekpetey;Ghana;Bulgaria;37;03/09/1997;ludogorets_razgrad
+Extremo derecho;Stanislav Ivanov;Bulgaria;;99;16/04/1999;ludogorets_razgrad
+Delantero centro;Rwan Cruz;Brasil;Bulgaria;12;20/05/2001;ludogorets_razgrad
+Delantero centro;Kwadwo Duah;Suiza;Ghana;9;24/02/1997;ludogorets_razgrad
+Delantero centro;Yves Erick Bile;Costa de Marfil;Bélgica;29;24/12/2004;ludogorets_razgrad
+Delantero centro;Alberto Salido;España;;7;19/01/2000;ludogorets_razgrad
+Delantero centro;Matheus Machado;Brasil;;10;13/03/2003;ludogorets_razgrad
+Portero;Mateusz Kochalski;Polonia;;99;25/07/2000;qarabag_fk
+Portero;Shahrudin Mahammadaliyev;Azerbaiyán;Rusia;1;12/06/1994;qarabag_fk
+Portero;Fabijan Buntic;Croacia;Alemania;97;24/02/1997;qarabag_fk
+Portero;Amin Ramazanov;Azerbaiyán;Rusia;89;20/01/2003;qarabag_fk
+Defensa central;Bahlul Mustafazada;Azerbaiyán;;13;27/02/1997;qarabag_fk
+Defensa central;Samy Mmaee;Marruecos;Bélgica;3;08/09/1996;qarabag_fk
+Defensa central;Kevin Medina;Colombia;;81;09/03/1993;qarabag_fk
+Defensa central;Badavi Hüseynov;Azerbaiyán;Rusia;55;11/07/1991;qarabag_fk
+Lateral izquierdo;Toral Bayramov;Azerbaiyán;;27;23/02/2001;qarabag_fk
+Lateral izquierdo;Elvin Cafarquliyev;Azerbaiyán;;44;26/10/2000;qarabag_fk
+Lateral izquierdo;Jérémie Gnali;Francia;Congo;24;12/04/2002;qarabag_fk
+Lateral derecho;Matheus Silva;Brasil;;2;03/10/1997;qarabag_fk
+Lateral derecho;Dani Bolt;Brasil;;18;18/06/1999;qarabag_fk
+Lateral derecho;Abbas Hüseynov;Azerbaiyán;;30;13/06/1995;qarabag_fk
+Pivote;Pedro Bicalho;Brasil;;35;23/04/2001;qarabag_fk
+Mediocentro;Marko Jankovic;Montenegro;Serbia;8;09/07/1995;qarabag_fk
+Mediocentro ofensivo;Kady Borges;Brasil;Polonia;20;02/05/1996;qarabag_fk
+Mediocentro ofensivo;Joni Montiel;España;;9;03/09/1998;qarabag_fk
+Mediocentro ofensivo;Hikmat Cabrayilzada;Azerbaiyán;;32;02/08/2007;qarabag_fk
+Extremo izquierdo;Emmanuel Addai;Ghana;;11;01/08/2001;qarabag_fk
+Extremo izquierdo;Abdellah Zoubir;Francia;Marruecos;10;05/12/1991;qarabag_fk
+Extremo derecho;Leandro Andrade;Cabo Verde;Portugal;15;24/09/1999;qarabag_fk
+Extremo derecho;Oleksiy Kashchuk;Ucrania;;21;29/06/2000;qarabag_fk
+Delantero centro;Camilo Durán;Colombia;;17;10/02/2002;qarabag_fk
+Delantero centro;Musa Qurbanly;Azerbaiyán;;22;13/04/2002;qarabag_fk
+Delantero centro;Ramil Sheydayev;Azerbaiyán;Rusia;77;15/03/1996;qarabag_fk
+Portero;Ivan Dyulgerov;Bulgaria;;21;15/07/1999;fc_sheriff_tiraspol
+Portero;Emil Timbur;Moldavia;Rumania;1;21/07/1997;fc_sheriff_tiraspol
+Portero;Nicolae Cebotari;Moldavia;Rumania;28;24/05/1997;fc_sheriff_tiraspol
+Portero;Serghei Obiscalov;Moldavia;;25;19/07/2006;fc_sheriff_tiraspol
+Defensa central;Soumaila Magassouba;Malí;;29;28/06/2004;fc_sheriff_tiraspol
+Defensa central;Bourama Fomba;Malí;;35;10/07/1999;fc_sheriff_tiraspol
+Defensa central;Riis Opoku Twumasi;Ghana;;20;25/01/2006;fc_sheriff_tiraspol
+Defensa central;Alesio Mija;Albania;Grecia;44;20/06/2001;fc_sheriff_tiraspol
+Defensa central;Baye Assane Ciss;Senegal;;45;10/10/2003;fc_sheriff_tiraspol
+Defensa central;Natus Jamel Swen;Liberia;;4;18/11/2004;fc_sheriff_tiraspol
+Lateral izquierdo;Raí;Brasil;;6;28/03/2000;fc_sheriff_tiraspol
+Lateral izquierdo;Eguedegue Magloire;Camerún;;18;03/01/2006;fc_sheriff_tiraspol
+Lateral derecho;Mahmoud Ghorbel;Túnez;;7;31/12/2003;fc_sheriff_tiraspol
+Lateral derecho;Atila;Brasil;;2;24/02/2002;fc_sheriff_tiraspol
+Pivote;Marcelino Carreazo;Colombia;Venezuela;13;17/12/1999;fc_sheriff_tiraspol
+Pivote;Peter Ademo;Nigeria;;69;11/01/2003;fc_sheriff_tiraspol
+Pivote;Liam Hermesh;Israel;Portugal;3;12/03/2004;fc_sheriff_tiraspol
+Pivote;Ibrahima Soumah;Guinea;;8;12/09/2003;fc_sheriff_tiraspol
+Mediocentro;Dhoraso Klas;Surinam;Países Bajos;26;30/01/2001;fc_sheriff_tiraspol
+Mediocentro;Mihail Corotcov;Moldavia;;33;24/07/2008;fc_sheriff_tiraspol
+Mediocentro;Emmanuel Afetse;Ghana;;32;09/03/2007;fc_sheriff_tiraspol
+Mediocentro ofensivo;Daniel Danu;Moldavia;Rumania;16;26/08/2002;fc_sheriff_tiraspol
+Mediocentro ofensivo;Vsevolod Nihaev;Moldavia;Rusia;17;04/05/1999;fc_sheriff_tiraspol
+Extremo derecho;Mollo Bessala;Camerún;;22;10/10/2003;fc_sheriff_tiraspol
+Extremo derecho;Zé Flores;Brasil;;10;20/05/1999;fc_sheriff_tiraspol
+Extremo derecho;Sapata;Brasil;;11;26/03/2003;fc_sheriff_tiraspol
+Extremo derecho;Danila Forov;Moldavia;Rusia;24;07/01/2004;fc_sheriff_tiraspol
+Extremo derecho;Loukou Jaures-Ulrich;Costa de Marfil;;42;15/06/2005;fc_sheriff_tiraspol
+Delantero centro;Jayder Asprilla;Colombia;;19;20/03/2003;fc_sheriff_tiraspol
+Delantero centro;Qays Ghanem;Israel;;14;31/12/1997;fc_sheriff_tiraspol
+Portero;Mukhammedzhan Seysen;Kazajistán;;74;14/02/1999;fc_astana
+Portero;Josip Condric;Croacia;Bosnia y Herzegovina;93;27/08/1993;fc_astana
+Portero;Danila Karpikov;Kazajistán;;99;15/10/2003;fc_astana
+Defensa central;Branimir Kalaica;Croacia;;3;01/06/1998;fc_astana
+Defensa central;Alibek Kasym;Kazajistán;;6;27/05/1998;fc_astana
+Defensa central;Kipras Kažukolovas;Lituania;;5;20/11/2000;fc_astana
+Defensa central;Sanzhar Anuarov;Kazajistán;;4;16/02/2005;fc_astana
+Lateral izquierdo;Yan Vorogovskiy;Kazajistán;;11;07/08/1996;fc_astana
+Lateral izquierdo;Dmitriy Shomko;Kazajistán;;77;19/03/1990;fc_astana
+Lateral derecho;Karlo Bartolec;Croacia;;2;20/04/1995;fc_astana
+Lateral derecho;Abzal Beysebekov;Kazajistán;;15;30/11/1992;fc_astana
+Lateral derecho;Timur Tokenov;Kazajistán;;52;24/04/2004;fc_astana
+Mediocentro;Ivan Basic;Bosnia y Herzegovina;Croacia;8;30/04/2002;fc_astana
+Mediocentro;Dinmukhamed Karaman;Kazajistán;;7;26/06/2000;fc_astana
+Mediocentro;Ruslan Valikhan;Kazajistán;;82;26/01/2008;fc_astana
+Mediocentro ofensivo;Bauyrzhan Islamkhan;Kazajistán;;9;23/02/1993;fc_astana
+Extremo izquierdo;Maksat Abraev;Kazajistán;;47;13/02/2008;fc_astana
+Extremo derecho;Marin Tomasov;Croacia;;10;31/08/1987;fc_astana
+Extremo derecho;Nurali Zhaksylyk;Kazajistán;;19;04/11/2004;fc_astana
+Extremo derecho;Stanislav Basmanov;Kazajistán;;72;24/06/2001;fc_astana
+Extremo derecho;Asilbek Abdurasulov;Uzbekistán;;22;26/09/2007;fc_astana
+Delantero centro;Ramazan Karimov;Kazajistán;;81;05/07/1999;fc_astana
+Delantero centro;Nnamdi Ahanonu;Nigeria;;20;22/02/2002;fc_astana
+Portero;Jesse Joronen;Finlandia;;66;21/03/1993;palermo_fc
+Portero;Alfred Gomis;Senegal;Italia;1;05/09/1993;palermo_fc
+Portero;Francesco Di Bartolo;Italia;;77;18/03/2005;palermo_fc
+Defensa central;Patryk Peda;Polonia;;29;16/04/2002;palermo_fc
+Defensa central;Mattia Bani;Italia;;13;10/12/1993;palermo_fc
+Defensa central;Pietro Ceccaroni;Italia;;32;21/12/1995;palermo_fc
+Defensa central;Giangiacomo Magnani;Italia;;96;04/10/1995;palermo_fc
+Defensa central;Davide Veroli;Italia;;72;29/01/2003;palermo_fc
+Lateral izquierdo;Tommaso Augello;Italia;;3;30/08/1994;palermo_fc
+Lateral derecho;Niccolò Pierozzi;Italia;;27;12/09/2001;palermo_fc
+Lateral derecho;Rui Modesto;Angola;Portugal;18;07/10/1999;palermo_fc
+Lateral derecho;Bartosz Bereszyński;Polonia;;19;12/07/1992;palermo_fc
+Pivote;Claudio Gomes;Francia;Guinea-Bissau;6;23/07/2000;palermo_fc
+Pivote;Alexis Blin;Francia;;28;16/09/1996;palermo_fc
+Mediocentro;Filippo Ranocchia;Italia;;10;14/05/2001;palermo_fc
+Mediocentro;Jacopo Segre;Italia;;8;17/02/1997;palermo_fc
+Mediocentro;Antonio Palumbo;Italia;;5;06/08/1996;palermo_fc
+Mediocentro;Samuel Giovane;Italia;;17;28/03/2003;palermo_fc
+Mediocentro;Aljosa Vasic;Serbia;Italia;14;21/04/2002;palermo_fc
+Interior derecho;Emmanuel Gyasi;Ghana;Italia;11;11/01/1994;palermo_fc
+Extremo izquierdo;Dennis Johnsen;Noruega;;7;17/02/1998;palermo_fc
+Delantero centro;Joel Pohjanpalo;Finlandia;;20;13/09/1994;palermo_fc
+Delantero centro;Jérémy Le Douaron;Francia;;21;21/04/1998;palermo_fc
+Delantero centro;Giacomo Corona;Italia;;31;24/02/2004;palermo_fc
+Portero;Timo Horn;Alemania;;1;12/05/1993;vfl_bochun
+Portero;Niclas Thiede;Alemania;;22;14/04/1999;vfl_bochun
+Portero;Hugo Rölleke;Alemania;;38;06/05/2005;vfl_bochun
+Defensa central;Erhan Masovic;Serbia;;4;22/11/1998;vfl_bochun
+Defensa central;Philipp Strompf;Alemania;;3;23/04/1998;vfl_bochun
+Defensa central;Noah Loosli;Suiza;;20;23/01/1997;vfl_bochun
+Defensa central;Kevin Vogt;Alemania;;7;23/09/1991;vfl_bochun
+Defensa central;Daniel Hülsenbusch;Alemania;;25;18/01/2005;vfl_bochun
+Lateral izquierdo;Maximilian Wittek;Alemania;;32;21/08/1995;vfl_bochun
+Lateral izquierdo;Mikkel Rakneberg;Noruega;;18;28/02/2002;vfl_bochun
+Lateral izquierdo;Darnell Keumo;Alemania;Camerún;30;01/10/2007;vfl_bochun
+Lateral derecho;Leandro Morgalla;Alemania;;39;13/09/2004;vfl_bochun
+Lateral derecho;Oliver Olsen;Dinamarca;;13;13/08/2000;vfl_bochun
+Lateral derecho;Kacper Koscierski;Alemania;Polonia;35;23/06/2007;vfl_bochun
+Pivote;Cajetan Lenz;Alemania;Suiza;34;16/06/2006;vfl_bochun
+Pivote;Marcel Sobottka;Alemania;;31;25/04/1994;vfl_bochun
+Mediocentro;Kjell Wätjen;Alemania;;8;16/02/2006;vfl_bochun
+Mediocentro;Mats Pannewig;Alemania;;24;28/10/2004;vfl_bochun
+Mediocentro;Matus Bero;Eslovaquia;;19;06/09/1995;vfl_bochun
+Mediocentro;Moritz Göttlicher;Alemania;;-;21/04/2008;vfl_bochun
+Interior derecho;Koji Miyoshi;Japón;;23;26/03/1997;vfl_bochun
+Interior izquierdo;Romario Rösch;Alemania;;26;01/07/1999;vfl_bochun
+Mediocentro ofensivo;Francis Onyeka;Alemania;Nigeria;21;29/04/2007;vfl_bochun
+Mediocentro ofensivo;Moritz-Broni Kwarteng;Alemania;Ghana;11;28/04/1998;vfl_bochun
+Extremo izquierdo;Gerrit Holtmann;Filipinas;Alemania;17;25/03/1995;vfl_bochun
+Extremo derecho;Farid Alfa-Ruprecht;Alemania;Ghana;29;28/03/2006;vfl_bochun
+Delantero centro;Callum Marshall;Irlanda del Norte;;16;28/11/2004;vfl_bochun
+Delantero centro;Ibrahim Sissoko;Malí;Francia;9;27/11/1995;vfl_bochun
+Delantero centro;Philipp Hofmann;Alemania;;33;30/03/1993;vfl_bochun
+Portero;Jonas Krumrey;Alemania;;21;25/11/2003;holstein_kiel
+Portero;Timon Weiner;Alemania;;1;18/01/1999;holstein_kiel
+Portero;Lio Rothenhagen;Alemania;;41;31/08/2006;holstein_kiel
+Portero;Marcel Engelhardt;Alemania;;31;05/04/1993;holstein_kiel
+Portero;Tyler Doğan;Turquía;Alemania;42;18/11/2005;holstein_kiel
+Defensa central;David Zec;Eslovenia;;26;05/01/2000;holstein_kiel
+Defensa central;Marko Ivezic;Serbia;;6;02/12/2001;holstein_kiel
+Defensa central;Frederik Roslyng;Dinamarca;;2;25/12/2005;holstein_kiel
+Defensa central;Ivan Nekic;Croacia;;13;24/12/2000;holstein_kiel
+Defensa central;Marco Komenda;Alemania;Croacia;3;26/11/1996;holstein_kiel
+Defensa central;Carl Johansson;Suecia;;5;23/05/1994;holstein_kiel
+Defensa central;Patrick Erras;Alemania;;4;21/01/1995;holstein_kiel
+Lateral izquierdo;John Tolkin;Estados Unidos;;47;31/07/2002;holstein_kiel
+Lateral izquierdo;Leon Parduzi;Kosovo;Alemania;40;10/12/2006;holstein_kiel
+Lateral derecho;Lasse Rosenboom;Alemania;;23;19/01/2002;holstein_kiel
+Pivote;Kasper Davidsen;Dinamarca;;15;25/01/2005;holstein_kiel
+Pivote;Jonas Meffert;Alemania;;28;04/09/1994;holstein_kiel
+Mediocentro;Umut Tohumcu;Alemania;Turquía;8;11/08/2004;holstein_kiel
+Mediocentro;Stefan Schwab;Austria;;22;27/09/1990;holstein_kiel
+Mediocentro;Hamza Muqaj;Kosovo;Alemania;48;03/10/2005;holstein_kiel
+Interior derecho;Niklas Niehoff;Alemania;;29;20/08/2004;holstein_kiel
+Mediocentro ofensivo;Jonas Therkelsen;Noruega;;10;05/05/2003;holstein_kiel
+Extremo izquierdo;Andu Kelati;Alemania;Eritrea;16;13/08/2002;holstein_kiel
+Extremo derecho;Alexander Bernhardsson;Suecia;;11;08/09/1998;holstein_kiel
+Extremo derecho;Adrián Kaprálik;Eslovaquia;;20;10/06/2002;holstein_kiel
+Delantero centro;Phil Harres;Alemania;;19;25/03/2002;holstein_kiel
+Delantero centro;Steven Skrzybski;Alemania;;7;18/11/1992;holstein_kiel
+Delantero centro;Marcus Müller;Alemania;;25;20/08/2002;holstein_kiel
+Delantero centro;Aldin Jakupovic;Eslovenia;;18;04/06/2006;holstein_kiel
+Portero;Jonas Wendlinger;Austria;;1;17/07/2000;almere_city_fc
+Portero;Tristan Kuijsten;Países Bajos;;12;16/01/2005;almere_city_fc
+Portero;Joël van der Wilt;Países Bajos;;30;27/02/2004;almere_city_fc
+Defensa central;Emmanuel van de Blaak;Países Bajos;Nigeria;22;15/02/2005;almere_city_fc
+Defensa central;Joey Jacobs;Países Bajos;;3;10/04/2000;almere_city_fc
+Defensa central;James Lawrence;Gales;Inglaterra;4;22/08/1992;almere_city_fc
+Defensa central;Misha Engel;Países Bajos;;15;01/10/2002;almere_city_fc
+Defensa central;Jaden Pinas;Países Bajos;;27;28/12/2003;almere_city_fc
+Lateral izquierdo;Niko Takahashi;Japón;España;16;17/08/2005;almere_city_fc
+Lateral izquierdo;Teun Bijleveld;Países Bajos;;5;27/05/1998;almere_city_fc
+Lateral izquierdo;Twan van der Zeeuw;Países Bajos;;26;21/09/2002;almere_city_fc
+Lateral derecho;Boyd Reith;Países Bajos;;2;05/05/1999;almere_city_fc
+Lateral derecho;Amoah Sam;Países Bajos;;25;29/09/2002;almere_city_fc
+Lateral derecho;Tiziano Vianello;Países Bajos;Italia;32;29/01/2005;almere_city_fc
+Pivote;Job Kalisvaart;Países Bajos;;20;10/06/2004;almere_city_fc
+Pivote;Enzo Cornelisse;Países Bajos;;6;29/06/2002;almere_city_fc
+Pivote;Guus Beaumont;Países Bajos;;24;10/05/2002;almere_city_fc
+Mediocentro;Milan de Haan;Países Bajos;;8;20/11/2003;almere_city_fc
+Mediocentro;Jamie Jacobs;Países Bajos;;23;03/12/1997;almere_city_fc
+Mediocentro;Hamza el Dahri;Países Bajos;Marruecos;21;05/03/2005;almere_city_fc
+Mediocentro ofensivo;Olivier de Nijs;Países Bajos;;19;09/11/2004;almere_city_fc
+Extremo izquierdo;Ruben Providence;Haití;Francia;28;07/07/2001;almere_city_fc
+Extremo derecho;Byron Burgering;Países Bajos;;7;28/11/2000;almere_city_fc
+Extremo derecho;Emmanuel Poku;Países Bajos;;17;19/07/2005;almere_city_fc
+Delantero centro;Julian Rijkhoff;Países Bajos;;10;25/01/2005;almere_city_fc
+Delantero centro;Ferdy Druijf;Países Bajos;;9;12/02/1998;almere_city_fc
+Delantero centro;Bas Huisman;Países Bajos;;29;09/05/2005;almere_city_fc
+Portero;Mark Spenkelink;Países Bajos;;16;27/01/1997;rkc_waalwijk
+Portero;Tom Bramel;Países Bajos;;26;24/07/2005;rkc_waalwijk
+Portero;Yanick van Osch;Países Bajos;;1;24/03/1997;rkc_waalwijk
+Portero;Luuk Vogels;Países Bajos;;31;06/07/2003;rkc_waalwijk
+Portero;Xander Mulder;Países Bajos;;13;25/01/2005;rkc_waalwijk
+Defensa central;Liam van Gelderen;Surinam;Países Bajos;4;23/03/2001;rkc_waalwijk
+Defensa central;Roshon van Eijma;Curazao;Países Bajos;3;09/06/1998;rkc_waalwijk
+Defensa central;Luuk Wouters;Países Bajos;;15;08/06/1999;rkc_waalwijk
+Defensa central;Loek Postma;Países Bajos;;35;05/03/2003;rkc_waalwijk
+Lateral izquierdo;Juan Familia-Castillo;República Dominicana;Países Bajos;5;13/01/2000;rkc_waalwijk
+Lateral izquierdo;Nazjir Held;Curazao;;55;02/09/2005;rkc_waalwijk
+Lateral derecho;Faissal Al Mazyani;Marruecos;Bélgica;33;18/01/2005;rkc_waalwijk
+Lateral derecho;Navajo Bakboord;Surinam;Países Bajos;19;29/01/1999;rkc_waalwijk
+Lateral derecho;Bjarn Zorgdrager;Países Bajos;;2;13/04/2004;rkc_waalwijk
+Pivote;Daniël van Kaam;Países Bajos;Brasil;8;23/06/2000;rkc_waalwijk
+Pivote;Godfried Roemeratoe;Curazao;Países Bajos;6;19/08/1999;rkc_waalwijk
+Pivote;Marcel Schaapman;Países Bajos;;21;29/05/2002;rkc_waalwijk
+Mediocentro;Tim van de Loo;Países Bajos;;22;22/02/2003;rkc_waalwijk
+Mediocentro;Harrie Kuster;Países Bajos;;20;11/09/2005;rkc_waalwijk
+Mediocentro ofensivo;Jean-Paul Boëtius;Surinam;Países Bajos;14;22/03/1994;rkc_waalwijk
+Mediocentro ofensivo;Ryan Fage;Francia;Martinica;12;31/10/2003;rkc_waalwijk
+Mediocentro ofensivo;Rein van Hedel;Países Bajos;;18;06/11/2004;rkc_waalwijk
+Mediocentro ofensivo;Richard van der Venne;Países Bajos;;23;16/05/1992;rkc_waalwijk
+Mediocentro ofensivo;Melle Witteveen;Países Bajos;;25;24/06/2003;rkc_waalwijk
+Extremo izquierdo;Yoram van der Veen;Países Bajos;;30;30/06/2005;rkc_waalwijk
+Extremo derecho;Denilho Cleonise;Países Bajos;Surinam;7;08/12/2001;rkc_waalwijk
+Extremo derecho;Roy Kuijpers;Países Bajos;;17;17/01/2000;rkc_waalwijk
+Delantero centro;Jesper Uneken;Países Bajos;;9;09/08/2004;rkc_waalwijk
+Delantero centro;Tim van der Leij;Países Bajos;;11;06/03/2006;rkc_waalwijk
+Delantero centro;Michiel Kramer;Países Bajos;;29;03/12/1988;rkc_waalwijk
+Delantero centro;Quentin van Beekveld;Países Bajos;;28;12/10/2005;rkc_waalwijk
+Portero;Thomas Didillon-Hödl;Francia;;1;28/11/1995;willem_ii_tilburg
+Portero;Wouter van der Steen;Países Bajos;;21;03/06/1990;willem_ii_tilburg
+Portero;Karst de Leeuw;Países Bajos;;31;19/04/2004;willem_ii_tilburg
+Defensa central;Raffael Behounek;Austria;;30;16/04/1997;willem_ii_tilburg
+Defensa central;Justin Hoogma;Países Bajos;;4;11/06/1998;willem_ii_tilburg
+Defensa central;Finn Stam;Países Bajos;;3;13/04/2003;willem_ii_tilburg
+Defensa central;Jens Mathijsen;Países Bajos;;14;15/08/2007;willem_ii_tilburg
+Lateral izquierdo;Nathan Tjoe-A-On;Indonesia;Países Bajos;24;22/12/2001;willem_ii_tilburg
+Lateral izquierdo;Per van Loon;Países Bajos;;22;31/12/2004;willem_ii_tilburg
+Lateral derecho;Amine Et-Taïbi;Marruecos;Bélgica;15;05/02/2003;willem_ii_tilburg
+Lateral derecho;Alessandro Ciranni;Bélgica;Italia;2;28/06/1996;willem_ii_tilburg
+Lateral derecho;Kayen Scheepens;Países Bajos;;46;18/08/2006;willem_ii_tilburg
+Pivote;Calvin Twigt;Países Bajos;;8;30/01/2003;willem_ii_tilburg
+Pivote;Amine Lachkar;Países Bajos;Marruecos;34;18/04/2003;willem_ii_tilburg
+Pivote;Anass Zarrouk;Países Bajos;Marruecos;18;18/07/2006;willem_ii_tilburg
+Mediocentro;Gijs Besselink;Países Bajos;;6;16/06/2004;willem_ii_tilburg
+Mediocentro ofensivo;Jari Schuurman;Países Bajos;;10;22/02/1997;willem_ii_tilburg
+Mediocentro ofensivo;Uriël van Aalst;Países Bajos;;19;18/08/2006;willem_ii_tilburg
+Mediocentro ofensivo;Mounir El Allouchi;Países Bajos;Marruecos;20;27/09/1994;willem_ii_tilburg
+Mediocentro ofensivo;Dani Mathieu;Países Bajos;;27;09/02/2001;willem_ii_tilburg
+Extremo izquierdo;Armin Culum;Suecia;Bosnia y Herzegovina;11;05/11/2003;willem_ii_tilburg
+Extremo derecho;Nick Doodeman;Países Bajos;;7;22/10/1996;willem_ii_tilburg
+Extremo derecho;Samuel Bamba;Alemania;RD del Congo;17;13/02/2004;willem_ii_tilburg
+Extremo derecho;Lasse Abildgaard;Dinamarca;;23;27/02/2007;willem_ii_tilburg
+Delantero centro;Devin Haen;Países Bajos;;9;18/06/2004;willem_ii_tilburg
+Delantero centro;Thomas Verheydt;Países Bajos;;28;24/01/1992;willem_ii_tilburg
+Delantero centro;Siegert Baartmans;Países Bajos;;47;06/04/2006;willem_ii_tilburg
+Portero;Jakob Tånnander;Suecia;;30;10/08/2000;sc_farense
+Portero;Brian Araújo;Portugal;Francia;99;29/04/2000;sc_farense
+Portero;Miguel Carvalho;Portugal;;22;20/06/1996;sc_farense
+Defensa central;Alysson;Brasil;;4;26/09/2002;sc_farense
+Defensa central;Rafael Pontelo;Brasil;;46;22/01/2003;sc_farense
+Defensa central;Matheus Rodrigues;Brasil;;40;22/05/2004;sc_farense
+Defensa central;Rúben Fernandes;Portugal;;26;06/05/1986;sc_farense
+Lateral izquierdo;Toni Herrero;España;;34;12/05/2001;sc_farense
+Lateral izquierdo;Derick Poloni;Brasil;Portugal;6;01/09/1993;sc_farense
+Lateral izquierdo;Duarte Furtado;Portugal;;35;20/03/2005;sc_farense
+Lateral derecho;Lucas D'Agrella;Portugal;;3;26/03/2005;sc_farense
+Lateral derecho;Alex Pinto;Portugal;;78;08/07/1998;sc_farense
+Lateral derecho;Fran Delgado;España;;2;11/07/2001;sc_farense
+Lateral derecho;Rivaldo;Cabo Verde;Portugal;70;18/09/2000;sc_farense
+Lateral derecho;Dário Miranda;Portugal;;43;13/01/2003;sc_farense
+Pivote;Claudio Falcão;Brasil;Portugal;29;03/07/1994;sc_farense
+Mediocentro;Miguel Menino;Portugal;;8;10/01/2003;sc_farense
+Mediocentro;Yannick Semedo;Cabo Verde;Portugal;20;29/12/1995;sc_farense
+Mediocentro;Assane Ndiaye;España;Senegal;80;10/10/1999;sc_farense
+Mediocentro ofensivo;Rafinha;Portugal;;88;18/01/2006;sc_farense
+Mediocentro ofensivo;Gal Kranjcic;Eslovenia;;-;12/02/2006;sc_farense
+Extremo izquierdo;Nikola Gjorgjev;Macedonia del Norte;Suiza;23;22/08/1997;sc_farense
+Extremo izquierdo;Marco Matias;Portugal;;77;10/05/1989;sc_farense
+Extremo derecho;André Candeias;Portugal;;17;20/01/2003;sc_farense
+Extremo derecho;Bruno Almeida;Portugal;;10;09/09/1996;sc_farense
+Extremo derecho;Jaiminho;Portugal;Guinea-Bissau;21;28/09/1997;sc_farense
+Extremo derecho;Fernando Macedo;Brasil;;-;06/07/2004;sc_farense
+Delantero centro;Rui Costa;Portugal;;7;20/02/1996;sc_farense
+Delantero centro;Darío Poveda;España;;14;13/03/1997;sc_farense
+Delantero centro;Balla Sangaré;Costa de Marfil;;90;09/02/2000;sc_farense
+Delantero centro;Anthony Carter;Australia;Italia;9;31/08/1994;sc_farense
+Delantero centro;Diego Dorregaray;Argentina;;25;09/05/1992;sc_farense
+Delantero centro;Leonardo Oliveira;Suecia;Portugal;19;08/02/2005;sc_farense

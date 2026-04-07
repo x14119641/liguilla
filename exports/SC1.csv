@@ -1,0 +1,325 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Viljami Sinisalo;Finlandia;;12;11/10/2001;celtic_glasgow
+Portero;Kasper Schmeichel;Dinamarca;;1;05/11/1986;celtic_glasgow
+Portero;Ross Doohan;Escocia;;31;29/03/1998;celtic_glasgow
+Defensa central;Cameron Carter-Vickers;Estados Unidos;Inglaterra;20;31/12/1997;celtic_glasgow
+Defensa central;Auston Trusty;Estados Unidos;;6;12/08/1998;celtic_glasgow
+Defensa central;Liam Scales;Irlanda;;5;08/08/1998;celtic_glasgow
+Defensa central;Dane Murray;Escocia;;47;26/06/2003;celtic_glasgow
+Defensa central;Benjamin Arthur;Inglaterra;;43;09/10/2005;celtic_glasgow
+Lateral izquierdo;Kieran Tierney;Escocia;Isla de Man;63;05/06/1997;celtic_glasgow
+Lateral izquierdo;Marcelo Saracchi;Uruguay;;36;23/04/1998;celtic_glasgow
+Lateral izquierdo;Adam Montgomery;Escocia;;37;18/07/2002;celtic_glasgow
+Lateral derecho;Julián Araujo;México;Estados Unidos;22;13/08/2001;celtic_glasgow
+Lateral derecho;Alistair Johnston;Canadá;Irlanda del Norte;2;08/10/1998;celtic_glasgow
+Lateral derecho;Anthony Ralston;Escocia;;56;16/11/1998;celtic_glasgow
+Lateral derecho;Colby Donovan;Escocia;;51;07/09/2006;celtic_glasgow
+Pivote;Callum McGregor;Escocia;;42;14/06/1993;celtic_glasgow
+Mediocentro;Arne Engels;Bélgica;;27;08/09/2003;celtic_glasgow
+Mediocentro;Reo Hatate;Japón;;41;21/11/1997;celtic_glasgow
+Mediocentro;Paulo Bernardo;Portugal;;28;24/01/2002;celtic_glasgow
+Mediocentro;Luke McCowan;Escocia;;14;09/12/1997;celtic_glasgow
+Mediocentro;Alex Oxlade-Chamberlain;Inglaterra;;21;15/08/1993;celtic_glasgow
+Interior derecho;Joel Mvuka;Noruega;;32;12/11/2002;celtic_glasgow
+Extremo izquierdo;Daizen Maeda;Japón;;38;20/10/1997;celtic_glasgow
+Extremo izquierdo;Sebastian Tounekti;Túnez;Noruega;23;13/07/2002;celtic_glasgow
+Extremo izquierdo;Jota;Portugal;;7;30/03/1999;celtic_glasgow
+Extremo izquierdo;Michel-Ange Balikwisha;RD del Congo;Bélgica;10;10/05/2001;celtic_glasgow
+Extremo derecho;Benjamin Nygren;Suecia;;8;08/07/2001;celtic_glasgow
+Extremo derecho;Hyun-jun Yang;Corea del Sur;;13;25/05/2002;celtic_glasgow
+Extremo derecho;James Forrest;Escocia;;49;07/07/1991;celtic_glasgow
+Delantero centro;Junior Adamu;Austria;;9;06/06/2001;celtic_glasgow
+Delantero centro;Kelechi Iheanacho;Nigeria;;17;03/10/1996;celtic_glasgow
+Delantero centro;Tomas Cvancara;República Checa;;11;13/08/2000;celtic_glasgow
+Delantero centro;Callum Osmand;Inglaterra;Jersey;19;08/11/2005;celtic_glasgow
+Portero;Jack Butland;Inglaterra;;1;10/03/1993;glasgow_rangers
+Portero;Liam Kelly;Escocia;;31;23/01/1996;glasgow_rangers
+Portero;Kieran Wright;Escocia;;32;01/04/1999;glasgow_rangers
+Defensa central;Emmanuel Fernandez;Nigeria;Inglaterra;37;20/11/2001;glasgow_rangers
+Defensa central;Nasser Djiga;Burkina Faso;Serbia;24;15/11/2002;glasgow_rangers
+Defensa central;John Souttar;Escocia;Australia;5;25/09/1996;glasgow_rangers
+Defensa central;Derek Cornelius;Canadá;Jamaica;13;25/11/1997;glasgow_rangers
+Lateral izquierdo;Tuur Rommens;Bélgica;;25;26/03/2003;glasgow_rangers
+Lateral izquierdo;Jayden Meghoma;Inglaterra;Nigeria;30;28/06/2006;glasgow_rangers
+Lateral derecho;Max Aarons;Inglaterra;Jamaica;3;04/01/2000;glasgow_rangers
+Lateral derecho;Dujon Sterling;Inglaterra;Jamaica;21;24/10/1999;glasgow_rangers
+Lateral derecho;James Tavernier;Inglaterra;;2;31/10/1991;glasgow_rangers
+Pivote;Nicolas Raskin;Bélgica;;43;23/02/2001;glasgow_rangers
+Pivote;Tochi Chukwuani;Dinamarca;Nigeria;42;24/03/2003;glasgow_rangers
+Pivote;Connor Barron;Escocia;;8;29/08/2002;glasgow_rangers
+Pivote;Bailey Rice;Escocia;;49;04/10/2006;glasgow_rangers
+Mediocentro;Mohamed Diomandé;Costa de Marfil;Ghana;10;30/10/2001;glasgow_rangers
+Mediocentro ofensivo;Thelo Aasgaard;Noruega;Inglaterra;11;02/05/2002;glasgow_rangers
+Mediocentro ofensivo;Nedim Bajrami;Albania;Suiza;14;28/02/1999;glasgow_rangers
+Extremo izquierdo;Mikey Moore;Inglaterra;Gales;47;11/08/2007;glasgow_rangers
+Extremo izquierdo;Djeidi Gassama;Mauritania;Francia;23;10/09/2003;glasgow_rangers
+Extremo derecho;Andreas Skov Olsen;Dinamarca;;7;29/12/1999;glasgow_rangers
+Extremo derecho;Oliver Antman;Finlandia;;18;15/08/2001;glasgow_rangers
+Delantero centro;Youssef Chermiti;Portugal;Túnez;9;24/05/2004;glasgow_rangers
+Delantero centro;Ryan Naderi;Alemania;República Checa;20;10/07/2003;glasgow_rangers
+Delantero centro;Bojan Miovski;Macedonia del Norte;;28;24/06/1999;glasgow_rangers
+Portero;Alexander Schwolow;Alemania;;25;02/06/1992;heart_of_midlothian_fc
+Portero;Craig Gordon;Escocia;;1;31/12/1982;heart_of_midlothian_fc
+Portero;Ryan Fulton;Escocia;Inglaterra;30;23/05/1996;heart_of_midlothian_fc
+Defensa central;Michael Steinwender;Austria;;15;04/05/2000;heart_of_midlothian_fc
+Defensa central;Stuart Findlay;Escocia;;19;14/09/1995;heart_of_midlothian_fc
+Defensa central;Craig Halkett;Escocia;;4;29/05/1995;heart_of_midlothian_fc
+Defensa central;Frankie Kent;Inglaterra;;2;21/11/1995;heart_of_midlothian_fc
+Defensa central;Jamie McCart;Escocia;;5;20/06/1997;heart_of_midlothian_fc
+Lateral izquierdo;Harry Milne;Escocia;;18;29/10/1996;heart_of_midlothian_fc
+Lateral izquierdo;Stephen Kingsley;Escocia;;3;23/07/1994;heart_of_midlothian_fc
+Lateral derecho;Christian Borchgrevink;Noruega;;12;11/05/1999;heart_of_midlothian_fc
+Lateral derecho;Jordi Altena;Países Bajos;;23;04/12/2003;heart_of_midlothian_fc
+Lateral derecho;Oisin McEntee;Irlanda;Estados Unidos;31;05/01/2001;heart_of_midlothian_fc
+Pivote;Beni Baningime;RD del Congo;Inglaterra;6;09/09/1998;heart_of_midlothian_fc
+Pivote;Calem Nieuwenhof;Australia;Países Bajos;8;17/02/2001;heart_of_midlothian_fc
+Mediocentro;Ageu;Brasil;;40;20/02/2002;heart_of_midlothian_fc
+Mediocentro;Cammy Devlin;Australia;;14;07/06/1998;heart_of_midlothian_fc
+Mediocentro;Marc Leonard;Escocia;;49;19/12/2001;heart_of_midlothian_fc
+Mediocentro;Blair Spittal;Escocia;;16;19/12/1995;heart_of_midlothian_fc
+Mediocentro;Tómas Bent Magnússon;Islandia;;22;14/08/2002;heart_of_midlothian_fc
+Mediocentro ofensivo;Finlay Pollock;Escocia;;24;27/06/2004;heart_of_midlothian_fc
+Extremo izquierdo;Alexandros Kyziridis;Grecia;;89;16/09/2000;heart_of_midlothian_fc
+Extremo izquierdo;Rogers Mato;Uganda;;74;10/10/2003;heart_of_midlothian_fc
+Extremo izquierdo;Pierre Landry Kabore;Burkina Faso;;11;05/07/2001;heart_of_midlothian_fc
+Extremo izquierdo;Alan Forrest;Escocia;;17;09/09/1996;heart_of_midlothian_fc
+Extremo derecho;Islam Chesnokov;Kazajistán;;99;21/11/1999;heart_of_midlothian_fc
+Extremo derecho;Sabah Kerjota;Albania;;29;14/08/2001;heart_of_midlothian_fc
+Delantero centro;Cláudio Braga;Portugal;;10;28/10/1999;heart_of_midlothian_fc
+Delantero centro;Lawrence Shankland;Escocia;;9;10/08/1995;heart_of_midlothian_fc
+Delantero centro;Elton Kabangu;Bélgica;RD del Congo;7;08/02/1998;heart_of_midlothian_fc
+Portero;Raphael Sallinger;Austria;;1;08/12/1995;hibernian_fc
+Portero;Jordan Smith;Inglaterra;;13;08/12/1994;hibernian_fc
+Defensa central;Munashe Garananga;Zimbabue;;42;18/01/2001;hibernian_fc
+Defensa central;Rocky Bushiri;RD del Congo;Bélgica;33;30/11/1999;hibernian_fc
+Defensa central;Warren O'Hora;Irlanda;;5;19/04/1999;hibernian_fc
+Defensa central;Grant Hanley;Escocia;;4;20/11/1991;hibernian_fc
+Defensa central;Jack Iredale;Australia;Escocia;15;02/05/1996;hibernian_fc
+Lateral izquierdo;Jordan Obita;Uganda;Inglaterra;21;08/12/1993;hibernian_fc
+Lateral derecho;Felix Passlack;Alemania;;25;29/05/1998;hibernian_fc
+Lateral derecho;Chris Cadden;Escocia;;12;19/09/1996;hibernian_fc
+Lateral derecho;Kanayo Megwa;Inglaterra;Nigeria;27;05/03/2004;hibernian_fc
+Pivote;Dan Barlaser;Inglaterra;Turquía;22;18/01/1997;hibernian_fc
+Pivote;Miguel Chaiwa;Zambia;;14;07/06/2004;hibernian_fc
+Mediocentro;Josh Mulligan;Escocia;;20;12/11/2002;hibernian_fc
+Mediocentro;Alasana Manneh;Gambia;;8;08/04/1998;hibernian_fc
+Mediocentro;Kai Andrews;Gales;Inglaterra;28;06/08/2006;hibernian_fc
+Mediocentro;Joe Newell;Inglaterra;;11;15/03/1993;hibernian_fc
+Interior izquierdo;Nicky Cadden;Escocia;;19;19/09/1996;hibernian_fc
+Mediocentro ofensivo;Jamie McGrath;Irlanda;;17;30/09/1996;hibernian_fc
+Mediocentro ofensivo;Josh Campbell;Escocia;;32;06/05/2000;hibernian_fc
+Mediocentro ofensivo;Rudi Molotnikov;Escocia;;35;23/05/2006;hibernian_fc
+Delantero centro;Dane Scarlett;Inglaterra;Jamaica;44;24/03/2004;hibernian_fc
+Delantero centro;Élie Youan;Francia;Costa de Marfil;7;07/04/1999;hibernian_fc
+Delantero centro;Ante Suto;Australia;Croacia;77;19/06/2000;hibernian_fc
+Delantero centro;Martin Boyle;Australia;Escocia;10;25/04/1993;hibernian_fc
+Delantero centro;Owen Elding;Irlanda;Inglaterra;47;07/03/2006;hibernian_fc
+Portero;Dimitar Mitov;Bulgaria;;1;22/01/1997;aberdeen_fc
+Portero;Per Kristian Bråtveit;Noruega;;99;15/02/1996;aberdeen_fc
+Portero;Nick Suman;Australia;Inglaterra;13;28/02/2000;aberdeen_fc
+Defensa central;Jack Milne;Escocia;;22;10/02/2003;aberdeen_fc
+Defensa central;Liam Morrison;Escocia;;23;07/04/2003;aberdeen_fc
+Defensa central;Kristers Tobers;Letonia;;24;13/12/2000;aberdeen_fc
+Defensa central;Mats Knoester;Países Bajos;;5;19/11/1998;aberdeen_fc
+Defensa central;Gavin Molloy;Irlanda;;21;19/10/2001;aberdeen_fc
+Defensa central;Tom McIntyre;Escocia;Inglaterra;26;06/11/1998;aberdeen_fc
+Defensa central;Elvis Bwomono;Uganda;Inglaterra;42;29/11/1998;aberdeen_fc
+Lateral izquierdo;Emmanuel Gyamfi;Alemania;Ghana;77;23/07/2004;aberdeen_fc
+Lateral izquierdo;Mitchel Frame;Escocia;;3;25/01/2006;aberdeen_fc
+Lateral derecho;Alexander Jensen;Dinamarca;;28;24/08/2001;aberdeen_fc
+Lateral derecho;Nicky Devlin;Escocia;;2;17/10/1993;aberdeen_fc
+Lateral derecho;Dylan Lobban;Escocia;;38;26/08/2005;aberdeen_fc
+Pivote;Afeez Aremu;Nigeria;;32;03/10/1999;aberdeen_fc
+Pivote;Ante Palaversa;Croacia;;18;06/04/2000;aberdeen_fc
+Pivote;Graeme Shinnie;Escocia;;4;04/08/1991;aberdeen_fc
+Pivote;Kjartan Már Kjartansson;Islandia;;29;14/07/2006;aberdeen_fc
+Mediocentro;Dennis Geiger;Alemania;;8;10/06/1998;aberdeen_fc
+Mediocentro;Lyall Cameron;Escocia;;25;10/10/2002;aberdeen_fc
+Mediocentro;Stuart Armstrong;Escocia;;16;30/03/1992;aberdeen_fc
+Extremo izquierdo;Topi Keskinen;Finlandia;;81;07/03/2003;aberdeen_fc
+Extremo izquierdo;Kenan Bilalovic;Suecia;Bosnia y Herzegovina;14;22/06/2005;aberdeen_fc
+Extremo derecho;Nicolas Milanovic;Australia;Croacia;11;14/11/2001;aberdeen_fc
+Delantero centro;Kevin Nisbet;Escocia;;15;08/03/1997;aberdeen_fc
+Delantero centro;Marko Lazetić;Serbia;;27;22/01/2004;aberdeen_fc
+Delantero centro;Toyosi Olusanya;Inglaterra;Nigeria;20;14/10/1997;aberdeen_fc
+Portero;Calum Ward;Inglaterra;Irlanda;61;17/10/2000;motherwell_fc
+Portero;Matty Connelly;Escocia;;31;02/03/2003;motherwell_fc
+Defensa central;Stephen Welsh;Escocia;;57;19/01/2000;motherwell_fc
+Defensa central;Liam Gordon;Escocia;;4;26/01/1996;motherwell_fc
+Defensa central;Jordan McGhee;Escocia;;6;24/07/1996;motherwell_fc
+Lateral izquierdo;Emmanuel Longelo;Inglaterra;RD del Congo;45;27/12/2000;motherwell_fc
+Lateral derecho;John Koutroumbis;Australia;Grecia;22;06/03/1998;motherwell_fc
+Lateral derecho;Paul McGinn;Escocia;;16;22/10/1990;motherwell_fc
+Lateral derecho;Stephen O'Donnell;Escocia;Irlanda;2;11/05/1992;motherwell_fc
+Pivote;Elliot Watt;Escocia;Inglaterra;20;11/03/2000;motherwell_fc
+Pivote;Andy Halliday;Escocia;;11;11/10/1991;motherwell_fc
+Mediocentro;Callum Slattery;Inglaterra;;8;08/02/1999;motherwell_fc
+Mediocentro;Lukas Fadinger;Austria;;12;27/09/2000;motherwell_fc
+Mediocentro;Oscar Priestman;Australia;Inglaterra;18;25/03/2003;motherwell_fc
+Mediocentro;Tom Sparrow;Gales;Inglaterra;7;06/12/2002;motherwell_fc
+Interior izquierdo;Sam Nicholson;Escocia;;19;20/01/1995;motherwell_fc
+Extremo izquierdo;Regan Charles-Cook;Granada;Inglaterra;77;14/02/1997;motherwell_fc
+Extremo derecho;Elijah Just;Nueva Zelanda;;21;01/05/2000;motherwell_fc
+Extremo derecho;Ibrahim Said;Nigeria;;90;15/06/2002;motherwell_fc
+Delantero centro;Tawanda Maswanhise;Zimbabue;Inglaterra;55;20/11/2002;motherwell_fc
+Delantero centro;Eythor Bjørgolfsson;Noruega;Islandia;15;25/08/2000;motherwell_fc
+Delantero centro;Zach Robinson;Inglaterra;;9;11/06/2002;motherwell_fc
+Delantero centro;Callum Hendry;Escocia;;66;08/12/1997;motherwell_fc
+Delantero centro;Luca Ross;Escocia;;28;11/08/2006;motherwell_fc
+Portero;Ashley Maynard-Brewer;Australia;Inglaterra;1;25/06/1999;dundee_united_fc
+Portero;Dave Richards;Gales;;25;31/12/1993;dundee_united_fc
+Defensa central;Ross Graham;Escocia;;6;20/02/2001;dundee_united_fc
+Defensa central;Bert Esselink;Países Bajos;;3;16/08/1999;dundee_united_fc
+Defensa central;Krisztián Keresztes;Hungría;;23;04/01/2000;dundee_united_fc
+Defensa central;Iurie Iovu;Moldavia;Rumania;4;06/07/2002;dundee_united_fc
+Lateral derecho;Ryan Strain;Australia;Inglaterra;2;02/04/1997;dundee_united_fc
+Lateral derecho;Dario Naamo;Finlandia;Irak;22;14/05/2005;dundee_united_fc
+Pivote;Luca Stephenson;Inglaterra;;21;17/09/2003;dundee_united_fc
+Pivote;Vicko Sevelj;Croacia;;5;19/09/2000;dundee_united_fc
+Pivote;Craig Sibbald;Escocia;;14;18/05/1995;dundee_united_fc
+Mediocentro;Julius Eskesen;Dinamarca;;10;16/03/1999;dundee_united_fc
+Mediocentro;Panutche Camara;Guinea-Bissau;Portugal;8;28/02/1997;dundee_united_fc
+Mediocentro;Emmanuel Agyei;Ghana;;12;03/11/2004;dundee_united_fc
+Mediocentro;Isaac Pappoe;Ghana;;70;20/12/2003;dundee_united_fc
+Mediocentro;Lewis O'Donnell;Escocia;;30;21/06/2005;dundee_united_fc
+Interior izquierdo;Will Ferry;Irlanda;Inglaterra;11;07/12/2000;dundee_united_fc
+Interior izquierdo;Neil Farrugia;Irlanda;Francia;20;19/05/1999;dundee_united_fc
+Extremo izquierdo;Ivan Dolcek;Croacia;;19;24/04/2000;dundee_united_fc
+Extremo izquierdo;Kristijan Trapanovski;Macedonia del Norte;;7;14/08/1999;dundee_united_fc
+Extremo izquierdo;Amar Fatah;Suecia;Somalia;17;19/02/2004;dundee_united_fc
+Extremo derecho;Johnny Russell;Escocia;;77;08/04/1990;dundee_united_fc
+Delantero centro;Zachary Sapsford;Australia;Inglaterra;9;16/08/2002;dundee_united_fc
+Delantero centro;Max Watters;Inglaterra;;36;23/03/1999;dundee_united_fc
+Portero;Maksymilian Stryjek;Polonia;Inglaterra;1;18/07/1996;kilmarnock_fc
+Portero;Kelle Roos;Países Bajos;;13;31/05/1992;kilmarnock_fc
+Defensa central;Lewis Mayo;Escocia;;5;19/03/2000;kilmarnock_fc
+Defensa central;Robbie Deas;Escocia;;6;27/02/2000;kilmarnock_fc
+Defensa central;Zac Williams;Gales;;4;27/03/2004;kilmarnock_fc
+Defensa central;George Stanger;Nueva Zelanda;Escocia;14;15/08/2000;kilmarnock_fc
+Defensa central;Ethan Schilte-Brown;Canadá;Estados Unidos;25;01/06/2005;kilmarnock_fc
+Lateral izquierdo;Dominic Thompson;Inglaterra;Jamaica;3;26/07/2000;kilmarnock_fc
+Lateral izquierdo;Michael Schjönning-Larsen;Estonia;Dinamarca;21;02/02/2001;kilmarnock_fc
+Lateral derecho;Jamie Brandon;Escocia;;2;05/02/1998;kilmarnock_fc
+Mediocentro;David Watson;Escocia;;12;12/02/2005;kilmarnock_fc
+Mediocentro;Brad Lyons;Irlanda del Norte;;8;26/05/1997;kilmarnock_fc
+Mediocentro;Kyle Magennis;Escocia;;16;26/08/1998;kilmarnock_fc
+Mediocentro;Jack Thomson;Escocia;;22;20/01/2000;kilmarnock_fc
+Mediocentro;Aaron Tshibola;RD del Congo;Inglaterra;36;02/01/1995;kilmarnock_fc
+Mediocentro;Tom Lowery;Inglaterra;Gales;18;31/12/1997;kilmarnock_fc
+Mediocentro;Liam Polworth;Escocia;;31;12/10/1994;kilmarnock_fc
+Extremo izquierdo;Findlay Curtis;Escocia;;52;01/10/2006;kilmarnock_fc
+Extremo izquierdo;Greg Kiltie;Escocia;;11;18/01/1997;kilmarnock_fc
+Extremo izquierdo;Scott Tiffoney;Escocia;;17;26/08/1998;kilmarnock_fc
+Extremo izquierdo;Nicky Clescenco;Moldavia;Irlanda;20;23/07/2001;kilmarnock_fc
+Extremo izquierdo;Matty Kennedy;Irlanda del Norte;Escocia;10;01/11/1994;kilmarnock_fc
+Extremo derecho;Rory McKenzie;Escocia;;7;07/10/1993;kilmarnock_fc
+Delantero centro;Tyreece John-Jules;Inglaterra;Dominica;24;14/02/2001;kilmarnock_fc
+Delantero centro;Bruce Anderson;Escocia;;19;23/09/1998;kilmarnock_fc
+Delantero centro;Joe Hugill;Inglaterra;;44;19/10/2003;kilmarnock_fc
+Delantero centro;Djenairo Daniels;Surinam;Países Bajos;29;07/01/2002;kilmarnock_fc
+Delantero centro;Marley Watkins;Gales;Inglaterra;23;17/10/1990;kilmarnock_fc
+Portero;Shamal George;Inglaterra;;1;06/01/1998;st_mirren_fc
+Portero;Peter Urminsky;Eslovaquia;;12;24/05/1999;st_mirren_fc
+Portero;Ryan Mullen;Escocia;;31;18/05/2001;st_mirren_fc
+Defensa central;Richard King;Jamaica;;5;27/11/2001;st_mirren_fc
+Defensa central;Alex Gogic;Chipre;Serbia;13;13/04/1994;st_mirren_fc
+Defensa central;Miguel Freckleton;Inglaterra;Jamaica;21;06/08/2003;st_mirren_fc
+Lateral izquierdo;Scott Tanser;Inglaterra;;3;23/10/1994;st_mirren_fc
+Lateral izquierdo;Declan John;Gales;;24;30/06/1995;st_mirren_fc
+Lateral derecho;Jayden Richardson;Inglaterra;Jamaica;2;04/09/2000;st_mirren_fc
+Lateral derecho;Marcus Fraser;Escocia;;22;23/06/1994;st_mirren_fc
+Pivote;Keanu Baccus;Australia;Sudáfrica;25;07/06/1998;st_mirren_fc
+Pivote;Mark O'Hara;Escocia;;6;12/12/1995;st_mirren_fc
+Pivote;Liam Donnelly;Irlanda del Norte;;44;07/03/1996;st_mirren_fc
+Pivote;Jacob Devaney;Irlanda;Inglaterra;8;11/06/2007;st_mirren_fc
+Mediocentro;Killian Phillips;Irlanda;Estados Unidos;88;30/03/2002;st_mirren_fc
+Mediocentro;Allan Campbell;Escocia;;16;04/07/1998;st_mirren_fc
+Mediocentro;Roland Idowu;Irlanda;Nigeria;7;21/01/2002;st_mirren_fc
+Extremo izquierdo;Conor McMenamin;Irlanda del Norte;;10;24/08/1995;st_mirren_fc
+Extremo izquierdo;Jalmaro Calvin;Antigua y Barbuda;Jamaica;17;30/06/2003;st_mirren_fc
+Extremo izquierdo;Malik Dijksteel;Países Bajos;Surinam;18;08/07/2001;st_mirren_fc
+Delantero centro;Kion Etete;Inglaterra;Nigeria;29;28/11/2001;st_mirren_fc
+Delantero centro;Jonah Ayunga;Kenia;Inglaterra;11;24/05/1997;st_mirren_fc
+Delantero centro;Dan Nlundulu;Inglaterra;RD del Congo;14;05/02/1999;st_mirren_fc
+Delantero centro;Jake Young;Inglaterra;;20;22/07/2001;st_mirren_fc
+Delantero centro;Mikael Mandron;Francia;Escocia;9;11/10/1994;st_mirren_fc
+Portero;Jon McCracken;Escocia;;1;24/05/2000;dundee_fc
+Portero;Kieran O'Hara;Irlanda;Inglaterra;13;22/04/1996;dundee_fc
+Defensa central;Luke Graham;Escocia;;22;11/02/2004;dundee_fc
+Defensa central;Ryan Astley;Gales;;4;04/10/2001;dundee_fc
+Defensa central;Billy Koumetio;Francia;Camerún;5;14/11/2002;dundee_fc
+Defensa central;Aaron Donnelly;Irlanda del Norte;Irlanda;6;08/06/2003;dundee_fc
+Defensa central;Lewis Montsma;Países Bajos;Suecia;14;25/04/1998;dundee_fc
+Defensa central;Clark Robertson;Escocia;;3;05/09/1993;dundee_fc
+Lateral izquierdo;Imari Samuels;Inglaterra;Nigeria;12;05/02/2003;dundee_fc
+Lateral derecho;Brad Halliday;Inglaterra;;16;10/07/1995;dundee_fc
+Pivote;Paul Digby;Inglaterra;;8;02/02/1995;dundee_fc
+Mediocentro;Ethan Hamilton;Escocia;;48;18/10/1998;dundee_fc
+Mediocentro;Finlay Robertson;Escocia;;10;12/11/2002;dundee_fc
+Mediocentro;Callum Jones;Gales;Inglaterra;28;05/04/2001;dundee_fc
+Mediocentro;Joel Cotterill;Gales;;24;10/10/2004;dundee_fc
+Interior derecho;Drey Wright;Inglaterra;;7;30/04/1995;dundee_fc
+Interior izquierdo;Charlie Reilly;Escocia;;18;05/12/2001;dundee_fc
+Mediocentro ofensivo;Yan Dhanda;Inglaterra;India;21;14/12/1998;dundee_fc
+Extremo izquierdo;Tony Yogane;Inglaterra;;17;24/09/2005;dundee_fc
+Extremo derecho;Scott Wright;Escocia;;25;08/08/1997;dundee_fc
+Extremo derecho;Cameron Congreve;Gales;;20;24/01/2004;dundee_fc
+Delantero centro;Joe Westley;Inglaterra;;19;18/10/2004;dundee_fc
+Delantero centro;Ashley Hay;Inglaterra;;11;10/07/2003;dundee_fc
+Delantero centro;Simon Murray;Escocia;;15;15/03/1992;dundee_fc
+Delantero centro;Joe Bevan;Escocia;;27;15/07/2004;dundee_fc
+Delantero centro;Francisco Valenzuela;México;;38;13/04/2007;dundee_fc
+Portero;Nicky Hogarth;Escocia;;1;04/07/2001;falkirk_fc
+Portero;Jamie Sneddon;Escocia;;12;06/09/1997;falkirk_fc
+Portero;Scott Bain;Escocia;;19;22/11/1991;falkirk_fc
+Defensa central;Lewis Neilson;Escocia;;15;15/05/2003;falkirk_fc
+Defensa central;Connor Allan;Escocia;;20;10/01/2004;falkirk_fc
+Defensa central;Liam Henderson;Escocia;;5;23/08/1996;falkirk_fc
+Defensa central;Coll Donaldson;Escocia;;6;09/04/1995;falkirk_fc
+Lateral izquierdo;Leon McCann;Escocia;;3;16/03/2000;falkirk_fc
+Lateral izquierdo;Sam Hart;Inglaterra;;42;10/09/1996;falkirk_fc
+Lateral derecho;Keelan Adams;Escocia;;2;13/11/2001;falkirk_fc
+Lateral derecho;Filip Lissah;República Checa;Inglaterra;28;08/12/2004;falkirk_fc
+Pivote;Brad Spencer;Escocia;Inglaterra;8;16/05/1996;falkirk_fc
+Pivote;Henry Cartwright;Inglaterra;;17;11/12/2004;falkirk_fc
+Mediocentro;Dylan Tait;Escocia;;21;01/12/2001;falkirk_fc
+Interior izquierdo;Calvin Miller;Escocia;;29;09/01/1998;falkirk_fc
+Interior izquierdo;Ethan Ross;Escocia;;23;15/08/2001;falkirk_fc
+Mediocentro ofensivo;Finn Yeats;Escocia;;14;19/04/2004;falkirk_fc
+Mediocentro ofensivo;Gary Oliver;Escocia;;18;14/07/1995;falkirk_fc
+Extremo izquierdo;Ethan Williams;Inglaterra;Jamaica;24;14/11/2005;falkirk_fc
+Extremo izquierdo;Ben Broggio;Inglaterra;;11;29/01/2007;falkirk_fc
+Extremo derecho;Kyrell Wilson;Inglaterra;;22;01/12/2004;falkirk_fc
+Mediapunta;Louie Marsh;Inglaterra;;30;02/07/2004;falkirk_fc
+Delantero centro;Barney Stewart;Escocia;Inglaterra;16;07/04/2004;falkirk_fc
+Delantero centro;Ross MacIver;Escocia;;9;28/02/1999;falkirk_fc
+Delantero centro;Ben Parkinson;Inglaterra;;27;10/03/2005;falkirk_fc
+Delantero centro;Brian Graham;Escocia;;7;23/11/1987;falkirk_fc
+Portero;Jérôme Prior;Francia;;28;08/08/1995;livingston_fc
+Portero;Jack Hamilton;Escocia;;13;22/03/1994;livingston_fc
+Portero;Jamie Smith;Escocia;;32;08/05/2002;livingston_fc
+Defensa central;Danny Wilson;Escocia;;27;27/12/1991;livingston_fc
+Defensa central;Ryan McGowan;Australia;Escocia;5;15/08/1989;livingston_fc
+Defensa central;Brooklyn Kabongolo;Francia;;23;16/10/2002;livingston_fc
+Lateral izquierdo;Babacar Fati;Guinea-Bissau;Portugal;3;01/02/2000;livingston_fc
+Lateral derecho;Danny Finlayson;Irlanda del Norte;Escocia;19;19/01/2001;livingston_fc
+Lateral derecho;Cammy Kerr;Escocia;;2;10/09/1995;livingston_fc
+Pivote;Mohamad Sylla;Francia;Costa de Marfil;24;01/12/1993;livingston_fc
+Mediocentro;Emmanuel Danso;Ghana;;20;10/11/2000;livingston_fc
+Mediocentro;Macaulay Tait;Escocia;;25;27/08/2005;livingston_fc
+Mediocentro;Aidan Denholm;Escocia;;6;09/11/2003;livingston_fc
+Mediocentro;Scott Arfield;Canadá;Escocia;37;01/11/1988;livingston_fc
+Interior derecho;Lewis Smith;Escocia;;15;16/03/2000;livingston_fc
+Interior izquierdo;Cristian Montano;Colombia;Inglaterra;26;11/12/1991;livingston_fc
+Mediocentro ofensivo;Samson Lawal;Nigeria;;40;25/04/2004;livingston_fc
+Mediocentro ofensivo;Scott Pittman;Escocia;Estados Unidos;8;09/07/1992;livingston_fc
+Mediocentro ofensivo;Andrew Shinnie;Escocia;;22;17/07/1989;livingston_fc
+Extremo izquierdo;Jannik Wanner;Alemania;;31;20/12/1999;livingston_fc
+Extremo izquierdo;Barrie McKay;Escocia;;10;30/12/1994;livingston_fc
+Extremo derecho;Joshua Zimmerman;Curazao;Países Bajos;29;23/05/2001;livingston_fc
+Extremo derecho;Connor McLennan;Escocia;;11;05/10/1999;livingston_fc
+Delantero centro;Alex Tamm;Estonia;;21;24/07/2001;livingston_fc
+Delantero centro;Joel Nouble;Inglaterra;Costa de Marfil;7;19/01/1996;livingston_fc
+Delantero centro;Robbie Muirhead;Escocia;;9;08/03/1996;livingston_fc
+Delantero centro;Stevie May;Escocia;;17;03/11/1992;livingston_fc
+Delantero centro;Jeremy Bokila;RD del Congo;Países Bajos;18;14/11/1988;livingston_fc

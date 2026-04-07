@@ -1,0 +1,497 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Matej Kovar;República Checa;;32;17/05/2000;psv_eindhoven
+Portero;Nick Olij;Países Bajos;;1;01/08/1995;psv_eindhoven
+Portero;Niek Schiks;Países Bajos;;24;03/02/2004;psv_eindhoven
+Defensa central;Yarek Gasiorowski;España;Polonia;3;12/01/2005;psv_eindhoven
+Defensa central;Ryan Flamingo;Países Bajos;Surinam;6;31/12/2002;psv_eindhoven
+Defensa central;Armando Obispo;Curazao;Países Bajos;4;05/03/1999;psv_eindhoven
+Lateral izquierdo;Mauro Júnior;Brasil;;17;06/05/1999;psv_eindhoven
+Lateral izquierdo;Anass Salah-Eddine;Marruecos;Países Bajos;2;18/01/2002;psv_eindhoven
+Lateral derecho;Sergiño Dest;Estados Unidos;Países Bajos;8;03/11/2000;psv_eindhoven
+Lateral derecho;Kiliann Sildillia;Francia;Guadalupe;25;16/05/2002;psv_eindhoven
+Pivote;Jerdy Schouten;Países Bajos;;22;12/01/1997;psv_eindhoven
+Mediocentro;Joey Veerman;Países Bajos;;23;19/11/1998;psv_eindhoven
+Mediocentro;Joël van den Berg;Países Bajos;;35;11/02/2007;psv_eindhoven
+Mediocentro ofensivo;Ismael Saibari;Marruecos;Bélgica;34;28/01/2001;psv_eindhoven
+Mediocentro ofensivo;Paul Wanner;Austria;Alemania;10;23/12/2005;psv_eindhoven
+Mediocentro ofensivo;Guus Til;Países Bajos;;20;22/12/1997;psv_eindhoven
+Mediocentro ofensivo;Noah Fernandez;Bélgica;Jamaica;31;09/01/2008;psv_eindhoven
+Extremo izquierdo;Ruben van Bommel;Países Bajos;;7;03/08/2004;psv_eindhoven
+Extremo izquierdo;Couhaib Driouech;Marruecos;Países Bajos;11;17/04/2002;psv_eindhoven
+Extremo izquierdo;Ivan Perišić;Croacia;;5;02/02/1989;psv_eindhoven
+Extremo derecho;Dennis Man;Rumania;;27;26/08/1998;psv_eindhoven
+Extremo derecho;Esmir Bajraktarevic;Bosnia y Herzegovina;Estados Unidos;19;10/03/2005;psv_eindhoven
+Delantero centro;Ricardo Pepi;Estados Unidos;México;9;09/01/2003;psv_eindhoven
+Delantero centro;Myron Boadu;Países Bajos;Ghana;21;14/01/2001;psv_eindhoven
+Delantero centro;Alassane Pléa;Francia;Malí;14;10/03/1993;psv_eindhoven
+Portero;Timon Wellenreuther;Alemania;;22;03/12/1995;feyenoord_rotterdam
+Portero;Steven Benda;Alemania;;13;01/10/1998;feyenoord_rotterdam
+Portero;Liam Bossin;Irlanda;Bélgica;39;15/07/1996;feyenoord_rotterdam
+Portero;Mannou Berger;Países Bajos;;37;15/10/2004;feyenoord_rotterdam
+Defensa central;Anel Ahmedhodzic;Bosnia y Herzegovina;Suecia;21;26/03/1999;feyenoord_rotterdam
+Defensa central;Tsuyoshi Watanabe;Japón;;4;05/02/1997;feyenoord_rotterdam
+Defensa central;Thomas Beelen;Países Bajos;;3;11/06/2001;feyenoord_rotterdam
+Defensa central;Jeremiah St. Juste;Países Bajos;San Cristóbal y Nieves;8;19/10/1996;feyenoord_rotterdam
+Defensa central;Gernot Trauner;Austria;;18;25/03/1992;feyenoord_rotterdam
+Defensa central;Malcolm Jeng;Suecia;;31;09/03/2005;feyenoord_rotterdam
+Lateral izquierdo;Jordan Bos;Australia;Países Bajos;15;29/10/2002;feyenoord_rotterdam
+Lateral izquierdo;Gijs Smal;Países Bajos;;5;31/08/1997;feyenoord_rotterdam
+Lateral derecho;Givairo Read;Países Bajos;Surinam;26;02/06/2006;feyenoord_rotterdam
+Lateral derecho;Jordan Lotomba;Suiza;RD del Congo;30;29/09/1998;feyenoord_rotterdam
+Lateral derecho;Bart Nieuwkoop;Países Bajos;;2;07/03/1996;feyenoord_rotterdam
+Lateral derecho;Mats Deijl;Países Bajos;;20;15/07/1997;feyenoord_rotterdam
+Pivote;Oussama Targhalline;Marruecos;;28;20/05/2002;feyenoord_rotterdam
+Pivote;In-beom Hwang;Corea del Sur;;6;20/09/1996;feyenoord_rotterdam
+Mediocentro;Luciano Valente;Países Bajos;Italia;10;04/10/2003;feyenoord_rotterdam
+Mediocentro;Thijs Kraaijeveld;Países Bajos;;24;03/05/2007;feyenoord_rotterdam
+Mediocentro ofensivo;Sem Steijn;Países Bajos;;14;12/11/2001;feyenoord_rotterdam
+Mediocentro ofensivo;Jakub Moder;Polonia;;7;07/04/1999;feyenoord_rotterdam
+Mediocentro ofensivo;Tobias van den Elshout;Países Bajos;;44;02/02/2007;feyenoord_rotterdam
+Mediocentro ofensivo;Shiloh 't Zand;Surinam;Países Bajos;25;14/05/2003;feyenoord_rotterdam
+Extremo izquierdo;Leo Sauer;Eslovaquia;;16;16/12/2005;feyenoord_rotterdam
+Extremo izquierdo;Aymen Sliti;Países Bajos;Túnez;32;24/03/2006;feyenoord_rotterdam
+Extremo izquierdo;Gaoussou Diarra;Malí;;27;21/11/2002;feyenoord_rotterdam
+Extremo derecho;Anis Hadj Moussa;Argelia;Francia;23;11/02/2002;feyenoord_rotterdam
+Extremo derecho;Raheem Sterling;Inglaterra;Jamaica;19;08/12/1994;feyenoord_rotterdam
+Extremo derecho;Gonçalo Borges;Portugal;;11;29/03/2001;feyenoord_rotterdam
+Delantero centro;Ayase Ueda;Japón;;9;28/08/1998;feyenoord_rotterdam
+Delantero centro;Casper Tengstedt;Dinamarca;;17;01/06/2000;feyenoord_rotterdam
+Delantero centro;Shaqueel van Persie;Países Bajos;Marruecos;49;16/11/2006;feyenoord_rotterdam
+Portero;Vitezslav Jaros;República Checa;;1;23/07/2001;ajax_amsterdam
+Portero;Maarten Paes;Indonesia;Países Bajos;26;14/05/1998;ajax_amsterdam
+Portero;Joeri Heerkens;Países Bajos;República Checa;12;08/05/2006;ajax_amsterdam
+Portero;Paul Reverson;Ghana;Países Bajos;52;20/06/2005;ajax_amsterdam
+Defensa central;Youri Baas;Países Bajos;;15;17/03/2003;ajax_amsterdam
+Defensa central;Josip Sutalo;Croacia;;37;28/02/2000;ajax_amsterdam
+Defensa central;Ko Itakura;Japón;;4;27/01/1997;ajax_amsterdam
+Defensa central;Aaron Bouwman;Países Bajos;Inglaterra;30;28/08/2007;ajax_amsterdam
+Lateral izquierdo;Oleksandr Zinchenko;Ucrania;;47;15/12/1996;ajax_amsterdam
+Lateral izquierdo;Owen Wijndal;Países Bajos;Surinam;5;28/11/1999;ajax_amsterdam
+Lateral derecho;Takehiro Tomiyasu;Japón;;32;05/11/1998;ajax_amsterdam
+Lateral derecho;Anton Gaaei;Dinamarca;;3;19/11/2002;ajax_amsterdam
+Lateral derecho;Lucas Rosa;Brasil;Italia;2;03/04/2000;ajax_amsterdam
+Pivote;Jorthy Mokio;Bélgica;RD del Congo;24;29/02/2008;ajax_amsterdam
+Pivote;Youri Regeer;Países Bajos;;6;18/08/2003;ajax_amsterdam
+Mediocentro;Sean Steur;Países Bajos;;48;11/01/2008;ajax_amsterdam
+Mediocentro;Kian Fitz-Jim;Países Bajos;Surinam;28;05/07/2003;ajax_amsterdam
+Mediocentro;Davy Klaassen;Países Bajos;;18;21/02/1993;ajax_amsterdam
+Mediocentro ofensivo;Oscar Gloukh;Israel;;10;01/04/2004;ajax_amsterdam
+Mediocentro ofensivo;Rayane Bounida;Marruecos;Bélgica;43;03/03/2006;ajax_amsterdam
+Extremo izquierdo;Mika Godts;Bélgica;;11;07/06/2005;ajax_amsterdam
+Extremo izquierdo;Oliver Edvardsen;Noruega;;17;19/03/1999;ajax_amsterdam
+Extremo derecho;Maher Carrizo;Argentina;;7;19/02/2006;ajax_amsterdam
+Extremo derecho;Steven Berghuis;Países Bajos;;23;19/12/1991;ajax_amsterdam
+Delantero centro;Kasper Dolberg;Dinamarca;;9;06/10/1997;ajax_amsterdam
+Delantero centro;Wout Weghorst;Países Bajos;;25;07/08/1992;ajax_amsterdam
+Delantero centro;Don-Angelo Konadu;Países Bajos;Ghana;19;03/05/2006;ajax_amsterdam
+Portero;Rome-Jayden Owusu-Oduro;Países Bajos;Ghana;1;02/07/2004;az_alkmaar
+Portero;Jeroen Zoet;Países Bajos;;41;06/01/1991;az_alkmaar
+Portero;Hobie Verhulst;Países Bajos;;12;02/04/1993;az_alkmaar
+Portero;Daniël Deen;Países Bajos;Brasil;31;13/02/2003;az_alkmaar
+Defensa central;Wouter Goes;Países Bajos;;3;10/06/2004;az_alkmaar
+Defensa central;Alexandre Penetra;Portugal;;5;09/09/2001;az_alkmaar
+Defensa central;Rion Ichihara;Japón;;18;07/07/2005;az_alkmaar
+Defensa central;Maxim Dekker;Países Bajos;;4;21/04/2004;az_alkmaar
+Defensa central;Billy van Duijl;Países Bajos;;23;04/10/2005;az_alkmaar
+Lateral izquierdo;Mees de Wit;Países Bajos;;34;17/04/1998;az_alkmaar
+Lateral izquierdo;Mateo Chávez;México;;15;12/05/2004;az_alkmaar
+Lateral derecho;Denso Kasius;Países Bajos;;30;06/10/2002;az_alkmaar
+Lateral derecho;Seiya Maikuma;Japón;;2;16/10/1997;az_alkmaar
+Lateral derecho;Elijah Dijkstra;Países Bajos;Curazao;22;05/08/2006;az_alkmaar
+Pivote;Peer Koopmeiners;Países Bajos;;6;04/05/2000;az_alkmaar
+Pivote;Kasper Boogaard;Países Bajos;;20;29/01/2006;az_alkmaar
+Pivote;Jordy Clasie;Países Bajos;;8;27/06/1991;az_alkmaar
+Mediocentro;Kees Smit;Países Bajos;;26;20/01/2006;az_alkmaar
+Mediocentro ofensivo;Sven Mijnans;Países Bajos;;10;09/03/2000;az_alkmaar
+Mediocentro ofensivo;Matej Sin;República Checa;;33;02/06/2004;az_alkmaar
+Extremo izquierdo;Isak Jensen;Dinamarca;;17;23/12/2003;az_alkmaar
+Extremo izquierdo;Ro-Zangelo Daal;Países Bajos;Curazao;27;10/02/2004;az_alkmaar
+Extremo izquierdo;Wassim Bouziane;Países Bajos;Marruecos;75;22/12/2006;az_alkmaar
+Extremo derecho;Weslley Patati;Brasil;Portugal;7;01/10/2003;az_alkmaar
+Extremo derecho;Ayoub Oufkir;Países Bajos;Marruecos;24;04/01/2006;az_alkmaar
+Extremo derecho;Ibrahim Sadiq;Ghana;;11;07/05/2000;az_alkmaar
+Delantero centro;Troy Parrott;Irlanda;;9;04/02/2002;az_alkmaar
+Delantero centro;Mexx Meerdink;Países Bajos;;35;24/07/2003;az_alkmaar
+Delantero centro;Jizz Hornkamp;Países Bajos;;19;07/03/1998;az_alkmaar
+Portero;Vasilios Barkas;Grecia;Países Bajos;1;30/05/1994;fc_utrecht
+Portero;Michael Brouwer;Países Bajos;;25;21/01/1993;fc_utrecht
+Portero;Kevin Gadellaa;Países Bajos;;33;08/04/2003;fc_utrecht
+Defensa central;Matisse Didden;Bélgica;;40;08/10/2001;fc_utrecht
+Defensa central;Mike Eerdhuijzen;Países Bajos;;44;13/07/2000;fc_utrecht
+Defensa central;Mike van der Hoorn;Países Bajos;;3;15/10/1992;fc_utrecht
+Defensa central;Nick Viergever;Países Bajos;;24;03/08/1989;fc_utrecht
+Lateral izquierdo;Souffian El Karouani;Marruecos;Países Bajos;16;19/10/2000;fc_utrecht
+Lateral izquierdo;Emeka Adiele;Inglaterra;Nigeria;5;31/07/2007;fc_utrecht
+Lateral derecho;Siebe Horemans;Bélgica;;2;02/06/1998;fc_utrecht
+Lateral derecho;Niklas Vesterlund;Dinamarca;;23;06/06/1999;fc_utrecht
+Pivote;Alonzo Engwanda;Bélgica;RD del Congo;27;27/01/2003;fc_utrecht
+Pivote;Jaygo van Ommeren;Países Bajos;;46;08/05/2008;fc_utrecht
+Pivote;Oualid Agougil;Marruecos;Países Bajos;38;07/08/2005;fc_utrecht
+Mediocentro;Gjivai Zechiël;Países Bajos;Surinam;21;01/06/2004;fc_utrecht
+Mediocentro;Can Bozdogan;Alemania;Turquía;8;05/04/2001;fc_utrecht
+Mediocentro;Zidane Iqbal;Irak;Inglaterra;14;27/04/2003;fc_utrecht
+Mediocentro ofensivo;Victor Jensen;Dinamarca;;7;08/02/2000;fc_utrecht
+Mediocentro ofensivo;Dani de Wit;Países Bajos;;20;28/01/1998;fc_utrecht
+Mediocentro ofensivo;Rafik El Arguioui;Marruecos;Países Bajos;43;31/07/2005;fc_utrecht
+Extremo izquierdo;Yoann Cathline;Francia;Costa de Marfil;10;22/07/2002;fc_utrecht
+Extremo izquierdo;Jesper Karlsson;Suecia;;11;25/07/1998;fc_utrecht
+Extremo izquierdo;Ángel Alarcón;España;;77;15/05/2004;fc_utrecht
+Extremo izquierdo;Adrian Blake;Inglaterra;Jamaica;15;15/07/2005;fc_utrecht
+Extremo izquierdo;Emirhan Demircan;Turquía;Alemania;17;20/01/2005;fc_utrecht
+Extremo derecho;Miguel Rodríguez;España;;22;29/04/2003;fc_utrecht
+Delantero centro;David Min;Países Bajos;;9;23/06/1999;fc_utrecht
+Delantero centro;Artem Stepanov;Ucrania;;18;10/08/2007;fc_utrecht
+Delantero centro;Sébastien Haller;Costa de Marfil;Francia;91;22/06/1994;fc_utrecht
+Portero;Lars Unnerstall;Alemania;;1;20/07/1990;fc_twente_enschede
+Portero;Issam El Maach;Marruecos;Países Bajos;-;01/02/2000;fc_twente_enschede
+Portero;Sam Karssies;Países Bajos;;21;26/02/2003;fc_twente_enschede
+Portero;Przemyslaw Tyton;Polonia;;22;04/01/1987;fc_twente_enschede
+Portero;Yannick Gerritsen;Países Bajos;;31;14/02/2006;fc_twente_enschede
+Defensa central;Ruud Nijstad;Países Bajos;;43;17/01/2008;fc_twente_enschede
+Defensa central;Mees Hilgers;Indonesia;Países Bajos;2;13/05/2001;fc_twente_enschede
+Defensa central;Stav Lemkin;Israel;España;23;02/04/2003;fc_twente_enschede
+Defensa central;Max Bruns;Países Bajos;;38;06/11/2002;fc_twente_enschede
+Defensa central;Robin Pröpper;Países Bajos;;3;23/09/1993;fc_twente_enschede
+Lateral izquierdo;Mats Rots;Países Bajos;;39;11/03/2006;fc_twente_enschede
+Lateral derecho;Bart van Rooij;Países Bajos;;28;26/05/2001;fc_twente_enschede
+Lateral derecho;Guilherme Peixoto;Portugal;;12;25/05/2006;fc_twente_enschede
+Pivote;Ramiz Zerrouki;Argelia;Países Bajos;6;26/05/1998;fc_twente_enschede
+Pivote;Thomas van den Belt;Países Bajos;;20;18/06/2001;fc_twente_enschede
+Pivote;Mathias Kjølø;Noruega;;4;27/06/2001;fc_twente_enschede
+Mediocentro;Daouda Weidmann;Francia;Costa de Marfil;42;04/05/2003;fc_twente_enschede
+Mediocentro ofensivo;Kristian Hlynsson;Islandia;;14;23/01/2004;fc_twente_enschede
+Mediocentro ofensivo;Arno Verschueren;Bélgica;;32;08/04/1997;fc_twente_enschede
+Extremo izquierdo;Sondre Ørjasæter;Noruega;;27;28/11/2003;fc_twente_enschede
+Extremo izquierdo;Marko Pjaca;Croacia;;7;06/05/1995;fc_twente_enschede
+Extremo derecho;Daan Rots;Países Bajos;;11;25/07/2001;fc_twente_enschede
+Extremo derecho;Taylor Booth;Estados Unidos;Italia;8;31/05/2001;fc_twente_enschede
+Delantero centro;Sam Lammers;Países Bajos;;10;30/04/1997;fc_twente_enschede
+Delantero centro;Ricky van Wolfswinkel;Países Bajos;;9;27/01/1989;fc_twente_enschede
+Delantero centro;Lucas Vennegoor of Hesselink;Países Bajos;;25;14/03/2006;fc_twente_enschede
+Portero;Gonzalo Crettaz;España;Argentina;1;28/02/2000;nec_nijmegen
+Portero;Jasper Cillessen;Países Bajos;;22;22/04/1989;nec_nijmegen
+Portero;Rijk Janse;Países Bajos;;31;16/04/2002;nec_nijmegen
+Defensa central;Ahmetcan Kaplan;Turquía;;4;16/01/2003;nec_nijmegen
+Defensa central;Philippe Sandler;Países Bajos;Estados Unidos;3;10/02/1997;nec_nijmegen
+Defensa central;Brayann Pereira;Francia;Congo;2;21/05/2003;nec_nijmegen
+Defensa central;Deveron Fonville;Curazao;Países Bajos;24;16/05/2003;nec_nijmegen
+Defensa central;Thomas Ouwejan;Países Bajos;;5;30/09/1996;nec_nijmegen
+Defensa central;Eli Dasa;Israel;Etiopía;14;03/12/1992;nec_nijmegen
+Defensa central;Jetro Willems;Países Bajos;Curazao;15;30/03/1994;nec_nijmegen
+Defensa central;Bram Nuytinck;Países Bajos;;17;04/05/1990;nec_nijmegen
+Pivote;Darko Nejasmic;Croacia;;6;25/01/1999;nec_nijmegen
+Pivote;Dirk Proper;Países Bajos;;71;24/02/2002;nec_nijmegen
+Mediocentro;Kodai Sano;Japón;;23;25/09/2003;nec_nijmegen
+Mediocentro;Sam de Laat;Países Bajos;;35;12/06/2006;nec_nijmegen
+Interior derecho;Sami Ouaissa;Países Bajos;Marruecos;25;02/10/2004;nec_nijmegen
+Interior izquierdo;Başar Önal;Turquía;Países Bajos;11;06/07/2004;nec_nijmegen
+Interior izquierdo;Virgil Misidjan;Surinam;Países Bajos;7;24/07/1993;nec_nijmegen
+Mediocentro ofensivo;Willum Thór Willumsson;Islandia;;19;23/10/1998;nec_nijmegen
+Mediocentro ofensivo;Noé Lebreton;Francia;Senegal;20;22/04/2004;nec_nijmegen
+Mediocentro ofensivo;Isak Hansen-Aarøen;Noruega;;8;22/08/2004;nec_nijmegen
+Mediocentro ofensivo;Tjaronn Chery;Surinam;Países Bajos;10;04/06/1988;nec_nijmegen
+Delantero centro;Koki Ogawa;Japón;;18;08/08/1997;nec_nijmegen
+Delantero centro;Danilo;Brasil;;9;07/04/1999;nec_nijmegen
+Delantero centro;Youssef El Kachati;Marruecos;Países Bajos;34;09/11/1999;nec_nijmegen
+Delantero centro;Bryan Linssen;Países Bajos;;30;08/10/1990;nec_nijmegen
+Portero;Bernt Klaverboer;Países Bajos;;22;26/09/2005;sc_heerenveen
+Portero;Nordin Bakker;Países Bajos;;31;31/10/1997;sc_heerenveen
+Portero;Andries Noppert;Países Bajos;;44;07/04/1994;sc_heerenveen
+Defensa central;Maas Willemsen;Países Bajos;;3;29/04/2003;sc_heerenveen
+Defensa central;Sam Kersten;Países Bajos;;4;30/01/1998;sc_heerenveen
+Defensa central;Nikolai Hopland;Noruega;;17;24/07/2004;sc_heerenveen
+Defensa central;Hristiyan Petrov;Bulgaria;;28;24/06/2002;sc_heerenveen
+Lateral izquierdo;Vasilios Zagaritis;Grecia;;19;04/05/2001;sc_heerenveen
+Lateral derecho;Oliver Braude;Noruega;;45;21/02/2004;sc_heerenveen
+Lateral derecho;Mats Egbring;Países Bajos;;13;17/09/2006;sc_heerenveen
+Pivote;Joris van Overeem;Países Bajos;;6;01/06/1994;sc_heerenveen
+Mediocentro;Marcus Linday;Suecia;;16;02/06/2003;sc_heerenveen
+Mediocentro;Isaiah Ahmed;Curazao;Países Bajos;35;28/12/2005;sc_heerenveen
+Mediocentro ofensivo;Ringo Meerveld;Países Bajos;;10;21/12/2002;sc_heerenveen
+Mediocentro ofensivo;Luuk Brouwers;Países Bajos;;8;03/05/1998;sc_heerenveen
+Mediocentro ofensivo;Levi Smans;Países Bajos;;14;25/03/2003;sc_heerenveen
+Mediocentro ofensivo;Nolhan Courtens;RD del Congo;Bélgica;36;20/12/2006;sc_heerenveen
+Extremo izquierdo;Maxence Rivera;Francia;;7;30/05/2002;sc_heerenveen
+Extremo izquierdo;Luca Oyen;Bélgica;;11;14/03/2003;sc_heerenveen
+Extremo izquierdo;Amourricho van Axel Dongen;Países Bajos;Surinam;26;29/09/2004;sc_heerenveen
+Extremo derecho;Jacob Trenskow;Dinamarca;;20;26/11/2000;sc_heerenveen
+Extremo derecho;Eser Gürbüz;Países Bajos;Turquía;50;06/03/2007;sc_heerenveen
+Extremo derecho;Jermaine Rijssel;Surinam;Países Bajos;33;25/03/2005;sc_heerenveen
+Delantero centro;Dylan Vente;Surinam;Países Bajos;9;09/05/1999;sc_heerenveen
+Delantero centro;Lasse Nordås;Noruega;;18;10/02/2002;sc_heerenveen
+Portero;Etienne Vaessen;Surinam;Países Bajos;1;26/07/1995;fc_groningen
+Portero;Lovro Stubljar;Eslovenia;;13;09/08/2004;fc_groningen
+Portero;Hidde Jurjus;Países Bajos;;21;09/02/1994;fc_groningen
+Portero;Dirk Baron;Países Bajos;;24;16/08/2002;fc_groningen
+Defensa central;Dies Janse;Países Bajos;;4;17/01/2006;fc_groningen
+Defensa central;Thijmen Blokzijl;Países Bajos;;3;25/02/2005;fc_groningen
+Defensa central;Sven Bouland;Países Bajos;;22;22/02/2006;fc_groningen
+Defensa central;Elvis van der Laan;Suecia;Países Bajos;15;29/02/2008;fc_groningen
+Defensa central;Robin Kelder;Países Bajos;;48;25/03/2005;fc_groningen
+Lateral izquierdo;Wouter Prins;Países Bajos;;2;06/02/2004;fc_groningen
+Lateral izquierdo;Marvin Peersman;Bélgica;Ghana;43;10/02/1991;fc_groningen
+Lateral derecho;Marco Rente;Alemania;;5;25/02/1997;fc_groningen
+Lateral derecho;Tyrique Mercera;Curazao;Países Bajos;16;19/12/2003;fc_groningen
+Pivote;Stije Resink;Países Bajos;;6;28/05/2003;fc_groningen
+Mediocentro;Tygo Land;Países Bajos;;18;11/01/2006;fc_groningen
+Mediocentro;Tika de Jonge;Países Bajos;;8;11/03/2003;fc_groningen
+Mediocentro;Travis Hernes;Noruega;Jamaica;7;04/11/2005;fc_groningen
+Mediocentro ofensivo;David van der Werff;Países Bajos;;17;31/08/2004;fc_groningen
+Mediocentro ofensivo;Mats Seuntjens;Países Bajos;;20;17/04/1992;fc_groningen
+Extremo izquierdo;Jorg Schreuders;Países Bajos;;14;09/09/2004;fc_groningen
+Extremo derecho;Younes Taha;Marruecos;Países Bajos;10;27/11/2002;fc_groningen
+Extremo derecho;Rui Mendes;Portugal;;27;10/11/1999;fc_groningen
+Extremo derecho;Mark Hoekstra;Países Bajos;;69;10/02/2006;fc_groningen
+Delantero centro;Thom van Bergen;Países Bajos;;26;06/01/2004;fc_groningen
+Delantero centro;Brynjólfur Willumsson;Islandia;;9;12/08/2000;fc_groningen
+Delantero centro;Oskar Zawada;Polonia;;19;01/02/1996;fc_groningen
+Portero;Jari De Busser;Bélgica;;22;21/10/1999;go_ahead_eagles_deventer
+Portero;Luca Plogmann;Alemania;;1;10/03/2000;go_ahead_eagles_deventer
+Portero;Sven Jansen;Países Bajos;;30;23/10/2004;go_ahead_eagles_deventer
+Portero;Nando Verdoni;Países Bajos;Italia;33;09/07/2003;go_ahead_eagles_deventer
+Defensa central;Joris Kramer;Países Bajos;;4;02/08/1996;go_ahead_eagles_deventer
+Defensa central;Gerrit Nauber;Alemania;;3;13/04/1992;go_ahead_eagles_deventer
+Defensa central;Julius Dirksen;Países Bajos;;26;02/02/2003;go_ahead_eagles_deventer
+Defensa central;Giovanni van Zwam;Países Bajos;;25;02/01/2004;go_ahead_eagles_deventer
+Defensa central;Pim Saathof;Países Bajos;;28;28/12/2003;go_ahead_eagles_deventer
+Lateral izquierdo;Dean James;Indonesia;Países Bajos;5;30/04/2000;go_ahead_eagles_deventer
+Lateral izquierdo;Aske Adelgaard;Dinamarca;;29;10/11/2003;go_ahead_eagles_deventer
+Lateral derecho;Alfons Sampsted;Islandia;;2;06/04/1998;go_ahead_eagles_deventer
+Lateral derecho;Eus Waayers;Países Bajos;;20;08/04/2006;go_ahead_eagles_deventer
+Pivote;Melle Meulensteen;Países Bajos;Inglaterra;21;04/07/1999;go_ahead_eagles_deventer
+Mediocentro;Evert Linthorst;Países Bajos;;8;03/03/2000;go_ahead_eagles_deventer
+Mediocentro;Kenzo Goudmijn;Países Bajos;Surinam;24;18/12/2001;go_ahead_eagles_deventer
+Mediocentro;Yassir Salah Rahmouni;Países Bajos;Marruecos;34;13/06/2006;go_ahead_eagles_deventer
+Mediocentro;Robbin Weijenberg;Países Bajos;;15;08/11/2004;go_ahead_eagles_deventer
+Mediocentro ofensivo;Jakob Breum;Dinamarca;;7;17/11/2003;go_ahead_eagles_deventer
+Mediocentro ofensivo;Søren Tengstedt;Dinamarca;;10;30/06/2000;go_ahead_eagles_deventer
+Extremo izquierdo;Mathis Suray;Bélgica;;17;26/07/2001;go_ahead_eagles_deventer
+Extremo izquierdo;Oskar Sivertsen;Noruega;;11;15/02/2004;go_ahead_eagles_deventer
+Extremo derecho;Jaden Slory;Países Bajos;Surinam;19;09/05/2005;go_ahead_eagles_deventer
+Delantero centro;Stefán Ingi Sigurdarson;Islandia;;9;27/01/2001;go_ahead_eagles_deventer
+Delantero centro;Victor Edvardsen;Suecia;;16;14/01/1996;go_ahead_eagles_deventer
+Delantero centro;Richonell Margaret;Surinam;Países Bajos;18;07/09/2000;go_ahead_eagles_deventer
+Delantero centro;Thibo Baeten;Bélgica;;23;04/06/2002;go_ahead_eagles_deventer
+Delantero centro;Finn Stokkers;Países Bajos;;27;18/04/1996;go_ahead_eagles_deventer
+Delantero centro;Ofosu Boakye;Ghana;Países Bajos;32;10/07/2007;go_ahead_eagles_deventer
+Portero;Joël Drommel;Países Bajos;;-;16/11/1996;sparta_rotterdam
+Portero;Filip Bednarek;Polonia;;-;26/09/1992;sparta_rotterdam
+Portero;Pascal Kuiper;Países Bajos;;-;17/03/2004;sparta_rotterdam
+Defensa central;Marvin Young;Países Bajos;Surinam;-;02/10/2005;sparta_rotterdam
+Defensa central;Teo Quintero;Venezuela;España;-;02/03/1999;sparta_rotterdam
+Defensa central;Bruno Martins Indi;Países Bajos;Portugal;-;08/02/1992;sparta_rotterdam
+Defensa central;Max de Ligt;Países Bajos;;-;20/07/2004;sparta_rotterdam
+Lateral izquierdo;Patrick van Aanholt;Países Bajos;Curazao;-;29/08/1990;sparta_rotterdam
+Lateral izquierdo;Mike Kleijn;Países Bajos;;-;09/02/2005;sparta_rotterdam
+Lateral izquierdo;Giannino Vianello;Países Bajos;Italia;-;10/06/2007;sparta_rotterdam
+Lateral derecho;Shurandy Sambo;Curazao;Países Bajos;-;19/08/2001;sparta_rotterdam
+Lateral derecho;Lushendry Martes;Países Bajos;Curazao;-;06/05/2008;sparta_rotterdam
+Lateral derecho;Saïd Bakari;Comoras;Francia;-;22/09/1994;sparta_rotterdam
+Pivote;Joshua Kitolano;Noruega;;-;03/08/2001;sparta_rotterdam
+Mediocentro;Alwande Roaldsøy;Noruega;Sudáfrica;-;09/06/2004;sparta_rotterdam
+Mediocentro;Julian Baas;Países Bajos;;-;16/04/2002;sparta_rotterdam
+Mediocentro;Pelle Clement;Países Bajos;;-;19/05/1996;sparta_rotterdam
+Mediocentro;Jonathan de Guzmán;Países Bajos;Canadá;-;13/09/1987;sparta_rotterdam
+Mediocentro ofensivo;Ayoni Santos;Cabo Verde;Países Bajos;-;18/07/2005;sparta_rotterdam
+Mediocentro ofensivo;Vito van Crooij;Países Bajos;;-;29/01/1996;sparta_rotterdam
+Mediocentro ofensivo;Jens Toornstra;Países Bajos;;-;04/04/1989;sparta_rotterdam
+Extremo izquierdo;Shunsuke Mito;Japón;;-;28/09/2002;sparta_rotterdam
+Extremo derecho;Casper Terho;Finlandia;;-;24/06/2003;sparta_rotterdam
+Extremo derecho;Mitchell van Bergen;Países Bajos;;-;27/08/1999;sparta_rotterdam
+Delantero centro;Tobias Lauritsen;Noruega;;-;30/08/1997;sparta_rotterdam
+Delantero centro;Milan Zonneveld;Países Bajos;;-;08/10/2003;sparta_rotterdam
+Portero;Jasper Schendelaar;Países Bajos;;1;02/09/2000;pec_zwolle
+Portero;Tom de Graaff;Países Bajos;;16;10/12/2004;pec_zwolle
+Portero;Duke Verduin;Países Bajos;;41;30/10/2003;pec_zwolle
+Defensa central;Anselmo García MacNulty;Irlanda;España;4;19/02/2003;pec_zwolle
+Defensa central;Simon Graves;Dinamarca;;28;22/05/1999;pec_zwolle
+Defensa central;Tijs Velthuis;Países Bajos;;5;12/01/2002;pec_zwolle
+Defensa central;Damian van der Haar;Países Bajos;;33;16/01/2004;pec_zwolle
+Lateral izquierdo;Sherel Floranus;Curazao;Países Bajos;2;23/08/1998;pec_zwolle
+Lateral derecho;Tristan Gooijer;Países Bajos;;6;02/09/2004;pec_zwolle
+Lateral derecho;Olivier Aertssen;Países Bajos;;3;07/08/2004;pec_zwolle
+Lateral derecho;David Voute;Países Bajos;Estados Unidos;39;04/11/2005;pec_zwolle
+Pivote;Jadiel Pereira da Gama;Países Bajos;Angola;26;15/12/2009;pec_zwolle
+Pivote;Ryan Thomas;Nueva Zelanda;Inglaterra;30;20/12/1994;pec_zwolle
+Pivote;Nick Fichtinger;Países Bajos;;34;06/04/2004;pec_zwolle
+Mediocentro;Zico Buurmeester;Países Bajos;;8;07/06/2002;pec_zwolle
+Mediocentro;Jamiro Monteiro;Cabo Verde;Países Bajos;35;23/11/1993;pec_zwolle
+Mediocentro;Givaro Rahajaän;Países Bajos;;38;19/02/2008;pec_zwolle
+Mediocentro ofensivo;Thijs Oosting;Países Bajos;;25;02/05/2000;pec_zwolle
+Mediocentro ofensivo;Odysseus Velanas;Países Bajos;Grecia;18;05/06/1998;pec_zwolle
+Mediocentro ofensivo;Gabriël Reiziger;Países Bajos;Surinam;20;10/10/2005;pec_zwolle
+Mediocentro ofensivo;Samir Lagsir;Países Bajos;Marruecos;21;20/05/2003;pec_zwolle
+Extremo izquierdo;Shola Shoretire;Inglaterra;Nigeria;7;02/02/2004;pec_zwolle
+Extremo izquierdo;Kaj de Rooij;Países Bajos;;22;25/11/2000;pec_zwolle
+Extremo derecho;Younes Namli;Dinamarca;Marruecos;9;20/06/1994;pec_zwolle
+Extremo derecho;Jan Faberski;Polonia;;19;22/04/2006;pec_zwolle
+Delantero centro;Koen Kostons;Países Bajos;;10;18/09/1999;pec_zwolle
+Delantero centro;Thomas Buitink;Países Bajos;;29;14/06/2000;pec_zwolle
+Portero;Mattijs Branderhorst;Países Bajos;;31;31/12/1993;fortuna_sittard
+Portero;Luuk Koopmans;Países Bajos;;1;18/11/1993;fortuna_sittard
+Portero;Nick Marsman;Países Bajos;;32;01/10/1990;fortuna_sittard
+Portero;Niels Martens;Países Bajos;;25;07/05/2004;fortuna_sittard
+Portero;Ramazan Bayram;Bélgica;;71;12/10/2004;fortuna_sittard
+Defensa central;Neraysho Kasanwirjo;Países Bajos;Surinam;21;18/02/2002;fortuna_sittard
+Defensa central;Shawn Adewoye;Bélgica;Nigeria;4;29/06/2000;fortuna_sittard
+Defensa central;Justin Hubner;Indonesia;Países Bajos;28;14/09/2003;fortuna_sittard
+Defensa central;Syb van Ottele;Países Bajos;;6;02/02/2002;fortuna_sittard
+Defensa central;Iván Márquez;España;;44;09/06/1994;fortuna_sittard
+Lateral izquierdo;Jasper Dahlhaus;Países Bajos;;8;27/11/2001;fortuna_sittard
+Lateral izquierdo;Daley Sinkgraven;Países Bajos;;24;04/07/1995;fortuna_sittard
+Lateral derecho;Ivo Pinto;Portugal;;12;07/01/1990;fortuna_sittard
+Pivote;Tristan Schenkhuizen;Países Bajos;;38;12/07/2004;fortuna_sittard
+Mediocentro;Philip Brittijn;Países Bajos;;23;09/04/2004;fortuna_sittard
+Mediocentro;Edouard Michut;Francia;;20;04/03/2003;fortuna_sittard
+Mediocentro;Yassin Oukili;Marruecos;Países Bajos;5;03/01/2001;fortuna_sittard
+Mediocentro;Justin Lonwijk;Surinam;Países Bajos;17;21/12/1999;fortuna_sittard
+Mediocentro;Samuel Bastien;RD del Congo;Bélgica;22;26/09/1996;fortuna_sittard
+Mediocentro;Hasip Korkmazyürek;Turquía;Alemania;29;01/05/2003;fortuna_sittard
+Mediocentro ofensivo;Mohamed Ihattaren;Marruecos;Países Bajos;52;12/02/2002;fortuna_sittard
+Mediocentro ofensivo;Lance Duijvestijn;Países Bajos;;70;15/01/1999;fortuna_sittard
+Mediocentro ofensivo;Alen Halilovic;Croacia;;10;18/06/1996;fortuna_sittard
+Mediocentro ofensivo;Luka Tunjic;Croacia;Bosnia y Herzegovina;77;19/11/2005;fortuna_sittard
+Extremo izquierdo;Kristoffer Peterson;Suecia;;7;28/11/1994;fortuna_sittard
+Extremo derecho;Dimitrios Limnios;Grecia;Brasil;18;27/05/1998;fortuna_sittard
+Delantero centro;Kaj Sierhuis;Países Bajos;;9;27/04/1998;fortuna_sittard
+Delantero centro;Paul Gladon;Países Bajos;;19;18/03/1992;fortuna_sittard
+Portero;Kayne van Oevelen;Países Bajos;;1;07/08/2003;fc_volendam
+Portero;Roy Steur;Países Bajos;;16;01/02/2005;fc_volendam
+Portero;Dion Vlak;Países Bajos;;22;28/06/2001;fc_volendam
+Defensa central;Nick Verschuren;Países Bajos;;20;13/01/2005;fc_volendam
+Defensa central;Mawouna Amevor;Togo;Países Bajos;3;16/12/1991;fc_volendam
+Defensa central;Silvinho Esajas;Surinam;Países Bajos;28;08/07/2002;fc_volendam
+Defensa central;Luca Blondeau;Países Bajos;;25;11/02/2006;fc_volendam
+Lateral izquierdo;Yannick Leliendal;Surinam;Países Bajos;32;23/04/2002;fc_volendam
+Lateral izquierdo;Aaron Meijers;Países Bajos;;14;28/10/1987;fc_volendam
+Lateral derecho;Deron Payne;Trinidad y Tobago;Países Bajos;2;25/09/2002;fc_volendam
+Lateral derecho;Precious Ugwu;Países Bajos;Alemania;5;08/02/2006;fc_volendam
+Pivote;Gibson Yah;Países Bajos;Nigeria;8;27/09/2003;fc_volendam
+Pivote;Alex Plat;Países Bajos;;6;04/02/1998;fc_volendam
+Pivote;Anass Bouziane;Países Bajos;;15;22/12/2006;fc_volendam
+Mediocentro;Juninho Bacuna;Curazao;Países Bajos;4;07/08/1997;fc_volendam
+Mediocentro;Dave Kwakman;Países Bajos;;23;07/08/2004;fc_volendam
+Mediocentro;Nordin Bukala;Países Bajos;Marruecos;18;18/09/2005;fc_volendam
+Mediocentro;Myron Mau-Asam;Países Bajos;;27;01/04/2004;fc_volendam
+Mediocentro ofensivo;Robin van Cruijsen;Países Bajos;;40;20/02/2006;fc_volendam
+Mediocentro ofensivo;Ozan Kökcü;Azerbaiyán;Países Bajos;7;18/08/1998;fc_volendam
+Extremo izquierdo;Benjamin Pauwels;Bélgica;;29;29/10/2004;fc_volendam
+Extremo izquierdo;Joel Ideho;Países Bajos;Nigeria;17;17/07/2003;fc_volendam
+Extremo izquierdo;Key-Shawn Wong-A-Soij;Países Bajos;;24;01/10/2006;fc_volendam
+Extremo derecho;Bilal Ould-Chikh;Marruecos;Países Bajos;77;28/07/1997;fc_volendam
+Extremo derecho;Aurelio Oehlers;Países Bajos;Surinam;11;05/02/2004;fc_volendam
+Extremo derecho;Brandley Kuwas;Curazao;Países Bajos;10;19/09/1992;fc_volendam
+Delantero centro;Anthony Descotte;Bélgica;;99;03/08/2003;fc_volendam
+Delantero centro;Henk Veerman;Países Bajos;;9;26/02/1991;fc_volendam
+Delantero centro;Robert Mühren;Países Bajos;;21;18/05/1989;fc_volendam
+Delantero centro;Jesper Tielemans;Países Bajos;;39;17/05/2006;fc_volendam
+Portero;Stijn van Gassel;Países Bajos;;1;18/10/1996;sbv_excelsior_rotterdam
+Portero;Calvin Raatsie;Países Bajos;;16;09/02/2002;sbv_excelsior_rotterdam
+Portero;Tijmen Holla;Países Bajos;;40;25/07/2006;sbv_excelsior_rotterdam
+Defensa central;Casper Widell;Suecia;;4;05/05/2003;sbv_excelsior_rotterdam
+Defensa central;Rick Meissen;Países Bajos;;3;24/02/2002;sbv_excelsior_rotterdam
+Defensa central;Stan Henderikx;Países Bajos;;5;08/07/2003;sbv_excelsior_rotterdam
+Defensa central;Lewis Schouten;Países Bajos;;14;04/02/2004;sbv_excelsior_rotterdam
+Lateral izquierdo;Arthur Zagré;Francia;Burkina Faso;12;04/10/2001;sbv_excelsior_rotterdam
+Lateral izquierdo;Simon Janssen;Países Bajos;;15;25/09/2000;sbv_excelsior_rotterdam
+Lateral derecho;Ilias Bronkhorst;Países Bajos;Marruecos;2;10/05/1997;sbv_excelsior_rotterdam
+Lateral derecho;Hamdi Akujobi;Países Bajos;Nigeria;22;20/01/2000;sbv_excelsior_rotterdam
+Pivote;Adam Carlén;Suecia;;6;27/06/2000;sbv_excelsior_rotterdam
+Mediocentro;Irakli Yegoian;Georgia;Países Bajos;23;19/03/2004;sbv_excelsior_rotterdam
+Mediocentro;Lennard Hartjes;Países Bajos;;20;07/04/2003;sbv_excelsior_rotterdam
+Mediocentro;Mathijs Tielemans;Países Bajos;;8;26/04/2002;sbv_excelsior_rotterdam
+Mediocentro ofensivo;Noah Naujoks;Países Bajos;;10;02/05/2002;sbv_excelsior_rotterdam
+Extremo izquierdo;Emil Hansson;Suecia;Noruega;7;15/06/1998;sbv_excelsior_rotterdam
+Extremo izquierdo;Gyan de Regt;Países Bajos;;11;18/08/2003;sbv_excelsior_rotterdam
+Extremo derecho;Miliano Jonathans;Indonesia;Países Bajos;26;05/04/2004;sbv_excelsior_rotterdam
+Extremo derecho;Derensili Sanches Fernandes;Países Bajos;Cabo Verde;30;28/05/2001;sbv_excelsior_rotterdam
+Delantero centro;Szymon Wlodarczyk;Polonia;;9;05/01/2003;sbv_excelsior_rotterdam
+Delantero centro;Jerolldino Bergraaf;Países Bajos;Curazao;33;05/07/2006;sbv_excelsior_rotterdam
+Delantero centro;Mike van Duinen;Países Bajos;;29;06/11/1991;sbv_excelsior_rotterdam
+Delantero centro;Nesto Groen;Países Bajos;;28;22/07/2004;sbv_excelsior_rotterdam
+Portero;Daniel Bielica;Polonia;;99;30/04/1999;nac_breda
+Portero;Roy Kortsmit;Países Bajos;;1;26/08/1992;nac_breda
+Portero;Kostas Lamprou;Grecia;Países Bajos;31;18/09/1991;nac_breda
+Portero;Thomas Goos;Países Bajos;;44;01/01/2008;nac_breda
+Defensa central;Leo Greiml;Austria;;12;03/07/2001;nac_breda
+Defensa central;Rio Hillen;Países Bajos;Brasil;22;05/03/2003;nac_breda
+Defensa central;Enes Mahmutovic;Luxemburgo;Kosovo;15;22/05/1997;nac_breda
+Defensa central;Denis Odoi;Ghana;Bélgica;3;27/05/1988;nac_breda
+Defensa central;Jemuel Erat;Países Bajos;Surinam;27;02/09/2007;nac_breda
+Lateral izquierdo;Boy Kemper;Países Bajos;;4;21/06/1999;nac_breda
+Lateral izquierdo;Jayden Candelaria;Curazao;Países Bajos;21;02/03/2004;nac_breda
+Lateral izquierdo;Christian Chiza;Países Bajos;;29;18/12/2007;nac_breda
+Lateral derecho;Cherrion Valerius;Curazao;Países Bajos;25;22/09/2005;nac_breda
+Lateral derecho;Boyd Lucassen;Países Bajos;;2;01/07/1998;nac_breda
+Pivote;Max Balard;Australia;Francia;16;20/11/2000;nac_breda
+Pivote;Fredrik Oldrup Jensen;Noruega;;20;18/05/1993;nac_breda
+Mediocentro;Kamal Sowah;Ghana;Bélgica;14;09/01/2000;nac_breda
+Mediocentro;Clint Leemans;Países Bajos;;8;15/09/1995;nac_breda
+Mediocentro;Lewis Holtby;Alemania;Inglaterra;90;18/09/1990;nac_breda
+Mediocentro ofensivo;Mohamed Nassoh;Marruecos;Países Bajos;10;26/01/2003;nac_breda
+Mediocentro ofensivo;Raul Paula;Alemania;Portugal;11;25/01/2004;nac_breda
+Extremo izquierdo;Brahim Ghalidi;Marruecos;Bélgica;55;31/01/2005;nac_breda
+Extremo derecho;Juho Talvitie;Finlandia;;32;25/03/2005;nac_breda
+Delantero centro;Amine Salama;Francia;Marruecos;19;18/07/2000;nac_breda
+Delantero centro;Moussa Soumano;Francia;Malí;9;09/07/2005;nac_breda
+Delantero centro;Charles-Andreas Brym;Canadá;Francia;7;08/08/1998;nac_breda
+Delantero centro;André Ayew;Ghana;Francia;24;17/12/1989;nac_breda
+Delantero centro;Pepijn Reulen;Países Bajos;;26;01/06/2008;nac_breda
+Portero;Fabian de Keijzer;Países Bajos;;1;10/05/2000;heracles_almelo
+Portero;Timo Jansink;Países Bajos;;16;16/06/2003;heracles_almelo
+Portero;Remko Pasveer;Países Bajos;;22;08/11/1983;heracles_almelo
+Portero;Robin Mantel;Bélgica;Países Bajos;30;15/11/2000;heracles_almelo
+Portero;Leco Zeevalkink;Países Bajos;;33;14/09/2005;heracles_almelo
+Defensa central;Alec Van Hoorenbeeck;Bélgica;;18;30/12/1998;heracles_almelo
+Defensa central;Ivan Mesik;Eslovaquia;;24;01/06/2001;heracles_almelo
+Defensa central;Damon Mirani;Países Bajos;;4;13/05/1996;heracles_almelo
+Defensa central;Mike te Wierik;Países Bajos;;23;08/06/1992;heracles_almelo
+Defensa central;Sava-Arangel Cestic;Serbia;Alemania;6;19/02/2001;heracles_almelo
+Defensa central;Jop Tijink;Países Bajos;;27;30/01/2005;heracles_almelo
+Lateral izquierdo;Djevencio van der Kust;Surinam;Países Bajos;15;30/04/2001;heracles_almelo
+Lateral derecho;Mimeirhel Benita;Países Bajos;Curazao;2;17/11/2003;heracles_almelo
+Lateral derecho;Jannes Wieckhoff;Alemania;;3;02/08/2000;heracles_almelo
+Pivote;Sem Scheperman;Países Bajos;;32;24/06/2002;heracles_almelo
+Pivote;Rhys Bozinovski;Australia;Malta;20;03/07/2004;heracles_almelo
+Mediocentro;Ajdin Hrustic;Australia;Bosnia y Herzegovina;70;05/07/1996;heracles_almelo
+Mediocentro;Jan Zamburek;República Checa;;13;13/02/2001;heracles_almelo
+Mediocentro;Erik Ahlstrand;Suecia;;14;14/10/2001;heracles_almelo
+Mediocentro ofensivo;Jeff Reine-Adélaïde;Francia;Martinica;11;17/01/1998;heracles_almelo
+Mediocentro ofensivo;Walid Ould-Chikh;Países Bajos;Marruecos;73;06/11/1999;heracles_almelo
+Mediocentro ofensivo;Thomas Bruns;Países Bajos;;10;07/01/1992;heracles_almelo
+Extremo izquierdo;Naci Ünüvar;Turquía;Países Bajos;9;13/06/2003;heracles_almelo
+Extremo izquierdo;Bryan Limbombe;Bélgica;RD del Congo;7;14/05/2001;heracles_almelo
+Extremo izquierdo;Yvandro Borges Sanches;Luxemburgo;Cabo Verde;21;24/05/2004;heracles_almelo
+Extremo izquierdo;Mario Engels;Alemania;;8;22/10/1993;heracles_almelo
+Extremo izquierdo;Tristan van Gilst;Países Bajos;Sudáfrica;17;18/02/2003;heracles_almelo
+Extremo izquierdo;Giandro Sambo;Curazao;Países Bajos;28;28/08/2006;heracles_almelo
+Extremo derecho;Sil Blokhuis;Países Bajos;;39;18/03/2008;heracles_almelo
+Delantero centro;Luka Kulenovic;Bosnia y Herzegovina;Croacia;19;29/09/1999;heracles_almelo
+Delantero centro;Lequincio Zeefuik;Países Bajos;Surinam;25;26/11/2004;heracles_almelo
+Portero;Ronald Koeman Jr.;Países Bajos;;1;23/05/1995;sc_telstar
+Portero;Daan Reiziger;Países Bajos;;20;18/06/2001;sc_telstar
+Portero;Tyrick Bodak;Curazao;Países Bajos;13;15/05/2002;sc_telstar
+Defensa central;Guus Offerhaus;Países Bajos;;4;03/01/2001;sc_telstar
+Defensa central;Neville Ogidi Nwankwo;Países Bajos;Nigeria;14;08/10/2002;sc_telstar
+Defensa central;Devon Koswal;Surinam;Países Bajos;21;21/08/2003;sc_telstar
+Defensa central;Danny Bakker;Países Bajos;;6;16/01/1995;sc_telstar
+Defensa central;Dion Malone;Surinam;Países Bajos;29;13/02/1989;sc_telstar
+Defensa central;Abdelraffie Benzzine;Países Bajos;Marruecos;24;04/04/2006;sc_telstar
+Defensa central;Yamano Olfers;Surinam;Países Bajos;25;02/08/2006;sc_telstar
+Lateral derecho;Gerald Alders;Países Bajos;Namibia;3;07/05/2005;sc_telstar
+Pivote;Cedric Hatenboer;Países Bajos;;23;19/03/2005;sc_telstar
+Pivote;Nils Rossen;Países Bajos;;17;01/08/2004;sc_telstar
+Mediocentro;Tyrone Owusu;Países Bajos;Ghana;8;05/03/1999;sc_telstar
+Mediocentro;Rojendro Oudsten;Surinam;Países Bajos;28;12/11/2007;sc_telstar
+Interior derecho;Tyrese Noslin;Curazao;Países Bajos;11;11/09/2002;sc_telstar
+Interior derecho;Adil Lechkar;Países Bajos;Marruecos;15;02/09/2001;sc_telstar
+Interior izquierdo;Jeff Hardeveld;Países Bajos;;2;27/02/1995;sc_telstar
+Interior izquierdo;Nigel Ogidi Nwankwo;Países Bajos;Nigeria;5;04/08/1998;sc_telstar
+Mediocentro ofensivo;Jochem Ritmeester van de Kamp;Países Bajos;;39;02/11/2003;sc_telstar
+Mediocentro ofensivo;Patrick Brouwer;Países Bajos;;27;19/03/2001;sc_telstar
+Mediocentro ofensivo;Dylan Mertens;Países Bajos;;16;20/07/1995;sc_telstar
+Delantero centro;Nökkvi Thórisson;Islandia;;19;13/08/1999;sc_telstar
+Delantero centro;Soufiane Hetli;Países Bajos;Marruecos;7;30/05/2001;sc_telstar
+Delantero centro;Sem van Duijn;Países Bajos;;37;18/03/2004;sc_telstar
+Delantero centro;Kay Tejan;Países Bajos;;30;03/02/1997;sc_telstar
+Delantero centro;Jelani Seedorf;Países Bajos;Surinam;9;12/12/2004;sc_telstar

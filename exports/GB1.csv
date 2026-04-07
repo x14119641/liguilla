@@ -1,0 +1,529 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Gianluigi Donnarumma;Italia;;25;25/02/1999;manchester_city
+Portero;James Trafford;Inglaterra;;1;10/10/2002;manchester_city
+Portero;Marcus Bettinelli;Inglaterra;Italia;13;24/05/1992;manchester_city
+Defensa central;Josko Gvardiol;Croacia;;24;23/01/2002;manchester_city
+Defensa central;Marc Guéhi;Inglaterra;Costa de Marfil;15;13/07/2000;manchester_city
+Defensa central;Rúben Dias;Portugal;;3;14/05/1997;manchester_city
+Defensa central;Abdukodir Khusanov;Uzbekistán;;45;29/02/2004;manchester_city
+Defensa central;John Stones;Inglaterra;;5;28/05/1994;manchester_city
+Defensa central;Nathan Aké;Países Bajos;Costa de Marfil;6;18/02/1995;manchester_city
+Defensa central;Max Alleyne;Inglaterra;Barbados;68;21/07/2005;manchester_city
+Lateral izquierdo;Nico O'Reilly;Inglaterra;Jamaica;33;21/03/2005;manchester_city
+Lateral izquierdo;Rayan Aït-Nouri;Argelia;Francia;21;06/06/2001;manchester_city
+Lateral derecho;Matheus Nunes;Portugal;Brasil;27;27/08/1998;manchester_city
+Lateral derecho;Rico Lewis;Inglaterra;Jamaica;82;21/11/2004;manchester_city
+Pivote;Rodri;España;;16;22/06/1996;manchester_city
+Pivote;Nico González;España;;14;03/01/2002;manchester_city
+Mediocentro;Tijjani Reijnders;Países Bajos;;4;29/07/1998;manchester_city
+Mediocentro;Sverre Nypan;Noruega;;41;19/12/2006;manchester_city
+Mediocentro;Mateo Kovacic;Croacia;;8;06/05/1994;manchester_city
+Mediocentro ofensivo;Phil Foden;Inglaterra;;47;28/05/2000;manchester_city
+Mediocentro ofensivo;Rayan Cherki;Francia;Argelia;10;17/08/2003;manchester_city
+Mediocentro ofensivo;Bernardo Silva;Portugal;;20;10/08/1994;manchester_city
+Extremo izquierdo;Jérémy Doku;Bélgica;Ghana;11;27/05/2002;manchester_city
+Extremo izquierdo;Savinho;Brasil;;26;10/04/2004;manchester_city
+Extremo derecho;Antoine Semenyo;Ghana;Inglaterra;42;07/01/2000;manchester_city
+Delantero centro;Erling Haaland;Noruega;;9;21/07/2000;manchester_city
+Delantero centro;Omar Marmoush;Egipto;Canadá;7;07/02/1999;manchester_city
+Portero;David Raya;España;;1;15/09/1995;fc_arsenal
+Portero;Kepa Arrizabalaga;España;;13;03/10/1994;fc_arsenal
+Defensa central;William Saliba;Francia;Camerún;2;24/03/2001;fc_arsenal
+Defensa central;Gabriel;Brasil;;6;19/12/1997;fc_arsenal
+Defensa central;Piero Hincapié;Ecuador;;5;09/01/2002;fc_arsenal
+Defensa central;Cristhian Mosquera;España;Colombia;3;27/06/2004;fc_arsenal
+Lateral izquierdo;Riccardo Calafiori;Italia;;33;19/05/2002;fc_arsenal
+Lateral izquierdo;Myles Lewis-Skelly;Inglaterra;Barbados;49;26/09/2006;fc_arsenal
+Lateral derecho;Jurriën Timber;Países Bajos;Curazao;12;17/06/2001;fc_arsenal
+Lateral derecho;Ben White;Inglaterra;;4;08/10/1997;fc_arsenal
+Pivote;Martín Zubimendi;España;;36;02/02/1999;fc_arsenal
+Pivote;Christian Nørgaard;Dinamarca;;16;10/03/1994;fc_arsenal
+Mediocentro;Declan Rice;Inglaterra;Irlanda;41;14/01/1999;fc_arsenal
+Mediocentro;Mikel Merino;España;;23;22/06/1996;fc_arsenal
+Mediocentro ofensivo;Martin Ødegaard;Noruega;;8;17/12/1998;fc_arsenal
+Mediocentro ofensivo;Eberechi Eze;Inglaterra;Nigeria;10;29/06/1998;fc_arsenal
+Extremo izquierdo;Gabriel Martinelli;Brasil;Italia;11;18/06/2001;fc_arsenal
+Extremo izquierdo;Leandro Trossard;Bélgica;;19;04/12/1994;fc_arsenal
+Extremo derecho;Bukayo Saka;Inglaterra;Nigeria;7;05/09/2001;fc_arsenal
+Extremo derecho;Noni Madueke;Inglaterra;Nigeria;20;10/03/2002;fc_arsenal
+Extremo derecho;Max Dowman;Inglaterra;;56;31/12/2009;fc_arsenal
+Delantero centro;Viktor Gyökeres;Suecia;Hungría;14;04/06/1998;fc_arsenal
+Delantero centro;Kai Havertz;Alemania;;29;11/06/1999;fc_arsenal
+Delantero centro;Gabriel Jesus;Brasil;;9;03/04/1997;fc_arsenal
+Portero;Robert Sánchez;España;Inglaterra;1;18/11/1997;fc_chelsea
+Portero;Filip Jørgensen;Dinamarca;Suecia;12;16/04/2002;fc_chelsea
+Portero;Gabriel Slonina;Estados Unidos;Polonia;44;15/05/2004;fc_chelsea
+Portero;Teddy Sharman-Lowe;Inglaterra;;28;30/03/2003;fc_chelsea
+Portero;James Hillson;Inglaterra;;-;14/01/2001;fc_chelsea
+Defensa central;Levi Colwill;Inglaterra;;6;26/02/2003;fc_chelsea
+Defensa central;Trevoh Chalobah;Inglaterra;Sierra Leona;23;05/07/1999;fc_chelsea
+Defensa central;Wesley Fofana;Francia;Costa de Marfil;29;17/12/2000;fc_chelsea
+Defensa central;Mamadou Sarr;Senegal;Francia;19;29/08/2005;fc_chelsea
+Defensa central;Tosin Adarabioyo;Inglaterra;Nigeria;4;24/09/1997;fc_chelsea
+Defensa central;Benoît Badiashile;Francia;RD del Congo;5;26/03/2001;fc_chelsea
+Lateral izquierdo;Marc Cucurella;España;;3;22/07/1998;fc_chelsea
+Lateral izquierdo;Jorrel Hato;Países Bajos;Curazao;21;07/03/2006;fc_chelsea
+Lateral izquierdo;Caleb Wiley;Estados Unidos;;-;22/12/2004;fc_chelsea
+Lateral derecho;Reece James;Inglaterra;;24;08/12/1999;fc_chelsea
+Lateral derecho;Malo Gusto;Francia;Martinica;27;19/05/2003;fc_chelsea
+Lateral derecho;Josh Acheampong;Inglaterra;Ghana;34;05/05/2006;fc_chelsea
+Pivote;Moisés Caicedo;Ecuador;;25;02/11/2001;fc_chelsea
+Pivote;Roméo Lavia;Bélgica;Ghana;45;06/01/2004;fc_chelsea
+Pivote;Dário Essugo;Portugal;Angola;14;14/03/2005;fc_chelsea
+Mediocentro;Enzo Fernández;Argentina;;8;17/01/2001;fc_chelsea
+Mediocentro;Andrey Santos;Brasil;;17;03/05/2004;fc_chelsea
+Mediocentro ofensivo;Cole Palmer;Inglaterra;San Cristóbal y Nieves;10;06/05/2002;fc_chelsea
+Extremo izquierdo;Alejandro Garnacho;Argentina;España;49;01/07/2004;fc_chelsea
+Extremo izquierdo;Jamie Gittens;Inglaterra;Barbados;11;08/08/2004;fc_chelsea
+Extremo izquierdo;Mykhaylo Mudryk;Ucrania;;-;05/01/2001;fc_chelsea
+Extremo derecho;Estêvão;Brasil;;41;24/04/2007;fc_chelsea
+Extremo derecho;Pedro Neto;Portugal;;7;09/03/2000;fc_chelsea
+Delantero centro;João Pedro;Brasil;;20;26/09/2001;fc_chelsea
+Delantero centro;Liam Delap;Inglaterra;Irlanda;9;08/02/2003;fc_chelsea
+Delantero centro;Marc Guiu;España;;38;04/01/2006;fc_chelsea
+Portero;Giorgi Mamardashvili;Georgia;;25;29/09/2000;fc_liverpool
+Portero;Alisson;Brasil;;1;02/10/1992;fc_liverpool
+Portero;Freddie Woodman;Inglaterra;;28;04/03/1997;fc_liverpool
+Portero;Harvey Davies;Inglaterra;;95;03/09/2003;fc_liverpool
+Defensa central;Ibrahima Konaté;Francia;Malí;5;25/05/1999;fc_liverpool
+Defensa central;Giovanni Leoni;Italia;;15;21/12/2006;fc_liverpool
+Defensa central;Virgil van Dijk;Países Bajos;Surinam;4;08/07/1991;fc_liverpool
+Defensa central;Joe Gomez;Inglaterra;Gambia;2;23/05/1997;fc_liverpool
+Defensa central;Rhys Williams;Inglaterra;Jamaica;46;03/02/2001;fc_liverpool
+Lateral izquierdo;Milos Kerkez;Hungría;Serbia;6;07/11/2003;fc_liverpool
+Lateral izquierdo;Andrew Robertson;Escocia;;26;11/03/1994;fc_liverpool
+Lateral derecho;Jeremie Frimpong;Países Bajos;Ghana;30;10/12/2000;fc_liverpool
+Lateral derecho;Conor Bradley;Irlanda del Norte;;12;09/07/2003;fc_liverpool
+Lateral derecho;Calvin Ramsay;Escocia;;47;31/07/2003;fc_liverpool
+Pivote;Ryan Gravenberch;Países Bajos;Surinam;38;16/05/2002;fc_liverpool
+Pivote;Wataru Endo;Japón;;3;09/02/1993;fc_liverpool
+Pivote;Stefan Bajcetic;España;Serbia;43;22/10/2004;fc_liverpool
+Mediocentro;Alexis Mac Allister;Argentina;Italia;10;24/12/1998;fc_liverpool
+Mediocentro;Curtis Jones;Inglaterra;;17;30/01/2001;fc_liverpool
+Mediocentro;Trey Nyoni;Inglaterra;Zimbabue;42;30/06/2007;fc_liverpool
+Mediocentro ofensivo;Florian Wirtz;Alemania;;7;03/05/2003;fc_liverpool
+Mediocentro ofensivo;Dominik Szoboszlai;Hungría;;8;25/10/2000;fc_liverpool
+Extremo izquierdo;Cody Gakpo;Países Bajos;Togo;18;07/05/1999;fc_liverpool
+Extremo izquierdo;Rio Ngumoha;Inglaterra;Nigeria;73;29/08/2008;fc_liverpool
+Extremo derecho;Mohamed Salah;Egipto;;11;15/06/1992;fc_liverpool
+Extremo derecho;Federico Chiesa;Italia;;14;25/10/1997;fc_liverpool
+Delantero centro;Alexander Isak;Suecia;Eritrea;9;21/09/1999;fc_liverpool
+Delantero centro;Hugo Ekitiké;Francia;Camerún;22;20/06/2002;fc_liverpool
+Portero;Guglielmo Vicario;Italia;;1;07/10/1996;tottenham_hotspur
+Portero;Antonín Kinský;República Checa;;31;13/03/2003;tottenham_hotspur
+Portero;Brandon Austin;Inglaterra;Estados Unidos;40;08/01/1999;tottenham_hotspur
+Defensa central;Micky van de Ven;Países Bajos;;37;19/04/2001;tottenham_hotspur
+Defensa central;Cristian Romero;Argentina;;17;27/04/1998;tottenham_hotspur
+Defensa central;Radu Drăgușin;Rumania;;3;03/02/2002;tottenham_hotspur
+Defensa central;Kevin Danso;Austria;;4;19/09/1998;tottenham_hotspur
+Defensa central;Ben Davies;Gales;;33;24/04/1993;tottenham_hotspur
+Lateral izquierdo;Destiny Udogie;Italia;Nigeria;13;28/11/2002;tottenham_hotspur
+Lateral izquierdo;Djed Spence;Inglaterra;Jamaica;24;09/08/2000;tottenham_hotspur
+Lateral izquierdo;Souza;Brasil;;38;16/06/2006;tottenham_hotspur
+Lateral derecho;Pedro Porro;España;;23;13/09/1999;tottenham_hotspur
+Pivote;Rodrigo Bentancur;Uruguay;;30;25/06/1997;tottenham_hotspur
+Pivote;João Palhinha;Portugal;;6;09/07/1995;tottenham_hotspur
+Pivote;Yves Bissouma;Malí;Costa de Marfil;8;30/08/1996;tottenham_hotspur
+Mediocentro;Lucas Bergvall;Suecia;;15;02/02/2006;tottenham_hotspur
+Mediocentro;Archie Gray;Inglaterra;Escocia;14;12/03/2006;tottenham_hotspur
+Mediocentro;Conor Gallagher;Inglaterra;;22;06/02/2000;tottenham_hotspur
+Mediocentro;Pape Matar Sarr;Senegal;;29;14/09/2002;tottenham_hotspur
+Mediocentro ofensivo;Xavi Simons;Países Bajos;Surinam;7;21/04/2003;tottenham_hotspur
+Mediocentro ofensivo;Dejan Kulusevski;Suecia;Macedonia del Norte;21;25/04/2000;tottenham_hotspur
+Mediocentro ofensivo;James Maddison;Inglaterra;Irlanda;10;23/11/1996;tottenham_hotspur
+Extremo izquierdo;Wilson Odobert;Francia;Martinica;28;28/11/2004;tottenham_hotspur
+Extremo derecho;Mohammed Kudus;Ghana;;20;02/08/2000;tottenham_hotspur
+Delantero centro;Dominic Solanke;Inglaterra;Nigeria;19;14/09/1997;tottenham_hotspur
+Delantero centro;Richarlison;Brasil;;9;10/05/1997;tottenham_hotspur
+Delantero centro;Mathys Tel;Francia;Guadalupe;11;27/04/2005;tottenham_hotspur
+Delantero centro;Randal Kolo Muani;Francia;RD del Congo;39;05/12/1998;tottenham_hotspur
+Portero;Senne Lammens;Bélgica;;31;07/07/2002;manchester_united
+Portero;Altay Bayındır;Turquía;;1;14/04/1998;manchester_united
+Portero;Tom Heaton;Inglaterra;;22;15/04/1986;manchester_united
+Defensa central;Leny Yoro;Francia;Costa de Marfil;15;13/11/2005;manchester_united
+Defensa central;Matthijs de Ligt;Países Bajos;;4;12/08/1999;manchester_united
+Defensa central;Lisandro Martínez;Argentina;;6;18/01/1998;manchester_united
+Defensa central;Ayden Heaven;Inglaterra;Ghana;26;22/09/2006;manchester_united
+Defensa central;Harry Maguire;Inglaterra;;5;05/03/1993;manchester_united
+Defensa central;Tyler Fredricson;Inglaterra;;33;23/02/2005;manchester_united
+Lateral izquierdo;Patrick Dorgu;Dinamarca;Nigeria;13;26/10/2004;manchester_united
+Lateral izquierdo;Luke Shaw;Inglaterra;;23;12/07/1995;manchester_united
+Lateral izquierdo;Tyrell Malacia;Países Bajos;Curazao;12;17/08/1999;manchester_united
+Lateral derecho;Diogo Dalot;Portugal;;2;18/03/1999;manchester_united
+Lateral derecho;Noussair Mazraoui;Marruecos;Países Bajos;3;14/11/1997;manchester_united
+Pivote;Manuel Ugarte;Uruguay;;25;11/04/2001;manchester_united
+Pivote;Casemiro;Brasil;España;18;23/02/1992;manchester_united
+Mediocentro;Kobbie Mainoo;Inglaterra;Ghana;37;19/04/2005;manchester_united
+Mediocentro ofensivo;Bruno Fernandes;Portugal;;8;08/09/1994;manchester_united
+Mediocentro ofensivo;Mason Mount;Inglaterra;;7;10/01/1999;manchester_united
+Extremo derecho;Bryan Mbeumo;Camerún;Francia;19;07/08/1999;manchester_united
+Extremo derecho;Amad Diallo;Costa de Marfil;Italia;16;11/07/2002;manchester_united
+Delantero centro;Matheus Cunha;Brasil;;10;27/05/1999;manchester_united
+Delantero centro;Benjamin Sesko;Eslovenia;;30;31/05/2003;manchester_united
+Delantero centro;Joshua Zirkzee;Países Bajos;Nigeria;11;22/05/2001;manchester_united
+Delantero centro;Chido Obi;Dinamarca;Nigeria;32;29/11/2007;manchester_united
+Portero;Aaron Ramsdale;Inglaterra;;32;14/05/1998;newcastle_united
+Portero;Nick Pope;Inglaterra;;1;19/04/1992;newcastle_united
+Portero;Mark Gillespie;Inglaterra;;29;27/03/1992;newcastle_united
+Portero;John Ruddy;Inglaterra;;26;24/10/1986;newcastle_united
+Defensa central;Malick Thiaw;Alemania;Finlandia;12;08/08/2001;newcastle_united
+Defensa central;Sven Botman;Países Bajos;;4;12/01/2000;newcastle_united
+Defensa central;Fabian Schär;Suiza;;5;20/12/1991;newcastle_united
+Defensa central;Dan Burn;Inglaterra;;33;09/05/1992;newcastle_united
+Lateral izquierdo;Lewis Hall;Inglaterra;;3;08/09/2004;newcastle_united
+Lateral izquierdo;Alex Murphy;Irlanda;;37;25/06/2004;newcastle_united
+Lateral derecho;Tino Livramento;Inglaterra;Escocia;21;12/11/2002;newcastle_united
+Lateral derecho;Kieran Trippier;Inglaterra;;2;19/09/1990;newcastle_united
+Lateral derecho;Emil Krafth;Suecia;;17;02/08/1994;newcastle_united
+Pivote;Sandro Tonali;Italia;;8;08/05/2000;newcastle_united
+Mediocentro;Bruno Guimarães;Brasil;España;39;16/11/1997;newcastle_united
+Mediocentro;Jacob Ramsey;Inglaterra;;41;28/05/2001;newcastle_united
+Mediocentro;Joelinton;Brasil;;7;14/08/1996;newcastle_united
+Mediocentro;Lewis Miley;Inglaterra;;67;01/05/2006;newcastle_united
+Mediocentro;Joe Willock;Inglaterra;Montserrat;28;20/08/1999;newcastle_united
+Extremo izquierdo;Anthony Gordon;Inglaterra;;10;24/02/2001;newcastle_united
+Extremo izquierdo;Harvey Barnes;Inglaterra;Escocia;11;09/12/1997;newcastle_united
+Extremo derecho;Anthony Elanga;Suecia;Camerún;20;27/04/2002;newcastle_united
+Extremo derecho;Jacob Murphy;Inglaterra;Irlanda;23;24/02/1995;newcastle_united
+Delantero centro;Nick Woltemade;Alemania;;27;14/02/2002;newcastle_united
+Delantero centro;Yoane Wissa;RD del Congo;Francia;9;03/09/1996;newcastle_united
+Delantero centro;William Osula;Dinamarca;Inglaterra;18;04/08/2003;newcastle_united
+Portero;John Victor;Brasil;Portugal;13;13/02/1996;nottingham_forest
+Portero;Stefan Ortega;Alemania;España;27;06/11/1992;nottingham_forest
+Portero;Matz Sels;Bélgica;;26;26/02/1992;nottingham_forest
+Portero;Angus Gunn;Escocia;Inglaterra;18;22/01/1996;nottingham_forest
+Defensa central;Murillo;Brasil;;5;04/07/2002;nottingham_forest
+Defensa central;Nikola Milenković;Serbia;;31;12/10/1997;nottingham_forest
+Defensa central;Morato;Brasil;;4;30/06/2001;nottingham_forest
+Defensa central;Jair Cunha;Brasil;;23;07/03/2005;nottingham_forest
+Defensa central;Zach Abbott;Inglaterra;;44;13/05/2006;nottingham_forest
+Defensa central;Willy Boly;Costa de Marfil;Francia;30;03/02/1991;nottingham_forest
+Lateral izquierdo;Neco Williams;Gales;;3;13/04/2001;nottingham_forest
+Lateral izquierdo;Luca Netz;Alemania;;25;15/05/2003;nottingham_forest
+Lateral derecho;Ola Aina;Nigeria;Inglaterra;34;08/10/1996;nottingham_forest
+Lateral derecho;Nicolò Savona;Italia;;37;19/03/2003;nottingham_forest
+Lateral derecho;Eric da Silva Moreira;Alemania;Portugal;17;03/05/2006;nottingham_forest
+Pivote;Ibrahim Sangaré;Costa de Marfil;;6;02/12/1997;nottingham_forest
+Mediocentro;Elliot Anderson;Inglaterra;Escocia;8;06/11/2002;nottingham_forest
+Mediocentro;Nicolás Domínguez;Argentina;Italia;16;28/06/1998;nottingham_forest
+Mediocentro;Ryan Yates;Inglaterra;;22;21/11/1997;nottingham_forest
+Mediocentro ofensivo;Morgan Gibbs-White;Inglaterra;Jamaica;10;27/01/2000;nottingham_forest
+Mediocentro ofensivo;Omari Hutchinson;Inglaterra;Jamaica;21;30/10/2003;nottingham_forest
+Mediocentro ofensivo;James McAtee;Inglaterra;;24;18/10/2002;nottingham_forest
+Extremo izquierdo;Callum Hudson-Odoi;Inglaterra;Ghana;7;07/11/2000;nottingham_forest
+Extremo derecho;Dan Ndoye;Suiza;Senegal;14;25/10/2000;nottingham_forest
+Extremo derecho;Dilane Bakwa;Francia;RD del Congo;29;26/08/2002;nottingham_forest
+Delantero centro;Lorenzo Lucca;Italia;;20;10/09/2000;nottingham_forest
+Delantero centro;Igor Jesus;Brasil;Emiratos Árabes Unidos;19;25/02/2001;nottingham_forest
+Delantero centro;Taiwo Awoniyi;Nigeria;;9;12/08/1997;nottingham_forest
+Delantero centro;Chris Wood;Nueva Zelanda;;11;07/12/1991;nottingham_forest
+Portero;Emiliano Martínez;Argentina;España;23;02/09/1992;aston_villa
+Portero;Marco Bizot;Países Bajos;;40;10/03/1991;aston_villa
+Defensa central;Ezri Konsa;Inglaterra;RD del Congo;4;23/10/1997;aston_villa
+Defensa central;Pau Torres;España;;14;16/01/1997;aston_villa
+Defensa central;Victor Lindelöf;Suecia;;3;17/07/1994;aston_villa
+Defensa central;Tyrone Mings;Inglaterra;;5;13/03/1993;aston_villa
+Lateral izquierdo;Ian Maatsen;Países Bajos;Surinam;22;10/03/2002;aston_villa
+Lateral izquierdo;Lucas Digne;Francia;;12;20/07/1993;aston_villa
+Lateral derecho;Matty Cash;Polonia;Inglaterra;2;07/08/1997;aston_villa
+Lateral derecho;Andrés García;España;;16;07/02/2003;aston_villa
+Pivote;Amadou Onana;Bélgica;Senegal;24;16/08/2001;aston_villa
+Pivote;Boubacar Kamara;Francia;Senegal;44;23/11/1999;aston_villa
+Pivote;Lamare Bogarde;Países Bajos;Surinam;26;05/01/2004;aston_villa
+Mediocentro;Youri Tielemans;Bélgica;RD del Congo;8;07/05/1997;aston_villa
+Mediocentro;Douglas Luiz;Brasil;;21;09/05/1998;aston_villa
+Mediocentro;John McGinn;Escocia;;7;18/10/1994;aston_villa
+Mediocentro;Ross Barkley;Inglaterra;;6;05/12/1993;aston_villa
+Mediocentro ofensivo;Morgan Rogers;Inglaterra;;27;26/07/2002;aston_villa
+Mediocentro ofensivo;Harvey Elliott;Inglaterra;;9;04/04/2003;aston_villa
+Mediocentro ofensivo;Emiliano Buendía;Argentina;España;10;25/12/1996;aston_villa
+Extremo izquierdo;Jadon Sancho;Inglaterra;Jamaica;19;25/03/2000;aston_villa
+Extremo derecho;Leon Bailey;Jamaica;;31;09/08/1997;aston_villa
+Extremo derecho;Alysson;Brasil;;47;05/05/2006;aston_villa
+Delantero centro;Ollie Watkins;Inglaterra;;11;30/12/1995;aston_villa
+Delantero centro;Tammy Abraham;Inglaterra;Nigeria;18;02/10/1997;aston_villa
+Portero;Dean Henderson;Inglaterra;;1;12/03/1997;crystal_palace
+Portero;Walter Benítez;Argentina;Francia;44;19/01/1993;crystal_palace
+Portero;Remi Matthews;Inglaterra;;31;10/02/1994;crystal_palace
+Defensa central;Maxence Lacroix;Francia;Guadalupe;5;06/04/2000;crystal_palace
+Defensa central;Chris Richards;Estados Unidos;;26;28/03/2000;crystal_palace
+Defensa central;Jaydee Canvot;Francia;Senegal;23;29/07/2006;crystal_palace
+Defensa central;Chadi Riad;Marruecos;España;34;17/06/2003;crystal_palace
+Lateral izquierdo;Tyrick Mitchell;Inglaterra;Jamaica;3;01/09/1999;crystal_palace
+Lateral izquierdo;Borna Sosa;Croacia;Alemania;24;21/01/1998;crystal_palace
+Lateral izquierdo;Rio Cardines;Trinidad y Tobago;Inglaterra;59;01/07/2006;crystal_palace
+Lateral derecho;Daniel Muñoz;Colombia;;2;26/05/1996;crystal_palace
+Lateral derecho;Caleb Kporha;Inglaterra;Ghana;58;15/07/2006;crystal_palace
+Lateral derecho;Nathaniel Clyne;Inglaterra;Granada;17;05/04/1991;crystal_palace
+Pivote;Adam Wharton;Inglaterra;;20;06/02/2004;crystal_palace
+Pivote;Cheick Doucouré;Malí;;28;08/01/2000;crystal_palace
+Pivote;Jefferson Lerma;Colombia;;8;25/10/1994;crystal_palace
+Pivote;Kaden Rodney;Inglaterra;;42;07/10/2004;crystal_palace
+Mediocentro;Will Hughes;Inglaterra;;19;17/04/1995;crystal_palace
+Mediocentro ofensivo;Daichi Kamada;Japón;;18;05/08/1996;crystal_palace
+Mediocentro ofensivo;Justin Devenny;Irlanda del Norte;Escocia;55;11/10/2003;crystal_palace
+Extremo derecho;Ismaïla Sarr;Senegal;;7;25/02/1998;crystal_palace
+Extremo derecho;Yéremy Pino;España;;10;20/10/2002;crystal_palace
+Extremo derecho;Brennan Johnson;Gales;Inglaterra;11;23/05/2001;crystal_palace
+Extremo derecho;Evann Guessand;Costa de Marfil;Francia;29;01/07/2001;crystal_palace
+Delantero centro;Jørgen Strand Larsen;Noruega;;22;06/02/2000;crystal_palace
+Delantero centro;Jean-Philippe Mateta;Francia;RD del Congo;14;28/06/1997;crystal_palace
+Delantero centro;Christantus Uche;Nigeria;;12;19/05/2003;crystal_palace
+Delantero centro;Eddie Nketiah;Inglaterra;Ghana;9;30/05/1999;crystal_palace
+Portero;Djordje Petrovic;Serbia;;1;08/10/1999;afc_bournemouth
+Portero;Christos Mandas;Grecia;;29;17/09/2001;afc_bournemouth
+Portero;Fraser Forster;Inglaterra;;17;17/03/1988;afc_bournemouth
+Defensa central;Bafodé Diakité;Francia;Guinea;18;06/01/2001;afc_bournemouth
+Defensa central;Marcos Senesi;Argentina;Italia;5;10/05/1997;afc_bournemouth
+Defensa central;Veljko Milosavljevic;Serbia;;44;28/06/2007;afc_bournemouth
+Defensa central;James Hill;Inglaterra;;23;10/01/2002;afc_bournemouth
+Defensa central;Matai Akinmboni;Estados Unidos;Nigeria;45;17/10/2006;afc_bournemouth
+Lateral izquierdo;Adrien Truffert;Francia;Bélgica;3;20/11/2001;afc_bournemouth
+Lateral izquierdo;Julio Soler;Argentina;Paraguay;6;16/02/2005;afc_bournemouth
+Lateral derecho;Álex Jiménez;España;;20;08/05/2005;afc_bournemouth
+Lateral derecho;Adam Smith;Inglaterra;;15;29/04/1991;afc_bournemouth
+Pivote;Tyler Adams;Estados Unidos;;12;14/02/1999;afc_bournemouth
+Mediocentro;Alex Scott;Inglaterra;Guernsey;8;21/08/2003;afc_bournemouth
+Mediocentro;Lewis Cook;Inglaterra;;4;03/02/1997;afc_bournemouth
+Mediocentro;Alex Tóth;Hungría;;27;23/10/2005;afc_bournemouth
+Mediocentro;Ryan Christie;Escocia;;10;22/02/1995;afc_bournemouth
+Mediocentro ofensivo;Justin Kluivert;Países Bajos;Surinam;19;05/05/1999;afc_bournemouth
+Mediocentro ofensivo;Marcus Tavernier;Inglaterra;;16;22/03/1999;afc_bournemouth
+Extremo izquierdo;Amine Adli;Marruecos;Francia;21;10/05/2000;afc_bournemouth
+Extremo derecho;Rayan;Brasil;;37;03/08/2006;afc_bournemouth
+Extremo derecho;Ben Gannon-Doak;Escocia;;11;11/11/2005;afc_bournemouth
+Extremo derecho;David Brooks;Gales;Inglaterra;7;08/07/1997;afc_bournemouth
+Delantero centro;Junior Kroupi;Francia;Costa de Marfil;22;23/06/2006;afc_bournemouth
+Delantero centro;Evanilson;Brasil;;9;06/10/1999;afc_bournemouth
+Delantero centro;Enes Ünal;Turquía;;26;10/05/1997;afc_bournemouth
+Portero;Bart Verbruggen;Países Bajos;;1;18/08/2002;brighton_amp_hove_albion
+Portero;Jason Steele;Inglaterra;Escocia;23;18/08/1990;brighton_amp_hove_albion
+Portero;Tom McGill;Canadá;Inglaterra;38;25/03/2000;brighton_amp_hove_albion
+Defensa central;Jan Paul van Hecke;Países Bajos;;6;08/06/2000;brighton_amp_hove_albion
+Defensa central;Olivier Boscagli;Francia;Mónaco;21;18/11/1997;brighton_amp_hove_albion
+Defensa central;Igor Julio;Brasil;;3;07/02/1998;brighton_amp_hove_albion
+Defensa central;Adam Webster;Inglaterra;;4;04/01/1995;brighton_amp_hove_albion
+Defensa central;Lewis Dunk;Inglaterra;;5;21/11/1991;brighton_amp_hove_albion
+Lateral izquierdo;Ferdi Kadıoğlu;Turquía;Países Bajos;24;07/10/1999;brighton_amp_hove_albion
+Lateral izquierdo;Maxim De Cuyper;Bélgica;;29;22/12/2000;brighton_amp_hove_albion
+Lateral derecho;Joël Veltman;Países Bajos;;34;15/01/1992;brighton_amp_hove_albion
+Pivote;Carlos Baleba;Camerún;;17;03/01/2004;brighton_amp_hove_albion
+Pivote;Mats Wieffer;Países Bajos;;27;16/11/1999;brighton_amp_hove_albion
+Pivote;Jack Hinshelwood;Inglaterra;;13;11/04/2005;brighton_amp_hove_albion
+Mediocentro;Yasin Ayari;Suecia;Túnez;26;06/10/2003;brighton_amp_hove_albion
+Mediocentro;Diego Gómez;Paraguay;;25;27/03/2003;brighton_amp_hove_albion
+Mediocentro;Matt O'Riley;Dinamarca;Inglaterra;33;21/11/2000;brighton_amp_hove_albion
+Mediocentro;Pascal Groß;Alemania;;30;15/06/1991;brighton_amp_hove_albion
+Mediocentro;James Milner;Inglaterra;;20;04/01/1986;brighton_amp_hove_albion
+Extremo izquierdo;Kaoru Mitoma;Japón;;22;20/05/1997;brighton_amp_hove_albion
+Extremo derecho;Yankuba Minteh;Gambia;;11;22/07/2004;brighton_amp_hove_albion
+Extremo derecho;Solly March;Inglaterra;;7;20/07/1994;brighton_amp_hove_albion
+Delantero centro;Georginio Rutter;Francia;Martinica;10;20/04/2002;brighton_amp_hove_albion
+Delantero centro;Charalampos Kostoulas;Grecia;;19;30/05/2007;brighton_amp_hove_albion
+Delantero centro;Stefanos Tzimas;Grecia;;9;06/01/2006;brighton_amp_hove_albion
+Delantero centro;Danny Welbeck;Inglaterra;Ghana;18;26/11/1990;brighton_amp_hove_albion
+Portero;Caoimhín Kelleher;Irlanda;;1;23/11/1998;fc_brentford
+Portero;Hákon Valdimarsson;Islandia;;12;13/10/2001;fc_brentford
+Portero;Ellery Balcombe;Inglaterra;San Vicente y las Granadinas;31;15/10/1999;fc_brentford
+Portero;Julian Eyestone;Estados Unidos;;41;21/04/2006;fc_brentford
+Defensa central;Sepp van den Berg;Países Bajos;;4;20/12/2001;fc_brentford
+Defensa central;Nathan Collins;Irlanda;;22;30/04/2001;fc_brentford
+Defensa central;Kristoffer Ajer;Noruega;;20;17/04/1998;fc_brentford
+Defensa central;Ethan Pinnock;Jamaica;Inglaterra;5;29/05/1993;fc_brentford
+Lateral izquierdo;Rico Henry;Jamaica;Inglaterra;3;08/07/1997;fc_brentford
+Lateral derecho;Michael Kayode;Italia;Nigeria;33;10/07/2004;fc_brentford
+Lateral derecho;Aaron Hickey;Escocia;;2;10/06/2002;fc_brentford
+Pivote;Vitaly Janelt;Alemania;Bosnia y Herzegovina;27;10/05/1998;fc_brentford
+Pivote;Jordan Henderson;Inglaterra;;6;17/06/1990;fc_brentford
+Mediocentro;Yegor Yarmolyuk;Ucrania;;18;01/03/2004;fc_brentford
+Mediocentro;Mathias Jensen;Dinamarca;;8;01/01/1996;fc_brentford
+Mediocentro;Josh Dasilva;Inglaterra;Angola;10;23/10/1998;fc_brentford
+Interior izquierdo;Keane Lewis-Potter;Inglaterra;;23;22/02/2001;fc_brentford
+Mediocentro ofensivo;Mikkel Damsgaard;Dinamarca;;24;03/07/2000;fc_brentford
+Mediocentro ofensivo;Antoni Milambo;Países Bajos;RD del Congo;17;03/04/2005;fc_brentford
+Mediocentro ofensivo;Fábio Carvalho;Portugal;;14;30/08/2002;fc_brentford
+Extremo izquierdo;Kevin Schade;Alemania;Nigeria;7;27/11/2001;fc_brentford
+Extremo izquierdo;Reiss Nelson;Inglaterra;Jamaica;11;10/12/1999;fc_brentford
+Extremo derecho;Dango Ouattara;Burkina Faso;;19;11/02/2002;fc_brentford
+Extremo derecho;Romelle Donovan;Inglaterra;San Cristóbal y Nieves;45;30/11/2006;fc_brentford
+Delantero centro;Igor Thiago;Brasil;Bulgaria;9;26/06/2001;fc_brentford
+Delantero centro;Kaye Furo;Bélgica;Nigeria;47;06/02/2007;fc_brentford
+Portero;Jordan Pickford;Inglaterra;;1;07/03/1994;fc_everton
+Portero;Mark Travers;Irlanda;;12;18/05/1999;fc_everton
+Portero;Tom King;Gales;Inglaterra;31;09/03/1995;fc_everton
+Defensa central;Jarrad Branthwaite;Inglaterra;;32;27/06/2002;fc_everton
+Defensa central;James Tarkowski;Inglaterra;Polonia;6;19/11/1992;fc_everton
+Defensa central;Michael Keane;Inglaterra;Irlanda;5;11/01/1993;fc_everton
+Lateral izquierdo;Vitaliy Mykolenko;Ucrania;;16;29/05/1999;fc_everton
+Lateral izquierdo;Adam Aznou;Marruecos;España;39;02/06/2006;fc_everton
+Lateral derecho;Jake O'Brien;Irlanda;;15;15/05/2001;fc_everton
+Lateral derecho;Nathan Patterson;Escocia;;2;16/10/2001;fc_everton
+Lateral derecho;Séamus Coleman;Irlanda;;23;11/10/1988;fc_everton
+Pivote;James Garner;Inglaterra;;37;13/03/2001;fc_everton
+Pivote;Idrissa Gueye;Senegal;;27;26/09/1989;fc_everton
+Mediocentro;Kiernan Dewsbury-Hall;Inglaterra;Irlanda;22;06/09/1998;fc_everton
+Mediocentro;Carlos Alcaraz;Argentina;;24;30/11/2002;fc_everton
+Mediocentro;Tim Iroegbunam;Inglaterra;Nigeria;42;30/06/2003;fc_everton
+Mediocentro;Harrison Armstrong;Inglaterra;;45;19/01/2007;fc_everton
+Mediocentro ofensivo;Merlin Röhl;Alemania;;34;05/07/2002;fc_everton
+Extremo izquierdo;Jack Grealish;Inglaterra;Irlanda;18;10/09/1995;fc_everton
+Extremo izquierdo;Tyrique George;Inglaterra;Nigeria;19;04/02/2006;fc_everton
+Extremo izquierdo;Dwight McNeil;Inglaterra;Jamaica;7;22/11/1999;fc_everton
+Extremo derecho;Iliman Ndiaye;Senegal;Francia;10;06/03/2000;fc_everton
+Extremo derecho;Tyler Dibling;Inglaterra;;20;17/02/2006;fc_everton
+Delantero centro;Thierno Barry;Francia;Guinea;11;21/10/2002;fc_everton
+Delantero centro;Beto;Guinea-Bissau;Portugal;9;31/01/1998;fc_everton
+Portero;Bernd Leno;Alemania;;1;04/03/1992;fc_fulham
+Portero;Benjamin Lecomte;Francia;;23;26/04/1991;fc_fulham
+Defensa central;Calvin Bassey;Nigeria;Inglaterra;3;31/12/1999;fc_fulham
+Defensa central;Joachim Andersen;Dinamarca;;5;31/05/1996;fc_fulham
+Defensa central;Issa Diop;Marruecos;Francia;31;09/01/1997;fc_fulham
+Defensa central;Jorge Cuenca;España;;15;17/11/1999;fc_fulham
+Lateral izquierdo;Antonee Robinson;Estados Unidos;Inglaterra;33;08/08/1997;fc_fulham
+Lateral izquierdo;Ryan Sessegnon;Inglaterra;;30;18/05/2000;fc_fulham
+Lateral derecho;Kenny Tete;Países Bajos;Mozambique;2;09/10/1995;fc_fulham
+Lateral derecho;Timothy Castagne;Bélgica;;21;05/12/1995;fc_fulham
+Pivote;Sander Berge;Noruega;;16;14/02/1998;fc_fulham
+Mediocentro;Saša Lukić;Serbia;;20;13/08/1996;fc_fulham
+Mediocentro;Harrison Reed;Inglaterra;;6;27/01/1995;fc_fulham
+Mediocentro;Tom Cairney;Escocia;Inglaterra;10;20/01/1991;fc_fulham
+Mediocentro ofensivo;Emile Smith Rowe;Inglaterra;;32;28/07/2000;fc_fulham
+Mediocentro ofensivo;Josh King;Inglaterra;;24;03/01/2007;fc_fulham
+Extremo izquierdo;Kevin;Brasil;;22;04/01/2003;fc_fulham
+Extremo izquierdo;Alex Iwobi;Nigeria;Inglaterra;17;03/05/1996;fc_fulham
+Extremo derecho;Oscar Bobb;Noruega;Gambia;14;12/07/2003;fc_fulham
+Extremo derecho;Harry Wilson;Gales;Inglaterra;8;22/03/1997;fc_fulham
+Extremo derecho;Samuel Chukwueze;Nigeria;;19;22/05/1999;fc_fulham
+Delantero centro;Rodrigo Muniz;Brasil;;9;04/05/2001;fc_fulham
+Delantero centro;Raúl Jiménez;México;;7;05/05/1991;fc_fulham
+Delantero centro;Jonah Kusi-Asare;Suecia;Ghana;18;04/07/2007;fc_fulham
+Portero;Robin Roefs;Países Bajos;;22;17/01/2003;afc_sunderland
+Portero;Melker Ellborg;Suecia;;31;22/05/2003;afc_sunderland
+Portero;Simon Moore;Inglaterra;;21;19/05/1990;afc_sunderland
+Defensa central;Dan Ballard;Irlanda del Norte;Inglaterra;5;22/09/1999;afc_sunderland
+Defensa central;Omar Alderete;Paraguay;;15;26/12/1996;afc_sunderland
+Defensa central;Luke O'Nien;Inglaterra;;13;21/11/1994;afc_sunderland
+Lateral izquierdo;Dennis Cirkin;Letonia;Inglaterra;3;06/04/2002;afc_sunderland
+Lateral izquierdo;Reinildo Mandava;Mozambique;;17;21/01/1994;afc_sunderland
+Lateral derecho;Trai Hume;Irlanda del Norte;;32;18/03/2002;afc_sunderland
+Lateral derecho;Lutsharel Geertruida;Países Bajos;Curazao;6;18/07/2000;afc_sunderland
+Lateral derecho;Nordi Mukiele;Francia;RD del Congo;20;01/11/1997;afc_sunderland
+Pivote;Granit Xhaka;Suiza;;34;27/09/1992;afc_sunderland
+Mediocentro;Habib Diarra;Senegal;Francia;19;03/01/2004;afc_sunderland
+Mediocentro;Noah Sadiki;RD del Congo;Bélgica;27;17/12/2004;afc_sunderland
+Mediocentro;Enzo Le Fée;Francia;;28;03/02/2000;afc_sunderland
+Interior derecho;Abdoullah Ba;Francia;Mauritania;46;31/07/2003;afc_sunderland
+Mediocentro ofensivo;Chris Rigg;Inglaterra;;11;18/06/2007;afc_sunderland
+Mediocentro ofensivo;Milan Aleksic;Serbia;;30;30/08/2005;afc_sunderland
+Mediocentro ofensivo;Harrison Jones;Inglaterra;;50;25/12/2004;afc_sunderland
+Extremo izquierdo;Nilson Angulo;Ecuador;;10;19/06/2003;afc_sunderland
+Extremo izquierdo;Romaine Mundle;Inglaterra;Jamaica;14;24/04/2003;afc_sunderland
+Extremo derecho;Chemsdine Talbi;Marruecos;Bélgica;7;09/05/2005;afc_sunderland
+Extremo derecho;Bertrand Traoré;Burkina Faso;;25;06/09/1995;afc_sunderland
+Extremo derecho;Jocelin Ta Bi;Costa de Marfil;;37;09/02/2005;afc_sunderland
+Delantero centro;Brian Brobbey;Países Bajos;Ghana;9;01/02/2002;afc_sunderland
+Delantero centro;Eliezer Mayenda;España;Francia;12;08/05/2005;afc_sunderland
+Delantero centro;Wilson Isidor;Haití;Francia;18;27/08/2000;afc_sunderland
+Delantero centro;Ahmed Abdullahi;Nigeria;;29;19/06/2004;afc_sunderland
+Portero;Mads Hermansen;Dinamarca;;1;11/07/2000;west_ham_united
+Portero;Alphonse Areola;Francia;Filipinas;23;27/02/1993;west_ham_united
+Portero;Lukasz Fabianski;Polonia;;22;18/04/1985;west_ham_united
+Defensa central;Jean-Clair Todibo;Francia;Guayana Francesa;25;30/12/1999;west_ham_united
+Defensa central;Maximilian Kilman;Inglaterra;Ucrania;3;23/05/1997;west_ham_united
+Defensa central;Axel Disasi;Francia;RD del Congo;4;11/03/1998;west_ham_united
+Defensa central;Konstantinos Mavropanos;Grecia;;15;11/12/1997;west_ham_united
+Defensa central;Ezra Mayers;Inglaterra;Alemania;63;16/01/2007;west_ham_united
+Lateral izquierdo;El Hadji Malick Diouf;Senegal;;12;28/12/2004;west_ham_united
+Lateral izquierdo;Oliver Scarles;Inglaterra;;30;12/12/2005;west_ham_united
+Lateral derecho;Aaron Wan-Bissaka;RD del Congo;Inglaterra;29;26/11/1997;west_ham_united
+Lateral derecho;Kyle Walker-Peters;Inglaterra;Jamaica;2;13/04/1997;west_ham_united
+Pivote;Soungoutou Magassa;Francia;Malí;27;08/10/2003;west_ham_united
+Pivote;Tomáš Souček;República Checa;;28;27/02/1995;west_ham_united
+Pivote;Freddie Potts;Inglaterra;;32;12/09/2003;west_ham_united
+Pivote;Mohamadou Kanté;Francia;Senegal;55;20/09/2005;west_ham_united
+Mediocentro;Mateus Fernandes;Portugal;;18;10/07/2004;west_ham_united
+Extremo izquierdo;Crysencio Summerville;Países Bajos;Surinam;7;30/10/2001;west_ham_united
+Extremo izquierdo;Keiber Lamadrid;Venezuela;Colombia;21;18/11/2003;west_ham_united
+Extremo derecho;Jarrod Bowen;Inglaterra;;20;20/12/1996;west_ham_united
+Extremo derecho;Adama Traoré;España;Malí;17;25/01/1996;west_ham_united
+Delantero centro;Taty Castellanos;Argentina;;11;03/10/1998;west_ham_united
+Delantero centro;Pablo;Brasil;Portugal;19;02/01/2004;west_ham_united
+Delantero centro;Callum Wilson;Inglaterra;Irlanda;9;27/02/1992;west_ham_united
+Portero;Lucas Perri;Brasil;Italia;1;10/12/1997;leeds_united
+Portero;Illan Meslier;Francia;;16;02/03/2000;leeds_united
+Portero;Karl Darlow;Gales;Inglaterra;26;08/10/1990;leeds_united
+Portero;Alex Cairns;Inglaterra;;21;04/01/1993;leeds_united
+Defensa central;Pascal Struijk;Países Bajos;Bélgica;5;11/08/1999;leeds_united
+Defensa central;Jaka Bijol;Eslovenia;;15;05/02/1999;leeds_united
+Defensa central;Joe Rodon;Gales;;6;22/10/1997;leeds_united
+Defensa central;Sebastiaan Bornauw;Bélgica;;23;22/03/1999;leeds_united
+Lateral izquierdo;Gabriel Gudmundsson;Suecia;;3;29/04/1999;leeds_united
+Lateral izquierdo;Sam Byram;Inglaterra;;25;16/09/1993;leeds_united
+Lateral derecho;Jayden Bogle;Inglaterra;;2;27/07/2000;leeds_united
+Lateral derecho;James Justin;Inglaterra;Santa Lucía;24;23/02/1998;leeds_united
+Pivote;Ethan Ampadu;Gales;Inglaterra;4;14/09/2000;leeds_united
+Pivote;Anton Stach;Alemania;;18;15/11/1998;leeds_united
+Pivote;Ilia Gruev;Bulgaria;Alemania;44;06/05/2000;leeds_united
+Pivote;Charlie Crew;Gales;;50;15/06/2006;leeds_united
+Mediocentro;Sean Longstaff;Inglaterra;;8;30/10/1997;leeds_united
+Mediocentro;Ao Tanaka;Japón;;22;10/09/1998;leeds_united
+Mediocentro ofensivo;Brenden Aaronson;Estados Unidos;;11;22/10/2000;leeds_united
+Mediocentro ofensivo;Facundo Buonanotte;Argentina;Italia;40;23/12/2004;leeds_united
+Extremo izquierdo;Noah Okafor;Suiza;Nigeria;19;24/05/2000;leeds_united
+Extremo derecho;Wilfried Gnonto;Italia;Costa de Marfil;29;05/11/2003;leeds_united
+Extremo derecho;Daniel James;Gales;Inglaterra;7;10/11/1997;leeds_united
+Delantero centro;Dominic Calvert-Lewin;Inglaterra;;9;16/03/1997;leeds_united
+Delantero centro;Joël Piroe;Surinam;Países Bajos;10;02/08/1999;leeds_united
+Delantero centro;Lukas Nmecha;Alemania;Inglaterra;14;14/12/1998;leeds_united
+Portero;José Sá;Portugal;;1;17/01/1993;wolverhampton_wanderers
+Portero;Sam Johnstone;Inglaterra;;31;25/03/1993;wolverhampton_wanderers
+Portero;Daniel Bentley;Inglaterra;;25;13/07/1993;wolverhampton_wanderers
+Defensa central;Ladislav Krejčí;República Checa;;37;20/04/1999;wolverhampton_wanderers
+Defensa central;Toti;Portugal;Guinea-Bissau;24;16/01/1999;wolverhampton_wanderers
+Defensa central;Yerson Mosquera;Colombia;;15;02/05/2001;wolverhampton_wanderers
+Defensa central;Santiago Bueno;Uruguay;Italia;4;09/11/1998;wolverhampton_wanderers
+Lateral izquierdo;Hugo Bueno;España;;3;18/09/2002;wolverhampton_wanderers
+Lateral izquierdo;David Møller Wolfe;Noruega;;6;23/04/2002;wolverhampton_wanderers
+Lateral derecho;Jackson Tchatchoua;Camerún;Bélgica;38;14/09/2001;wolverhampton_wanderers
+Lateral derecho;Pedro Lima;Brasil;;17;01/07/2006;wolverhampton_wanderers
+Lateral derecho;Matt Doherty;Irlanda;;2;16/01/1992;wolverhampton_wanderers
+Pivote;André;Brasil;;7;16/07/2001;wolverhampton_wanderers
+Mediocentro;João Gomes;Brasil;;8;12/02/2001;wolverhampton_wanderers
+Mediocentro;Jean-Ricner Bellegarde;Haití;Francia;27;27/06/1998;wolverhampton_wanderers
+Interior izquierdo;Rodrigo Gomes;Portugal;;21;07/07/2003;wolverhampton_wanderers
+Mediocentro ofensivo;Mateus Mané;Portugal;Inglaterra;36;16/09/2007;wolverhampton_wanderers
+Mediocentro ofensivo;Angel Gomes;Inglaterra;Portugal;47;31/08/2000;wolverhampton_wanderers
+Extremo izquierdo;Enso González;Paraguay;;30;20/01/2005;wolverhampton_wanderers
+Delantero centro;Tolu Arokodare;Nigeria;;14;23/11/2000;wolverhampton_wanderers
+Delantero centro;Adam Armstrong;Inglaterra;;9;10/02/1997;wolverhampton_wanderers
+Delantero centro;Hee-chan Hwang;Corea del Sur;;11;26/01/1996;wolverhampton_wanderers
+Delantero centro;Nathan Fraser;Irlanda;Inglaterra;63;22/02/2005;wolverhampton_wanderers
+Portero;Max Weiß;Alemania;;13;15/06/2004;fc_burnley
+Portero;Martin Dúbravka;Eslovaquia;;1;15/01/1989;fc_burnley
+Portero;Václav Hladký;República Checa;;32;14/11/1990;fc_burnley
+Defensa central;Maxime Estève;Francia;;5;26/05/2002;fc_burnley
+Defensa central;Bashir Humphreys;Inglaterra;Uganda;12;15/03/2003;fc_burnley
+Defensa central;Hjalmar Ekdal;Suecia;;18;21/10/1998;fc_burnley
+Defensa central;Axel Tuanzebe;RD del Congo;Inglaterra;6;14/11/1997;fc_burnley
+Defensa central;Joe Worrall;Inglaterra;;4;10/01/1997;fc_burnley
+Defensa central;Jordan Beyer;Alemania;;36;19/05/2000;fc_burnley
+Lateral izquierdo;Quilindschy Hartman;Países Bajos;Curazao;3;14/11/2001;fc_burnley
+Lateral izquierdo;Lucas Pires;Brasil;;23;24/03/2001;fc_burnley
+Lateral derecho;Kyle Walker;Inglaterra;;2;28/05/1990;fc_burnley
+Lateral derecho;Connor Roberts;Gales;;14;23/09/1995;fc_burnley
+Pivote;Lesley Ugochukwu;Francia;Nigeria;8;26/03/2004;fc_burnley
+Pivote;Florentino;Portugal;Angola;16;19/08/1999;fc_burnley
+Mediocentro;James Ward-Prowse;Inglaterra;;20;01/11/1994;fc_burnley
+Mediocentro;Josh Cullen;Irlanda;Inglaterra;24;07/04/1996;fc_burnley
+Mediocentro;Josh Laurent;Inglaterra;;29;06/05/1995;fc_burnley
+Mediocentro ofensivo;Hannibal;Túnez;Francia;28;21/01/2003;fc_burnley
+Mediocentro ofensivo;Mike Tresor;Bélgica;Burundi;31;28/05/1999;fc_burnley
+Extremo izquierdo;Jaidon Anthony;Inglaterra;Jamaica;11;01/12/1999;fc_burnley
+Extremo izquierdo;Jacob Bruun Larsen;Dinamarca;;7;19/09/1998;fc_burnley
+Extremo derecho;Loum Tchaouna;Francia;Chad;17;08/09/2003;fc_burnley
+Extremo derecho;Marcus Edwards;Inglaterra;Chipre;10;03/12/1998;fc_burnley
+Delantero centro;Zian Flemming;Países Bajos;;19;01/08/1998;fc_burnley
+Delantero centro;Lyle Foster;Sudáfrica;;9;03/09/2000;fc_burnley
+Delantero centro;Zeki Amdouni;Suiza;Túnez;25;04/12/2000;fc_burnley
+Delantero centro;Armando Broja;Albania;Inglaterra;27;10/09/2001;fc_burnley
+Delantero centro;Ashley Barnes;Inglaterra;;35;30/10/1989;fc_burnley

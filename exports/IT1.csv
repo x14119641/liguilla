@@ -1,0 +1,535 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Josep Martínez;España;;13;27/05/1998;inter_mailand
+Portero;Yann Sommer;Suiza;;1;17/12/1988;inter_mailand
+Portero;Raffaele Di Gennaro;Italia;;12;03/10/1993;inter_mailand
+Defensa central;Alessandro Bastoni;Italia;;95;13/04/1999;inter_mailand
+Defensa central;Yann Bisseck;Alemania;Camerún;31;29/11/2000;inter_mailand
+Defensa central;Manuel Akanji;Suiza;Nigeria;25;19/07/1995;inter_mailand
+Defensa central;Stefan de Vrij;Países Bajos;;6;05/02/1992;inter_mailand
+Defensa central;Francesco Acerbi;Italia;;15;10/02/1988;inter_mailand
+Lateral izquierdo;Federico Dimarco;Italia;;32;10/11/1997;inter_mailand
+Lateral izquierdo;Carlos Augusto;Brasil;Italia;30;07/01/1999;inter_mailand
+Lateral derecho;Denzel Dumfries;Países Bajos;Aruba;2;18/04/1996;inter_mailand
+Lateral derecho;Matteo Darmian;Italia;;36;02/12/1989;inter_mailand
+Pivote;Hakan Çalhanoğlu;Turquía;Alemania;20;08/02/1994;inter_mailand
+Mediocentro;Nicolò Barella;Italia;;23;07/02/1997;inter_mailand
+Mediocentro;Petar Sučić;Croacia;Bosnia y Herzegovina;8;25/10/2003;inter_mailand
+Mediocentro;Davide Frattesi;Italia;;16;22/09/1999;inter_mailand
+Mediocentro;Andy Diouf;Francia;Senegal;17;17/05/2003;inter_mailand
+Mediocentro;Piotr Zieliński;Polonia;Italia;7;20/05/1994;inter_mailand
+Mediocentro;Henrikh Mkhitaryan;Armenia;;22;21/01/1989;inter_mailand
+Interior derecho;Luis Henrique;Brasil;;11;14/12/2001;inter_mailand
+Delantero centro;Lautaro Martínez;Argentina;;10;22/08/1997;inter_mailand
+Delantero centro;Marcus Thuram;Francia;Guadalupe;9;06/08/1997;inter_mailand
+Delantero centro;Pio Esposito;Italia;;94;28/06/2005;inter_mailand
+Delantero centro;Ange-Yoan Bonny;Costa de Marfil;Francia;14;25/10/2003;inter_mailand
+Portero;Michele Di Gregorio;Italia;;16;27/07/1997;juventus_turin
+Portero;Mattia Perin;Italia;;1;10/11/1992;juventus_turin
+Portero;Carlo Pinsoglio;Italia;;23;16/03/1990;juventus_turin
+Defensa central;Bremer;Brasil;;3;18/03/1997;juventus_turin
+Defensa central;Pierre Kalulu;Francia;RD del Congo;15;05/06/2000;juventus_turin
+Defensa central;Lloyd Kelly;Inglaterra;Jamaica;6;06/10/1998;juventus_turin
+Defensa central;Federico Gatti;Italia;;4;24/06/1998;juventus_turin
+Lateral izquierdo;Andrea Cambiaso;Italia;;27;20/02/2000;juventus_turin
+Lateral izquierdo;Juan Cabal;Colombia;;32;08/01/2001;juventus_turin
+Lateral derecho;Emil Holm;Suecia;;2;13/05/2000;juventus_turin
+Pivote;Manuel Locatelli;Italia;;5;08/01/1998;juventus_turin
+Mediocentro;Khéphren Thuram;Francia;Guadalupe;19;26/03/2001;juventus_turin
+Mediocentro;Weston McKennie;Estados Unidos;;22;28/08/1998;juventus_turin
+Mediocentro;Fabio Miretti;Italia;;21;03/08/2003;juventus_turin
+Interior izquierdo;Filip Kostić;Serbia;;18;01/11/1992;juventus_turin
+Mediocentro ofensivo;Teun Koopmeiners;Países Bajos;;8;28/02/1998;juventus_turin
+Mediocentro ofensivo;Vasilije Adžić;Montenegro;;17;12/05/2006;juventus_turin
+Extremo izquierdo;Kenan Yıldız;Turquía;Alemania;10;04/05/2005;juventus_turin
+Extremo izquierdo;Jérémie Boga;Costa de Marfil;Francia;13;03/01/1997;juventus_turin
+Extremo derecho;Francisco Conceição;Portugal;;7;14/12/2002;juventus_turin
+Extremo derecho;Edon Zhegrova;Kosovo;Albania;11;31/03/1999;juventus_turin
+Delantero centro;Dušan Vlahović;Serbia;;9;28/01/2000;juventus_turin
+Delantero centro;Jonathan David;Canadá;Estados Unidos;30;14/01/2000;juventus_turin
+Delantero centro;Loïs Openda;Bélgica;Marruecos;20;16/02/2000;juventus_turin
+Delantero centro;Arkadiusz Milik;Polonia;;14;28/02/1994;juventus_turin
+Portero;Mike Maignan;Francia;Guayana Francesa;16;03/07/1995;ac_mailand
+Portero;Pietro Terracciano;Italia;;1;08/03/1990;ac_mailand
+Portero;Lorenzo Torriani;Italia;;96;31/01/2005;ac_mailand
+Defensa central;Strahinja Pavlović;Serbia;;31;24/05/2001;ac_mailand
+Defensa central;Koni De Winter;Bélgica;RD del Congo;5;12/06/2002;ac_mailand
+Defensa central;Fikayo Tomori;Inglaterra;Canadá;23;19/12/1997;ac_mailand
+Defensa central;Matteo Gabbia;Italia;;46;21/10/1999;ac_mailand
+Defensa central;David Odogu;Alemania;Nigeria;27;03/06/2006;ac_mailand
+Lateral izquierdo;Davide Bartesaghi;Italia;;33;29/12/2005;ac_mailand
+Lateral izquierdo;Pervis Estupiñán;Ecuador;España;2;21/01/1998;ac_mailand
+Lateral derecho;Zachary Athekame;Suiza;Nigeria;24;13/12/2004;ac_mailand
+Pivote;Ardon Jashari;Suiza;Macedonia del Norte;30;30/07/2002;ac_mailand
+Pivote;Samuele Ricci;Italia;;4;21/08/2001;ac_mailand
+Pivote;Youssouf Fofana;Francia;Malí;19;10/01/1999;ac_mailand
+Mediocentro;Adrien Rabiot;Francia;;12;03/04/1995;ac_mailand
+Mediocentro;Ruben Loftus-Cheek;Inglaterra;Guyana;8;23/01/1996;ac_mailand
+Mediocentro;Luka Modrić;Croacia;;14;09/09/1985;ac_mailand
+Interior derecho;Alexis Saelemaekers;Bélgica;;56;27/06/1999;ac_mailand
+Extremo izquierdo;Rafael Leão;Portugal;Angola;10;10/06/1999;ac_mailand
+Extremo derecho;Christian Pulisic;Estados Unidos;Croacia;11;18/09/1998;ac_mailand
+Delantero centro;Christopher Nkunku;Francia;RD del Congo;18;14/11/1997;ac_mailand
+Delantero centro;Santiago Gimenez;México;Italia;7;18/04/2001;ac_mailand
+Delantero centro;Niclas Füllkrug;Alemania;;9;09/02/1993;ac_mailand
+Portero;Mile Svilar;Serbia;Bélgica;99;27/08/1999;as_rom
+Portero;Pierluigi Gollini;Italia;;95;18/03/1995;as_rom
+Portero;Radoslaw Zelezny;Polonia;;91;06/09/2006;as_rom
+Defensa central;Evan Ndicka;Costa de Marfil;Francia;5;20/08/1999;as_rom
+Defensa central;Gianluca Mancini;Italia;;23;17/04/1996;as_rom
+Defensa central;Daniele Ghilardi;Italia;;87;06/01/2003;as_rom
+Defensa central;Jan Ziolkowski;Polonia;;24;05/06/2005;as_rom
+Defensa central;Mario Hermoso;España;;22;18/06/1995;as_rom
+Lateral izquierdo;Angeliño;España;;3;04/01/1997;as_rom
+Lateral izquierdo;Konstantinos Tsimikas;Grecia;;12;12/05/1996;as_rom
+Lateral derecho;Wesley;Brasil;;43;06/09/2003;as_rom
+Lateral derecho;Zeki Çelik;Turquía;;19;17/02/1997;as_rom
+Lateral derecho;Devyne Rensch;Países Bajos;Surinam;2;18/01/2003;as_rom
+Pivote;Bryan Cristante;Italia;Canadá;4;03/03/1995;as_rom
+Mediocentro;Manu Koné;Francia;Costa de Marfil;17;17/05/2001;as_rom
+Mediocentro;Neil El Aynaoui;Marruecos;Francia;8;02/07/2001;as_rom
+Mediocentro;Niccolò Pisilli;Italia;;61;23/09/2004;as_rom
+Mediocentro ofensivo;Lorenzo Pellegrini;Italia;;7;19/06/1996;as_rom
+Extremo izquierdo;Bryan Zaragoza;España;;97;09/09/2001;as_rom
+Extremo izquierdo;Stephan El Shaarawy;Italia;Egipto;92;27/10/1992;as_rom
+Extremo derecho;Matías Soulé;Argentina;Italia;18;15/04/2003;as_rom
+Extremo derecho;Lorenzo Venturino;Italia;;20;22/06/2006;as_rom
+Mediapunta;Paulo Dybala;Argentina;Italia;21;15/11/1993;as_rom
+Delantero centro;Donyell Malen;Países Bajos;Surinam;14;19/01/1999;as_rom
+Delantero centro;Evan Ferguson;Irlanda;Inglaterra;11;19/10/2004;as_rom
+Delantero centro;Robinio Vaz;Francia;Guinea-Bissau;78;17/02/2007;as_rom
+Delantero centro;Artem Dovbyk;Ucrania;;9;21/06/1997;as_rom
+Portero;Vanja Milinković-Savić;Serbia;España;32;20/02/1997;ssc_neapel
+Portero;Alex Meret;Italia;;1;22/03/1997;ssc_neapel
+Portero;Nikita Contini;Italia;Ucrania;14;21/05/1996;ssc_neapel
+Portero;Mathias Ferrante;Italia;;25;01/09/2006;ssc_neapel
+Defensa central;Alessandro Buongiorno;Italia;;4;06/06/1999;ssc_neapel
+Defensa central;Sam Beukema;Países Bajos;;31;17/11/1998;ssc_neapel
+Defensa central;Amir Rrahmani;Kosovo;Albania;13;24/02/1994;ssc_neapel
+Defensa central;Juan Jesus;Brasil;Italia;5;10/06/1991;ssc_neapel
+Lateral izquierdo;Miguel Gutiérrez;España;;3;27/07/2001;ssc_neapel
+Lateral izquierdo;Mathías Olivera;Uruguay;España;17;31/10/1997;ssc_neapel
+Lateral izquierdo;Leonardo Spinazzola;Italia;;37;25/03/1993;ssc_neapel
+Lateral derecho;Giovanni Di Lorenzo;Italia;;22;04/08/1993;ssc_neapel
+Lateral derecho;Pasquale Mazzocchi;Italia;;30;27/07/1995;ssc_neapel
+Pivote;Billy Gilmour;Escocia;;6;11/06/2001;ssc_neapel
+Pivote;Stanislav Lobotka;Eslovaquia;;68;25/11/1994;ssc_neapel
+Mediocentro;Scott McTominay;Escocia;Inglaterra;8;08/12/1996;ssc_neapel
+Mediocentro;Frank Anguissa;Camerún;;99;16/11/1995;ssc_neapel
+Mediocentro ofensivo;Antonio Vergara;Italia;;26;16/01/2003;ssc_neapel
+Mediocentro ofensivo;Eljif Elmas;Macedonia del Norte;;20;24/09/1999;ssc_neapel
+Mediocentro ofensivo;Kevin De Bruyne;Bélgica;Burundi;11;28/06/1991;ssc_neapel
+Extremo izquierdo;Alisson Santos;Brasil;Túnez;27;27/09/2002;ssc_neapel
+Extremo derecho;David Neres;Brasil;;7;03/03/1997;ssc_neapel
+Extremo derecho;Matteo Politano;Italia;;21;03/08/1993;ssc_neapel
+Delantero centro;Rasmus Højlund;Dinamarca;;19;04/02/2003;ssc_neapel
+Delantero centro;Romelu Lukaku;Bélgica;RD del Congo;9;13/05/1993;ssc_neapel
+Delantero centro;Giovane;Brasil;;23;24/11/2003;ssc_neapel
+Portero;Marco Carnesecchi;Italia;;29;01/07/2000;atalanta_bergamo
+Portero;Marco Sportiello;Italia;;57;10/05/1992;atalanta_bergamo
+Portero;Francesco Rossi;Italia;;31;27/04/1991;atalanta_bergamo
+Defensa central;Giorgio Scalvini;Italia;;42;11/12/2003;atalanta_bergamo
+Defensa central;Honest Ahanor;Italia;Nigeria;69;23/02/2008;atalanta_bergamo
+Defensa central;Isak Hien;Suecia;Ghana;4;13/01/1999;atalanta_bergamo
+Defensa central;Odilon Kossounou;Costa de Marfil;;3;04/01/2001;atalanta_bergamo
+Defensa central;Sead Kolasinac;Bosnia y Herzegovina;Alemania;23;20/06/1993;atalanta_bergamo
+Defensa central;Berat Djimsiti;Albania;Suiza;19;19/02/1993;atalanta_bergamo
+Pivote;Marten de Roon;Países Bajos;;15;29/03/1991;atalanta_bergamo
+Mediocentro;Éderson;Brasil;;13;07/07/1999;atalanta_bergamo
+Mediocentro;Yunus Musah;Estados Unidos;Inglaterra;6;29/11/2002;atalanta_bergamo
+Mediocentro;Mario Pašalić;Croacia;;8;09/02/1995;atalanta_bergamo
+Interior derecho;Raoul Bellanova;Italia;;16;17/05/2000;atalanta_bergamo
+Interior derecho;Davide Zappacosta;Italia;;77;11/06/1992;atalanta_bergamo
+Interior izquierdo;Nicola Zalewski;Polonia;Italia;59;23/01/2002;atalanta_bergamo
+Interior izquierdo;Lorenzo Bernasconi;Italia;;47;16/11/2003;atalanta_bergamo
+Interior izquierdo;Mitchel Bakker;Países Bajos;;5;20/06/2000;atalanta_bergamo
+Mediocentro ofensivo;Charles De Ketelaere;Bélgica;;17;10/03/2001;atalanta_bergamo
+Mediocentro ofensivo;Lazar Samardžić;Serbia;Alemania;10;24/02/2002;atalanta_bergamo
+Extremo izquierdo;Kamaldeen Sulemana;Ghana;;7;15/02/2002;atalanta_bergamo
+Mediapunta;Giacomo Raspadori;Italia;;18;18/02/2000;atalanta_bergamo
+Delantero centro;Gianluca Scamacca;Italia;;9;01/01/1999;atalanta_bergamo
+Delantero centro;Nikola Krstović;Montenegro;Serbia;90;05/04/2000;atalanta_bergamo
+Portero;Jean Butez;Francia;;1;08/06/1995;como_1907
+Portero;Noel Törnqvist;Suecia;;21;01/02/2002;como_1907
+Portero;Nikola Cavlina;Croacia;;44;02/06/2002;como_1907
+Portero;Henrique Menke;Brasil;;12;12/01/2007;como_1907
+Portero;Mauro Vigorito;Italia;;22;22/05/1990;como_1907
+Defensa central;Jacobo Ramón;España;;14;06/01/2005;como_1907
+Defensa central;Diego Carlos;Brasil;España;34;15/03/1993;como_1907
+Defensa central;Marc Oliver Kempf;Alemania;;2;28/01/1995;como_1907
+Defensa central;Edoardo Goldaniga;Italia;;5;02/11/1993;como_1907
+Lateral izquierdo;Álex Valle;España;;3;25/04/2004;como_1907
+Lateral izquierdo;Alberto Moreno;España;;18;05/07/1992;como_1907
+Lateral derecho;Ignace Van der Brempt;Bélgica;;77;01/04/2002;como_1907
+Lateral derecho;Mërgim Vojvoda;Kosovo;Albania;31;01/02/1995;como_1907
+Lateral derecho;Ivan Smolcic;Croacia;;28;17/08/2000;como_1907
+Pivote;Máximo Perrone;Argentina;España;23;07/01/2003;como_1907
+Mediocentro;Lucas Da Cunha;Francia;Portugal;33;09/06/2001;como_1907
+Mediocentro;Maxence Caqueret;Francia;;6;15/02/2000;como_1907
+Mediocentro;Adrian Lahdo;Suecia;;15;26/12/2007;como_1907
+Mediocentro;Sergi Roberto;España;;8;07/02/1992;como_1907
+Mediocentro ofensivo;Nico Paz;Argentina;España;10;08/09/2004;como_1907
+Mediocentro ofensivo;Martin Baturina;Croacia;;20;16/02/2003;como_1907
+Extremo izquierdo;Jesús Rodríguez;España;;17;21/11/2005;como_1907
+Extremo izquierdo;Assane Diao;Senegal;España;38;07/09/2005;como_1907
+Extremo derecho;Jayden Addai;Países Bajos;Ghana;42;26/08/2005;como_1907
+Extremo derecho;Nicolas Kühn;Alemania;;19;01/01/2000;como_1907
+Delantero centro;Anastasios Douvikas;Grecia;;11;02/08/1999;como_1907
+Delantero centro;Álvaro Morata;España;;7;23/10/1992;como_1907
+Portero;Lukasz Skorupski;Polonia;;1;05/05/1991;fc_bologna
+Portero;Federico Ravaglia;Italia;;13;11/11/1999;fc_bologna
+Portero;Massimo Pessina;Italia;;25;25/12/2007;fc_bologna
+Defensa central;Jhon Lucumí;Colombia;;26;26/06/1998;fc_bologna
+Defensa central;Torbjørn Heggem;Noruega;;14;12/01/1999;fc_bologna
+Defensa central;Martin Vitík;República Checa;;41;21/01/2003;fc_bologna
+Defensa central;Eivind Helland;Noruega;;5;25/04/2005;fc_bologna
+Defensa central;Nicolò Casale;Italia;;16;14/02/1998;fc_bologna
+Defensa central;Kevin Bonifazi;Italia;;-;19/05/1996;fc_bologna
+Lateral izquierdo;Juan Miranda;España;;33;19/01/2000;fc_bologna
+Lateral izquierdo;Charalampos Lykogiannis;Grecia;;22;22/10/1993;fc_bologna
+Lateral derecho;João Mário;Portugal;;17;03/01/2000;fc_bologna
+Lateral derecho;Nadir Zortea;Italia;;20;19/06/1999;fc_bologna
+Lateral derecho;Lorenzo De Silvestri;Italia;;29;23/05/1988;fc_bologna
+Pivote;Nikola Moro;Croacia;;6;12/03/1998;fc_bologna
+Mediocentro;Lewis Ferguson;Escocia;;19;24/08/1999;fc_bologna
+Mediocentro;Tommaso Pobega;Italia;;4;15/07/1999;fc_bologna
+Mediocentro;Simon Sohm;Suiza;Nigeria;23;11/04/2001;fc_bologna
+Mediocentro;Remo Freuler;Suiza;;8;15/04/1992;fc_bologna
+Mediocentro ofensivo;Jens Odgaard;Dinamarca;;21;31/03/1999;fc_bologna
+Extremo izquierdo;Jonathan Rowe;Inglaterra;Jamaica;11;30/04/2003;fc_bologna
+Extremo izquierdo;Nicolò Cambiaghi;Italia;;28;28/12/2000;fc_bologna
+Extremo izquierdo;Benja Domínguez;Argentina;;30;19/09/2003;fc_bologna
+Extremo derecho;Riccardo Orsolini;Italia;;7;24/01/1997;fc_bologna
+Extremo derecho;Federico Bernardeschi;Italia;;10;16/02/1994;fc_bologna
+Delantero centro;Santiago Castro;Argentina;Italia;9;18/09/2004;fc_bologna
+Delantero centro;Thijs Dallinga;Países Bajos;;24;03/08/2000;fc_bologna
+Portero;David de Gea;España;;43;07/11/1990;ac_florenz
+Portero;Oliver Christensen;Dinamarca;;53;22/03/1999;ac_florenz
+Portero;Luca Lezzerini;Italia;;1;24/03/1995;ac_florenz
+Defensa central;Pietro Comuzzo;Italia;;15;20/02/2005;ac_florenz
+Defensa central;Marin Pongracic;Croacia;Alemania;5;11/09/1997;ac_florenz
+Defensa central;Luca Ranieri;Italia;;6;23/04/1999;ac_florenz
+Defensa central;Eddy Kouadio;Italia;Costa de Marfil;60;07/05/2006;ac_florenz
+Defensa central;Daniele Rugani;Italia;;3;29/07/1994;ac_florenz
+Defensa central;Eman Košpo;Bosnia y Herzegovina;Suiza;23;17/05/2007;ac_florenz
+Lateral izquierdo;Niccolò Fortini;Italia;;29;13/02/2006;ac_florenz
+Lateral izquierdo;Fabiano Parisi;Italia;;65;09/11/2000;ac_florenz
+Lateral izquierdo;Robin Gosens;Alemania;Países Bajos;21;05/07/1994;ac_florenz
+Lateral izquierdo;Luis Balbo;Venezuela;Portugal;62;28/03/2006;ac_florenz
+Lateral derecho;Dodô;Brasil;;2;17/11/1998;ac_florenz
+Lateral derecho;Tariq Lamptey;Ghana;Inglaterra;48;30/09/2000;ac_florenz
+Pivote;Rolando Mandragora;Italia;;8;29/06/1997;ac_florenz
+Mediocentro;Nicolò Fagioli;Italia;;44;12/02/2001;ac_florenz
+Mediocentro;Cher Ndour;Italia;Senegal;27;27/07/2004;ac_florenz
+Mediocentro;Marco Brescianini;Italia;;4;20/01/2000;ac_florenz
+Mediocentro;Jacopo Fazzini;Italia;;22;16/03/2003;ac_florenz
+Mediocentro ofensivo;Giovanni Fabbian;Italia;;80;14/01/2003;ac_florenz
+Mediocentro ofensivo;Abdelhamid Sabiri;Marruecos;Alemania;11;28/11/1996;ac_florenz
+Extremo izquierdo;Manor Solomon;Israel;Portugal;19;24/07/1999;ac_florenz
+Extremo izquierdo;Jack Harrison;Inglaterra;;17;20/11/1996;ac_florenz
+Mediapunta;Albert Gudmundsson;Islandia;;10;15/06/1997;ac_florenz
+Delantero centro;Moise Kean;Italia;Costa de Marfil;20;28/02/2000;ac_florenz
+Delantero centro;Roberto Piccoli;Italia;;91;27/01/2001;ac_florenz
+Portero;Edoardo Motta;Italia;;40;13/01/2005;lazio_rom
+Portero;Ivan Provedel;Italia;;94;17/03/1994;lazio_rom
+Portero;Alessio Furlanetto;Italia;;55;07/02/2002;lazio_rom
+Defensa central;Mario Gila;España;;34;29/08/2000;lazio_rom
+Defensa central;Oliver Provstgaard;Dinamarca;;25;04/06/2003;lazio_rom
+Defensa central;Alessio Romagnoli;Italia;;13;12/01/1995;lazio_rom
+Defensa central;Samuel Gigot;Francia;;2;12/10/1993;lazio_rom
+Defensa central;Patric;España;;4;17/04/1993;lazio_rom
+Lateral izquierdo;Nuno Tavares;Portugal;Cabo Verde;17;26/01/2000;lazio_rom
+Lateral izquierdo;Luca Pellegrini;Italia;;3;07/03/1999;lazio_rom
+Lateral derecho;Adam Marusic;Montenegro;Serbia;77;17/10/1992;lazio_rom
+Lateral derecho;Manuel Lazzari;Italia;;29;29/11/1993;lazio_rom
+Lateral derecho;Elseid Hysaj;Albania;;23;02/02/1994;lazio_rom
+Pivote;Nicolò Rovella;Italia;;6;04/12/2001;lazio_rom
+Pivote;Reda Belahyane;Marruecos;Francia;21;01/06/2004;lazio_rom
+Pivote;Danilo Cataldi;Italia;;32;06/08/1994;lazio_rom
+Mediocentro;Kenneth Taylor;Países Bajos;;24;16/05/2002;lazio_rom
+Mediocentro;Fisayo Dele-Bashiru;Nigeria;Inglaterra;7;06/02/2001;lazio_rom
+Mediocentro;Toma Bašić;Croacia;;26;25/11/1996;lazio_rom
+Mediocentro ofensivo;Daniel Maldini;Italia;Venezuela;27;11/10/2001;lazio_rom
+Mediocentro ofensivo;Adrian Przyborek;Polonia;;28;01/01/2007;lazio_rom
+Extremo izquierdo;Mattia Zaccagni;Italia;;10;16/06/1995;lazio_rom
+Extremo derecho;Gustav Isaksen;Dinamarca;;18;19/04/2001;lazio_rom
+Extremo derecho;Tijjani Noslin;Países Bajos;Surinam;14;07/07/1999;lazio_rom
+Extremo derecho;Matteo Cancellieri;Italia;;22;12/02/2002;lazio_rom
+Extremo derecho;Pedro;España;;9;28/07/1987;lazio_rom
+Delantero centro;Petar Ratkov;Serbia;Croacia;20;18/08/2003;lazio_rom
+Delantero centro;Boulaye Dia;Senegal;Francia;19;16/11/1996;lazio_rom
+Portero;Arijanet Murić;Kosovo;Montenegro;49;07/11/1998;us_sassuolo
+Portero;Stefano Turati;Italia;;13;05/09/2001;us_sassuolo
+Portero;Gioele Zacchi;Italia;;16;10/07/2003;us_sassuolo
+Portero;Giacomo Satalino;Italia;;12;20/05/1999;us_sassuolo
+Defensa central;Tarik Muharemović;Bosnia y Herzegovina;Eslovenia;80;28/02/2003;us_sassuolo
+Defensa central;Jay Idzes;Indonesia;Países Bajos;21;02/06/2000;us_sassuolo
+Defensa central;Fali Candé;Guinea-Bissau;Portugal;5;24/01/1998;us_sassuolo
+Defensa central;Filippo Romagna;Italia;;19;26/05/1997;us_sassuolo
+Defensa central;Pedro Felipe;Brasil;;66;23/05/2004;us_sassuolo
+Lateral izquierdo;Josh Doig;Escocia;;3;18/05/2002;us_sassuolo
+Lateral izquierdo;Ulisses Garcia;Suiza;Cabo Verde;23;11/01/1996;us_sassuolo
+Lateral izquierdo;Edoardo Pieragnolo;Italia;;15;03/01/2003;us_sassuolo
+Lateral derecho;Sebastian Walukiewicz;Polonia;;6;05/04/2000;us_sassuolo
+Lateral derecho;Woyo Coulibaly;Malí;Francia;25;26/05/1999;us_sassuolo
+Pivote;Luca Lipani;Italia;;35;18/05/2005;us_sassuolo
+Pivote;Daniel Boloca;Italia;Rumania;11;22/12/1998;us_sassuolo
+Pivote;Nemanja Matić;Serbia;Eslovaquia;18;01/08/1988;us_sassuolo
+Mediocentro;Ismaël Koné;Canadá;Costa de Marfil;90;16/06/2002;us_sassuolo
+Mediocentro;Kristian Thorstvedt;Noruega;;42;13/03/1999;us_sassuolo
+Mediocentro;Aster Vranckx;Bélgica;RD del Congo;40;04/10/2002;us_sassuolo
+Mediocentro;Edoardo Iannoni;Italia;;44;11/04/2001;us_sassuolo
+Mediocentro ofensivo;Cristian Volpato;Italia;Australia;7;15/11/2003;us_sassuolo
+Mediocentro ofensivo;Darryl Bakola;Francia;Congo;50;30/11/2007;us_sassuolo
+Extremo izquierdo;Armand Laurienté;Francia;Guadalupe;45;04/12/1998;us_sassuolo
+Extremo izquierdo;Alieu Fadera;Gambia;;20;03/11/2001;us_sassuolo
+Extremo derecho;Domenico Berardi;Italia;;10;01/08/1994;us_sassuolo
+Delantero centro;Andrea Pinamonti;Italia;;99;19/05/1999;us_sassuolo
+Delantero centro;M'Bala Nzola;Angola;Francia;8;18/08/1996;us_sassuolo
+Delantero centro;Luca Moro;Italia;;24;25/01/2001;us_sassuolo
+Portero;Zion Suzuki;Japón;Estados Unidos;31;21/08/2002;parma_calcio_1913
+Portero;Edoardo Corvi;Italia;;40;23/03/2001;parma_calcio_1913
+Portero;Filippo Rinaldi;Italia;;66;04/12/2002;parma_calcio_1913
+Defensa central;Alessandro Circati;Australia;Italia;39;10/10/2003;parma_calcio_1913
+Defensa central;Mariano Troilo;Argentina;;37;28/06/2003;parma_calcio_1913
+Defensa central;Abdoulaye Ndiaye;Senegal;;3;10/04/2002;parma_calcio_1913
+Defensa central;Lautaro Valenti;Argentina;Italia;5;14/01/1999;parma_calcio_1913
+Lateral izquierdo;Emanuele Valeri;Italia;;14;07/12/1998;parma_calcio_1913
+Lateral izquierdo;Franco Carboni;Argentina;Italia;29;04/04/2003;parma_calcio_1913
+Lateral derecho;Sascha Britschgi;Suiza;Camerún;27;27/08/2006;parma_calcio_1913
+Lateral derecho;Enrico Delprato;Italia;;15;10/11/1999;parma_calcio_1913
+Pivote;Mandela Keita;Bélgica;Guinea;16;10/05/2002;parma_calcio_1913
+Pivote;Nahuel Estévez;Argentina;España;8;14/11/1995;parma_calcio_1913
+Mediocentro;Adrián Bernabé;España;;10;26/05/2001;parma_calcio_1913
+Mediocentro;Oliver Sørensen;Dinamarca;;22;10/03/2002;parma_calcio_1913
+Mediocentro;Christian Ordóñez;Argentina;Paraguay;24;24/07/2004;parma_calcio_1913
+Mediocentro;Hans Nicolussi Caviglia;Italia;;41;18/06/2000;parma_calcio_1913
+Mediocentro;Benja Cremaschi;Estados Unidos;Italia;25;02/03/2005;parma_calcio_1913
+Mediocentro ofensivo;Gaetano Oristanio;Italia;;21;28/09/2002;parma_calcio_1913
+Extremo izquierdo;Jacob Ondrejka;Suecia;;17;02/09/2002;parma_calcio_1913
+Extremo derecho;Gabriel Strefezza;Brasil;Italia;7;18/04/1997;parma_calcio_1913
+Extremo derecho;Pontus Almqvist;Suecia;;11;10/07/1999;parma_calcio_1913
+Delantero centro;Mateo Pellegrino;Argentina;España;9;22/10/2001;parma_calcio_1913
+Delantero centro;Matija Frigan;Croacia;;20;11/02/2003;parma_calcio_1913
+Delantero centro;Nesta Elphege;Francia;Camerún;23;09/01/2001;parma_calcio_1913
+Portero;Maduka Okoye;Nigeria;Alemania;40;28/08/1999;udinese_calcio
+Portero;Răzvan Sava;Rumania;;90;21/06/2002;udinese_calcio
+Portero;Alessandro Nunziante;Italia;;1;14/03/2007;udinese_calcio
+Portero;Daniele Padelli;Italia;;93;25/10/1985;udinese_calcio
+Defensa central;Oumar Solet;Francia;Costa de Marfil;28;07/02/2000;udinese_calcio
+Defensa central;Thomas Kristensen;Dinamarca;;31;17/01/2002;udinese_calcio
+Defensa central;Nicolò Bertola;Italia;;13;23/03/2003;udinese_calcio
+Defensa central;Branimir Mlacic;Croacia;;22;12/03/2007;udinese_calcio
+Defensa central;Christian Kabasele;Bélgica;RD del Congo;27;24/02/1991;udinese_calcio
+Lateral izquierdo;Jordan Zemura;Zimbabue;Inglaterra;33;14/11/1999;udinese_calcio
+Lateral izquierdo;Hassane Kamara;Costa de Marfil;Francia;11;05/03/1994;udinese_calcio
+Lateral derecho;Alessandro Zanoli;Italia;;59;03/10/2000;udinese_calcio
+Lateral derecho;Kingsley Ehizibue;Países Bajos;Nigeria;19;25/05/1995;udinese_calcio
+Pivote;Jesper Karlström;Suecia;;8;21/06/1995;udinese_calcio
+Pivote;Abdoulaye Camara;Francia;Guinea;29;28/09/2008;udinese_calcio
+Mediocentro;Arthur Atta;Francia;Benín;14;14/01/2003;udinese_calcio
+Mediocentro;Lennon Miller;Escocia;;38;25/08/2006;udinese_calcio
+Mediocentro;Jurgen Ekkelenkamp;Países Bajos;;32;05/04/2000;udinese_calcio
+Mediocentro;Jakub Piotrowski;Polonia;;24;04/10/1997;udinese_calcio
+Mediocentro;Oier Zarraga;España;;6;04/01/1999;udinese_calcio
+Interior izquierdo;Juan Arizala;Colombia;;20;10/10/2005;udinese_calcio
+Mediapunta;Nicolò Zaniolo;Italia;;10;02/07/1999;udinese_calcio
+Delantero centro;Keinan Davis;Inglaterra;;9;13/02/1998;udinese_calcio
+Delantero centro;Idrissa Gueye;Senegal;;7;16/09/2006;udinese_calcio
+Delantero centro;Adam Buksa;Polonia;;18;12/07/1996;udinese_calcio
+Delantero centro;Vakoun Bayo;Costa de Marfil;;15;10/01/1997;udinese_calcio
+Portero;Justin Bijlow;Países Bajos;;16;22/01/1998;genua_cfc
+Portero;Nicola Leali;Italia;;1;17/02/1993;genua_cfc
+Portero;Benjamin Siegrist;Suiza;;31;31/01/1992;genua_cfc
+Portero;Ernestas Lysionok;Lituania;;35;09/03/2007;genua_cfc
+Portero;Daniele Sommariva;Italia;;39;18/07/1997;genua_cfc
+Defensa central;Johan Vásquez;México;;22;22/10/1998;genua_cfc
+Defensa central;Leo Østigård;Noruega;;5;28/11/1999;genua_cfc
+Defensa central;Alessandro Marcandalli;Italia;Nigeria;27;25/10/2002;genua_cfc
+Defensa central;Nils Zätterström;Suecia;;13;29/03/2005;genua_cfc
+Defensa central;Sebastian Otoa;Dinamarca;;34;13/05/2004;genua_cfc
+Lateral izquierdo;Aarón Martín;España;;3;22/04/1997;genua_cfc
+Lateral derecho;Brooke Norton-Cuffy;Inglaterra;Dominica;15;12/01/2004;genua_cfc
+Lateral derecho;Stefano Sabelli;Italia;;20;13/01/1993;genua_cfc
+Pivote;Morten Frendrup;Dinamarca;;32;07/04/2001;genua_cfc
+Pivote;Jean Onana;Camerún;;14;08/01/2000;genua_cfc
+Mediocentro;Amorim;Brasil;;4;18/05/2005;genua_cfc
+Mediocentro;Mikael Egill Ellertsson;Islandia;;77;11/03/2002;genua_cfc
+Mediocentro;Patrizio Masini;Italia;;73;27/01/2001;genua_cfc
+Mediocentro;Ruslan Malinovskyi;Ucrania;;17;04/05/1993;genua_cfc
+Mediocentro ofensivo;Tommaso Baldanzi;Italia;;8;23/03/2003;genua_cfc
+Extremo izquierdo;Maxwel Cornet;Costa de Marfil;Francia;70;27/09/1996;genua_cfc
+Extremo derecho;Junior Messias;Brasil;Italia;10;13/05/1991;genua_cfc
+Delantero centro;Jeff Ekhator;Italia;Nigeria;21;11/11/2006;genua_cfc
+Delantero centro;Lorenzo Colombo;Italia;;29;08/03/2002;genua_cfc
+Delantero centro;Vitinha;Portugal;;9;15/03/2000;genua_cfc
+Delantero centro;Caleb Ekuban;Ghana;Italia;18;23/03/1994;genua_cfc
+Portero;Elia Caprile;Italia;;1;25/08/2001;cagliari_calcio
+Portero;Alen Sherri;Albania;;12;15/12/1997;cagliari_calcio
+Portero;Giuseppe Ciocci;Italia;;24;24/01/2002;cagliari_calcio
+Defensa central;Alberto Dossena;Italia;;22;13/10/1998;cagliari_calcio
+Defensa central;Adam Obert;Eslovaquia;;33;23/08/2002;cagliari_calcio
+Defensa central;Juan Rodríguez;Uruguay;;15;30/05/2005;cagliari_calcio
+Defensa central;Yerry Mina;Colombia;;26;23/09/1994;cagliari_calcio
+Defensa central;Zé Pedro;Portugal;;32;06/06/1997;cagliari_calcio
+Lateral izquierdo;Riyad Idrissi;Italia;Marruecos;3;13/06/2005;cagliari_calcio
+Lateral derecho;Marco Palestra;Italia;;2;03/03/2005;cagliari_calcio
+Lateral derecho;Gabriele Zappa;Italia;;28;22/12/1999;cagliari_calcio
+Lateral derecho;Othniël Raterink;Países Bajos;RD del Congo;18;07/04/2006;cagliari_calcio
+Pivote;Ibrahim Sulemana;Ghana;;25;22/05/2003;cagliari_calcio
+Mediocentro;Michel Adopo;Francia;Costa de Marfil;8;19/07/2000;cagliari_calcio
+Mediocentro;Michael Folorunsho;Italia;Nigeria;90;07/02/1998;cagliari_calcio
+Mediocentro;Joseph Liteta;Zambia;;27;22/02/2006;cagliari_calcio
+Mediocentro;Alessandro Deiola;Italia;;14;01/08/1995;cagliari_calcio
+Mediocentro;Luca Mazzitelli;Italia;;4;15/11/1995;cagliari_calcio
+Mediocentro ofensivo;Gianluca Gaetano;Italia;;10;05/05/2000;cagliari_calcio
+Extremo izquierdo;Mattia Felici;Italia;;17;17/04/2001;cagliari_calcio
+Extremo izquierdo;Agustín Albarracín;Uruguay;Italia;20;29/08/2005;cagliari_calcio
+Mediapunta;Sebastiano Esposito;Italia;;94;02/07/2002;cagliari_calcio
+Delantero centro;Semih Kılıçsoy;Turquía;;9;15/08/2005;cagliari_calcio
+Delantero centro;Gennaro Borrelli;Italia;;29;10/03/2000;cagliari_calcio
+Delantero centro;Andrea Belotti;Italia;;19;20/12/1993;cagliari_calcio
+Delantero centro;Yael Trepy;Francia;Túnez;37;20/05/2006;cagliari_calcio
+Delantero centro;Leonardo Pavoletti;Italia;;30;26/11/1988;cagliari_calcio
+Portero;Franco Israel;Uruguay;Italia;81;22/04/2000;fc_turin
+Portero;Alberto Paleari;Italia;;1;29/08/1992;fc_turin
+Portero;Lapo Siviero;Italia;;99;23/11/2006;fc_turin
+Defensa central;Saúl Coco;Guinea Ecuatorial;España;23;09/02/1999;fc_turin
+Defensa central;Luca Marianucci;Italia;;35;23/07/2004;fc_turin
+Defensa central;Ardian Ismajli;Albania;Kosovo;44;30/09/1996;fc_turin
+Defensa central;Guillermo Maripán;Chile;;13;06/05/1994;fc_turin
+Defensa central;Enzo Ebosse;Camerún;Francia;77;11/03/1999;fc_turin
+Defensa central;Saba Sazonov;Georgia;Rusia;15;01/02/2002;fc_turin
+Lateral izquierdo;Rafa Obrador;España;;33;24/02/2004;fc_turin
+Lateral izquierdo;Niels Nkounkou;Francia;Congo;25;01/11/2000;fc_turin
+Lateral izquierdo;Cristiano Biraghi;Italia;;34;01/09/1992;fc_turin
+Lateral derecho;Marcus Pedersen;Noruega;;16;16/07/2000;fc_turin
+Pivote;Matteo Prati;Italia;;4;28/12/2003;fc_turin
+Pivote;Adrien Tamèze;Francia;Camerún;61;04/02/1994;fc_turin
+Mediocentro;Cesare Casadei;Italia;;22;10/01/2003;fc_turin
+Mediocentro;Ivan Ilić;Serbia;;8;17/03/2001;fc_turin
+Mediocentro;Gvidas Gineitis;Lituania;;66;15/04/2004;fc_turin
+Mediocentro;Emirhan İlkhan;Turquía;;6;01/06/2004;fc_turin
+Interior derecho;Valentino Lazaro;Austria;;20;24/03/1996;fc_turin
+Mediocentro ofensivo;Nikola Vlašić;Croacia;;10;04/10/1997;fc_turin
+Mediocentro ofensivo;Tino Anjorin;Inglaterra;Nigeria;14;23/11/2001;fc_turin
+Mediocentro ofensivo;Sergiu Perciun;Moldavia;Rumania;83;23/04/2006;fc_turin
+Extremo izquierdo;Alieu Njie;Suecia;Gambia;92;14/05/2005;fc_turin
+Extremo derecho;Zakaria Aboukhlal;Marruecos;Países Bajos;7;18/02/2000;fc_turin
+Extremo derecho;Zanos Savva;Chipre;;79;26/11/2005;fc_turin
+Delantero centro;Ché Adams;Escocia;Inglaterra;19;13/07/1996;fc_turin
+Delantero centro;Giovanni Simeone;Argentina;España;18;05/07/1995;fc_turin
+Delantero centro;Sandro Kulenović;Croacia;;17;04/12/1999;fc_turin
+Delantero centro;Duván Zapata;Colombia;;91;01/04/1991;fc_turin
+Portero;Adrian Semper;Croacia;;1;12/01/1998;ac_pisa_1909
+Portero;Simone Scuffet;Italia;;22;31/05/1996;ac_pisa_1909
+Portero;Nícolas;Brasil;Italia;12;12/04/1988;ac_pisa_1909
+Defensa central;Simone Canestrelli;Italia;;5;11/09/2000;ac_pisa_1909
+Defensa central;Rosen Bozhinov;Bulgaria;;2;23/01/2005;ac_pisa_1909
+Defensa central;Francesco Coppola;Italia;Cuba;26;11/04/2005;ac_pisa_1909
+Defensa central;Antonio Caracciolo;Italia;;4;30/06/1990;ac_pisa_1909
+Defensa central;Arturo Calabresi;Italia;;33;17/03/1996;ac_pisa_1909
+Defensa central;Raúl Albiol;España;;39;04/09/1985;ac_pisa_1909
+Defensa central;Daniel Denoon;Suiza;Trinidad y Tobago;44;28/01/2004;ac_pisa_1909
+Pivote;Marius Marin;Rumania;;6;30/08/1998;ac_pisa_1909
+Pivote;Malthe Højholt;Dinamarca;;8;16/04/2001;ac_pisa_1909
+Mediocentro;Felipe Loyola;Chile;España;35;09/11/2000;ac_pisa_1909
+Mediocentro;Ebenezer Akinsanmiro;Nigeria;;14;25/11/2004;ac_pisa_1909
+Mediocentro;İsak Vural;Turquía;Suecia;21;28/05/2006;ac_pisa_1909
+Mediocentro;Michel Aebischer;Suiza;;20;06/01/1997;ac_pisa_1909
+Mediocentro;Gabriele Piccinini;Italia;;36;06/04/2001;ac_pisa_1909
+Interior derecho;Idrissa Touré;Alemania;Guinea;15;29/04/1998;ac_pisa_1909
+Interior derecho;Juan Cuadrado;Colombia;Italia;11;26/05/1988;ac_pisa_1909
+Interior izquierdo;Samuel Iling-Junior;Inglaterra;RD del Congo;19;04/10/2003;ac_pisa_1909
+Interior izquierdo;Samuele Angori;Italia;;3;07/10/2003;ac_pisa_1909
+Mediocentro ofensivo;Calvin Stengs;Países Bajos;Surinam;23;18/12/1998;ac_pisa_1909
+Mediocentro ofensivo;Lorran;Brasil;;99;04/07/2006;ac_pisa_1909
+Mediocentro ofensivo;Matteo Tramoni;Francia;Italia;10;20/01/2000;ac_pisa_1909
+Extremo derecho;Mehdi Léris;Argelia;Francia;7;23/05/1998;ac_pisa_1909
+Delantero centro;Rafiu Durosinmi;Nigeria;;17;01/01/2003;ac_pisa_1909
+Delantero centro;Henrik Meister;Dinamarca;Camerún;9;13/11/2003;ac_pisa_1909
+Delantero centro;Filip Stojilkovic;Suiza;Serbia;81;04/01/2000;ac_pisa_1909
+Delantero centro;Stefano Moreo;Italia;;32;30/06/1993;ac_pisa_1909
+Portero;Lorenzo Montipò;Italia;;1;20/02/1996;hellas_verona
+Portero;Simone Perilli;Italia;;34;07/01/1995;hellas_verona
+Portero;Giacomo Toniolo;Italia;;94;01/04/2004;hellas_verona
+Portero;Arthur Borghi;Brasil;Italia;47;27/07/2007;hellas_verona
+Defensa central;Victor Nelsson;Dinamarca;;15;14/10/1998;hellas_verona
+Defensa central;Armel Bella-Kotchap;Alemania;Camerún;37;11/12/2001;hellas_verona
+Defensa central;Nicolás Valentini;Argentina;Italia;6;06/04/2001;hellas_verona
+Defensa central;Tobias Slotsager;Dinamarca;;19;01/01/2006;hellas_verona
+Defensa central;Andrias Edmundsson;Islas Feroe;;5;18/12/2000;hellas_verona
+Lateral izquierdo;Martin Frese;Dinamarca;;3;04/01/1998;hellas_verona
+Lateral izquierdo;Domagoj Bradarić;Croacia;;12;10/12/1999;hellas_verona
+Lateral derecho;Rafik Belghali;Argelia;Bélgica;7;07/06/2002;hellas_verona
+Lateral derecho;Pol Lirola;España;;14;13/08/1997;hellas_verona
+Lateral derecho;Fallou Cham;Gambia;Senegal;70;14/02/2006;hellas_verona
+Lateral derecho;Daniel Oyegoke;Inglaterra;Nigeria;2;03/01/2003;hellas_verona
+Pivote;Moatasem Al-Musrati;Libia;Portugal;73;06/04/1996;hellas_verona
+Pivote;Cheikh Niasse;Senegal;Francia;36;19/01/2000;hellas_verona
+Mediocentro;Sandi Lovrić;Eslovenia;Austria;4;28/03/1998;hellas_verona
+Mediocentro;Suat Serdar;Alemania;Turquía;8;11/04/1997;hellas_verona
+Mediocentro;Antoine Bernede;Francia;Camerún;24;26/05/1999;hellas_verona
+Mediocentro;Abdou Harroui;Marruecos;Países Bajos;21;13/01/1998;hellas_verona
+Mediocentro;Roberto Gagliardini;Italia;;63;07/04/1994;hellas_verona
+Mediocentro;Jean-Daniel Akpa Akpro;Costa de Marfil;Francia;11;11/10/1992;hellas_verona
+Mediocentro ofensivo;Tomas Suslov;Eslovaquia;;10;07/06/2002;hellas_verona
+Delantero centro;Gift Orban;Nigeria;Togo;16;17/07/2002;hellas_verona
+Delantero centro;Kieron Bowie;Escocia;;18;21/09/2002;hellas_verona
+Delantero centro;Amin Sarr;Suecia;Senegal;9;11/03/2001;hellas_verona
+Delantero centro;Daniel Mosquera;Colombia;;25;20/10/1999;hellas_verona
+Delantero centro;Isaac;Brasil;Croacia;41;26/03/2004;hellas_verona
+Delantero centro;Junior Ajayi;Costa de Marfil;;72;11/10/2004;hellas_verona
+Portero;Wladimiro Falcone;Italia;;30;12/04/1995;us_lecce
+Portero;Christian Früchtl;Alemania;;1;28/01/2000;us_lecce
+Portero;Jasper Samooja;Finlandia;;32;21/07/2003;us_lecce
+Defensa central;Tiago Gabriel;Portugal;;44;26/12/2004;us_lecce
+Defensa central;Jamil Siebert;Alemania;;5;02/04/2002;us_lecce
+Defensa central;Gaspar;Angola;;4;27/09/1997;us_lecce
+Defensa central;Gaby Jean;Francia;;18;19/02/2000;us_lecce
+Defensa central;Matías Pérez;Chile;;13;13/04/2005;us_lecce
+Lateral izquierdo;Antonino Gallo;Italia;;25;05/01/2000;us_lecce
+Lateral izquierdo;Corrie Ndaba;Irlanda;Ghana;3;25/12/1999;us_lecce
+Lateral derecho;Danilo Veiga;Portugal;Brasil;17;25/09/2002;us_lecce
+Pivote;Oumar Ngom;Mauritania;Francia;79;09/03/2004;us_lecce
+Pivote;Ylber Ramadani;Albania;Kosovo;20;12/04/1996;us_lecce
+Pivote;Sadik Fofana;Togo;Alemania;8;16/05/2003;us_lecce
+Mediocentro;Medon Berisha;Albania;Kosovo;10;21/10/2003;us_lecce
+Mediocentro;Lassana Coulibaly;Malí;;29;10/04/1996;us_lecce
+Mediocentro;Thórir Jóhann Helgason;Islandia;;14;28/09/2000;us_lecce
+Mediocentro;Álex Sala;España;;6;09/04/2001;us_lecce
+Mediocentro ofensivo;Omri Gandelman;Israel;Portugal;16;16/05/2000;us_lecce
+Mediocentro ofensivo;Filip Marchwinski;Polonia;;36;10/01/2002;us_lecce
+Extremo izquierdo;Riccardo Sottil;Italia;;23;03/06/1999;us_lecce
+Extremo izquierdo;Lameck Banda;Zambia;;19;29/01/2001;us_lecce
+Extremo derecho;Santiago Pierotti;Argentina;Italia;50;03/04/2001;us_lecce
+Extremo derecho;Konan N’Dri;Costa de Marfil;;11;27/10/2000;us_lecce
+Delantero centro;Francesco Camarda;Italia;;22;10/03/2008;us_lecce
+Delantero centro;Nikola Stulic;Serbia;Croacia;9;08/09/2001;us_lecce
+Delantero centro;Walid Cheddira;Marruecos;Italia;99;22/01/1998;us_lecce
+Portero;Emil Audero;Indonesia;Italia;1;18/01/1997;us_cremonese
+Portero;Marco Silvestri;Italia;;16;02/03/1991;us_cremonese
+Portero;Lapo Nava;Italia;;69;22/01/2004;us_cremonese
+Defensa central;Mikayil Faye;Senegal;;30;14/07/2004;us_cremonese
+Defensa central;Filippo Terracciano;Italia;;24;08/02/2003;us_cremonese
+Defensa central;Sebastiano Luperto;Italia;;5;06/09/1996;us_cremonese
+Defensa central;Federico Baschirotto;Italia;;6;20/09/1996;us_cremonese
+Defensa central;Matteo Bianchetti;Italia;;15;17/03/1993;us_cremonese
+Defensa central;Francesco Folino;Italia;;55;23/01/2002;us_cremonese
+Defensa central;Federico Ceccherini;Italia;;23;11/05/1992;us_cremonese
+Lateral izquierdo;Giuseppe Pezzella;Italia;;3;29/11/1997;us_cremonese
+Lateral derecho;Tommaso Barbieri;Italia;;4;26/08/2002;us_cremonese
+Lateral derecho;Romano Floriani Mussolini;Italia;;22;27/01/2003;us_cremonese
+Pivote;Alberto Grassi;Italia;;33;07/03/1995;us_cremonese
+Mediocentro;Warren Bondo;Francia;RD del Congo;38;15/09/2003;us_cremonese
+Mediocentro;Martín Payero;Argentina;Italia;32;11/09/1998;us_cremonese
+Mediocentro;Jari Vandeputte;Bélgica;;27;14/02/1996;us_cremonese
+Mediocentro;Morten Thorsby;Noruega;;2;05/05/1996;us_cremonese
+Mediocentro;Michele Collocolo;Italia;;18;08/11/1999;us_cremonese
+Mediocentro;Youssef Maleh;Marruecos;Italia;29;22/08/1998;us_cremonese
+Interior derecho;Alessio Zerbin;Italia;;7;03/03/1999;us_cremonese
+Delantero centro;Faris Moumbagna;Camerún;;14;01/07/2000;us_cremonese
+Delantero centro;Federico Bonazzoli;Italia;;90;21/05/1997;us_cremonese
+Delantero centro;Antonio Sanabria;Paraguay;España;99;04/03/1996;us_cremonese
+Delantero centro;David Okereke;Nigeria;;77;29/08/1997;us_cremonese
+Delantero centro;Milan Djuric;Bosnia y Herzegovina;Italia;9;22/05/1990;us_cremonese
+Delantero centro;Jamie Vardy;Inglaterra;;10;11/01/1987;us_cremonese

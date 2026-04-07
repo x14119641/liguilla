@@ -1,0 +1,447 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Denis Adamov;Rusia;;16;20/02/1998;zenit_st_petersburg
+Portero;Evgeniy Latyshonok;Rusia;;1;21/06/1998;zenit_st_petersburg
+Portero;Bogdan Moskvichev;Rusia;;57;30/04/2004;zenit_st_petersburg
+Portero;Mikhail Kerzhakov;Rusia;;41;28/01/1987;zenit_st_petersburg
+Defensa central;Nino;Brasil;;33;10/04/1997;zenit_st_petersburg
+Defensa central;Igor Diveev;Rusia;;78;27/09/1999;zenit_st_petersburg
+Defensa central;Vanja Drkusic;Eslovenia;;6;30/10/1999;zenit_st_petersburg
+Defensa central;Nuraly Alip;Kazajistán;;28;22/12/1999;zenit_st_petersburg
+Lateral izquierdo;Douglas Santos;Brasil;Rusia;3;22/03/1994;zenit_st_petersburg
+Lateral izquierdo;Román Vega;Argentina;;66;01/01/2004;zenit_st_petersburg
+Lateral izquierdo;Yuriy Gorshkov;Rusia;;4;13/03/1999;zenit_st_petersburg
+Lateral derecho;Gustavo Mantuan;Brasil;Italia;31;20/06/2001;zenit_st_petersburg
+Lateral derecho;Vyacheslav Karavaev;Rusia;;15;20/05/1995;zenit_st_petersburg
+Lateral derecho;Arsen Adamov;Rusia;;23;20/10/1999;zenit_st_petersburg
+Pivote;Wilmar Barrios;Colombia;;5;16/10/1993;zenit_st_petersburg
+Mediocentro;Wendel;Brasil;;8;28/08/1997;zenit_st_petersburg
+Mediocentro;Yaroslav Mikhailov;Rusia;;18;28/04/2003;zenit_st_petersburg
+Mediocentro;Daniil Kondakov;Rusia;;61;06/03/2008;zenit_st_petersburg
+Mediocentro ofensivo;Jhon Jhon;Brasil;;14;09/09/2002;zenit_st_petersburg
+Mediocentro ofensivo;Aleksandr Erokhin;Rusia;;21;13/10/1989;zenit_st_petersburg
+Extremo izquierdo;Pedro;Brasil;;20;05/02/2006;zenit_st_petersburg
+Extremo izquierdo;Andrey Mostovoy;Rusia;;17;05/11/1997;zenit_st_petersburg
+Extremo derecho;Luiz Henrique;Brasil;;11;02/01/2001;zenit_st_petersburg
+Extremo derecho;Vadim Shilov;Rusia;;51;15/03/2008;zenit_st_petersburg
+Mediapunta;Maksim Glushenkov;Rusia;;10;28/07/1999;zenit_st_petersburg
+Delantero centro;Jhon Durán;Colombia;;9;13/12/2003;zenit_st_petersburg
+Delantero centro;Aleksandr Sobolev;Rusia;;7;07/03/1997;zenit_st_petersburg
+Portero;Aleksandr Maksimenko;Rusia;;98;19/03/1998;spartak_moskau
+Portero;Ilya Pomazun;Rusia;;1;16/08/1996;spartak_moskau
+Portero;Aleksandr Dovbnya;Rusia;;56;10/04/1987;spartak_moskau
+Defensa central;Srdjan Babic;Serbia;Bosnia y Herzegovina;6;22/04/1996;spartak_moskau
+Defensa central;Ruslan Litvinov;Rusia;;68;18/08/2001;spartak_moskau
+Defensa central;Christopher Wooh;Camerún;Francia;3;18/09/2001;spartak_moskau
+Defensa central;Alexander Djiku;Ghana;Francia;4;09/08/1994;spartak_moskau
+Lateral izquierdo;Oleg Reabciuk;Moldavia;Portugal;2;16/01/1998;spartak_moskau
+Lateral izquierdo;Ilya Samoshnikov;Rusia;;14;14/11/1997;spartak_moskau
+Lateral derecho;Daniil Denisov;Rusia;;97;21/10/2002;spartak_moskau
+Pivote;Nail Umyarov;Rusia;;18;27/06/2000;spartak_moskau
+Pivote;Christopher Martins;Luxemburgo;Cabo Verde;35;19/02/1997;spartak_moskau
+Mediocentro;Gedson Fernandes;Portugal;Santo Tomé y Príncipe;83;09/01/1999;spartak_moskau
+Mediocentro;Roman Zobnin;Rusia;;47;11/02/1994;spartak_moskau
+Interior derecho;Vladislav Saus;Rusia;;17;06/08/2003;spartak_moskau
+Mediocentro ofensivo;Esequiel Barco;Argentina;;5;29/03/1999;spartak_moskau
+Mediocentro ofensivo;Daniil Zorin;Rusia;;28;22/02/2004;spartak_moskau
+Extremo izquierdo;Marquinhos;Brasil;;10;23/10/1999;spartak_moskau
+Extremo izquierdo;Igor Dmitriev;Rusia;;27;24/07/2004;spartak_moskau
+Extremo izquierdo;Pavel Polekh;Rusia;;62;02/12/2009;spartak_moskau
+Extremo derecho;Pablo Solari;Argentina;;7;22/03/2001;spartak_moskau
+Extremo derecho;Théo Bongonda;RD del Congo;Bélgica;77;20/11/1995;spartak_moskau
+Extremo derecho;Nikita Massalyga;Rusia;;24;09/10/2007;spartak_moskau
+Delantero centro;Manfred Ugalde;Costa Rica;;9;25/05/2002;spartak_moskau
+Delantero centro;Levi García;Trinidad y Tobago;;11;20/11/1997;spartak_moskau
+Delantero centro;Anton Zabolotnyi;Rusia;;91;13/06/1991;spartak_moskau
+Portero;Stanislav Agkatsev;Rusia;;1;09/01/2002;fk_krasnodar
+Portero;Aleksandr Koryakin;Rusia;;16;10/03/2002;fk_krasnodar
+Portero;Roman Safronov;Rusia;;-;15/02/2003;fk_krasnodar
+Defensa central;Diego Costa;Brasil;;4;21/07/1999;fk_krasnodar
+Defensa central;Vítor Tormena;Brasil;;3;04/01/1996;fk_krasnodar
+Defensa central;Valentin Paltsev;Rusia;;17;12/07/2001;fk_krasnodar
+Defensa central;Jubal;Brasil;;5;29/08/1993;fk_krasnodar
+Defensa central;Vitaliy Stezhko;Rusia;;2;29/01/1997;fk_krasnodar
+Lateral izquierdo;Lucas Olaza;Uruguay;España;15;21/07/1994;fk_krasnodar
+Lateral izquierdo;Artem Khmarin;Rusia;;59;03/05/2007;fk_krasnodar
+Lateral derecho;Giovanni González;Uruguay;Italia;20;20/09/1994;fk_krasnodar
+Lateral derecho;Sergey Petrov;Rusia;;98;02/01/1991;fk_krasnodar
+Pivote;Aleksandr Chernikov;Rusia;;53;01/02/2000;fk_krasnodar
+Pivote;Kevin Lenini;Cabo Verde;Portugal;6;27/01/1997;fk_krasnodar
+Mediocentro;Douglas Augusto;Brasil;;66;13/01/1997;fk_krasnodar
+Mediocentro;Grigoriy Lovtsov;Rusia;;-;06/01/2005;fk_krasnodar
+Mediocentro ofensivo;Eduard Spertsyan;Armenia;Rusia;10;07/06/2000;fk_krasnodar
+Mediocentro ofensivo;Nikita Krivtsov;Rusia;;88;18/08/2002;fk_krasnodar
+Mediocentro ofensivo;Efim Burkin;Rusia;;27;15/04/2008;fk_krasnodar
+Extremo izquierdo;Victor Sá;Brasil;;7;27/03/1994;fk_krasnodar
+Extremo izquierdo;Eldar Guseynov;Rusia;;29;09/02/2008;fk_krasnodar
+Extremo derecho;João Batxi;Angola;Portugal;11;01/05/1998;fk_krasnodar
+Extremo derecho;Moses David Cobnan;Nigeria;;90;10/09/2002;fk_krasnodar
+Extremo derecho;Timur Abdrashitov;Rusia;;41;19/04/2002;fk_krasnodar
+Mediapunta;Juan Manuel Boselli;Uruguay;Italia;23;09/11/1999;fk_krasnodar
+Delantero centro;Jhon Córdoba;Colombia;;9;11/05/1993;fk_krasnodar
+Delantero centro;Kazbek Mukailov;Rusia;;67;01/06/2007;fk_krasnodar
+Delantero centro;Aleksandr Koksharov;Rusia;Eslovenia;96;20/12/2004;fk_krasnodar
+Delantero centro;Danil Karpov;Rusia;;21;28/06/1999;fk_krasnodar
+Portero;Kurban Rasulov;Rusia;;40;05/01/2006;dinamo_moskau
+Portero;Andrey Lunev;Rusia;;99;13/11/1991;dinamo_moskau
+Portero;Igor Leshchuk;Rusia;;31;20/02/1996;dinamo_moskau
+Portero;Andrey Kudravets;Bielorrusia;;47;02/09/2003;dinamo_moskau
+Defensa central;David Ricardo;Brasil;;57;21/12/2002;dinamo_moskau
+Defensa central;Nicolás Marichal;Uruguay;;2;17/03/2001;dinamo_moskau
+Defensa central;Maksim Osipenko;Rusia;;55;16/05/1994;dinamo_moskau
+Defensa central;Roberto Fernández;Paraguay;;6;07/06/2000;dinamo_moskau
+Defensa central;Milan Majstorovic;Serbia;;5;21/02/2005;dinamo_moskau
+Defensa central;Leon Zaydenzal;Rusia;;56;08/07/2004;dinamo_moskau
+Lateral izquierdo;Rubens;Brasil;;44;21/06/2001;dinamo_moskau
+Lateral izquierdo;Bakhtiyor Zaynutdinov;Kazajistán;;19;02/04/1998;dinamo_moskau
+Lateral izquierdo;Dmitriy Skopintsev;Rusia;;7;02/03/1997;dinamo_moskau
+Lateral derecho;Juan José Cáceres;Paraguay;Argentina;4;01/06/2000;dinamo_moskau
+Pivote;Daniil Fomin;Rusia;;74;02/03/1997;dinamo_moskau
+Pivote;Danil Glebov;Rusia;;15;03/11/1999;dinamo_moskau
+Pivote;Luis Chávez;México;;24;15/01/1996;dinamo_moskau
+Pivote;Aleksandr Kutitskiy;Rusia;;50;01/01/2002;dinamo_moskau
+Pivote;Dmitriy Aleksandrov;Rusia;;30;31/07/2006;dinamo_moskau
+Mediocentro;Timofey Marinkin;Rusia;;60;02/06/2008;dinamo_moskau
+Mediocentro ofensivo;Bitello;Brasil;;10;07/01/2000;dinamo_moskau
+Mediocentro ofensivo;Anton Miranchuk;Rusia;;21;17/10/1995;dinamo_moskau
+Mediocentro ofensivo;Viktor Okishor;Rusia;Moldavia;88;30/12/2006;dinamo_moskau
+Extremo izquierdo;Arthur Gomes;Brasil;;11;03/07/1998;dinamo_moskau
+Extremo izquierdo;Nicolas Moumi Ngamaleu;Camerún;;13;09/07/1994;dinamo_moskau
+Extremo izquierdo;Ulvi Babaev;Rusia;Azerbaiyán;17;30/03/2004;dinamo_moskau
+Extremo derecho;Yaroslav Gladyshev;Rusia;;91;05/05/2003;dinamo_moskau
+Delantero centro;Konstantin Tyukavin;Rusia;;70;22/06/2002;dinamo_moskau
+Delantero centro;Ivan Sergeev;Rusia;;33;11/05/1995;dinamo_moskau
+Delantero centro;El Mehdi Maouhoub;Marruecos;;14;05/06/2003;dinamo_moskau
+Portero;Igor Akinfeev;Rusia;;35;08/04/1986;zska_moskau
+Portero;Vladislav Torop;Rusia;;49;07/11/2003;zska_moskau
+Portero;Egor Besaev;Rusia;;85;03/01/2006;zska_moskau
+Defensa central;João Victor;Brasil;;4;17/07/1998;zska_moskau
+Defensa central;Matvey Lukin;Rusia;;90;27/04/2004;zska_moskau
+Defensa central;Kirill Danilov;Rusia;;79;12/08/2007;zska_moskau
+Lateral izquierdo;Moisés;Brasil;;27;11/03/1995;zska_moskau
+Lateral izquierdo;Matheus Reis;Brasil;;2;18/02/1995;zska_moskau
+Lateral derecho;Milan Gajic;Serbia;;22;28/01/1996;zska_moskau
+Lateral derecho;Ramiro Di Luciano;Argentina;Italia;24;21/01/2004;zska_moskau
+Pivote;Dmitriy Barinov;Rusia;;6;11/09/1996;zska_moskau
+Pivote;Artem Bandikyan;Armenia;Rusia;52;20/09/2005;zska_moskau
+Mediocentro;Matvey Kislyak;Rusia;;31;26/07/2005;zska_moskau
+Mediocentro;Ivan Oblyakov;Rusia;;10;05/07/1998;zska_moskau
+Interior izquierdo;Danil Krugovoy;Rusia;;3;28/05/1998;zska_moskau
+Mediocentro ofensivo;Matheus Alves;Brasil;;7;05/03/2005;zska_moskau
+Mediocentro ofensivo;Danila Kozlov;Rusia;;18;19/01/2005;zska_moskau
+Mediocentro ofensivo;Matija Popović;Serbia;Alemania;20;08/01/2006;zska_moskau
+Extremo izquierdo;Daniel Ruiz;Colombia;;19;30/07/2001;zska_moskau
+Extremo derecho;Kirill Glebov;Rusia;;17;10/11/2005;zska_moskau
+Extremo derecho;Henrique Carmo;Brasil;;37;09/11/2006;zska_moskau
+Extremo derecho;Artem Serikov;Rusia;;88;26/05/2007;zska_moskau
+Extremo derecho;Egor Ushakov;Rusia;;14;02/12/2002;zska_moskau
+Delantero centro;Luciano Gondou;Argentina;Italia;9;22/06/2001;zska_moskau
+Delantero centro;Tamerlan Musaev;Rusia;;11;29/07/2001;zska_moskau
+Delantero centro;Maksim Voronov;Rusia;;97;18/10/2007;zska_moskau
+Portero;Anton Mitryushkin;Rusia;;1;08/02/1996;lokomotiv_moskau
+Portero;Ilya Lantratov;Rusia;;22;11/11/1995;lokomotiv_moskau
+Portero;Daniil Veselov;Rusia;;16;30/01/2005;lokomotiv_moskau
+Defensa central;César Montes;México;;23;24/02/1997;lokomotiv_moskau
+Defensa central;Lucas Fasson;Brasil;Italia;3;30/05/2001;lokomotiv_moskau
+Defensa central;Gerzino Nyamsi;Camerún;Francia;5;22/01/1997;lokomotiv_moskau
+Defensa central;Evgeniy Morozov;Rusia;;85;14/02/2001;lokomotiv_moskau
+Defensa central;Egor Pogostnov;Rusia;;59;01/03/2004;lokomotiv_moskau
+Lateral izquierdo;Cristian Ramírez;Ecuador;Rusia;2;12/08/1994;lokomotiv_moskau
+Lateral derecho;Aleksandr Silyanov;Rusia;;45;17/02/2001;lokomotiv_moskau
+Lateral derecho;Maksim Nenakhov;Rusia;;24;13/12/1998;lokomotiv_moskau
+Pivote;Artem Karpukas;Rusia;;93;13/06/2002;lokomotiv_moskau
+Pivote;Artem Timofeev;Rusia;;94;12/01/1994;lokomotiv_moskau
+Pivote;Mikhail Shchetinin;Rusia;;88;08/07/2005;lokomotiv_moskau
+Pivote;Daniil Chevardin;Rusia;;74;22/08/2006;lokomotiv_moskau
+Mediocentro;Danil Prutsev;Rusia;;25;25/03/2000;lokomotiv_moskau
+Mediocentro;Lucas Vera;Argentina;;32;18/04/1997;lokomotiv_moskau
+Mediocentro;Danila Godyaev;Rusia;;90;20/04/2004;lokomotiv_moskau
+Mediocentro ofensivo;Aleksey Batrakov;Rusia;;83;09/06/2005;lokomotiv_moskau
+Extremo izquierdo;Sergey Pinyaev;Rusia;;9;02/11/2004;lokomotiv_moskau
+Extremo izquierdo;Aleksandr Rudenko;Rusia;;19;15/03/1999;lokomotiv_moskau
+Extremo izquierdo;Nikita Saltykov;Rusia;;14;11/08/2004;lokomotiv_moskau
+Extremo izquierdo;Ruslan Myalkovskiy;Bielorrusia;;99;07/05/2006;lokomotiv_moskau
+Extremo derecho;Zelimkhan Bakaev;Rusia;;7;01/07/1996;lokomotiv_moskau
+Delantero centro;Dmitriy Vorobyov;Rusia;;10;28/11/1997;lokomotiv_moskau
+Delantero centro;Nikolay Komlichenko;Rusia;;27;29/06/1995;lokomotiv_moskau
+Delantero centro;Vladislav Sarveli;Rusia;;8;01/10/1997;lokomotiv_moskau
+Portero;Evgeniy Staver;Rusia;;38;16/02/1998;rubin_kazan
+Portero;Aleksey Kenyaykin;Rusia;;1;23/08/1998;rubin_kazan
+Portero;Artur Nigmatullin;Rusia;;25;17/05/1991;rubin_kazan
+Defensa central;Igor Vujacic;Montenegro;Serbia;5;08/08/1994;rubin_kazan
+Defensa central;Egor Teslenko;Rusia;;2;31/01/2001;rubin_kazan
+Defensa central;Denil Maldonado;Honduras;;3;26/05/1998;rubin_kazan
+Defensa central;Aleksey Gritsaenko;Rusia;;27;25/05/1995;rubin_kazan
+Defensa central;Konstantin Nizhegorodov;Rusia;Ucrania;4;21/06/2002;rubin_kazan
+Defensa central;Nikita Lobov;Rusia;;98;21/07/2005;rubin_kazan
+Defensa central;Uros Drezgic;Serbia;;26;04/10/2002;rubin_kazan
+Lateral izquierdo;Ilya Rozhkov;Rusia;;51;29/03/2005;rubin_kazan
+Lateral derecho;Anderson Arroyo;Colombia;;12;27/09/1999;rubin_kazan
+Lateral derecho;Dmitriy Kabutov;Rusia;;70;26/03/1992;rubin_kazan
+Pivote;Veldin Hodza;Kosovo;Croacia;22;15/10/2002;rubin_kazan
+Pivote;Ugochukwu Iwu;Armenia;Nigeria;6;28/11/1999;rubin_kazan
+Pivote;Ignacio Saavedra;Chile;;7;12/01/1999;rubin_kazan
+Pivote;Anton Shvets;Rusia;Ucrania;30;26/04/1993;rubin_kazan
+Pivote;Nikita Vasiljev;Rusia;;96;14/12/2006;rubin_kazan
+Mediocentro;Daler Kuzyaev;Rusia;;14;15/01/1993;rubin_kazan
+Mediocentro;Bogdan Jocic;Serbia;;8;11/01/2001;rubin_kazan
+Mediocentro;Aleksandar Jukic;Austria;;77;26/07/2000;rubin_kazan
+Mediocentro;Marat Apshatsev;Rusia;;18;27/05/2001;rubin_kazan
+Mediocentro;Aleksandr Zotov;Rusia;;21;27/08/1990;rubin_kazan
+Interior izquierdo;Ruslan Bezrukov;Rusia;;23;21/03/2002;rubin_kazan
+Mediocentro ofensivo;Nazmi Gripshi;Albania;;11;05/07/1997;rubin_kazan
+Mediocentro ofensivo;Oleg Ivanov;Rusia;;19;04/08/1986;rubin_kazan
+Extremo derecho;Daniil Kuznetsov;Rusia;;44;23/04/2003;rubin_kazan
+Extremo derecho;Aleksandr Lomovitskiy;Rusia;;9;27/01/1998;rubin_kazan
+Extremo derecho;Enri Mukba;Rusia;Georgia;87;22/09/2005;rubin_kazan
+Delantero centro;Mirlind Daku;Albania;Kosovo;10;01/01/1998;rubin_kazan
+Delantero centro;Jacques Siwe;Francia;Camerún;43;29/07/2001;rubin_kazan
+Delantero centro;Dardan Shabanhaxhaj;Kosovo;Austria;99;23/04/2001;rubin_kazan
+Delantero centro;Daniil Motorin;Rusia;;59;16/07/2004;rubin_kazan
+Portero;Rustam Yatimov;Tayikistán;Rusia;1;13/07/1998;fk_rostov
+Portero;Daniil Odoevskiy;Rusia;;71;22/01/2003;fk_rostov
+Portero;Hidajet Hankic;Bosnia y Herzegovina;Austria;13;29/06/1994;fk_rostov
+Defensa central;Viktor Melekhin;Rusia;;4;16/12/2003;fk_rostov
+Defensa central;Oumar Sako;Níger;Costa de Marfil;3;04/05/1996;fk_rostov
+Defensa central;Danila Prokhin;Rusia;;5;24/05/2001;fk_rostov
+Defensa central;David Semenchuk;Rusia;;22;22/10/2004;fk_rostov
+Defensa central;Dmitriy Chistyakov;Rusia;;78;13/01/1994;fk_rostov
+Defensa central;German Ignatov;Rusia;;67;11/08/2005;fk_rostov
+Defensa central;Nikita Babakin;Rusia;;59;05/01/2006;fk_rostov
+Lateral izquierdo;Eyad El Askalany;Egipto;;34;24/12/2004;fk_rostov
+Lateral izquierdo;Aleksandr Tarasov;Rusia;;6;10/01/2006;fk_rostov
+Lateral izquierdo;Evgeniy Chernov;Rusia;;28;23/10/1992;fk_rostov
+Lateral derecho;Ilya Vakhania;Rusia;;40;14/01/2001;fk_rostov
+Lateral derecho;Andrey Langovich;Rusia;;87;28/05/2003;fk_rostov
+Mediocentro;Aleksey Mironov;Rusia;;8;01/01/2000;fk_rostov
+Mediocentro;Daniil Shantaliy;Rusia;;58;25/05/2004;fk_rostov
+Interior izquierdo;Ilya Zhbanov;Rusia;;57;25/07/2004;fk_rostov
+Mediocentro ofensivo;Kirill Shchetinin;Rusia;;10;17/01/2002;fk_rostov
+Mediocentro ofensivo;Konstantin Kuchaev;Rusia;;18;18/03/1998;fk_rostov
+Mediocentro ofensivo;Ivan Komarov;Rusia;;62;15/04/2003;fk_rostov
+Mediocentro ofensivo;Khoren Bayramyan;Armenia;Rusia;19;07/01/1992;fk_rostov
+Extremo izquierdo;Mohammad Mohebi;Irán;;9;20/12/1998;fk_rostov
+Extremo izquierdo;Ibraheem Mahfus Ajasa;Nigeria;;17;26/11/2005;fk_rostov
+Extremo derecho;Ronaldo;Brasil;;7;07/12/2000;fk_rostov
+Extremo derecho;Stepan Melnikov;Rusia;;-;25/04/2002;fk_rostov
+Delantero centro;Egor Golenkov;Rusia;;69;07/07/1999;fk_rostov
+Delantero centro;Timur Suleymanov;Rusia;;99;17/03/2000;fk_rostov
+Delantero centro;Anton Shamonin;Rusia;;91;28/03/2005;fk_rostov
+Portero;Nikita Kokarev;Rusia;;80;08/01/2003;krylya_sovetov_samara
+Portero;Sergey Pesjakov;Rusia;;30;16/12/1988;krylya_sovetov_samara
+Portero;Evgeniy Frolov;Rusia;;39;05/02/1988;krylya_sovetov_samara
+Defensa central;Gonzalo Requena;Argentina;;31;04/03/2003;krylya_sovetov_samara
+Defensa central;Nikita Chernov;Rusia;;23;14/01/1996;krylya_sovetov_samara
+Defensa central;Dominik Oroz;Croacia;Austria;5;29/10/2000;krylya_sovetov_samara
+Defensa central;Roman Evgenjev;Rusia;;24;23/02/1999;krylya_sovetov_samara
+Defensa central;Ivan Lepskiy;Rusia;;18;19/01/2005;krylya_sovetov_samara
+Defensa central;Sergey Bozhin;Rusia;;47;12/09/1994;krylya_sovetov_samara
+Lateral izquierdo;Thomas Galdames;Chile;;3;20/11/1998;krylya_sovetov_samara
+Lateral izquierdo;Kirill Pechenin;Bielorrusia;;2;18/03/1997;krylya_sovetov_samara
+Lateral derecho;Nikolay Rasskazov;Rusia;;15;04/01/1998;krylya_sovetov_samara
+Lateral derecho;Dani Fernández;España;;72;30/04/1997;krylya_sovetov_samara
+Pivote;Fernando Costanza;Brasil;Italia;22;29/11/1998;krylya_sovetov_samara
+Pivote;Maksim Vityugov;Rusia;;8;01/02/1998;krylya_sovetov_samara
+Mediocentro;Sergey Babkin;Rusia;;6;25/09/2002;krylya_sovetov_samara
+Mediocentro;Mihajlo Banjac;Serbia;;14;10/11/1999;krylya_sovetov_samara
+Mediocentro;Kirill Stolbov;Rusia;;20;08/04/2004;krylya_sovetov_samara
+Mediocentro ofensivo;Ilzat Akhmetov;Rusia;Kirguistán;77;31/12/1997;krylya_sovetov_samara
+Mediocentro ofensivo;Amar Rahmanovic;Bosnia y Herzegovina;;11;13/05/1994;krylya_sovetov_samara
+Extremo izquierdo;Vladimir Khubulov;Rusia;;10;02/03/2001;krylya_sovetov_samara
+Extremo derecho;Vadim Rakov;Rusia;;7;09/01/2005;krylya_sovetov_samara
+Extremo derecho;Ivan Oleynikov;Rusia;;19;24/08/1998;krylya_sovetov_samara
+Extremo derecho;Jimmy Marín;Costa Rica;;26;08/10/1997;krylya_sovetov_samara
+Extremo derecho;Aleksey Sutormin;Rusia;;9;10/01/1994;krylya_sovetov_samara
+Delantero centro;Chinedu Geoffrey;Nigeria;;99;01/10/1997;krylya_sovetov_samara
+Delantero centro;Artem Shumanskiy;Bielorrusia;;70;25/11/2004;krylya_sovetov_samara
+Delantero centro;Vladimir Ignatenko;Rusia;;91;12/05/2006;krylya_sovetov_samara
+Portero;Maksim Borisko;Rusia;;67;15/02/2000;baltika_kaliningrad
+Portero;Egor Lyubakov;Rusia;;44;28/06/1999;baltika_kaliningrad
+Portero;Ivan Kukushkin;Rusia;;81;24/07/2002;baltika_kaliningrad
+Defensa central;Kevin Andrade;Colombia;;16;16/06/1999;baltika_kaliningrad
+Defensa central;Sergey Varatynov;Rusia;;2;27/06/2003;baltika_kaliningrad
+Defensa central;Nathan Gassama;Malí;Francia;4;05/01/2001;baltika_kaliningrad
+Defensa central;Aleksandr Filin;Rusia;Ucrania;25;25/06/1996;baltika_kaliningrad
+Defensa central;Eduardo Anderson;Panamá;;21;31/01/2001;baltika_kaliningrad
+Defensa central;Kirill Obonin;Rusia;;46;05/07/2006;baltika_kaliningrad
+Lateral izquierdo;Mikhail Ryadno;Rusia;;68;18/09/2005;baltika_kaliningrad
+Lateral izquierdo;Eldar Civic;Bosnia y Herzegovina;;77;28/05/1996;baltika_kaliningrad
+Lateral derecho;Mingiyan Beveev;Rusia;;23;30/11/1995;baltika_kaliningrad
+Pivote;Andrey Mendel;Rusia;;8;17/04/1995;baltika_kaliningrad
+Pivote;Ivan Belikov;Rusia;Ucrania;26;25/07/2004;baltika_kaliningrad
+Pivote;Aymane Mourid;Marruecos;;5;07/05/2000;baltika_kaliningrad
+Mediocentro;Maksim Petrov;Rusia;;73;18/01/2001;baltika_kaliningrad
+Mediocentro;Ilya Petrov;Rusia;;10;27/06/1995;baltika_kaliningrad
+Mediocentro;Stefan Kovac;Bosnia y Herzegovina;Serbia;14;14/01/1999;baltika_kaliningrad
+Mediocentro;Nikolay Titkov;Rusia;;22;18/08/2000;baltika_kaliningrad
+Interior derecho;Yuriy Kovalev;Bielorrusia;;11;27/01/1993;baltika_kaliningrad
+Mediocentro ofensivo;Vladislav Pospelov;Rusia;;42;25/09/2006;baltika_kaliningrad
+Extremo izquierdo;Tenton Yenne;Nigeria;;15;07/07/2000;baltika_kaliningrad
+Extremo derecho;Irakliy Manelov;Rusia;;69;19/09/2002;baltika_kaliningrad
+Delantero centro;Brayan Gil;El Salvador;Colombia;91;28/06/2001;baltika_kaliningrad
+Delantero centro;Derik Lacerda;Brasil;;18;27/09/1999;baltika_kaliningrad
+Delantero centro;Chinonso Offor;Nigeria;;90;27/05/2000;baltika_kaliningrad
+Delantero centro;Kirill Stepanov;Rusia;;39;04/08/2006;baltika_kaliningrad
+Delantero centro;Kirill Nikishin;Rusia;;28;05/02/2004;baltika_kaliningrad
+Portero;Vadim Ulyanov;Rusia;;1;07/10/2001;akhmat_grozny
+Portero;Giorgiy Shelia;Rusia;;88;11/12/1988;akhmat_grozny
+Portero;Yakhya Magomedov;Rusia;;72;06/04/2007;akhmat_grozny
+Defensa central;Turpal-Ali Ibishev;Rusia;;4;18/02/2002;akhmat_grozny
+Defensa central;Dzhamalutdin Abdulkadyrov;Rusia;;2;23/03/2005;akhmat_grozny
+Defensa central;Klisman Cake;Albania;;5;02/05/1999;akhmat_grozny
+Defensa central;Mohammadmehdi Zare;Irán;;22;25/01/2003;akhmat_grozny
+Defensa central;Ousmane N'Dong;Senegal;;90;20/09/1999;akhmat_grozny
+Lateral izquierdo;Miroslav Bogosavac;Serbia;;8;14/10/1996;akhmat_grozny
+Lateral izquierdo;Maksim Sidorov;Rusia;;81;18/03/1998;akhmat_grozny
+Lateral derecho;Daniil Khlusevich;Rusia;Ucrania;82;26/02/2001;akhmat_grozny
+Lateral derecho;Rizvan Utsiev;Rusia;;40;07/02/1988;akhmat_grozny
+Pivote;Kelliano;Angola;;42;16/01/2003;akhmat_grozny
+Mediocentro;Ismael Silva;Brasil;;11;01/12/1994;akhmat_grozny
+Mediocentro;Papa Amady Gadio;Senegal;;37;19/10/2001;akhmat_grozny
+Mediocentro ofensivo;Egas Cacintura;Angola;;17;29/10/1997;akhmat_grozny
+Mediocentro ofensivo;Rifat Zhemaletdinov;Rusia;;10;20/09/1996;akhmat_grozny
+Mediocentro ofensivo;Sergey Pryakhin;Rusia;;19;16/12/2002;akhmat_grozny
+Mediocentro ofensivo;Abakar Gadzhiev;Rusia;;70;31/12/2003;akhmat_grozny
+Mediocentro ofensivo;Valeriy Tsarukyan;Rusia;;80;12/11/2001;akhmat_grozny
+Extremo izquierdo;Lechi Sadulaev;Rusia;;7;08/01/2000;akhmat_grozny
+Extremo izquierdo;Brian Mansilla;Argentina;;9;16/04/1997;akhmat_grozny
+Extremo izquierdo;Galymzhan Kenzhebek;Kazajistán;;23;12/02/2003;akhmat_grozny
+Extremo derecho;Maksim Samorodov;Kazajistán;;20;29/06/2002;akhmat_grozny
+Delantero centro;Mohamed Konaté;Burkina Faso;Rusia;13;12/12/1997;akhmat_grozny
+Delantero centro;Georgiy Melkadze;Rusia;Georgia;77;04/04/1997;akhmat_grozny
+Portero;Aleksandr Degtev;Rusia;;35;27/04/2005;fk_sochi
+Portero;Yuriy Dyupin;Rusia;;99;17/03/1988;fk_sochi
+Defensa central;Aleksandr Soldatenkov;Rusia;;3;28/12/1996;fk_sochi
+Defensa central;Nemanja Stojic;Serbia;;44;15/01/1998;fk_sochi
+Defensa central;Marcelo Alves;Brasil;;33;07/02/1998;fk_sochi
+Defensa central;Vyacheslav Litvinov;Rusia;;4;01/04/2001;fk_sochi
+Defensa central;Makar Chirkov;Rusia;;37;28/01/2005;fk_sochi
+Lateral izquierdo;Yahia Attiyat Allah;Marruecos;;25;02/03/1995;fk_sochi
+Lateral izquierdo;Artem Makarchuk;Rusia;;17;09/11/1995;fk_sochi
+Lateral derecho;Sergey Volkov;Rusia;;82;09/09/2002;fk_sochi
+Lateral derecho;Kirill Zaika;Rusia;;27;07/10/1992;fk_sochi
+Lateral derecho;Ruslan Magal;Rusia;;28;24/09/1991;fk_sochi
+Pivote;Maksim Mukhin;Rusia;;16;04/11/2001;fk_sochi
+Pivote;Kirill Kravtsov;Rusia;;14;14/06/2002;fk_sochi
+Pivote;Dmitriy Vasiljev;Rusia;;20;16/06/2004;fk_sochi
+Pivote;Aleksandr Osipov;Rusia;;34;21/10/1998;fk_sochi
+Mediocentro;Aleksandr Kovalenko;Rusia;;19;08/08/2003;fk_sochi
+Mediocentro ofensivo;Mikhail Ignatov;Rusia;;8;04/05/2000;fk_sochi
+Extremo izquierdo;Anton Zinkovskiy;Rusia;;7;14/04/1996;fk_sochi
+Extremo izquierdo;François Kamano;Guinea;;45;02/05/1996;fk_sochi
+Extremo izquierdo;Martin Kramaric;Eslovenia;;10;14/11/1997;fk_sochi
+Extremo izquierdo;Gustavo Furtado;Brasil;Portugal;23;14/02/2001;fk_sochi
+Extremo izquierdo;Artem Korneev;Rusia;;18;25/03/2006;fk_sochi
+Extremo derecho;Roman Ezhov;Rusia;;29;02/09/1997;fk_sochi
+Extremo derecho;Ruslan Bart;Rusia;;59;16/11/2005;fk_sochi
+Delantero centro;Pavel Meleshin;Rusia;;11;25/03/2004;fk_sochi
+Delantero centro;Vladimir Iljin;Rusia;;98;20/05/1992;fk_sochi
+Delantero centro;Zakhar Fedorov;Rusia;;9;24/12/2004;fk_sochi
+Portero;Vitaliy Gudiev;Rusia;;88;22/04/1995;akron_togliatti
+Portero;Aleksandr Vasyutin;Rusia;;78;04/03/1995;akron_togliatti
+Portero;Ignat Terekhovskiy;Rusia;;32;27/03/2006;akron_togliatti
+Defensa central;Ionuț Nedelcearu;Rumania;;24;25/04/1996;akron_togliatti
+Defensa central;Marat Bokoev;Rusia;;19;17/07/2001;akron_togliatti
+Defensa central;Rodrigo Escoval;Portugal;;26;08/05/1997;akron_togliatti
+Lateral izquierdo;Roberto Fernández;Bolivia;;21;12/07/1999;akron_togliatti
+Lateral izquierdo;Denis Popenkov;Rusia;;89;03/10/2006;akron_togliatti
+Lateral derecho;Yomar Rocha;Bolivia;;2;21/06/2003;akron_togliatti
+Pivote;Aleksa Djurasovic;Serbia;Bosnia y Herzegovina;5;23/12/2002;akron_togliatti
+Pivote;Stefan Loncar;Montenegro;;15;19/02/1996;akron_togliatti
+Pivote;Khetag Khosonov;Rusia;;80;18/06/1998;akron_togliatti
+Pivote;Konstantin Maradishvili;Rusia;Georgia;8;07/02/2000;akron_togliatti
+Mediocentro;Ifet Djakovac;Bosnia y Herzegovina;Serbia;35;05/12/1997;akron_togliatti
+Mediocentro;Kristijan Bistrovic;Croacia;;23;09/04/1998;akron_togliatti
+Mediocentro ofensivo;Maksim Boldyrev;Rusia;;91;31/03/2004;akron_togliatti
+Mediocentro ofensivo;Maksim Kuzmin;Rusia;;6;01/06/1996;akron_togliatti
+Mediocentro ofensivo;Nikita Bazilevskiy;Rusia;;81;05/06/2006;akron_togliatti
+Extremo izquierdo;Kévin Arévalo;Uruguay;;10;06/06/2006;akron_togliatti
+Extremo derecho;Dmitriy Pestryakov;Rusia;;71;08/12/2006;akron_togliatti
+Extremo derecho;Edgar Sevikyan;Armenia;Rusia;7;08/08/2001;akron_togliatti
+Extremo derecho;Arseniy Dmitriev;Rusia;;69;18/07/2007;akron_togliatti
+Delantero centro;Artem Dzyuba;Rusia;;22;22/08/1988;akron_togliatti
+Delantero centro;Benchimol;Cabo Verde;Portugal;11;29/12/2001;akron_togliatti
+Portero;Nikita Medvedev;Rusia;;30;17/12/1994;fk_nizhny_novgorod
+Portero;Vadim Lukyanov;Rusia;;1;16/12/2002;fk_nizhny_novgorod
+Portero;Egor Koshkin;Rusia;;51;02/05/2006;fk_nizhny_novgorod
+Defensa central;Sven Karic;Eslovenia;;25;07/03/1998;fk_nizhny_novgorod
+Defensa central;Viktor Aleksandrov;Rusia;;2;14/02/2002;fk_nizhny_novgorod
+Defensa central;Edgardo Fariña;Panamá;;24;19/10/2001;fk_nizhny_novgorod
+Defensa central;Nikita Kakkoev;Rusia;;22;22/08/1999;fk_nizhny_novgorod
+Defensa central;Ilya Kirsh;Rusia;;4;21/09/2004;fk_nizhny_novgorod
+Lateral izquierdo;Juan Camilo Castillo;Colombia;;23;03/10/2002;fk_nizhny_novgorod
+Lateral izquierdo;Yaroslav Krashevskiy;Rusia;;16;16/03/2004;fk_nizhny_novgorod
+Lateral derecho;Vadim Pigas;Bielorrusia;;32;08/08/2001;fk_nizhny_novgorod
+Lateral derecho;Maksim Shnaptsev;Rusia;;70;19/04/2004;fk_nizhny_novgorod
+Lateral derecho;Aleksandr Ektov;Rusia;;15;30/01/1996;fk_nizhny_novgorod
+Lateral derecho;Yuriy Koledin;Rusia;;3;10/12/2004;fk_nizhny_novgorod
+Pivote;Alex Opoku Sarfo;Ghana;;6;20/10/2004;fk_nizhny_novgorod
+Pivote;Mamadou Maiga;Malí;Rusia;8;10/02/1995;fk_nizhny_novgorod
+Pivote;Nikolay Kalinskiy;Rusia;;78;22/09/1993;fk_nizhny_novgorod
+Mediocentro;Luka Vesner Ticic;Eslovenia;;29;25/10/2000;fk_nizhny_novgorod
+Mediocentro;Artem Sidorenko;Rusia;;69;03/01/2007;fk_nizhny_novgorod
+Mediocentro ofensivo;Andrey Ivlev;Rusia;;77;21/11/2006;fk_nizhny_novgorod
+Mediocentro ofensivo;Egor Smelov;Rusia;;17;11/03/2005;fk_nizhny_novgorod
+Mediocentro ofensivo;Nikita Ermakov;Rusia;;19;19/01/2003;fk_nizhny_novgorod
+Extremo izquierdo;Olakunle Olusegun;Nigeria;;40;23/04/2002;fk_nizhny_novgorod
+Extremo izquierdo;Daniil Lesovoy;Rusia;;88;12/01/1998;fk_nizhny_novgorod
+Extremo izquierdo;Vyacheslav Grulev;Rusia;;27;23/03/1999;fk_nizhny_novgorod
+Extremo izquierdo;Renaldo Cephas;Jamaica;;21;18/12/1999;fk_nizhny_novgorod
+Delantero centro;Adrián Balboa;Uruguay;;10;19/01/1994;fk_nizhny_novgorod
+Delantero centro;Matvey Urvantsev;Rusia;;14;29/11/2004;fk_nizhny_novgorod
+Delantero centro;Stanislav Lapinskiy;Rusia;;-;15/02/2005;fk_nizhny_novgorod
+Portero;Bogdan Ovsyannikov;Rusia;;1;05/01/1999;fk_orenburg
+Portero;Nikolay Sysuev;Rusia;;99;19/05/1999;fk_orenburg
+Portero;Maksim Rudakov;Rusia;;88;22/01/1996;fk_orenburg
+Portero;Andrey Khodanovich;Rusia;;95;08/09/2004;fk_orenburg
+Defensa central;Emil Tsenov;Bulgaria;;26;26/04/2002;fk_orenburg
+Defensa central;Danila Khotulev;Rusia;;4;01/10/2002;fk_orenburg
+Defensa central;Artem Kasimov;Rusia;;38;17/04/2003;fk_orenburg
+Defensa central;Aleksey Tataev;Rusia;Georgia;5;08/10/1998;fk_orenburg
+Defensa central;Jhon Alex Palacios;Colombia;;6;02/10/1999;fk_orenburg
+Lateral izquierdo;Alexis Cantero;Paraguay;;32;05/02/2003;fk_orenburg
+Lateral izquierdo;Danila Vedernikov;Rusia;;3;06/06/2001;fk_orenburg
+Lateral derecho;Fahd Moufi;Marruecos;Francia;18;05/05/1996;fk_orenburg
+Lateral derecho;Stanislav Poroykov;Rusia;;2;24/04/2004;fk_orenburg
+Pivote;Pavel Gorelov;Armenia;Rusia;22;22/01/2003;fk_orenburg
+Pivote;Evgeniy Bolotov;Rusia;;57;04/06/2001;fk_orenburg
+Pivote;Tigran Avanesyan;Armenia;Rusia;59;13/04/2002;fk_orenburg
+Pivote;Irakliy Kvekveskiri;Rusia;Georgia;33;12/03/1990;fk_orenburg
+Mediocentro;Du Queiroz;Brasil;;37;07/01/2000;fk_orenburg
+Interior derecho;Dmitriy Rybchinskiy;Rusia;;20;19/08/1998;fk_orenburg
+Mediocentro ofensivo;Damián Puebla;Argentina;;21;15/09/2002;fk_orenburg
+Mediocentro ofensivo;Renat Golybin;Rusia;;27;30/08/2005;fk_orenburg
+Extremo izquierdo;Emircan Gürlük;Turquía;;7;15/10/2003;fk_orenburg
+Extremo izquierdo;Anas El Mahraoui;Marruecos;;29;29/03/2001;fk_orenburg
+Extremo derecho;Jordhy Thompson;Chile;Ecuador;16;10/08/2004;fk_orenburg
+Extremo derecho;Stepan Oganesyan;Rusia;;11;28/09/2001;fk_orenburg
+Extremo derecho;Ruslan Kul;Rusia;;78;22/02/2000;fk_orenburg
+Delantero centro;Maksim Saveljev;Rusia;;9;22/01/2002;fk_orenburg
+Delantero centro;Alexandre Jesus;Brasil;;19;16/09/2001;fk_orenburg
+Delantero centro;Gedeon Guzina;Bosnia y Herzegovina;Serbia;30;26/12/1993;fk_orenburg
+Delantero centro;Ivan Gulko;Rusia;;65;23/10/2003;fk_orenburg
+Portero;David Volk;Rusia;;27;11/04/2001;fk_makhachkala
+Portero;Timur Magomedov;Rusia;;39;20/12/2001;fk_makhachkala
+Portero;Nikita Karabashev;Rusia;;33;30/06/2002;fk_makhachkala
+Defensa central;Idar Shumakhov;Rusia;;4;05/06/1999;fk_makhachkala
+Defensa central;Jemal Tabidze;Georgia;;5;18/03/1996;fk_makhachkala
+Defensa central;Andrés Alarcón;Colombia;;24;19/05/2001;fk_makhachkala
+Defensa central;Mutalip Alibekov;Rusia;Azerbaiyán;99;18/06/1997;fk_makhachkala
+Defensa central;Ilyas Akhmedov;Rusia;;43;02/04/2007;fk_makhachkala
+Lateral izquierdo;Temirkan Sundukov;Rusia;;77;17/09/2001;fk_makhachkala
+Lateral izquierdo;Jan Dapo;Eslovenia;;71;17/09/2002;fk_makhachkala
+Lateral derecho;Mohamed Azzi;Argelia;;22;11/05/2002;fk_makhachkala
+Lateral derecho;Soslan Kagermazov;Rusia;;13;20/08/1996;fk_makhachkala
+Lateral derecho;Aleksandr Sandrachuk;Rusia;;72;02/01/2002;fk_makhachkala
+Pivote;Houssem Mrezigue;Argelia;;16;23/03/2000;fk_makhachkala
+Pivote;Mehdi Moubarik;Marruecos;;6;22/01/2001;fk_makhachkala
+Pivote;Abdulpasha Dzhabrailov;Rusia;;21;24/11/2004;fk_makhachkala
+Mediocentro;Nikita Glushkov;Rusia;;47;19/03/1999;fk_makhachkala
+Mediocentro ofensivo;Mohammadjavad Hosseinnejad;Irán;;10;26/06/2003;fk_makhachkala
+Mediocentro ofensivo;Razhab Magomedov;Rusia;;9;03/10/2000;fk_makhachkala
+Mediocentro ofensivo;Kirill Zinovich;Bielorrusia;;19;05/03/2003;fk_makhachkala
+Extremo derecho;Diaa Eddine Mechid;Argelia;;55;11/06/2006;fk_makhachkala
+Delantero centro;Gamid Agalarov;Rusia;;25;16/07/2000;fk_makhachkala
+Delantero centro;Miro;Angola;;11;22/04/2003;fk_makhachkala
+Delantero centro;Hazem Mastouri;Túnez;;7;18/06/1997;fk_makhachkala
+Delantero centro;Serder Serderov;Rusia;;28;10/03/1994;fk_makhachkala
+Delantero centro;Gadzhi Budunov;Rusia;;98;11/02/2007;fk_makhachkala

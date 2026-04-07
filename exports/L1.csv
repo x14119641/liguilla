@@ -1,0 +1,517 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Jonas Urbig;Alemania;;40;08/08/2003;fc_bayern_munchen
+Portero;Manuel Neuer;Alemania;;1;27/03/1986;fc_bayern_munchen
+Portero;Sven Ulreich;Alemania;;26;03/08/1988;fc_bayern_munchen
+Portero;Leon Klanac;Alemania;Croacia;48;01/03/2007;fc_bayern_munchen
+Defensa central;Dayot Upamecano;Francia;Guinea-Bissau;2;27/10/1998;fc_bayern_munchen
+Defensa central;Jonathan Tah;Alemania;Costa de Marfil;4;11/02/1996;fc_bayern_munchen
+Defensa central;Min-jae Kim;Corea del Sur;;3;15/11/1996;fc_bayern_munchen
+Defensa central;Hiroki Ito;Japón;;21;12/05/1999;fc_bayern_munchen
+Lateral izquierdo;Alphonso Davies;Canadá;Liberia;19;02/11/2000;fc_bayern_munchen
+Lateral izquierdo;Raphaël Guerreiro;Portugal;Francia;22;22/12/1993;fc_bayern_munchen
+Lateral derecho;Josip Stanisic;Croacia;Alemania;44;02/04/2000;fc_bayern_munchen
+Lateral derecho;Konrad Laimer;Austria;;27;27/05/1997;fc_bayern_munchen
+Pivote;Aleksandar Pavlovic;Alemania;Serbia;45;03/05/2004;fc_bayern_munchen
+Pivote;Joshua Kimmich;Alemania;;6;08/02/1995;fc_bayern_munchen
+Mediocentro;Tom Bischof;Alemania;;20;28/06/2005;fc_bayern_munchen
+Mediocentro;Leon Goretzka;Alemania;;8;06/02/1995;fc_bayern_munchen
+Mediocentro;Bara Sapoko Ndiaye;Senegal;;39;31/12/2007;fc_bayern_munchen
+Mediocentro ofensivo;Jamal Musiala;Alemania;Inglaterra;10;26/02/2003;fc_bayern_munchen
+Mediocentro ofensivo;Lennart Karl;Alemania;;42;22/02/2008;fc_bayern_munchen
+Extremo izquierdo;Luis Díaz;Colombia;;14;13/01/1997;fc_bayern_munchen
+Extremo derecho;Michael Olise;Francia;Inglaterra;17;12/12/2001;fc_bayern_munchen
+Mediapunta;Serge Gnabry;Alemania;Costa de Marfil;7;14/07/1995;fc_bayern_munchen
+Delantero centro;Harry Kane;Inglaterra;Irlanda;9;28/07/1993;fc_bayern_munchen
+Delantero centro;Nicolas Jackson;Senegal;Gambia;11;20/06/2001;fc_bayern_munchen
+Portero;Gregor Kobel;Suiza;;1;06/12/1997;borussia_dortmund
+Portero;Alexander Meyer;Alemania;;33;13/04/1991;borussia_dortmund
+Portero;Patrick Drewes;Alemania;;30;04/02/1993;borussia_dortmund
+Portero;Silas Ostrzinski;Alemania;;31;19/11/2003;borussia_dortmund
+Defensa central;Nico Schlotterbeck;Alemania;;4;01/12/1999;borussia_dortmund
+Defensa central;Waldemar Anton;Alemania;;3;20/07/1996;borussia_dortmund
+Defensa central;Ramy Bensebaini;Argelia;;5;16/04/1995;borussia_dortmund
+Defensa central;Luca Reggiani;Italia;;49;09/01/2008;borussia_dortmund
+Defensa central;Emre Can;Alemania;Turquía;23;12/01/1994;borussia_dortmund
+Defensa central;Niklas Süle;Alemania;;25;03/09/1995;borussia_dortmund
+Defensa central;Filippo Mane;Italia;Senegal;39;08/03/2005;borussia_dortmund
+Lateral izquierdo;Daniel Svensson;Suecia;;24;12/02/2002;borussia_dortmund
+Lateral izquierdo;Almugera Kabar;Alemania;Libia;42;06/06/2006;borussia_dortmund
+Lateral derecho;Julian Ryerson;Noruega;Estados Unidos;26;17/11/1997;borussia_dortmund
+Pivote;Salih Özcan;Turquía;Alemania;6;11/01/1998;borussia_dortmund
+Mediocentro;Felix Nmecha;Alemania;Inglaterra;8;10/10/2000;borussia_dortmund
+Mediocentro;Jobe Bellingham;Inglaterra;Irlanda;7;23/09/2005;borussia_dortmund
+Mediocentro;Carney Chukwuemeka;Austria;Inglaterra;17;20/10/2003;borussia_dortmund
+Mediocentro;Marcel Sabitzer;Austria;;20;17/03/1994;borussia_dortmund
+Interior derecho;Yan Couto;Brasil;Portugal;2;03/06/2002;borussia_dortmund
+Mediocentro ofensivo;Julian Brandt;Alemania;;10;02/05/1996;borussia_dortmund
+Extremo derecho;Karim Adeyemi;Alemania;Nigeria;27;18/01/2002;borussia_dortmund
+Mediapunta;Samuele Inácio;Italia;Brasil;40;02/04/2008;borussia_dortmund
+Delantero centro;Serhou Guirassy;Guinea;Francia;9;12/03/1996;borussia_dortmund
+Delantero centro;Maximilian Beier;Alemania;;14;17/10/2002;borussia_dortmund
+Delantero centro;Fábio Silva;Portugal;;21;19/07/2002;borussia_dortmund
+Portero;Maarten Vandevoordt;Bélgica;;26;26/02/2002;rasenballsport_leipzig
+Portero;Péter Gulácsi;Hungría;;1;06/05/1990;rasenballsport_leipzig
+Portero;Leopold Zingerle;Alemania;;25;10/04/1994;rasenballsport_leipzig
+Defensa central;Castello Lukeba;Francia;Angola;23;17/12/2002;rasenballsport_leipzig
+Defensa central;El Chadaille Bitshiabu;Francia;RD del Congo;5;16/05/2005;rasenballsport_leipzig
+Defensa central;Willi Orbán;Hungría;Alemania;4;03/11/1992;rasenballsport_leipzig
+Defensa central;Lukas Klostermann;Alemania;;16;03/06/1996;rasenballsport_leipzig
+Lateral izquierdo;David Raum;Alemania;;22;22/04/1998;rasenballsport_leipzig
+Lateral izquierdo;Max Finkgräfe;Alemania;;35;27/03/2004;rasenballsport_leipzig
+Lateral derecho;Ridle Baku;Alemania;RD del Congo;17;08/04/1998;rasenballsport_leipzig
+Lateral derecho;Benjamin Henrichs;Alemania;Ghana;39;23/02/1997;rasenballsport_leipzig
+Lateral derecho;Kosta Nedeljkovic;Serbia;;19;16/12/2005;rasenballsport_leipzig
+Pivote;Nicolas Seiwald;Austria;;13;04/05/2001;rasenballsport_leipzig
+Pivote;Benno Kaltefleiter;Alemania;;37;14/02/2008;rasenballsport_leipzig
+Mediocentro;Assan Ouédraogo;Alemania;Burkina Faso;20;09/05/2006;rasenballsport_leipzig
+Mediocentro;Ezechiel Banzuzi;Países Bajos;RD del Congo;6;16/02/2005;rasenballsport_leipzig
+Mediocentro;Xaver Schlager;Austria;;24;28/09/1997;rasenballsport_leipzig
+Mediocentro ofensivo;Christoph Baumgartner;Austria;;14;01/08/1999;rasenballsport_leipzig
+Mediocentro ofensivo;Brajan Gruda;Alemania;Albania;10;31/05/2004;rasenballsport_leipzig
+Mediocentro ofensivo;Andrija Maksimovic;Serbia;;33;05/06/2007;rasenballsport_leipzig
+Mediocentro ofensivo;Viggo Gebel;Alemania;;47;22/11/2007;rasenballsport_leipzig
+Extremo izquierdo;Yan Diomande;Costa de Marfil;;49;14/11/2006;rasenballsport_leipzig
+Extremo izquierdo;Antonio Nusa;Noruega;Nigeria;7;17/04/2005;rasenballsport_leipzig
+Extremo izquierdo;Suleman Sani;Nigeria;;18;01/09/2006;rasenballsport_leipzig
+Extremo izquierdo;Tidiam Gomis;Francia;Senegal;27;08/08/2006;rasenballsport_leipzig
+Extremo izquierdo;Ayodele Thomas;Países Bajos;Nigeria;21;23/07/2007;rasenballsport_leipzig
+Extremo derecho;Johan Bakayoko;Bélgica;Costa de Marfil;9;20/04/2003;rasenballsport_leipzig
+Delantero centro;Rômulo;Brasil;;40;08/02/2002;rasenballsport_leipzig
+Delantero centro;Conrad Harder;Dinamarca;;11;07/04/2005;rasenballsport_leipzig
+Delantero centro;Samba Konaté;Francia;Senegal;45;27/02/2009;rasenballsport_leipzig
+Portero;Mark Flekken;Países Bajos;;1;13/06/1993;bayer_04_leverkusen
+Portero;Jonas Omlin;Suiza;;18;10/01/1994;bayer_04_leverkusen
+Portero;Janis Blaswich;Alemania;;28;02/05/1991;bayer_04_leverkusen
+Portero;Niklas Lomb;Alemania;;36;28/07/1993;bayer_04_leverkusen
+Defensa central;Jarell Quansah;Inglaterra;Escocia;4;29/01/2003;bayer_04_leverkusen
+Defensa central;Edmond Tapsoba;Burkina Faso;;12;02/02/1999;bayer_04_leverkusen
+Defensa central;Loïc Badé;Francia;Costa de Marfil;5;11/04/2000;bayer_04_leverkusen
+Defensa central;Axel Tape;Francia;Costa de Marfil;16;10/08/2007;bayer_04_leverkusen
+Defensa central;Tim Oermann;Alemania;;15;06/10/2003;bayer_04_leverkusen
+Defensa central;Issa Traoré;Malí;;41;14/11/2007;bayer_04_leverkusen
+Lateral izquierdo;Alejandro Grimaldo;España;;20;20/09/1995;bayer_04_leverkusen
+Lateral derecho;Arthur;Brasil;;13;17/03/2003;bayer_04_leverkusen
+Lateral derecho;Lucas Vázquez;España;;21;01/07/1991;bayer_04_leverkusen
+Pivote;Equi Fernández;Argentina;Paraguay;6;25/07/2002;bayer_04_leverkusen
+Pivote;Robert Andrich;Alemania;;8;22/09/1994;bayer_04_leverkusen
+Mediocentro;Exequiel Palacios;Argentina;;25;05/10/1998;bayer_04_leverkusen
+Mediocentro;Aleix García;España;;24;28/06/1997;bayer_04_leverkusen
+Mediocentro ofensivo;Ibrahim Maza;Argelia;Alemania;30;24/11/2005;bayer_04_leverkusen
+Mediocentro ofensivo;Malik Tillman;Estados Unidos;Alemania;10;28/05/2002;bayer_04_leverkusen
+Mediocentro ofensivo;Jonas Hofmann;Alemania;;7;14/07/1992;bayer_04_leverkusen
+Extremo izquierdo;Eliesse Ben Seghir;Marruecos;Francia;17;16/02/2005;bayer_04_leverkusen
+Extremo izquierdo;Martin Terrier;Francia;;11;04/03/1997;bayer_04_leverkusen
+Extremo derecho;Ernest Poku;Países Bajos;Ghana;19;28/01/2004;bayer_04_leverkusen
+Extremo derecho;Nathan Tella;Nigeria;Inglaterra;23;05/07/1999;bayer_04_leverkusen
+Extremo derecho;Montrell Culbreath;Alemania;Estados Unidos;42;29/08/2007;bayer_04_leverkusen
+Delantero centro;Christian Kofane;Camerún;;35;26/07/2006;bayer_04_leverkusen
+Delantero centro;Patrik Schick;República Checa;;14;24/01/1996;bayer_04_leverkusen
+Portero;Kauã Santos;Brasil;Portugal;40;11/04/2003;eintracht_frankfurt
+Portero;Michael Zetterer;Alemania;;23;12/07/1995;eintracht_frankfurt
+Portero;Jens Grahl;Alemania;;33;22/09/1988;eintracht_frankfurt
+Portero;Amil Siljevic;Bosnia y Herzegovina;Alemania;39;19/01/2007;eintracht_frankfurt
+Defensa central;Arthur Theate;Bélgica;;3;25/05/2000;eintracht_frankfurt
+Defensa central;Nnamdi Collins;Alemania;Nigeria;34;10/01/2004;eintracht_frankfurt
+Defensa central;Robin Koch;Alemania;;4;17/07/1996;eintracht_frankfurt
+Defensa central;Aurèle Amenda;Suiza;Camerún;5;31/07/2003;eintracht_frankfurt
+Lateral izquierdo;Nathaniel Brown;Alemania;Estados Unidos;21;16/06/2003;eintracht_frankfurt
+Lateral izquierdo;Keita Kosugi;Japón;;26;18/03/2006;eintracht_frankfurt
+Lateral derecho;Rasmus Kristensen;Dinamarca;;13;11/07/1997;eintracht_frankfurt
+Lateral derecho;Elias Baum;Alemania;;2;26/10/2005;eintracht_frankfurt
+Lateral derecho;Timothy Chandler;Estados Unidos;Alemania;22;29/03/1990;eintracht_frankfurt
+Pivote;Ellyes Skhiri;Túnez;Francia;15;10/05/1995;eintracht_frankfurt
+Mediocentro;Hugo Larsson;Suecia;;16;27/06/2004;eintracht_frankfurt
+Mediocentro;Oscar Højlund;Dinamarca;;6;04/01/2005;eintracht_frankfurt
+Mediocentro;Mahmoud Dahoud;Siria;Alemania;18;01/01/1996;eintracht_frankfurt
+Mediocentro ofensivo;Can Uzun;Turquía;Alemania;42;11/11/2005;eintracht_frankfurt
+Mediocentro ofensivo;Farès Chaïbi;Argelia;Francia;8;28/11/2002;eintracht_frankfurt
+Mediocentro ofensivo;Love Arrhov;Suecia;;31;17/05/2008;eintracht_frankfurt
+Mediocentro ofensivo;Mario Götze;Alemania;;27;03/06/1992;eintracht_frankfurt
+Extremo izquierdo;Jean-Mattéo Bahoya;Francia;Camerún;19;07/05/2005;eintracht_frankfurt
+Extremo derecho;Ritsu Doan;Japón;;20;16/06/1998;eintracht_frankfurt
+Extremo derecho;Ansgar Knauff;Alemania;Ghana;7;10/01/2002;eintracht_frankfurt
+Extremo derecho;Ayoube Amaimouni-Echghouyab;Marruecos;España;29;30/11/2004;eintracht_frankfurt
+Delantero centro;Jonathan Burkardt;Alemania;;9;11/07/2000;eintracht_frankfurt
+Delantero centro;Arnaud Kalimuendo;Francia;RD del Congo;25;20/01/2002;eintracht_frankfurt
+Delantero centro;Younes Ebnoutalib;Alemania;Marruecos;11;13/09/2003;eintracht_frankfurt
+Delantero centro;Michy Batshuayi;Bélgica;RD del Congo;30;02/10/1993;eintracht_frankfurt
+Portero;Alexander Nübel;Alemania;;33;30/09/1996;vfb_stuttgart
+Portero;Florian Hellstern;Alemania;;44;18/10/2007;vfb_stuttgart
+Portero;Fabian Bredlow;Alemania;;1;02/03/1995;vfb_stuttgart
+Portero;Stefan Drljaca;Alemania;Serbia;21;20/04/1999;vfb_stuttgart
+Defensa central;Finn Jeltsch;Alemania;;29;17/07/2006;vfb_stuttgart
+Defensa central;Ramon Hendriks;Países Bajos;;3;18/07/2001;vfb_stuttgart
+Defensa central;Jeff Chabot;Alemania;Francia;24;12/02/1998;vfb_stuttgart
+Defensa central;Luca Jaquez;Suiza;República Dominicana;14;02/06/2003;vfb_stuttgart
+Defensa central;Ameen Al-Dakhil;Bélgica;Irak;2;06/03/2002;vfb_stuttgart
+Defensa central;Dan-Axel Zagadou;Francia;Costa de Marfil;23;03/06/1999;vfb_stuttgart
+Lateral izquierdo;Maximilian Mittelstädt;Alemania;;7;18/03/1997;vfb_stuttgart
+Lateral derecho;Josha Vagnoman;Alemania;Costa de Marfil;4;11/12/2000;vfb_stuttgart
+Lateral derecho;Lorenz Assignon;Francia;Togo;22;22/06/2000;vfb_stuttgart
+Lateral derecho;Pascal Stenzel;Alemania;;15;20/03/1996;vfb_stuttgart
+Pivote;Angelo Stiller;Alemania;;6;04/04/2001;vfb_stuttgart
+Pivote;Chema Andrés;España;;30;25/04/2005;vfb_stuttgart
+Pivote;Atakan Karazor;Turquía;Alemania;16;13/10/1996;vfb_stuttgart
+Pivote;Mirza Catovic;Alemania;Serbia;35;01/05/2007;vfb_stuttgart
+Mediocentro;Nikolas Nartey;Dinamarca;Ghana;28;22/02/2000;vfb_stuttgart
+Mediocentro ofensivo;Bilal El Khannouss;Marruecos;Bélgica;11;10/05/2004;vfb_stuttgart
+Extremo izquierdo;Chris Führich;Alemania;;10;09/01/1998;vfb_stuttgart
+Extremo izquierdo;Justin Diehl;Alemania;Ghana;17;27/11/2004;vfb_stuttgart
+Extremo derecho;Jamie Leweling;Alemania;Ghana;18;26/02/2001;vfb_stuttgart
+Extremo derecho;Badredine Bouanani;Argelia;Francia;27;08/12/2004;vfb_stuttgart
+Extremo derecho;Lazar Jovanovic;Serbia;;45;30/11/2006;vfb_stuttgart
+Extremo derecho;Noah Darvich;Alemania;;19;25/09/2006;vfb_stuttgart
+Delantero centro;Ermedin Demirovic;Bosnia y Herzegovina;;9;25/03/1998;vfb_stuttgart
+Delantero centro;Deniz Undav;Alemania;;26;19/07/1996;vfb_stuttgart
+Delantero centro;Tiago Tomás;Portugal;;8;16/06/2002;vfb_stuttgart
+Delantero centro;Jeremy Arévalo;Ecuador;España;25;19/03/2005;vfb_stuttgart
+Portero;Oliver Baumann;Alemania;;1;02/06/1990;tsg_1899_hoffenheim
+Portero;Luca Philipp;Alemania;;37;28/11/2000;tsg_1899_hoffenheim
+Portero;Lúkas Petersson;Islandia;Alemania;36;09/02/2004;tsg_1899_hoffenheim
+Defensa central;Albian Hajdari;Kosovo;Suiza;21;18/05/2003;tsg_1899_hoffenheim
+Defensa central;Robin Hranac;República Checa;;2;29/01/2000;tsg_1899_hoffenheim
+Defensa central;Ozan Kabak;Turquía;;5;25/03/2000;tsg_1899_hoffenheim
+Defensa central;Koki Machida;Japón;;28;25/08/1997;tsg_1899_hoffenheim
+Defensa central;Kevin Akpoguma;Nigeria;Alemania;25;19/04/1995;tsg_1899_hoffenheim
+Defensa central;Kelven Frees;Alemania;Nigeria;45;03/02/2005;tsg_1899_hoffenheim
+Lateral izquierdo;Bernardo;Brasil;;13;14/05/1995;tsg_1899_hoffenheim
+Lateral derecho;Valentin Gendrey;Francia;Guadalupe;15;21/06/2000;tsg_1899_hoffenheim
+Lateral derecho;Vladimír Coufal;República Checa;;34;22/08/1992;tsg_1899_hoffenheim
+Pivote;Leon Avdullahu;Kosovo;Suiza;7;23/02/2004;tsg_1899_hoffenheim
+Pivote;Wouter Burger;Países Bajos;;18;16/02/2001;tsg_1899_hoffenheim
+Mediocentro;Luis Engelns;Alemania;;16;11/03/2007;tsg_1899_hoffenheim
+Mediocentro;Grischa Prömel;Alemania;;6;09/01/1995;tsg_1899_hoffenheim
+Mediocentro;Luka Duric;Bosnia y Herzegovina;Alemania;48;18/06/2003;tsg_1899_hoffenheim
+Interior izquierdo;Alexander Prass;Austria;;22;26/05/2001;tsg_1899_hoffenheim
+Mediocentro ofensivo;Muhammed Damar;Alemania;Turquía;10;09/04/2004;tsg_1899_hoffenheim
+Mediocentro ofensivo;Andrej Kramaric;Croacia;;27;19/06/1991;tsg_1899_hoffenheim
+Extremo izquierdo;Bazoumana Touré;Costa de Marfil;;29;02/03/2006;tsg_1899_hoffenheim
+Extremo derecho;Cole Campbell;Estados Unidos;Islandia;20;20/02/2006;tsg_1899_hoffenheim
+Delantero centro;Fisnik Asllani;Kosovo;Alemania;11;08/08/2002;tsg_1899_hoffenheim
+Delantero centro;Tim Lemperle;Alemania;;19;05/02/2002;tsg_1899_hoffenheim
+Delantero centro;Adam Hlozek;República Checa;;23;25/07/2002;tsg_1899_hoffenheim
+Delantero centro;Max Moerstedt;Alemania;;33;15/01/2006;tsg_1899_hoffenheim
+Delantero centro;Yannick Eduardo;República Checa;Países Bajos;31;23/01/2006;tsg_1899_hoffenheim
+Delantero centro;Deniz Zeitler;Alemania;Turquía;38;13/12/2006;tsg_1899_hoffenheim
+Delantero centro;Ihlas Bebou;Togo;Alemania;9;23/04/1994;tsg_1899_hoffenheim
+Portero;Kamil Grabara;Polonia;;1;08/01/1999;vfl_wolfsburg
+Portero;Marius Müller;Alemania;;29;12/07/1993;vfl_wolfsburg
+Portero;Jakub Zielinski;Polonia;;30;21/02/2008;vfl_wolfsburg
+Portero;Pavao Pervan;Austria;;12;13/11/1987;vfl_wolfsburg
+Defensa central;Konstantinos Koulierakis;Grecia;;4;28/11/2003;vfl_wolfsburg
+Defensa central;Jeanuël Belocian;Francia;Guadalupe;6;17/02/2005;vfl_wolfsburg
+Defensa central;Jonas Adjetey;Ghana;;18;13/12/2003;vfl_wolfsburg
+Defensa central;Denis Vavro;Eslovaquia;;3;10/04/1996;vfl_wolfsburg
+Defensa central;Jenson Seelt;Países Bajos;;14;23/05/2003;vfl_wolfsburg
+Defensa central;Moritz Jenz;Alemania;Nigeria;15;30/04/1999;vfl_wolfsburg
+Defensa central;Cleiton;Brasil;;33;25/04/2003;vfl_wolfsburg
+Lateral izquierdo;Joakim Maehle;Dinamarca;;21;20/05/1997;vfl_wolfsburg
+Lateral izquierdo;Aaron Zehnter;Alemania;;25;31/10/2004;vfl_wolfsburg
+Lateral izquierdo;Rogério;Brasil;Italia;13;13/01/1998;vfl_wolfsburg
+Lateral derecho;Saël Kumbedi;Francia;RD del Congo;26;26/03/2005;vfl_wolfsburg
+Lateral derecho;Kilian Fischer;Alemania;;2;12/10/2000;vfl_wolfsburg
+Lateral derecho;Jan Bürger;Alemania;;41;10/03/2007;vfl_wolfsburg
+Pivote;Vini Souza;Brasil;;5;17/06/1999;vfl_wolfsburg
+Mediocentro;Mattias Svanberg;Suecia;;32;05/01/1999;vfl_wolfsburg
+Mediocentro;Maximilian Arnold;Alemania;;27;27/05/1994;vfl_wolfsburg
+Mediocentro;Pharell Hensel;Alemania;;37;08/06/2007;vfl_wolfsburg
+Mediocentro;Yannick Gerhardt;Alemania;;31;13/03/1994;vfl_wolfsburg
+Interior izquierdo;Kevin Paredes;Estados Unidos;República Dominicana;40;07/05/2003;vfl_wolfsburg
+Mediocentro ofensivo;Lovro Majer;Croacia;;10;17/01/1998;vfl_wolfsburg
+Mediocentro ofensivo;Bence Dárdai;Hungría;Alemania;8;24/01/2006;vfl_wolfsburg
+Mediocentro ofensivo;Christian Eriksen;Dinamarca;;24;14/02/1992;vfl_wolfsburg
+Extremo derecho;Patrick Wimmer;Austria;;39;30/05/2001;vfl_wolfsburg
+Extremo derecho;Adam Daghim;Dinamarca;Palestina;11;28/09/2005;vfl_wolfsburg
+Extremo derecho;Jesper Lindstrøm;Dinamarca;;19;29/02/2000;vfl_wolfsburg
+Delantero centro;Mohamed Amoura;Argelia;;9;09/05/2000;vfl_wolfsburg
+Delantero centro;Dzenan Pejcinovic;Alemania;Montenegro;17;15/02/2005;vfl_wolfsburg
+Delantero centro;Kento Shiogai;Japón;;7;26/03/2005;vfl_wolfsburg
+Delantero centro;Jonas Wind;Dinamarca;;23;07/02/1999;vfl_wolfsburg
+Portero;Noah Atubolu;Alemania;Nigeria;1;25/05/2002;sc_freiburg
+Portero;Florian Müller;Alemania;;21;13/11/1997;sc_freiburg
+Portero;Jannik Huth;Alemania;;24;15/04/1994;sc_freiburg
+Defensa central;Philipp Lienhart;Austria;;3;11/07/1996;sc_freiburg
+Defensa central;Bruno Ogbus;Suiza;Nigeria;43;17/12/2005;sc_freiburg
+Defensa central;Matthias Ginter;Alemania;;28;19/01/1994;sc_freiburg
+Defensa central;Max Rosenfelder;Alemania;;37;10/02/2003;sc_freiburg
+Defensa central;Anthony Jung;Alemania;España;5;03/11/1991;sc_freiburg
+Lateral izquierdo;Jordy Makengo;Francia;RD del Congo;33;03/08/2001;sc_freiburg
+Lateral izquierdo;Christian Günter;Alemania;;30;28/02/1993;sc_freiburg
+Lateral derecho;Philipp Treu;Alemania;;29;03/12/2000;sc_freiburg
+Lateral derecho;Lukas Kübler;Alemania;;17;30/08/1992;sc_freiburg
+Pivote;Patrick Osterhage;Alemania;;6;01/02/2000;sc_freiburg
+Pivote;Nicolas Höfler;Alemania;;27;09/03/1990;sc_freiburg
+Mediocentro;Johan Manzambi;Suiza;;44;14/10/2005;sc_freiburg
+Mediocentro;Maximilian Eggestein;Alemania;;8;08/12/1996;sc_freiburg
+Mediocentro ofensivo;Daniel-Kofi Kyereh;Ghana;Alemania;11;08/03/1996;sc_freiburg
+Extremo izquierdo;Derry Scherhant;Alemania;;7;10/11/2002;sc_freiburg
+Extremo izquierdo;Vincenzo Grifo;Italia;Alemania;32;07/04/1993;sc_freiburg
+Extremo derecho;Cyriaque Irié;Burkina Faso;Costa de Marfil;22;20/06/2005;sc_freiburg
+Extremo derecho;Niklas Beste;Alemania;;19;04/01/1999;sc_freiburg
+Mediapunta;Yuito Suzuki;Japón;;14;25/10/2001;sc_freiburg
+Mediapunta;Maximilian Philipp;Alemania;;26;01/03/1994;sc_freiburg
+Delantero centro;Igor Matanovic;Croacia;Alemania;31;31/03/2003;sc_freiburg
+Delantero centro;Lucas Höler;Alemania;;9;10/07/1994;sc_freiburg
+Portero;Mio Backhaus;Alemania;Japón;30;16/04/2004;sv_werder_bremen
+Portero;Karl Hein;Estonia;;13;13/04/2002;sv_werder_bremen
+Portero;Markus Kolke;Alemania;;25;18/08/1990;sv_werder_bremen
+Portero;Stefan Smarkalev;Bulgaria;;37;14/05/2007;sv_werder_bremen
+Defensa central;Karim Coulibaly;Alemania;Costa de Marfil;31;23/05/2007;sv_werder_bremen
+Defensa central;Marco Friedl;Austria;;32;16/03/1998;sv_werder_bremen
+Defensa central;Amos Pieper;Alemania;;5;17/01/1998;sv_werder_bremen
+Defensa central;Niklas Stark;Alemania;;4;14/04/1995;sv_werder_bremen
+Defensa central;Maximilian Wöber;Austria;;39;04/02/1998;sv_werder_bremen
+Defensa central;Julián Malatini;Argentina;;22;31/05/2001;sv_werder_bremen
+Defensa central;Mick Schmetgens;Alemania;;33;09/09/2007;sv_werder_bremen
+Lateral izquierdo;Felix Agu;Nigeria;Alemania;27;27/09/1999;sv_werder_bremen
+Lateral izquierdo;Olivier Deman;Bélgica;;2;06/04/2000;sv_werder_bremen
+Lateral izquierdo;Isaac Schmidt;Suiza;Nigeria;23;07/12/1999;sv_werder_bremen
+Lateral derecho;Yukinari Sugawara;Japón;;3;28/06/2000;sv_werder_bremen
+Lateral derecho;Mitchell Weiser;Alemania;Argelia;8;21/04/1994;sv_werder_bremen
+Pivote;Senne Lynen;Bélgica;;14;19/02/1999;sv_werder_bremen
+Pivote;Wesley Adeh;Alemania;Nigeria;34;08/01/2007;sv_werder_bremen
+Mediocentro;Jens Stage;Dinamarca;;6;08/11/1996;sv_werder_bremen
+Mediocentro;Leonardo Bittencourt;Alemania;Brasil;10;19/12/1993;sv_werder_bremen
+Mediocentro ofensivo;Romano Schmid;Austria;;20;27/01/2000;sv_werder_bremen
+Mediocentro ofensivo;Cameron Puertas;España;;18;18/08/1998;sv_werder_bremen
+Mediocentro ofensivo;Patrice Covic;Croacia;Alemania;24;25/06/2007;sv_werder_bremen
+Extremo izquierdo;Samuel Mbangula;Bélgica;RD del Congo;7;16/01/2004;sv_werder_bremen
+Extremo izquierdo;Marco Grüll;Austria;;17;06/07/1998;sv_werder_bremen
+Extremo derecho;Justin Njinmah;Alemania;Nigeria;11;15/11/2000;sv_werder_bremen
+Delantero centro;Jovan Milosevic;Serbia;;19;31/07/2005;sv_werder_bremen
+Delantero centro;Victor Boniface;Nigeria;;44;23/12/2000;sv_werder_bremen
+Delantero centro;Keke Topp;Alemania;;9;25/03/2004;sv_werder_bremen
+Delantero centro;Salim Musah;Alemania;Ghana;29;22/02/2006;sv_werder_bremen
+Portero;Sander Tangvik;Noruega;;12;29/11/2002;hamburger_sv
+Portero;Daniel Heuer Fernandes;Portugal;Alemania;1;13/11/1992;hamburger_sv
+Portero;Hannes Hermann;Alemania;;40;23/03/2005;hamburger_sv
+Portero;Fernando Dickes;Alemania;;41;13/10/2007;hamburger_sv
+Defensa central;Luka Vuskovic;Croacia;;44;24/02/2007;hamburger_sv
+Defensa central;Jordan Torunarigha;Nigeria;Alemania;25;07/08/1997;hamburger_sv
+Defensa central;Daniel Elfadli;Libia;Alemania;8;06/04/1997;hamburger_sv
+Defensa central;Warmed Omari;Comoras;Francia;17;23/04/2000;hamburger_sv
+Defensa central;Shafiq Nandja;Alemania;;43;15/01/2007;hamburger_sv
+Lateral izquierdo;Miro Muheim;Suiza;;28;24/03/1998;hamburger_sv
+Lateral izquierdo;Noah Katterbach;Alemania;;3;13/04/2001;hamburger_sv
+Lateral derecho;William Mikelbrencis;Francia;;2;25/02/2004;hamburger_sv
+Lateral derecho;Giorgi Gocholeishvili;Georgia;;16;14/02/2001;hamburger_sv
+Pivote;Nicolai Remberg;Alemania;;21;19/06/2000;hamburger_sv
+Mediocentro;Albert Sambi Lokonga;Bélgica;RD del Congo;6;22/10/1999;hamburger_sv
+Mediocentro;Nicolás Capaldo;Argentina;Italia;24;14/09/1998;hamburger_sv
+Mediocentro ofensivo;Fábio Vieira;Portugal;;20;30/05/2000;hamburger_sv
+Mediocentro ofensivo;Albert Grønbaek;Dinamarca;;23;23/05/2001;hamburger_sv
+Mediocentro ofensivo;Omar Megeed;Egipto;Alemania;39;19/08/2005;hamburger_sv
+Extremo izquierdo;Philip Otele;Nigeria;;27;15/04/1999;hamburger_sv
+Extremo izquierdo;Alexander Røssing-Lelesiit;Noruega;;38;20/01/2007;hamburger_sv
+Extremo izquierdo;Jean-Luc Dompé;Francia;Costa de Marfil;7;12/08/1995;hamburger_sv
+Extremo izquierdo;Fábio Baldé;Portugal;Alemania;45;20/07/2005;hamburger_sv
+Extremo derecho;Rayan Philippe;Francia;;14;23/10/2000;hamburger_sv
+Extremo derecho;Bakery Jatta;Gambia;;18;06/06/1998;hamburger_sv
+Delantero centro;Damion Downs;Estados Unidos;Alemania;19;06/07/2004;hamburger_sv
+Delantero centro;Ransford Königsdörffer;Ghana;Alemania;11;13/09/2001;hamburger_sv
+Delantero centro;Otto Stange;Alemania;;49;09/02/2007;hamburger_sv
+Delantero centro;Robert Glatzel;Alemania;Eritrea;9;08/01/1994;hamburger_sv
+Delantero centro;Yussuf Poulsen;Dinamarca;Tanzania;15;15/06/1994;hamburger_sv
+Portero;Finn Dahmen;Alemania;Inglaterra;1;27/03/1998;fc_augsburg
+Portero;Nediljko Labrovic;Croacia;;22;10/10/1999;fc_augsburg
+Portero;Daniel Klein;Alemania;;25;13/03/2001;fc_augsburg
+Defensa central;Chrislain Matsima;Francia;Congo;5;15/05/2002;fc_augsburg
+Defensa central;Noahkai Banks;Estados Unidos;Alemania;40;01/12/2006;fc_augsburg
+Defensa central;Keven Schlotterbeck;Alemania;;31;28/04/1997;fc_augsburg
+Defensa central;Cédric Zesiger;Suiza;;16;24/06/1998;fc_augsburg
+Defensa central;Arthur Chaves;Brasil;;34;29/01/2001;fc_augsburg
+Defensa central;Jeffrey Gouweleeuw;Países Bajos;;6;10/07/1991;fc_augsburg
+Defensa central;Felix Meiser;Alemania;;41;16/01/2007;fc_augsburg
+Lateral izquierdo;Dimitrios Giannoulis;Grecia;;13;17/10/1995;fc_augsburg
+Lateral izquierdo;Mads Pedersen;Dinamarca;;3;01/09/1996;fc_augsburg
+Lateral izquierdo;Oliver Sorg;Austria;;43;31/07/2007;fc_augsburg
+Lateral derecho;Marius Wolf;Alemania;;27;27/05/1995;fc_augsburg
+Pivote;Kristijan Jakic;Croacia;;17;14/05/1997;fc_augsburg
+Pivote;Robin Fellhauer;Alemania;;19;21/01/1998;fc_augsburg
+Pivote;Yannik Keitel;Alemania;;14;15/02/2000;fc_augsburg
+Pivote;Mahmut Kücüksahin;Turquía;Alemania;42;07/04/2004;fc_augsburg
+Mediocentro;Han-Noah Massengo;Francia;Congo;4;07/07/2001;fc_augsburg
+Mediocentro;Elvis Rexhbecaj;Kosovo;Alemania;8;01/11/1997;fc_augsburg
+Interior derecho;Anton Kade;Alemania;;30;17/01/2004;fc_augsburg
+Mediocentro ofensivo;Alexis Claude-Maurice;Francia;Guadalupe;20;06/06/1998;fc_augsburg
+Mediocentro ofensivo;Mert Kömür;Alemania;Turquía;36;17/07/2005;fc_augsburg
+Mediocentro ofensivo;Fabian Rieder;Suiza;;32;16/02/2002;fc_augsburg
+Extremo izquierdo;Ismaël Gharbi;Túnez;España;11;10/04/2004;fc_augsburg
+Delantero centro;Rodrigo Ribeiro;Portugal;;21;28/04/2005;fc_augsburg
+Delantero centro;Uchenna Ogundu;Nigeria;;39;12/05/2006;fc_augsburg
+Delantero centro;Michael Gregoritsch;Austria;;38;18/04/1994;fc_augsburg
+Delantero centro;Thomas Kastanaras;Alemania;Grecia;24;09/01/2003;fc_augsburg
+Portero;Moritz Nicolas;Alemania;;33;21/10/1997;borussia_monchengladbach
+Portero;Tiago Pereira Cardoso;Luxemburgo;Portugal;42;07/04/2006;borussia_monchengladbach
+Portero;Jan Olschowsky;Alemania;;23;18/11/2001;borussia_monchengladbach
+Portero;Tobias Sippel;Alemania;;21;22/03/1988;borussia_monchengladbach
+Defensa central;Nico Elvedi;Suiza;;30;30/09/1996;borussia_monchengladbach
+Defensa central;Kevin Diks;Indonesia;Países Bajos;4;06/10/1996;borussia_monchengladbach
+Defensa central;Kota Takai;Japón;;14;04/09/2004;borussia_monchengladbach
+Defensa central;Fabio Chiarodia;Italia;Alemania;2;05/06/2005;borussia_monchengladbach
+Defensa central;Marvin Friedrich;Alemania;;5;13/12/1995;borussia_monchengladbach
+Lateral izquierdo;Lukas Ullrich;Alemania;;26;16/03/2004;borussia_monchengladbach
+Lateral derecho;Joe Scally;Estados Unidos;;29;31/12/2002;borussia_monchengladbach
+Pivote;Yannik Engelhardt;Alemania;;6;07/02/2001;borussia_monchengladbach
+Pivote;Philipp Sander;Alemania;;16;21/02/1998;borussia_monchengladbach
+Pivote;Niklas Swider;Alemania;;39;05/01/2007;borussia_monchengladbach
+Mediocentro;Rocco Reitz;Alemania;;27;29/05/2002;borussia_monchengladbach
+Mediocentro;Jens Castrop;Corea del Sur;Alemania;17;29/07/2003;borussia_monchengladbach
+Mediocentro;Florian Neuhaus;Alemania;;10;16/03/1997;borussia_monchengladbach
+Mediocentro ofensivo;Wael Mohya;Alemania;Marruecos;36;31/12/2008;borussia_monchengladbach
+Mediocentro ofensivo;Giovanni Reyna;Estados Unidos;Portugal;13;13/11/2002;borussia_monchengladbach
+Mediocentro ofensivo;Kevin Stöger;Austria;;7;27/08/1993;borussia_monchengladbach
+Extremo izquierdo;Robin Hack;Alemania;;25;27/08/1998;borussia_monchengladbach
+Extremo izquierdo;Hugo Bolin;Suecia;;38;24/07/2003;borussia_monchengladbach
+Extremo derecho;Franck Honorat;Francia;;9;11/08/1996;borussia_monchengladbach
+Extremo derecho;Nathan Ngoumou;Camerún;Francia;19;14/03/2000;borussia_monchengladbach
+Delantero centro;Tim Kleindienst;Alemania;;11;31/08/1995;borussia_monchengladbach
+Delantero centro;Shuto Machino;Japón;;18;30/09/1999;borussia_monchengladbach
+Delantero centro;Haris Tabakovic;Bosnia y Herzegovina;Suiza;15;20/06/1994;borussia_monchengladbach
+Delantero centro;Alejo Sarco;Argentina;Italia;8;06/01/2006;borussia_monchengladbach
+Portero;Robin Zentner;Alemania;;27;28/10/1994;1_fsv_mainz_05
+Portero;Lasse Rieß;Alemania;;1;27/07/2001;1_fsv_mainz_05
+Portero;Daniel Batz;Alemania;;33;12/01/1991;1_fsv_mainz_05
+Defensa central;Kacper Potulski;Polonia;;48;19/10/2007;1_fsv_mainz_05
+Defensa central;Stefan Posch;Austria;;4;14/05/1997;1_fsv_mainz_05
+Defensa central;Andreas Hanche-Olsen;Noruega;;25;17/01/1997;1_fsv_mainz_05
+Defensa central;Dominik Kohr;Alemania;;31;31/01/1994;1_fsv_mainz_05
+Defensa central;Danny da Costa;Alemania;Angola;21;13/07/1993;1_fsv_mainz_05
+Defensa central;Maxim Leitsch;Alemania;;5;18/05/1998;1_fsv_mainz_05
+Defensa central;Stefan Bell;Alemania;;16;24/08/1991;1_fsv_mainz_05
+Defensa central;Maxim Dal;Alemania;Turquía;47;26/01/2006;1_fsv_mainz_05
+Lateral izquierdo;Phillipp Mwene;Austria;Kenia;2;29/01/1994;1_fsv_mainz_05
+Lateral izquierdo;Kasey Bos;Australia;Países Bajos;18;08/05/2004;1_fsv_mainz_05
+Lateral derecho;Anthony Caci;Francia;;19;01/07/1997;1_fsv_mainz_05
+Lateral derecho;Silvan Widmer;Suiza;;30;05/03/1993;1_fsv_mainz_05
+Pivote;Kaishu Sano;Japón;;6;30/12/2000;1_fsv_mainz_05
+Pivote;Lennard Maloney;Estados Unidos;Alemania;15;08/10/1999;1_fsv_mainz_05
+Pivote;Sota Kawasaki;Japón;;24;30/07/2001;1_fsv_mainz_05
+Pivote;Niklas Tauer;Alemania;;28;17/02/2001;1_fsv_mainz_05
+Mediocentro;Nadiem Amiri;Alemania;;10;27/10/1996;1_fsv_mainz_05
+Mediocentro;Daniel Gleiber;Alemania;;42;01/02/2005;1_fsv_mainz_05
+Interior derecho;Nikolas Veratschnig;Austria;;22;24/01/2003;1_fsv_mainz_05
+Mediocentro ofensivo;Paul Nebel;Alemania;Irlanda;8;10/10/2002;1_fsv_mainz_05
+Mediocentro ofensivo;Jae-sung Lee;Corea del Sur;;7;10/08/1992;1_fsv_mainz_05
+Extremo izquierdo;Sheraldo Becker;Surinam;Países Bajos;23;09/02/1995;1_fsv_mainz_05
+Extremo derecho;Silas;RD del Congo;;26;06/10/1998;1_fsv_mainz_05
+Mediapunta;Armindo Sieb;Alemania;Mozambique;11;17/02/2003;1_fsv_mainz_05
+Delantero centro;Nelson Weiper;Alemania;Albania;44;17/03/2005;1_fsv_mainz_05
+Delantero centro;Benedict Hollerbach;Alemania;;17;17/05/2001;1_fsv_mainz_05
+Delantero centro;William Bøving;Dinamarca;;14;01/03/2003;1_fsv_mainz_05
+Delantero centro;Phillip Tietz;Alemania;;20;09/07/1997;1_fsv_mainz_05
+Portero;Marvin Schwäbe;Alemania;;1;25/04/1995;1_fc_koln
+Portero;Ron-Robert Zieler;Alemania;;20;12/02/1989;1_fc_koln
+Portero;Matthias Köbbing;Alemania;;44;28/05/1997;1_fc_koln
+Defensa central;Rav van den Berg;Países Bajos;;33;07/07/2004;1_fc_koln
+Defensa central;Jahmai Simpson-Pusey;Inglaterra;;22;04/11/2005;1_fc_koln
+Defensa central;Joël Schmied;Suiza;;2;23/09/1998;1_fc_koln
+Defensa central;Cenk Özkacar;Turquía;;39;06/10/2000;1_fc_koln
+Defensa central;Timo Hübers;Alemania;;4;20/07/1996;1_fc_koln
+Defensa central;Dominique Heintz;Alemania;;3;15/08/1993;1_fc_koln
+Defensa central;Luca Kilian;Alemania;;15;01/09/1999;1_fc_koln
+Lateral izquierdo;Kristoffer Lund;Estados Unidos;Dinamarca;32;14/05/2002;1_fc_koln
+Lateral derecho;Sebastian Sebulonsen;Noruega;;28;27/01/2000;1_fc_koln
+Pivote;Eric Martel;Alemania;;6;29/04/2002;1_fc_koln
+Pivote;Tom Krauß;Alemania;;5;22/06/2001;1_fc_koln
+Pivote;Fayssal Harchaoui;Alemania;Marruecos;34;15/01/2006;1_fc_koln
+Mediocentro;Ísak Jóhannesson;Islandia;Inglaterra;18;23/03/2003;1_fc_koln
+Mediocentro;Denis Huseinbasic;Bosnia y Herzegovina;Alemania;8;03/07/2001;1_fc_koln
+Mediocentro;Felipe Chávez;Perú;Alemania;27;10/04/2007;1_fc_koln
+Interior derecho;Alessio Castro-Montes;Bélgica;España;17;17/05/1997;1_fc_koln
+Mediocentro ofensivo;Florian Kainz;Austria;;11;24/10/1992;1_fc_koln
+Extremo izquierdo;Said El Mala;Alemania;;13;26/08/2006;1_fc_koln
+Extremo izquierdo;Jakub Kamiński;Polonia;;16;05/06/2002;1_fc_koln
+Extremo izquierdo;Linton Maina;Alemania;Kenia;37;23/06/1999;1_fc_koln
+Extremo izquierdo;Marius Bülter;Alemania;;30;29/03/1993;1_fc_koln
+Extremo derecho;Jan Thielmann;Alemania;;29;26/05/2002;1_fc_koln
+Extremo derecho;Youssoupha Niang;Alemania;Senegal;38;25/03/2006;1_fc_koln
+Delantero centro;Ragnar Ache;Alemania;Ghana;9;28/07/1998;1_fc_koln
+Delantero centro;Luca Waldschmidt;Alemania;;7;19/05/1996;1_fc_koln
+Delantero centro;Fynn Schenten;Alemania;Francia;40;14/09/2007;1_fc_koln
+Delantero centro;Malek El Mala;Alemania;;19;02/04/2005;1_fc_koln
+Portero;Frederik Rönnow;Dinamarca;;1;04/08/1992;1_fc_union_berlin
+Portero;Matheo Raab;Alemania;;31;18/12/1998;1_fc_union_berlin
+Portero;Carl Klaus;Alemania;;25;16/01/1994;1_fc_union_berlin
+Defensa central;Leopold Querfeld;Austria;;14;20/12/2003;1_fc_union_berlin
+Defensa central;Danilho Doekhi;Países Bajos;Surinam;5;30/06/1998;1_fc_union_berlin
+Defensa central;Diogo Leite;Portugal;;4;23/01/1999;1_fc_union_berlin
+Defensa central;Stanley Nsoki;Francia;RD del Congo;34;09/04/1999;1_fc_union_berlin
+Lateral izquierdo;Tom Rothe;Alemania;;15;29/10/2004;1_fc_union_berlin
+Lateral izquierdo;Derrick Köhn;Ghana;Alemania;39;04/02/1999;1_fc_union_berlin
+Lateral izquierdo;Andrik Markgraf;Alemania;;3;07/03/2006;1_fc_union_berlin
+Lateral derecho;Josip Juranovic;Croacia;;18;16/08/1995;1_fc_union_berlin
+Lateral derecho;Christopher Trimmel;Austria;;28;24/02/1987;1_fc_union_berlin
+Pivote;Aljoscha Kemlein;Alemania;;6;02/08/2004;1_fc_union_berlin
+Pivote;Rani Khedira;Túnez;Alemania;8;27/01/1994;1_fc_union_berlin
+Mediocentro;András Schäfer;Hungría;;13;13/04/1999;1_fc_union_berlin
+Mediocentro;Janik Haberer;Alemania;;19;02/04/1994;1_fc_union_berlin
+Mediocentro;Alex Král;República Checa;;33;19/05/1998;1_fc_union_berlin
+Interior izquierdo;Robert Skov;Dinamarca;;24;20/05/1996;1_fc_union_berlin
+Mediocentro ofensivo;Woo-yeong Jeong;Corea del Sur;;11;20/09/1999;1_fc_union_berlin
+Extremo izquierdo;Livan Burcu;Turquía;Alemania;9;28/09/2004;1_fc_union_berlin
+Extremo izquierdo;David Preu;Alemania;;17;26/10/2004;1_fc_union_berlin
+Delantero centro;Ilyas Ansah;Alemania;Ghana;10;08/11/2004;1_fc_union_berlin
+Delantero centro;Andrej Ilic;Serbia;;23;03/04/2000;1_fc_union_berlin
+Delantero centro;Oliver Burke;Escocia;;7;07/04/1997;1_fc_union_berlin
+Delantero centro;Tim Skarke;Alemania;;21;07/09/1996;1_fc_union_berlin
+Delantero centro;Dmytro Bogdanov;Ucrania;;30;06/03/2007;1_fc_union_berlin
+Portero;Nikola Vasilj;Bosnia y Herzegovina;Croacia;22;02/12/1995;fc_st_pauli
+Portero;Ben Voll;Alemania;;1;09/12/2000;fc_st_pauli
+Portero;Simon Spari;Austria;;30;16/06/2002;fc_st_pauli
+Portero;Emil Gazdov;Canadá;Bulgaria;47;11/09/2003;fc_st_pauli
+Defensa central;Eric Smith;Suecia;;8;08/01/1997;fc_st_pauli
+Defensa central;David Nemeth;Austria;;4;18/03/2001;fc_st_pauli
+Defensa central;Tomoya Ando;Japón;;15;10/01/1999;fc_st_pauli
+Defensa central;Hauke Wahl;Alemania;;5;15/04/1994;fc_st_pauli
+Defensa central;Adam Dzwigala;Polonia;;25;25/09/1995;fc_st_pauli
+Defensa central;Karol Mets;Estonia;;3;16/05/1993;fc_st_pauli
+Defensa central;Jannik Robatsch;Austria;;34;28/12/2004;fc_st_pauli
+Lateral izquierdo;Louis Oppie;Alemania;;23;17/05/2002;fc_st_pauli
+Lateral izquierdo;Lars Ritzka;Alemania;;21;07/05/1998;fc_st_pauli
+Lateral derecho;Arkadiusz Pyrka;Polonia;;11;20/09/2002;fc_st_pauli
+Lateral derecho;Manolis Saliakas;Grecia;;2;12/09/1996;fc_st_pauli
+Lateral derecho;Fin Stevens;Gales;Inglaterra;14;10/04/2003;fc_st_pauli
+Pivote;James Sands;Estados Unidos;;6;06/07/2000;fc_st_pauli
+Pivote;Marwin Schmitz;Alemania;;42;07/01/2007;fc_st_pauli
+Mediocentro;Joel Chima Fujita;Japón;Nigeria;16;16/02/2002;fc_st_pauli
+Mediocentro;Mathias Rasmussen;Noruega;;20;25/11/1997;fc_st_pauli
+Mediocentro;Connor Metcalfe;Australia;;24;05/11/1999;fc_st_pauli
+Mediocentro;Jackson Irvine;Australia;Escocia;7;07/03/1993;fc_st_pauli
+Mediocentro;Nick Schmidt;Japón;Alemania;44;12/09/2007;fc_st_pauli
+Mediocentro ofensivo;Danel Sinani;Luxemburgo;Serbia;10;05/04/1997;fc_st_pauli
+Extremo izquierdo;Mathias Pereira Lage;Portugal;Francia;28;30/11/1996;fc_st_pauli
+Delantero centro;Andréas Hountondji;Benín;Francia;27;11/07/2002;fc_st_pauli
+Delantero centro;Martijn Kaars;Países Bajos;;19;05/03/1999;fc_st_pauli
+Delantero centro;Taichi Hara;Japón;;18;05/05/1999;fc_st_pauli
+Delantero centro;Ricky-Jade Jones;Inglaterra;;26;08/11/2002;fc_st_pauli
+Delantero centro;Abdoulie Ceesay;Gambia;;9;05/01/2004;fc_st_pauli
+Portero;Diant Ramaj;Alemania;Kosovo;41;19/09/2001;1_fc_heidenheim_1846
+Portero;Frank Feller;Alemania;;40;07/01/2004;1_fc_heidenheim_1846
+Portero;Paul Tschernuth;Austria;;34;20/01/2002;1_fc_heidenheim_1846
+Defensa central;Tim Siersleben;Alemania;;4;09/03/2000;1_fc_heidenheim_1846
+Defensa central;Patrick Mainka;Alemania;;6;06/11/1994;1_fc_heidenheim_1846
+Defensa central;Benedikt Gimber;Alemania;;5;19/02/1997;1_fc_heidenheim_1846
+Defensa central;Adam Kölle;Alemania;;28;28/04/2006;1_fc_heidenheim_1846
+Lateral izquierdo;Hennes Behrens;Alemania;;26;19/01/2005;1_fc_heidenheim_1846
+Lateral izquierdo;Jonas Föhrenbach;Alemania;;19;26/01/1996;1_fc_heidenheim_1846
+Lateral izquierdo;Leart Paçarada;Kosovo;Alemania;32;08/10/1994;1_fc_heidenheim_1846
+Lateral derecho;Leonidas Stergiou;Suiza;Grecia;25;03/03/2002;1_fc_heidenheim_1846
+Lateral derecho;Omar Traoré;Alemania;Togo;23;04/02/1998;1_fc_heidenheim_1846
+Lateral derecho;Marnon Busch;Alemania;;2;08/12/1994;1_fc_heidenheim_1846
+Pivote;Niklas Dorsch;Alemania;;30;15/01/1998;1_fc_heidenheim_1846
+Pivote;Julian Niehues;Alemania;;16;17/04/2001;1_fc_heidenheim_1846
+Mediocentro;Jan Schöppner;Alemania;;3;12/06/1999;1_fc_heidenheim_1846
+Mediocentro;Luca Kerber;Alemania;;20;10/03/2002;1_fc_heidenheim_1846
+Mediocentro;Nick Rothweiler;Alemania;;33;16/06/2006;1_fc_heidenheim_1846
+Mediocentro ofensivo;Arijon Ibrahimovic;Alemania;Kosovo;22;11/12/2005;1_fc_heidenheim_1846
+Mediocentro ofensivo;Adrian Beck;Alemania;;21;09/06/1997;1_fc_heidenheim_1846
+Extremo izquierdo;Mathias Honsak;Austria;;17;20/12/1996;1_fc_heidenheim_1846
+Extremo izquierdo;Yannik Wagner;Alemania;;38;09/05/2007;1_fc_heidenheim_1846
+Extremo derecho;Eren Dinkçi;Turquía;Alemania;8;13/12/2001;1_fc_heidenheim_1846
+Extremo derecho;Christian Conteh;Alemania;;10;27/08/1999;1_fc_heidenheim_1846
+Extremo derecho;Sirlord Conteh;Alemania;Ghana;31;09/07/1996;1_fc_heidenheim_1846
+Delantero centro;Marvin Pieringer;Alemania;;18;04/10/1999;1_fc_heidenheim_1846
+Delantero centro;Mikkel Kaufmann;Dinamarca;;29;03/01/2001;1_fc_heidenheim_1846
+Delantero centro;Budu Zivzivadze;Georgia;;11;10/03/1994;1_fc_heidenheim_1846
+Delantero centro;Stefan Schimmer;Alemania;;9;28/04/1994;1_fc_heidenheim_1846

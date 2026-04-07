@@ -1,0 +1,479 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Lucas Chevalier;Francia;;30;06/11/2001;fc_paris_saint_germain
+Portero;Matvey Safonov;Rusia;;39;25/02/1999;fc_paris_saint_germain
+Portero;Renato Marin;Italia;Brasil;89;10/07/2006;fc_paris_saint_germain
+Defensa central;Willian Pacho;Ecuador;;51;16/10/2001;fc_paris_saint_germain
+Defensa central;Ilya Zabarnyi;Ucrania;;6;01/09/2002;fc_paris_saint_germain
+Defensa central;Marquinhos;Brasil;Portugal;5;14/05/1994;fc_paris_saint_germain
+Defensa central;Lucas Beraldo;Brasil;;4;24/11/2003;fc_paris_saint_germain
+Lateral izquierdo;Nuno Mendes;Portugal;;25;19/06/2002;fc_paris_saint_germain
+Lateral izquierdo;Lucas Hernández;Francia;España;21;14/02/1996;fc_paris_saint_germain
+Lateral derecho;Achraf Hakimi;Marruecos;España;2;04/11/1998;fc_paris_saint_germain
+Pivote;Vitinha;Portugal;;17;13/02/2000;fc_paris_saint_germain
+Mediocentro;João Neves;Portugal;;87;27/09/2004;fc_paris_saint_germain
+Mediocentro;Warren Zaïre-Emery;Francia;Martinica;33;08/03/2006;fc_paris_saint_germain
+Mediocentro;Fabián Ruiz;España;;8;03/04/1996;fc_paris_saint_germain
+Mediocentro;Senny Mayulu;Francia;RD del Congo;24;17/05/2006;fc_paris_saint_germain
+Mediocentro ofensivo;Kang-in Lee;Corea del Sur;;19;19/02/2001;fc_paris_saint_germain
+Mediocentro ofensivo;Dro Fernández;España;Filipinas;27;12/01/2008;fc_paris_saint_germain
+Extremo izquierdo;Khvicha Kvaratskhelia;Georgia;;7;12/02/2001;fc_paris_saint_germain
+Extremo izquierdo;Bradley Barcola;Francia;Togo;29;02/09/2002;fc_paris_saint_germain
+Extremo izquierdo;Quentin Ndjantou;Francia;Camerún;47;23/07/2007;fc_paris_saint_germain
+Extremo derecho;Désiré Doué;Francia;Costa de Marfil;14;03/06/2005;fc_paris_saint_germain
+Extremo derecho;Ibrahim Mbaye;Senegal;Francia;49;24/01/2008;fc_paris_saint_germain
+Delantero centro;Ousmane Dembélé;Francia;;10;15/05/1997;fc_paris_saint_germain
+Delantero centro;Gonçalo Ramos;Portugal;;9;20/06/2001;fc_paris_saint_germain
+Portero;Philipp Köhn;Suiza;Alemania;16;02/04/1998;as_monaco
+Portero;Lukas Hradecky;Finlandia;Eslovaquia;1;24/11/1989;as_monaco
+Portero;Jules Stawiecki;Francia;Polonia;40;10/04/2007;as_monaco
+Portero;Yann Lienard;Francia;;50;16/03/2003;as_monaco
+Defensa central;Thilo Kehrer;Alemania;Burundi;5;21/09/1996;as_monaco
+Defensa central;Christian Mawissa;Francia;RD del Congo;13;18/04/2005;as_monaco
+Defensa central;Mohammed Salisu;Ghana;;22;17/04/1999;as_monaco
+Defensa central;Wout Faes;Bélgica;;25;03/04/1998;as_monaco
+Defensa central;Eric Dier;Inglaterra;Portugal;3;15/01/1994;as_monaco
+Lateral izquierdo;Caio Henrique;Brasil;España;12;31/07/1997;as_monaco
+Lateral izquierdo;Kassoum Ouattara;Francia;Costa de Marfil;20;14/10/2004;as_monaco
+Lateral derecho;Vanderson;Brasil;;2;21/06/2001;as_monaco
+Lateral derecho;Jordan Teze;Países Bajos;RD del Congo;4;30/09/1999;as_monaco
+Pivote;Denis Zakaria;Suiza;RD del Congo;6;20/11/1996;as_monaco
+Pivote;Aladji Bamba;Francia;Guinea;23;14/07/2006;as_monaco
+Mediocentro;Lamine Camara;Senegal;;15;01/01/2004;as_monaco
+Mediocentro;Mamadou Coulibaly;Francia;Malí;28;21/04/2004;as_monaco
+Mediocentro;Paul Pogba;Francia;Guinea;8;15/03/1993;as_monaco
+Interior derecho;Krépin Diatta;Senegal;;27;25/02/1999;as_monaco
+Mediocentro ofensivo;Aleksandr Golovin;Rusia;;10;30/05/1996;as_monaco
+Mediocentro ofensivo;Stanis Idumbo;Bélgica;RD del Congo;17;29/06/2005;as_monaco
+Extremo izquierdo;Simon Adingra;Costa de Marfil;;24;01/01/2002;as_monaco
+Extremo izquierdo;Ansu Fati;España;Guinea-Bissau;31;31/10/2002;as_monaco
+Extremo izquierdo;Takumi Minamino;Japón;;18;16/01/1995;as_monaco
+Extremo derecho;Maghnes Akliouche;Francia;Argelia;11;25/02/2002;as_monaco
+Delantero centro;Folarin Balogun;Estados Unidos;Inglaterra;9;03/07/2001;as_monaco
+Delantero centro;Mika Biereth;Dinamarca;Inglaterra;14;08/02/2003;as_monaco
+Delantero centro;Paris Brunner;Alemania;RD del Congo;29;15/02/2006;as_monaco
+Portero;Gerónimo Rulli;Argentina;Italia;1;20/05/1992;olympique_marseille
+Portero;Jeffrey de Lange;Países Bajos;;12;01/04/1998;olympique_marseille
+Portero;Jelle Van Neck;Bélgica;;40;07/03/2004;olympique_marseille
+Portero;Théo Vermot;Francia;;92;27/01/1997;olympique_marseille
+Defensa central;Nayef Aguerd;Marruecos;;21;30/03/1996;olympique_marseille
+Defensa central;Leonardo Balerdi;Argentina;Italia;5;26/01/1999;olympique_marseille
+Defensa central;Facundo Medina;Argentina;;32;28/05/1999;olympique_marseille
+Defensa central;Benjamin Pavard;Francia;;28;28/03/1996;olympique_marseille
+Defensa central;CJ Egan-Riley;Inglaterra;Irlanda;4;02/01/2003;olympique_marseille
+Lateral izquierdo;Emerson;Italia;Brasil;33;03/08/1994;olympique_marseille
+Pivote;Arthur Vermeeren;Bélgica;;18;07/02/2005;olympique_marseille
+Pivote;Pierre-Emile Højbjerg;Dinamarca;Francia;23;05/08/1995;olympique_marseille
+Pivote;Geoffrey Kondogbia;República Centroafricana;Francia;19;15/02/1993;olympique_marseille
+Pivote;Tochukwu Nnadi;Nigeria;;6;30/06/2003;olympique_marseille
+Mediocentro;Quinten Timber;Países Bajos;Curazao;27;17/06/2001;olympique_marseille
+Mediocentro;Bilal Nadir;Marruecos;Francia;26;28/11/2003;olympique_marseille
+Interior derecho;Timothy Weah;Estados Unidos;Francia;22;22/02/2000;olympique_marseille
+Mediocentro ofensivo;Ethan Nwaneri;Inglaterra;Nigeria;11;21/03/2007;olympique_marseille
+Mediocentro ofensivo;Himad Abdelli;Argelia;Francia;8;17/11/1999;olympique_marseille
+Extremo izquierdo;Igor Paixão;Brasil;;14;28/06/2000;olympique_marseille
+Extremo izquierdo;Hamed Traoré;Costa de Marfil;;20;16/02/2000;olympique_marseille
+Extremo derecho;Mason Greenwood;Inglaterra;Jamaica;10;01/10/2001;olympique_marseille
+Delantero centro;Amine Gouiri;Argelia;Francia;9;16/02/2000;olympique_marseille
+Delantero centro;Pierre-Emerick Aubameyang;Gabón;Francia;17;18/06/1989;olympique_marseille
+Portero;Mike Penders;Bélgica;;39;31/07/2005;rc_strassburg_alsace
+Portero;Stefan Bajic;Francia;Serbia;50;23/12/2001;rc_strassburg_alsace
+Portero;Karl-Johan Johnsson;Suecia;;1;28/01/1990;rc_strassburg_alsace
+Defensa central;Ismaël Doukouré;Francia;Costa de Marfil;6;24/07/2003;rc_strassburg_alsace
+Defensa central;Lucas Høgsberg;Dinamarca;;24;23/06/2006;rc_strassburg_alsace
+Defensa central;Aarón Anselmino;Argentina;;5;29/04/2005;rc_strassburg_alsace
+Defensa central;Andrew Omobamidele;Irlanda;Nigeria;2;23/06/2002;rc_strassburg_alsace
+Lateral izquierdo;Ben Chilwell;Inglaterra;Nueva Zelanda;3;21/12/1996;rc_strassburg_alsace
+Lateral derecho;Guéla Doué;Costa de Marfil;Francia;22;17/10/2002;rc_strassburg_alsace
+Pivote;Junior Mwanga;Francia;RD del Congo;18;11/05/2003;rc_strassburg_alsace
+Pivote;Maxi Oyedele;Polonia;Inglaterra;8;07/11/2004;rc_strassburg_alsace
+Pivote;Rafael Luís;Portugal;;83;18/02/2005;rc_strassburg_alsace
+Mediocentro;Valentín Barco;Argentina;;32;23/07/2004;rc_strassburg_alsace
+Mediocentro;Samir El Mourabet;Marruecos;Francia;29;06/10/2005;rc_strassburg_alsace
+Mediocentro;Mathis Amougou;Francia;Camerún;17;18/01/2006;rc_strassburg_alsace
+Interior izquierdo;Diego Moreira;Bélgica;Portugal;7;06/08/2004;rc_strassburg_alsace
+Interior izquierdo;Sebastian Nanasi;Suecia;Hungría;11;16/05/2002;rc_strassburg_alsace
+Mediocentro ofensivo;Julio Enciso;Paraguay;;19;23/01/2004;rc_strassburg_alsace
+Extremo izquierdo;Martial Godo;Costa de Marfil;Inglaterra;20;14/03/2003;rc_strassburg_alsace
+Extremo derecho;Abdoul Ouattara;Costa de Marfil;Francia;42;22/10/2005;rc_strassburg_alsace
+Extremo derecho;Gessime Yassine;Marruecos;Francia;80;22/11/2005;rc_strassburg_alsace
+Extremo derecho;Samuel Amo-Ameyaw;Inglaterra;Ghana;27;18/07/2006;rc_strassburg_alsace
+Delantero centro;Joaquín Panichelli;Argentina;;9;07/10/2002;rc_strassburg_alsace
+Delantero centro;Emmanuel Emegha;Países Bajos;Nigeria;10;03/02/2003;rc_strassburg_alsace
+Delantero centro;David Datro Fofana;Costa de Marfil;;15;22/12/2002;rc_strassburg_alsace
+Portero;Dominik Greif;Eslovaquia;;1;06/04/1997;olympique_lyon
+Portero;Rémy Descamps;Francia;;40;25/06/1996;olympique_lyon
+Portero;Lassine Diarra;Malí;;50;11/11/2002;olympique_lyon
+Defensa central;Moussa Niakhaté;Senegal;Francia;19;08/03/1996;olympique_lyon
+Defensa central;Ruben Kluivert;Países Bajos;Surinam;21;21/05/2001;olympique_lyon
+Defensa central;Clinton Mata;Angola;Bélgica;22;07/11/1992;olympique_lyon
+Defensa central;Noham Kamara;Francia;Senegal;85;22/01/2007;olympique_lyon
+Lateral izquierdo;Abner;Brasil;;16;27/05/2000;olympique_lyon
+Lateral izquierdo;Nicolás Tagliafico;Argentina;Italia;3;31/08/1992;olympique_lyon
+Lateral izquierdo;Achraf Laâziri;Marruecos;;36;08/07/2003;olympique_lyon
+Lateral derecho;Ainsley Maitland-Niles;Inglaterra;Jamaica;98;29/08/1997;olympique_lyon
+Lateral derecho;Hans Hateboer;Países Bajos;;33;09/01/1994;olympique_lyon
+Lateral derecho;Steeve Kango;Francia;Argelia;34;09/12/2006;olympique_lyon
+Pivote;Tyler Morton;Inglaterra;;23;31/10/2002;olympique_lyon
+Pivote;Orel Mangala;Bélgica;RD del Congo;5;18/03/1998;olympique_lyon
+Pivote;Tanner Tessmann;Estados Unidos;;6;24/09/2001;olympique_lyon
+Pivote;Mathys de Carvalho;Portugal;Francia;39;01/05/2005;olympique_lyon
+Mediocentro;Corentin Tolisso;Francia;Togo;8;03/08/1994;olympique_lyon
+Mediocentro;Khalis Merah;Francia;Argelia;44;24/02/2007;olympique_lyon
+Mediocentro ofensivo;Pavel Sulc;República Checa;;10;29/12/2000;olympique_lyon
+Mediocentro ofensivo;Noah Nartey;Dinamarca;Ghana;99;05/10/2005;olympique_lyon
+Mediocentro ofensivo;Adam Karabec;República Checa;;7;02/07/2003;olympique_lyon
+Extremo izquierdo;Malick Fofana;Bélgica;Guinea;11;31/03/2005;olympique_lyon
+Extremo izquierdo;Afonso Moreira;Portugal;;17;19/03/2005;olympique_lyon
+Extremo izquierdo;Rémi Himbert;Francia;;45;29/02/2008;olympique_lyon
+Extremo derecho;Ernest Nuamah;Ghana;;37;01/11/2003;olympique_lyon
+Extremo derecho;Rachid Ghezzal;Argelia;Francia;18;09/05/1992;olympique_lyon
+Delantero centro;Endrick;Brasil;;9;21/07/2006;olympique_lyon
+Delantero centro;Roman Yaremchuk;Ucrania;;77;27/11/1995;olympique_lyon
+Portero;Berke Özer;Turquía;;1;25/05/2000;losc_lille
+Portero;Arnaud Bodart;Bélgica;;16;11/03/1998;losc_lille
+Portero;Marc-Aurèle Caillard;Francia;;30;12/05/1994;losc_lille
+Defensa central;Nathan Ngoy;Bélgica;RD del Congo;3;10/06/2003;losc_lille
+Defensa central;Alexsandro;Brasil;;4;09/08/1999;losc_lille
+Defensa central;Chancel Mbemba;RD del Congo;;18;08/08/1994;losc_lille
+Defensa central;Aïssa Mandi;Argelia;Francia;23;22/10/1991;losc_lille
+Defensa central;Rafael Fernandes;Portugal;;-;28/06/2002;losc_lille
+Defensa central;Ousmane Touré;Francia;Malí;36;18/02/2005;losc_lille
+Lateral izquierdo;Romain Perraud;Francia;;15;22/09/1997;losc_lille
+Lateral izquierdo;Calvin Verdonk;Indonesia;Países Bajos;24;26/04/1997;losc_lille
+Lateral derecho;Tiago Santos;Portugal;;22;23/07/2002;losc_lille
+Lateral derecho;Thomas Meunier;Bélgica;;12;12/09/1991;losc_lille
+Pivote;Ngal'ayel Mukau;RD del Congo;Bélgica;17;03/11/2004;losc_lille
+Pivote;Nabil Bentaleb;Argelia;Francia;6;24/11/1994;losc_lille
+Pivote;Benjamin André;Francia;;21;03/08/1990;losc_lille
+Mediocentro;Ayyoub Bouaddi;Francia;Marruecos;32;02/10/2007;losc_lille
+Mediocentro ofensivo;Hákon Arnar Haraldsson;Islandia;;10;10/04/2003;losc_lille
+Extremo izquierdo;Matías Fernández-Pardo;España;Bélgica;7;03/02/2005;losc_lille
+Extremo izquierdo;Osame Sahraoui;Marruecos;Noruega;11;11/06/2001;losc_lille
+Extremo izquierdo;Félix Correia;Portugal;Santo Tomé y Príncipe;27;22/01/2001;losc_lille
+Extremo izquierdo;Soriba Diaoune;Francia;Guinea;35;14/08/2007;losc_lille
+Extremo derecho;Ethan Mbappé;Francia;Camerún;8;29/12/2006;losc_lille
+Extremo derecho;Marius Broholm;Noruega;;14;26/12/2004;losc_lille
+Extremo derecho;Gaëtan Perrin;Francia;;28;07/06/1996;losc_lille
+Extremo derecho;Noah Edjouma;Francia;Camerún;20;04/10/2005;losc_lille
+Delantero centro;Hamza Igamane;Marruecos;;29;02/11/2002;losc_lille
+Delantero centro;Olivier Giroud;Francia;;9;30/09/1986;losc_lille
+Portero;Brice Samba;Francia;Congo;30;25/04/1994;fc_stade_rennes
+Portero;Mathys Silistrie;Francia;Guadalupe;50;16/09/2005;fc_stade_rennes
+Defensa central;Jérémy Jacquet;Francia;Guadalupe;97;13/07/2005;fc_stade_rennes
+Defensa central;Lilian Brassier;Francia;Togo;3;02/11/1999;fc_stade_rennes
+Defensa central;Anthony Rouault;Francia;;24;29/05/2001;fc_stade_rennes
+Defensa central;Abdelhamid Ait Boudlal;Marruecos;;48;16/04/2006;fc_stade_rennes
+Defensa central;Alidu Seidu;Ghana;;36;04/06/2000;fc_stade_rennes
+Lateral izquierdo;Quentin Merlin;Francia;;26;16/05/2002;fc_stade_rennes
+Lateral izquierdo;Mahamadou Nagida;Camerún;;18;28/06/2005;fc_stade_rennes
+Lateral derecho;Przemyslaw Frankowski;Polonia;;95;12/04/1995;fc_stade_rennes
+Mediocentro;Djaoui Cissé;Francia;Malí;6;31/01/2004;fc_stade_rennes
+Mediocentro;Mahdi Camara;Francia;Gambia;45;30/06/1998;fc_stade_rennes
+Mediocentro;Valentin Rongier;Francia;;21;07/12/1994;fc_stade_rennes
+Mediocentro;Glen Kamara;Finlandia;Sierra Leona;4;28/10/1995;fc_stade_rennes
+Interior derecho;Ludovic Blas;Francia;Martinica;10;31/12/1997;fc_stade_rennes
+Mediocentro ofensivo;Sebastian Szymański;Polonia;;17;10/05/1999;fc_stade_rennes
+Extremo derecho;Mousa Tamari;Jordania;;11;10/06/1997;fc_stade_rennes
+Extremo derecho;Arnaud Nordin;Francia;Martinica;70;17/06/1998;fc_stade_rennes
+Extremo derecho;Elías Legendre Quiñónez;Ecuador;Francia;35;22/04/2008;fc_stade_rennes
+Extremo derecho;Nordan Mukiele;Francia;RD del Congo;65;12/02/2006;fc_stade_rennes
+Delantero centro;Estéban Lepaul;Francia;;9;18/04/2000;fc_stade_rennes
+Delantero centro;Breel Embolo;Suiza;Camerún;7;14/02/1997;fc_stade_rennes
+Delantero centro;Yassir Zabiri;Marruecos;;77;23/02/2005;fc_stade_rennes
+Portero;Robin Risser;Francia;;40;02/12/2004;rc_lens
+Portero;Mathieu Gorgelin;Francia;;16;05/08/1990;rc_lens
+Portero;Régis Gurtner;Francia;;1;08/12/1986;rc_lens
+Portero;Ilan Jourdren;Francia;;60;17/07/2008;rc_lens
+Defensa central;Samson Baidoo;Austria;;6;31/03/2004;rc_lens
+Defensa central;Malang Sarr;Francia;Senegal;20;23/01/1999;rc_lens
+Defensa central;Ismaëlo Ganiou;Francia;Burkina Faso;25;14/03/2005;rc_lens
+Defensa central;Nidal Celik;Bosnia y Herzegovina;;4;17/07/2006;rc_lens
+Defensa central;Jonathan Gradit;Francia;;24;24/11/1992;rc_lens
+Defensa central;Kyllian Antonio;Francia;Guadalupe;32;04/01/2008;rc_lens
+Lateral izquierdo;Matthieu Udol;Francia;Guadalupe;14;20/03/1996;rc_lens
+Lateral izquierdo;Arthur Masuaku;RD del Congo;Francia;27;07/11/1993;rc_lens
+Lateral derecho;Saud Abdulhamid;Arabia Saudita;;23;18/07/1999;rc_lens
+Lateral derecho;Ruben Aguilar;Francia;España;2;26/04/1993;rc_lens
+Pivote;Fodé Sylla;Francia;Guinea;18;16/04/2006;rc_lens
+Mediocentro;Mamadou Sangaré;Malí;;8;26/06/2002;rc_lens
+Mediocentro;Amadou Haidara;Malí;;21;31/01/1998;rc_lens
+Mediocentro;Andrija Bulatovic;Montenegro;;5;27/12/2006;rc_lens
+Mediocentro;Adrien Thomasson;Francia;Croacia;28;10/12/1993;rc_lens
+Mediocentro ofensivo;Alpha Diallo;Francia;Guinea;31;25/02/2006;rc_lens
+Extremo izquierdo;Allan Saint-Maximin;Francia;Guadalupe;9;12/03/1997;rc_lens
+Extremo izquierdo;Abdallah Sima;Senegal;;19;17/06/2001;rc_lens
+Extremo izquierdo;Anthony Bermont;Francia;;26;10/02/2005;rc_lens
+Extremo derecho;Florian Thauvin;Francia;;10;26/01/1993;rc_lens
+Extremo derecho;Erawan Garnier;Tailandia;Francia;34;05/01/2006;rc_lens
+Delantero centro;Odsonne Édouard;Francia;Haití;11;16/01/1998;rc_lens
+Delantero centro;Rayan Fofana;Francia;Costa de Marfil;38;12/02/2006;rc_lens
+Delantero centro;Wesley Saïd;Francia;Comoras;22;19/04/1995;rc_lens
+Delantero centro;Florian Sotoca;Francia;;7;25/10/1990;rc_lens
+Portero;Yehvann Diouf;Senegal;Francia;80;16/11/1999;ogc_nizza
+Portero;Maxime Dupé;Francia;;31;04/03/1993;ogc_nizza
+Portero;Bartosz Zelazowski;Polonia;;30;25/04/2005;ogc_nizza
+Defensa central;Juma Bah;Sierra Leona;;28;11/04/2006;ogc_nizza
+Defensa central;Kojo Peprah Oppong;Ghana;;37;04/06/2004;ogc_nizza
+Defensa central;Youssouf Ndayishimiye;Burundi;;55;27/10/1998;ogc_nizza
+Defensa central;Moïse Bombito;Canadá;RD del Congo;64;30/03/2000;ogc_nizza
+Defensa central;Antoine Mendy;Senegal;Francia;33;27/05/2004;ogc_nizza
+Defensa central;Mohamed Abdelmonem;Egipto;;5;01/02/1999;ogc_nizza
+Defensa central;Dante;Brasil;;4;18/10/1983;ogc_nizza
+Lateral izquierdo;Melvin Bard;Francia;;26;06/11/2000;ogc_nizza
+Lateral izquierdo;Ali Abdi;Túnez;;2;20/12/1993;ogc_nizza
+Lateral derecho;Jonathan Clauss;Francia;;92;25/09/1992;ogc_nizza
+Pivote;Charles Vanhoutte;Bélgica;;24;16/09/1998;ogc_nizza
+Pivote;Salis Abdul Samed;Ghana;Costa de Marfil;99;26/03/2000;ogc_nizza
+Pivote;Everton;Francia;Brasil;41;12/04/2007;ogc_nizza
+Mediocentro;Hicham Boudaoui;Argelia;;6;23/09/1999;ogc_nizza
+Mediocentro;Morgan Sanson;Francia;;8;18/08/1994;ogc_nizza
+Mediocentro;Tanguy Ndombélé;Francia;RD del Congo;22;28/12/1996;ogc_nizza
+Mediocentro;Djibril Coulibaly;Francia;Malí;39;18/11/2008;ogc_nizza
+Interior derecho;Tom Louchet;Francia;;20;04/05/2003;ogc_nizza
+Mediocentro ofensivo;Gabin Bernardeau;Francia;;23;24/01/2006;ogc_nizza
+Extremo izquierdo;Sofiane Diop;Marruecos;Francia;10;09/06/2000;ogc_nizza
+Extremo izquierdo;Isak Jansson;Suecia;;21;31/01/2002;ogc_nizza
+Extremo derecho;Mohamed-Ali Cho;Francia;Inglaterra;25;19/01/2004;ogc_nizza
+Extremo derecho;Kaïl Boudache;Francia;Argelia;32;15/06/2006;ogc_nizza
+Extremo derecho;Tiago Gouveia;Portugal;;47;18/06/2001;ogc_nizza
+Delantero centro;Elye Wahi;Costa de Marfil;Francia;11;02/01/2003;ogc_nizza
+Delantero centro;Kevin Carlos;España;Nigeria;90;10/04/2001;ogc_nizza
+Portero;Guillaume Restes;Francia;Costa de Marfil;1;11/03/2005;fc_toulouse
+Portero;Kjetil Haug;Noruega;;16;12/06/1998;fc_toulouse
+Portero;Álex Domínguez;España;;30;30/07/1998;fc_toulouse
+Defensa central;Charlie Cresswell;Inglaterra;;4;17/08/2002;fc_toulouse
+Defensa central;Mark McKenzie;Estados Unidos;Jamaica;3;25/02/1999;fc_toulouse
+Defensa central;Rasmus Nicolaisen;Dinamarca;;2;16/03/1997;fc_toulouse
+Defensa central;Seny Koumbassa;Francia;Guinea;35;20/06/2007;fc_toulouse
+Lateral izquierdo;Dayann Methalie;Francia;Martinica;24;15/02/2006;fc_toulouse
+Lateral derecho;Warren Kamanzi;Noruega;;12;11/11/2000;fc_toulouse
+Lateral derecho;Rafik Messali;Argelia;Francia;22;28/04/2003;fc_toulouse
+Lateral derecho;Djibril Sidibé;Francia;Malí;19;29/07/1992;fc_toulouse
+Mediocentro;Alexis Vossah;Francia;Togo;45;11/03/2008;fc_toulouse
+Mediocentro;Cristian Cásseres Jr.;Venezuela;;23;20/01/2000;fc_toulouse
+Mediocentro;Pape Demba Diop;Senegal;;18;04/09/2003;fc_toulouse
+Mediocentro;Abu Francis;Ghana;;17;27/04/2001;fc_toulouse
+Mediocentro;Mario Sauer;Eslovaquia;;77;15/05/2004;fc_toulouse
+Interior derecho;Aron Dønnum;Noruega;;15;20/04/1998;fc_toulouse
+Extremo izquierdo;Yann Gboho;Francia;Costa de Marfil;10;14/01/2001;fc_toulouse
+Delantero centro;Emersonn;Brasil;;20;16/07/2004;fc_toulouse
+Delantero centro;Frank Magri;Camerún;Francia;9;04/09/1999;fc_toulouse
+Delantero centro;Santiago Hidalgo;Argentina;Italia;11;17/02/2005;fc_toulouse
+Delantero centro;Jacen Russell-Rowe;Canadá;Jamaica;13;13/09/2002;fc_toulouse
+Delantero centro;Julián Vignolo;Argentina;;7;07/12/2006;fc_toulouse
+Delantero centro;Enzo Faty;Francia;Senegal;21;09/03/2007;fc_toulouse
+Portero;Obed Nkambadio;Francia;RD del Congo;16;07/02/2003;paris_fc
+Portero;Kevin Trapp;Alemania;;35;08/07/1990;paris_fc
+Portero;Rémy Riou;Francia;;1;06/08/1987;paris_fc
+Defensa central;Otávio;Brasil;;6;21/04/2002;paris_fc
+Defensa central;Diego Coppola;Italia;Países Bajos;42;28/12/2003;paris_fc
+Defensa central;Moustapha Mbow;Senegal;;5;08/03/2000;paris_fc
+Defensa central;Samir Chergui;Argelia;Francia;31;06/02/1999;paris_fc
+Defensa central;Timothée Kolodziejczak;Francia;Polonia;15;01/10/1991;paris_fc
+Lateral izquierdo;Nhoa Sangui;Francia;Congo;19;27/02/2006;paris_fc
+Lateral izquierdo;Thibault De Smet;Bélgica;;28;05/06/1998;paris_fc
+Lateral izquierdo;Tuomas Ollila;Finlandia;;2;25/04/2000;paris_fc
+Lateral derecho;Hamari Traoré;Malí;;14;27/01/1992;paris_fc
+Lateral derecho;Sofiane Alakouch;Marruecos;Francia;22;29/07/1998;paris_fc
+Pivote;Maxime Lopez;Francia;Argelia;21;04/12/1997;paris_fc
+Pivote;Pierre Lees-Melou;Francia;;33;25/05/1993;paris_fc
+Pivote;Adama Camara;Francia;Malí;17;18/10/1996;paris_fc
+Mediocentro;Rudy Matondo;Francia;Congo;23;13/03/2008;paris_fc
+Mediocentro;Marshall Munetsi;Zimbabue;;18;22/06/1996;paris_fc
+Mediocentro;Vincent Marchetti;Francia;;4;04/07/1997;paris_fc
+Extremo izquierdo;Moses Simon;Nigeria;;27;12/07/1995;paris_fc
+Extremo izquierdo;Alimami Gory;Francia;Malí;7;30/08/1996;paris_fc
+Extremo izquierdo;Julien Lopez;Argelia;Francia;20;01/03/1992;paris_fc
+Extremo derecho;Ilan Kebbal;Argelia;Francia;10;10/07/1998;paris_fc
+Extremo derecho;Luca Koleosho;Italia;Estados Unidos;24;15/09/2004;paris_fc
+Extremo derecho;Jonathan Ikoné;Francia;RD del Congo;93;02/05/1998;paris_fc
+Extremo derecho;Mathieu Cafaro;Francia;;13;25/03/1997;paris_fc
+Extremo derecho;Lamine Gueye;Senegal;;26;13/03/1998;paris_fc
+Delantero centro;Willem Geubbels;Francia;Países Bajos;9;16/08/2001;paris_fc
+Delantero centro;Jean-Philippe Krasso;Costa de Marfil;Francia;11;17/07/1997;paris_fc
+Delantero centro;Ciro Immobile;Italia;;36;20/02/1990;paris_fc
+Delantero centro;Pierre-Yves Hamel;Francia;;29;03/02/1994;paris_fc
+Portero;Anthony Lopes;Portugal;Francia;1;01/10/1990;fc_nantes
+Portero;Patrik Carlgren;Suecia;;30;08/01/1992;fc_nantes
+Portero;Alexis Mirbach;Francia;;50;04/03/2005;fc_nantes
+Defensa central;Tylel Tati;Francia;Senegal;78;19/01/2008;fc_nantes
+Defensa central;Abakar Sylla;Costa de Marfil;;4;25/12/2002;fc_nantes
+Defensa central;Chidozie Awaziem;Nigeria;Portugal;6;01/01/1997;fc_nantes
+Defensa central;Ali Youssif;Libia;;2;09/07/2001;fc_nantes
+Defensa central;Uros Radakovic;Serbia;;26;31/03/1994;fc_nantes
+Defensa central;Sékou Doucouré;Malí;Francia;72;26/04/2005;fc_nantes
+Lateral izquierdo;Nicolas Cozza;Francia;Italia;3;08/01/1999;fc_nantes
+Lateral izquierdo;Deiver Machado;Colombia;;27;02/09/1993;fc_nantes
+Lateral derecho;Kelvin Amian;Francia;Costa de Marfil;98;08/02/1998;fc_nantes
+Lateral derecho;Fabien Centonze;Francia;;18;16/01/1996;fc_nantes
+Lateral derecho;Frédéric Guilbert;Francia;;24;24/12/1994;fc_nantes
+Pivote;Johann Lepenant;Francia;;8;22/10/2002;fc_nantes
+Pivote;Ibrahima Sissoko;Malí;Francia;28;27/10/1997;fc_nantes
+Pivote;Bahmed Deuff;Francia;Mauritania;52;10/03/2006;fc_nantes
+Pivote;Francis Coquelin;Francia;Reunión;13;13/05/1991;fc_nantes
+Mediocentro;Dehmaine Tabibou;Francia;Comoras;17;17/04/2005;fc_nantes
+Mediocentro;Mohamed Kaba;Guinea;Francia;21;27/10/2001;fc_nantes
+Mediocentro ofensivo;Louis Leroux;Francia;;66;23/01/2006;fc_nantes
+Mediocentro ofensivo;Rémy Cabella;Francia;Italia;20;08/03/1990;fc_nantes
+Extremo izquierdo;Herba Guirassy;Francia;Guinea;11;29/08/2006;fc_nantes
+Delantero centro;Matthis Abline;Francia;;10;28/03/2003;fc_nantes
+Delantero centro;Mostafa Mohamed;Egipto;;31;28/11/1997;fc_nantes
+Delantero centro;Ignatius Ganago;Camerún;Nigeria;37;16/02/1999;fc_nantes
+Delantero centro;Amady Camara;Malí;;14;28/05/2005;fc_nantes
+Delantero centro;Youssef El Arabi;Marruecos;Francia;19;03/02/1987;fc_nantes
+Portero;Yvon Mvogo;Suiza;Camerún;38;06/06/1994;fc_lorient
+Portero;Bingourou Kamara;Senegal;Francia;21;21/10/1996;fc_lorient
+Portero;Benjamin Leroy;Francia;;1;07/04/1989;fc_lorient
+Defensa central;Montassar Talbi;Túnez;Francia;3;26/05/1998;fc_lorient
+Defensa central;Bamo Meïté;Costa de Marfil;Francia;5;03/12/2001;fc_lorient
+Defensa central;Abdoulaye Faye;Senegal;;25;22/09/2004;fc_lorient
+Defensa central;Isaak Touré;Francia;Costa de Marfil;95;28/03/2003;fc_lorient
+Defensa central;Nathaniel Adjei;Ghana;;32;21/08/2002;fc_lorient
+Lateral izquierdo;Arsène Kouassi;Burkina Faso;Costa de Marfil;43;02/01/2004;fc_lorient
+Lateral izquierdo;Darlin Yongwa;Camerún;;44;22/09/2000;fc_lorient
+Lateral derecho;Igor Silva;Brasil;;2;21/08/1996;fc_lorient
+Pivote;Laurent Abergel;Francia;;6;01/02/1993;fc_lorient
+Mediocentro;Arthur Avom;Camerún;;62;15/12/2004;fc_lorient
+Mediocentro;Noah Cadiou;Guadalupe;Francia;8;26/10/1998;fc_lorient
+Interior derecho;Théo Le Bris;Francia;;11;01/10/2002;fc_lorient
+Interior derecho;Panos Katseris;Grecia;;77;05/07/2001;fc_lorient
+Mediocentro ofensivo;Jean-Victor Makengo;Francia;RD del Congo;17;12/06/1998;fc_lorient
+Mediocentro ofensivo;Dermane Karim;Togo;;29;26/12/2003;fc_lorient
+Mediocentro ofensivo;Bandiougou Fadiga;Francia;Malí;7;15/01/2001;fc_lorient
+Extremo izquierdo;Pablo Pagis;Francia;;10;29/12/2002;fc_lorient
+Extremo izquierdo;Trevan Sanusi;Inglaterra;Nigeria;14;25/04/2007;fc_lorient
+Delantero centro;Bamba Dieng;Senegal;;12;23/03/2000;fc_lorient
+Delantero centro;Sambou Soumano;Senegal;;28;03/01/2001;fc_lorient
+Delantero centro;Mohamed Bamba;Costa de Marfil;Guinea;9;10/12/2001;fc_lorient
+Delantero centro;Aiyegun Tosin;Benín;Nigeria;15;26/06/1998;fc_lorient
+Portero;Radoslaw Majecki;Polonia;;1;16/11/1999;stade_brest_29
+Portero;Grégoire Coudert;Francia;;30;03/04/1999;stade_brest_29
+Portero;Noah Jauny;Irlanda;;50;26/08/2004;stade_brest_29
+Defensa central;Soumaïla Coulibaly;Francia;Malí;44;14/10/2003;stade_brest_29
+Defensa central;Junior Diaz;Costa de Marfil;Francia;4;23/07/2003;stade_brest_29
+Defensa central;Brendan Chardonnet;Francia;;5;22/12/1994;stade_brest_29
+Defensa central;Raphaël Le Guen;Francia;;71;01/09/2006;stade_brest_29
+Lateral izquierdo;Bradley Locko;Francia;Congo;2;06/05/2002;stade_brest_29
+Lateral izquierdo;Daouda Guindo;Malí;;27;14/10/2002;stade_brest_29
+Lateral derecho;Kenny Lala;Francia;Martinica;77;03/10/1991;stade_brest_29
+Lateral derecho;Luck Zogbé;Costa de Marfil;;12;24/03/2005;stade_brest_29
+Pivote;Joris Chotard;Francia;;13;24/09/2001;stade_brest_29
+Pivote;Hamidou Makalou;Malí;;33;15/07/2006;stade_brest_29
+Mediocentro;Hugo Magnetti;Francia;;8;30/05/1998;stade_brest_29
+Mediocentro;Lucas Tousart;Francia;;24;29/04/1997;stade_brest_29
+Interior derecho;Junior Dina Ebimbe;Camerún;Francia;7;21/11/2000;stade_brest_29
+Mediocentro ofensivo;Kamory Doumbia;Malí;;23;18/02/2003;stade_brest_29
+Extremo izquierdo;Pathé Mboup;Senegal;;99;19/10/2003;stade_brest_29
+Extremo derecho;Romain Del Castillo;Francia;España;10;29/03/1996;stade_brest_29
+Delantero centro;Mama Baldé;Guinea-Bissau;Portugal;17;06/11/1995;stade_brest_29
+Delantero centro;Ludovic Ajorque;Francia;Reunión;19;25/02/1994;stade_brest_29
+Delantero centro;Rémy Labeau Lascary;Francia;Guadalupe;14;03/03/2003;stade_brest_29
+Delantero centro;Saliou Diop;Senegal;;29;12/05/2005;stade_brest_29
+Portero;Donovan Léon;Guayana Francesa;Francia;16;03/11/1992;aj_auxerre
+Portero;Théo De Percin;Francia;Martinica;40;02/02/2001;aj_auxerre
+Portero;Tom Negrel;Francia;;30;13/04/2003;aj_auxerre
+Portero;Louis Mezerette;Francia;;37;30/08/2006;aj_auxerre
+Defensa central;Clément Akpa;Costa de Marfil;Francia;92;24/11/2001;aj_auxerre
+Defensa central;Sinaly Diomandé;Costa de Marfil;;20;09/04/2001;aj_auxerre
+Defensa central;Bryan Okoh;Suiza;Estados Unidos;24;16/05/2003;aj_auxerre
+Defensa central;Francisco Sierralta;Chile;España;4;06/05/1997;aj_auxerre
+Defensa central;Telli Siwe;Francia;Camerún;13;14/12/2004;aj_auxerre
+Defensa central;Elikya Legros;Francia;RD del Congo;35;06/06/2008;aj_auxerre
+Defensa central;Alvin Petit Dol;Francia;Haití;38;07/11/2006;aj_auxerre
+Lateral izquierdo;Gideon Mensah;Ghana;;14;18/07/1998;aj_auxerre
+Lateral izquierdo;Fredrik Oppegård;Noruega;;22;07/08/2002;aj_auxerre
+Lateral derecho;Marvin Senaya;Ghana;Francia;29;28/01/2001;aj_auxerre
+Lateral derecho;Lamine Sy;Francia;Senegal;27;10/08/2002;aj_auxerre
+Pivote;Elisha Owusu;Ghana;Francia;42;07/11/1997;aj_auxerre
+Pivote;Oussama El Azzouzi;Marruecos;Países Bajos;17;29/05/2001;aj_auxerre
+Pivote;Assane Dioussé;Senegal;;18;20/09/1997;aj_auxerre
+Pivote;Nathan Buayi-Kiala;Francia;RD del Congo;-;29/02/2004;aj_auxerre
+Mediocentro;Kévin Danois;Francia;Guadalupe;5;28/06/2004;aj_auxerre
+Mediocentro;Naouirou Ahamada;Francia;Comoras;8;29/03/2002;aj_auxerre
+Mediocentro;Tidiane Devernois;Francia;Senegal;36;18/10/2007;aj_auxerre
+Mediocentro ofensivo;Romain Faivre;Francia;Argelia;28;14/07/1998;aj_auxerre
+Extremo izquierdo;Danny Namaso;Camerún;Inglaterra;19;28/08/2000;aj_auxerre
+Extremo derecho;Josué Casimir;Haití;Guadalupe;7;24/09/2001;aj_auxerre
+Extremo derecho;Lasso Coulibaly;Costa de Marfil;;21;19/10/2002;aj_auxerre
+Delantero centro;Lassine Sinayoko;Malí;Francia;10;08/12/1999;aj_auxerre
+Delantero centro;Sékou Mara;Francia;Senegal;9;30/07/2002;aj_auxerre
+Delantero centro;Ryan Rodin;Francia;Martinica;31;02/03/2006;aj_auxerre
+Portero;Mory Diaw;Senegal;Francia;99;22/06/1993;ac_le_havre
+Portero;Lionel Mpasi-Nzau;RD del Congo;Francia;77;01/08/1994;ac_le_havre
+Portero;Paul Argney;Francia;;50;23/05/2006;ac_le_havre
+Defensa central;Arouna Sangante;Senegal;Guinea-Bissau;93;12/04/2002;ac_le_havre
+Defensa central;Stephan Zagadou;Francia;Costa de Marfil;29;24/10/2008;ac_le_havre
+Defensa central;Gautier Lloris;Francia;;4;18/07/1995;ac_le_havre
+Defensa central;Étienne Youté Kinkoué;Francia;Camerún;6;14/01/2002;ac_le_havre
+Lateral izquierdo;Yanis Zouaoui;Francia;Argelia;18;28/04/1998;ac_le_havre
+Lateral izquierdo;Enzo Koffi;Francia;Costa de Marfil;27;04/03/2006;ac_le_havre
+Lateral derecho;Fodé Doucouré;Malí;;13;03/02/2001;ac_le_havre
+Lateral derecho;Timothée Pembélé;Francia;RD del Congo;32;09/09/2002;ac_le_havre
+Lateral derecho;Loïc Nego;Hungría;Francia;7;15/01/1991;ac_le_havre
+Pivote;Lucas Gourna-Douath;Francia;República Centroafricana;19;05/08/2003;ac_le_havre
+Pivote;Ayumu Seko;Japón;;15;07/06/2000;ac_le_havre
+Pivote;Abdoulaye Touré;Guinea;Francia;94;03/03/1994;ac_le_havre
+Pivote;Daren Mosengo;Francia;RD del Congo;78;11/08/2006;ac_le_havre
+Mediocentro;Rassoul Ndiaye;Senegal;Francia;14;11/12/2001;ac_le_havre
+Mediocentro;Yassine Kechta;Marruecos;Francia;8;25/02/2002;ac_le_havre
+Mediocentro;Simon Ebonog;Francia;Camerún;26;16/08/2004;ac_le_havre
+Mediocentro;Guy-Noël Zohouri;Costa de Marfil;Francia;24;01/02/2007;ac_le_havre
+Mediocentro ofensivo;Sofiane Boufal;Marruecos;Francia;17;17/09/1993;ac_le_havre
+Mediocentro ofensivo;Reda Khadra;Alemania;Líbano;30;04/07/2001;ac_le_havre
+Extremo izquierdo;Issa Soumaré;Senegal;Mauritania;45;10/10/2000;ac_le_havre
+Extremo izquierdo;Felix Mambimbi;Suiza;RD del Congo;10;18/01/2001;ac_le_havre
+Extremo derecho;Godson Kyeremeh;Francia;Ghana;11;14/06/2000;ac_le_havre
+Delantero centro;Kenny Quetant;Francia;Reunión;33;17/07/2006;ac_le_havre
+Delantero centro;Noam Obougou;Francia;Camerún;20;15/03/2006;ac_le_havre
+Delantero centro;Ally Samatta;Tanzania;;25;23/12/1992;ac_le_havre
+Portero;Hervé Koffi;Burkina Faso;Costa de Marfil;12;16/10/1996;sco_angers
+Portero;Melvin Zinga;Francia;;16;16/03/2002;sco_angers
+Portero;Oumar Pona;Malí;Francia;40;21/06/2006;sco_angers
+Defensa central;Ousmane Camara;Malí;Francia;4;06/03/2003;sco_angers
+Defensa central;Emmanuel Biumla;Francia;Camerún;24;08/05/2005;sco_angers
+Defensa central;Jordan Lefort;Mauritania;Francia;21;09/08/1993;sco_angers
+Defensa central;Abdoulaye Bamba;Costa de Marfil;Italia;25;25/04/1990;sco_angers
+Lateral izquierdo;Jacques Ekomié;Gabón;Francia;3;19/08/2003;sco_angers
+Lateral izquierdo;Florent Hanin;Francia;Portugal;26;04/02/1990;sco_angers
+Lateral izquierdo;Dan Sinaté;Malí;Francia;23;09/06/2006;sco_angers
+Lateral derecho;Lilian Raolisoa;Francia;Madagascar;27;16/06/2000;sco_angers
+Lateral derecho;Carlens Arcus;Haití;;2;28/06/1996;sco_angers
+Lateral derecho;Marius Louër;Francia;;20;11/03/2007;sco_angers
+Pivote;Marius Courcoul;Francia;;5;01/01/2007;sco_angers
+Mediocentro;Yassin Belkhdim;Marruecos;Francia;14;14/02/2002;sco_angers
+Mediocentro;Branco van den Boomen;Países Bajos;;8;21/07/1995;sco_angers
+Mediocentro;Haris Belkebla;Argelia;Francia;93;28/01/1994;sco_angers
+Mediocentro;Pierrick Capelle;Francia;;15;15/04/1987;sco_angers
+Mediocentro ofensivo;Louis Mouton;Francia;;6;03/06/2002;sco_angers
+Extremo izquierdo;Amine Sbaï;Marruecos;Francia;7;05/11/2000;sco_angers
+Extremo derecho;Harouna Djibirin;Camerún;;31;05/11/2006;sco_angers
+Delantero centro;Prosper Peter;Francia;Nigeria;35;09/08/2007;sco_angers
+Delantero centro;Goduine Koyalipou;República Centroafricana;Francia;9;15/02/2000;sco_angers
+Delantero centro;Lanroy Machine;Francia;Guayana Francesa;36;13/10/2005;sco_angers
+Portero;Jonathan Fischer;Dinamarca;;1;09/11/2001;fc_metz
+Portero;Pape Sy;Senegal;;61;02/05/1997;fc_metz
+Portero;Ousmane Ba;Senegal;;40;06/06/2002;fc_metz
+Defensa central;Sadibou Sané;Senegal;;38;10/06/2004;fc_metz
+Defensa central;Terry Yegbe;Ghana;;15;25/01/2001;fc_metz
+Defensa central;Jean-Philippe Gbamin;Costa de Marfil;Francia;5;25/09/1995;fc_metz
+Defensa central;Michel Mboula;Gabón;;4;30/04/2003;fc_metz
+Lateral izquierdo;Fodé Ballo-Touré;Senegal;Francia;97;03/01/1997;fc_metz
+Lateral izquierdo;Yannis Lawson;Togo;Bélgica;27;22/11/2004;fc_metz
+Lateral derecho;Koffi Kouao;Costa de Marfil;;39;20/05/1998;fc_metz
+Lateral derecho;Bouna Sarr;Senegal;Francia;70;31/01/1992;fc_metz
+Lateral derecho;Maxime Colin;Francia;;2;15/11/1991;fc_metz
+Lateral derecho;Cléo Mélières;Francia;;25;13/04/2005;fc_metz
+Pivote;Boubacar Traoré;Malí;;8;20/08/2001;fc_metz
+Pivote;Alpha Touré;Senegal;;12;25/01/2006;fc_metz
+Pivote;Benjamin Stambouli;Francia;Argelia;21;13/08/1990;fc_metz
+Mediocentro;Believe Munongo;Francia;RD del Congo;33;23/11/2009;fc_metz
+Mediocentro;Jessy Deminguet;Francia;;20;07/01/1998;fc_metz
+Mediocentro ofensivo;Ismaël Guerti;Marruecos;Francia;29;30/07/2004;fc_metz
+Extremo izquierdo;Lucas Michal;Francia;Martinica;19;22/06/2005;fc_metz
+Extremo izquierdo;Giorgi Tsitaishvili;Georgia;Ucrania;7;18/11/2000;fc_metz
+Extremo izquierdo;Giorgi Abuashvili;Georgia;;9;08/02/2003;fc_metz
+Extremo derecho;Gauthier Hein;Francia;;10;07/08/1996;fc_metz
+Delantero centro;Habib Diallo;Senegal;Francia;30;18/06/1995;fc_metz
+Delantero centro;Nathan Mbala;RD del Congo;Francia;22;19/02/2008;fc_metz
+Delantero centro;Giorgi Kvilitaia;Georgia;;11;01/10/1993;fc_metz
+Delantero centro;Joseph Mangondo;Francia;Camerún;17;06/08/2005;fc_metz
