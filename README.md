@@ -5,16 +5,16 @@ Scrip para generar los datos de los jugadores para la liguilla desde transfermar
 Cuando se lanza el script por ligas o batches se añade el nombre del equipo:
 `pos;name;pais1;pais2;num;edad;team_name;`
 
-
 Como funciona:
+
 ```
 # Basico: Extrae data por id del equipo
 python main.py team --team-id 418 # output exports/418.csv
 # Con nombre del eqipo para cambiar el nombre del output
 python main.py team --team-id 418 --team-name olympiacos # output exports/olympiacos.csv
 
-# Con argumentos como season (default = 2025) 
-python main.py team --team-id 418 --season 2024 
+# Con argumentos como season (default = 2025)
+python main.py team --team-id 418 --season 2024
 
 # Liga completa
 python main.py league --competition-id ES1
@@ -28,22 +28,30 @@ python main.py batch --batch-name missing
 
 ```
 
-
 # Las ligas (y sus codigos)
+
 ```
+# England = "GB1"
 # Bundesliga = "L1"
 # Ligue 1 = "FR1"
 # Eredivisie = "NL1"
 # Portugal = "PO1"
-# Belguica = "BE1"
+# Belgica = "BE1"
 # Turquia = "TR1"
 # Escocia = "SC1"
 # Dinamarca = "DK1"
 # Suiza = "C1"
 # Rusia = "RU1"
+# Italia = "IT1"
+
+# España 1a division = "ES1"
+# Segunda española = "ES2"
+# Grupo 1 RFEF = "E3G1"
+# Grupo 2 RFEF = "E3G2"
 ```
 
 # Otros equipos (sacamos los codigos manualmente)
+
 ```
 OTHER_TEAMS = [
     {"team_id": 197, "team_name": "ac_sparta_praga"},
@@ -82,6 +90,13 @@ OTHER_TEAMS = [
     {"team_id": 10625, "team_name": "qarabag_fk"},
     {"team_id": 2481, "team_name": "fc_sheriff_tiraspol"},
     {"team_id": 22220, "team_name": "fc_astana"},
+    {"team_id": 458, "team_name": "palermo_fc"},
+    {"team_id": 80, "team_name": "vfl-bochun"},
+    {"team_id": 269, "team_name": "holstein kiel"},
+    {"team_id": 723, "team_name": "almere city fc"},
+    {"team_id": 235, "team_name": "rkc-waalwijk"},
+    {"team_id": 403, "team_name": "willem-ii-tilburg"},
+    {"team_id": 4294, "team_name": "sc-farense"},
 ]
 
 ISSING_TEAMS = [

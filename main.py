@@ -58,6 +58,13 @@ OTHER_TEAMS = [
     {"team_id": 10625, "team_name": "qarabag_fk"},
     {"team_id": 2481, "team_name": "fc_sheriff_tiraspol"},
     {"team_id": 22220, "team_name": "fc_astana"},
+    {"team_id": 458, "team_name": "palermo_fc"},
+    {"team_id": 80, "team_name": "vfl-bochun"},
+    {"team_id": 269, "team_name": "holstein kiel"},
+    {"team_id": 723, "team_name": "almere city fc"},
+    {"team_id": 235, "team_name": "rkc-waalwijk"},
+    {"team_id": 403, "team_name": "willem-ii-tilburg"},
+    {"team_id": 4294, "team_name": "sc-farense"},
 ]
 
 MISSING_TEAMS = [
@@ -468,7 +475,7 @@ if __name__ == "__main__":
         # Ligue 1 = "FR1"
         # Eredivisie = "NL1"
         # Portugal = "PO1"
-        # Belguica = "BE1"
+        # Belgica = "BE1"
         # Turquia = "TR1"
         # Escocia = "SC1"
         # Dinamarca = "DK1"
