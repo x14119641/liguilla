@@ -1,0 +1,503 @@
+﻿pos;name;pais1;pais2;num;edad;team_name
+Portero;Manu González;España;;31;18/04/2007;real_betis_sevilla_b
+Portero;Germán García;España;;1;01/02/2004;real_betis_sevilla_b
+Portero;Vlad Rafailă;Rumania;;13;17/02/2005;real_betis_sevilla_b
+Defensa central;Elyaz Zidane;Francia;España;4;26/12/2005;real_betis_sevilla_b
+Defensa central;Mohamed Hamdoune;Marruecos;;15;24/05/2004;real_betis_sevilla_b
+Defensa central;Jorge Oreiro;España;;21;19/05/2006;real_betis_sevilla_b
+Defensa central;Fabián Embalo;España;;12;05/05/2006;real_betis_sevilla_b
+Defensa central;Jean Emmanuel N'Agoran;Costa de Marfil;;45;01/01/2007;real_betis_sevilla_b
+Defensa central;Robson;Brasil;;-;29/09/2006;real_betis_sevilla_b
+Lateral izquierdo;Darling Bladi;Francia;Costa de Marfil;23;11/06/2004;real_betis_sevilla_b
+Lateral izquierdo;Ian Forns;España;;3;05/02/2004;real_betis_sevilla_b
+Lateral izquierdo;Carlos de Roa;España;;32;10/07/2007;real_betis_sevilla_b
+Lateral derecho;Pablo Busto;España;;2;25/09/2005;real_betis_sevilla_b
+Lateral derecho;Òscar Masqué;España;;35;15/01/2007;real_betis_sevilla_b
+Mediocentro;Ismael Barea;España;;5;16/07/2005;real_betis_sevilla_b
+Mediocentro;Aitor Gismera;España;;20;21/02/2004;real_betis_sevilla_b
+Mediocentro;Ginés Sorroche;España;;16;24/03/2004;real_betis_sevilla_b
+Mediocentro;Gnangoro Bouare;España;;18;13/06/2004;real_betis_sevilla_b
+Mediocentro ofensivo;Dani Pérez;España;;8;26/07/2005;real_betis_sevilla_b
+Mediocentro ofensivo;Carlos Reina;España;;10;10/08/2004;real_betis_sevilla_b
+Mediocentro ofensivo;Adrián Martín;España;;29;10/05/2006;real_betis_sevilla_b
+Mediocentro ofensivo;Iván Corralejo;España;;37;01/05/2007;real_betis_sevilla_b
+Extremo izquierdo;Borja Alonso;España;;22;22/04/2004;real_betis_sevilla_b
+Extremo izquierdo;Antonio Toral;España;;-;17/05/2003;real_betis_sevilla_b
+Extremo izquierdo;Rafa Oya;España;;36;31/03/2008;real_betis_sevilla_b
+Extremo derecho;Pablo García;España;;7;13/06/2006;real_betis_sevilla_b
+Extremo derecho;José Antonio Morante;España;;27;28/06/2007;real_betis_sevilla_b
+Extremo derecho;Kwame Sosu;Ghana;;14;18/03/2006;real_betis_sevilla_b
+Extremo derecho;Rubén Richarte;España;;24;25/10/2006;real_betis_sevilla_b
+Delantero centro;Rodrigo Marina;España;;17;28/07/2006;real_betis_sevilla_b
+Delantero centro;Yanis Senhadji;España;Argelia;9;05/01/2005;real_betis_sevilla_b
+Delantero centro;Jorge Luis;España;;19;23/04/2006;real_betis_sevilla_b
+Portero;Salvi Esquivel;España;;13;30/09/2005;atletico_madrid_b
+Portero;Mario de Luis;España;;1;06/05/2002;atletico_madrid_b
+Portero;Luismi Morales;España;;33;14/10/2005;atletico_madrid_b
+Defensa central;Aleksa Puric;Serbia;;15;07/07/2003;atletico_madrid_b
+Defensa central;Ilias Kostis;Grecia;Chipre;16;27/02/2003;atletico_madrid_b
+Defensa central;Dani Martinez;España;;5;05/05/2004;atletico_madrid_b
+Defensa central;Gerónimo Spina;Argentina;Italia;12;09/02/2005;atletico_madrid_b
+Defensa central;Matías Barboza;España;;20;13/02/2002;atletico_madrid_b
+Lateral izquierdo;Julio Díaz;España;;3;10/01/2005;atletico_madrid_b
+Lateral izquierdo;Marko Perovic;Montenegro;;22;05/03/2006;atletico_madrid_b
+Lateral izquierdo;Adrián Corral;España;;19;05/01/2003;atletico_madrid_b
+Lateral derecho;Javier Boñar;España;;4;03/06/2005;atletico_madrid_b
+Lateral derecho;Romeo Hueso;España;;28;03/04/2007;atletico_madrid_b
+Mediocentro;Javi Serrano;España;;6;16/01/2003;atletico_madrid_b
+Mediocentro;Martín Bellotti;Argentina;Suiza;18;21/01/2002;atletico_madrid_b
+Mediocentro;Javi Morcillo;España;;14;15/03/2006;atletico_madrid_b
+Mediocentro;Jorge Castillo;España;;8;23/05/2006;atletico_madrid_b
+Mediocentro;Marcos Parriego;España;;2;04/01/2006;atletico_madrid_b
+Mediocentro ofensivo;Rayane Belaid;España;Argelia;10;11/02/2005;atletico_madrid_b
+Mediocentro ofensivo;Jano Monserrate;España;;17;28/01/2006;atletico_madrid_b
+Extremo izquierdo;Ronaldo Nájera;México;;24;24/02/2003;atletico_madrid_b
+Extremo izquierdo;Arnau Ortiz;España;;23;29/10/2001;atletico_madrid_b
+Extremo derecho;Iker Luque;España;;7;05/06/2005;atletico_madrid_b
+Extremo derecho;Rafa Llorente;España;;9;06/12/2002;atletico_madrid_b
+Extremo derecho;Koke Mota;España;;11;05/03/2005;atletico_madrid_b
+Delantero centro;Miguel Cubo;España;;30;08/02/2008;atletico_madrid_b
+Delantero centro;Dario Sits;Letonia;;21;04/02/2004;atletico_madrid_b
+Portero;Yakiv Kinareykin;Ucrania;;25;22/10/2003;fc_villarreal_b
+Portero;Rubén Gómez;España;;1;24/01/2002;fc_villarreal_b
+Portero;Yago Moreira;España;;35;29/04/2006;fc_villarreal_b
+Defensa central;Jean Ives Valou;Costa de Marfil;Benín;23;22/12/2005;fc_villarreal_b
+Defensa central;Lautaro Spatz;Argentina;Italia;6;19/10/2001;fc_villarreal_b
+Defensa central;Ismael Sierra;España;;4;17/03/2003;fc_villarreal_b
+Lateral izquierdo;Eneko Ortiz;España;;3;26/05/2003;fc_villarreal_b
+Lateral izquierdo;Iván Rodríguez;Andorra;España;21;07/06/2006;fc_villarreal_b
+Lateral derecho;Daniel Budesca;España;;2;27/05/2006;fc_villarreal_b
+Lateral derecho;César Bonafé;España;Guinea Ecuatorial;33;27/07/2006;fc_villarreal_b
+Mediocentro;Carlos Macià;España;;28;01/09/2008;fc_villarreal_b
+Mediocentro;Alassane Diatta;Senegal;;8;14/05/2005;fc_villarreal_b
+Mediocentro;Cheikh Tidiane Thiam;Senegal;;15;07/11/2005;fc_villarreal_b
+Mediocentro;Pablo Pascual;España;;16;12/02/2006;fc_villarreal_b
+Mediocentro ofensivo;Facundo Viveros;Argentina;;22;14/08/2003;fc_villarreal_b
+Extremo izquierdo;Hugo López;España;;11;04/03/2007;fc_villarreal_b
+Extremo izquierdo;Joselillo Gaitán;España;;26;25/02/2007;fc_villarreal_b
+Extremo izquierdo;Mahamoud Barry;Malí;;19;11/06/2006;fc_villarreal_b
+Extremo izquierdo;Arnau Forés;España;;14;01/03/2003;fc_villarreal_b
+Extremo izquierdo;Nizar El Jmili;España;;36;30/11/2004;fc_villarreal_b
+Extremo derecho;Sebas Salazar;España;Colombia;7;12/06/2008;fc_villarreal_b
+Delantero centro;Etienne Eto'o;Camerún;España;10;18/08/2002;fc_villarreal_b
+Delantero centro;Ayman Arguigue;Marruecos;España;24;11/05/2005;fc_villarreal_b
+Delantero centro;Albert García;España;;30;01/01/2004;fc_villarreal_b
+Portero;Carlos Abad;España;;1;28/06/1995;hercules_alicante
+Portero;Alessandro Blazic;Eslovenia;Alemania;13;09/01/2006;hercules_alicante
+Defensa central;Bolo;España;;3;05/10/2001;hercules_alicante
+Defensa central;Javier Rentero;España;;4;16/03/2001;hercules_alicante
+Defensa central;Alejandro Sotillos;España;;20;28/01/1998;hercules_alicante
+Defensa central;Nacho Monsalve;España;;5;27/04/1994;hercules_alicante
+Lateral izquierdo;Javi Jiménez;España;;24;11/01/1996;hercules_alicante
+Lateral izquierdo;Alberto Retuerta;España;;21;01/01/2002;hercules_alicante
+Lateral derecho;Samu Vázquez;España;;2;02/04/2001;hercules_alicante
+Lateral derecho;Jorge Galvañ;España;;28;03/06/2003;hercules_alicante
+Mediocentro;Roger Colomina;España;;6;15/04/1998;hercules_alicante
+Mediocentro;Nassourou Ben Hamed;Camerún;;14;20/07/2002;hercules_alicante
+Mediocentro;Carlos Mangada;España;;8;19/02/2001;hercules_alicante
+Mediocentro;Josep Calavera;España;;23;02/10/1999;hercules_alicante
+Mediocentro;Mehdi Puch;Argelia;Francia;37;20/01/2004;hercules_alicante
+Mediocentro ofensivo;Andy Escudero;España;;7;10/07/1999;hercules_alicante
+Mediocentro ofensivo;Fede Vico;España;;16;04/07/1994;hercules_alicante
+Mediocentro ofensivo;Antonio Aranda;España;;22;07/10/2000;hercules_alicante
+Mediocentro ofensivo;Oriol Soldevila;España;;-;26/03/2001;hercules_alicante
+Extremo izquierdo;Nico Espinosa;España;;10;12/10/2000;hercules_alicante
+Extremo derecho;Unai Ropero;España;;11;20/11/2001;hercules_alicante
+Extremo derecho;Jeremy de León;Puerto Rico;;17;18/03/2004;hercules_alicante
+Extremo derecho;Richie Dapaah;España;Ghana;12;24/01/2002;hercules_alicante
+Delantero centro;Fran Sol;España;;19;13/03/1992;hercules_alicante
+Delantero centro;Alberto Toril;España;;9;01/06/1997;hercules_alicante
+Portero;Diego Fuoli;España;;1;20/10/1997;ce_sabadell
+Portero;Nil Ruiz;España;;25;21/02/2003;ce_sabadell
+Portero;José Ortega;España;;13;25/11/1991;ce_sabadell
+Defensa central;Carlos García;España;;4;07/07/2000;ce_sabadell
+Defensa central;Arthur Bonaldo;Brasil;Italia;5;18/02/1996;ce_sabadell
+Defensa central;Kaiser;España;;15;04/04/1996;ce_sabadell
+Lateral izquierdo;Genar Fornés;España;;3;17/01/2000;ce_sabadell
+Lateral izquierdo;Sergi Segura;España;;21;30/08/1995;ce_sabadell
+Lateral derecho;David Astals;España;;14;13/12/2001;ce_sabadell
+Lateral derecho;Carlos Alemán;España;;2;30/09/2004;ce_sabadell
+Mediocentro;Quadri Liameed;Nigeria;;22;08/04/2002;ce_sabadell
+Mediocentro;Eneko Aguilar;España;;24;21/04/2000;ce_sabadell
+Mediocentro;Albert Orriols;España;;20;02/12/1997;ce_sabadell
+Mediocentro;Jan Molina;España;;6;30/03/2005;ce_sabadell
+Mediocentro;Jordi Ortega;España;;18;23/02/2003;ce_sabadell
+Mediocentro;Albert Tolosa;España;;26;;ce_sabadell
+Extremo izquierdo;Javi López;España;;19;05/05/2001;ce_sabadell
+Extremo izquierdo;Joel Priego;España;;23;01/04/1999;ce_sabadell
+Extremo derecho;Xavi Moreno;España;;8;05/11/2004;ce_sabadell
+Extremo derecho;Ton Ripoll;España;;7;27/05/1998;ce_sabadell
+Extremo derecho;Rubén Martínez;España;;11;08/12/1989;ce_sabadell
+Mediapunta;Miguelete;España;;10;09/05/2001;ce_sabadell
+Delantero centro;Alan Godoy;España;;16;04/05/2003;ce_sabadell
+Delantero centro;Agustín Coscia;Argentina;;17;08/04/1997;ce_sabadell
+Delantero centro;Rodrigo Escudero;España;;9;31/03/1994;ce_sabadell
+Portero;Ramón Juan;España;;1;10/12/1999;ud_ibiza
+Portero;Tao Paradowski;Francia;Reunión;13;27/02/2005;ud_ibiza
+Portero;Cristian Torrelavid;España;;25;01/01/2004;ud_ibiza
+Defensa central;Eric Monjonell;España;;4;06/12/2001;ud_ibiza
+Defensa central;Manu Pedreño;España;;16;09/10/2000;ud_ibiza
+Defensa central;Iago Indias;España;;18;03/01/1996;ud_ibiza
+Defensa central;Nacho González;España;;5;08/12/1994;ud_ibiza
+Defensa central;Yann Kembo;Francia;RD del Congo;21;20/03/2002;ud_ibiza
+Lateral izquierdo;Arnau Solà;España;;22;04/04/2003;ud_ibiza
+Lateral izquierdo;José Albert;España;;3;01/12/2003;ud_ibiza
+Lateral derecho;Sergio Diez;España;;2;28/07/2003;ud_ibiza
+Lateral derecho;Unai Medina;España;;17;16/02/1990;ud_ibiza
+Mediocentro;Théo Valls;Francia;;24;18/12/1995;ud_ibiza
+Mediocentro;David del Pozo;España;;6;05/06/1997;ud_ibiza
+Mediocentro;Fran Castillo;España;;11;30/01/1997;ud_ibiza
+Mediocentro;Iván del Olmo;España;;8;17/02/2004;ud_ibiza
+Mediocentro ofensivo;David García;España;;12;15/09/2003;ud_ibiza
+Extremo izquierdo;Bebé;Cabo Verde;Portugal;7;12/07/1990;ud_ibiza
+Extremo derecho;Georges Nsukula;Francia;RD del Congo;14;15/02/2003;ud_ibiza
+Extremo derecho;Izan Yurrieta;España;;28;07/01/2003;ud_ibiza
+Extremo derecho;João Fersura;Brasil;;-;20/04/2005;ud_ibiza
+Delantero centro;Davo;España;;9;02/09/2000;ud_ibiza
+Delantero centro;Max Svensson;España;Suecia;10;08/11/2001;ud_ibiza
+Delantero centro;Javi Eslava;España;;19;14/06/1996;ud_ibiza
+Portero;Dani Rebollo;España;;1;10/12/1999;gimnastic_de_tarragona
+Portero;Toni Fuidias;España;;13;15/04/2001;gimnastic_de_tarragona
+Portero;Eduardo Esteves;Portugal;;26;15/03/2003;gimnastic_de_tarragona
+Defensa central;César Morgado;España;;-;26/01/1993;gimnastic_de_tarragona
+Defensa central;David Alba;España;;4;05/05/1999;gimnastic_de_tarragona
+Defensa central;Hugo Pérez;España;;22;16/12/2002;gimnastic_de_tarragona
+Defensa central;Álvaro García;España;;-;01/06/2000;gimnastic_de_tarragona
+Defensa central;Enric Pujol;España;;21;19/05/2006;gimnastic_de_tarragona
+Defensa central;Pedro Alcalá;España;;5;19/03/1989;gimnastic_de_tarragona
+Lateral izquierdo;Ander Zoilo;España;;3;14/02/2000;gimnastic_de_tarragona
+Lateral izquierdo;Moi Delgado;España;;16;18/04/1994;gimnastic_de_tarragona
+Lateral derecho;Sergio Camus;España;;2;19/04/1997;gimnastic_de_tarragona
+Lateral derecho;Sergio Santos;España;;20;03/01/2001;gimnastic_de_tarragona
+Lateral derecho;Oriol Subirats;España;;29;03/06/2007;gimnastic_de_tarragona
+Mediocentro;Marc Montalvo;España;;8;09/04/2002;gimnastic_de_tarragona
+Mediocentro;Óscar Sanz;España;;14;08/03/2000;gimnastic_de_tarragona
+Mediocentro;Aitor Gelardo;España;;24;26/06/2002;gimnastic_de_tarragona
+Mediocentro;Mangel Prendes;España;;6;28/06/2001;gimnastic_de_tarragona
+Mediocentro;Pol Cid;España;;34;29/09/2005;gimnastic_de_tarragona
+Extremo izquierdo;Christos Almpanis;Grecia;;12;05/11/1994;gimnastic_de_tarragona
+Extremo izquierdo;Juanda Fuentes;Colombia;España;19;19/05/2003;gimnastic_de_tarragona
+Extremo izquierdo;Marc Álvarez;España;;-;07/06/2001;gimnastic_de_tarragona
+Extremo derecho;Jaume Jardí;España;;10;07/04/2002;gimnastic_de_tarragona
+Extremo derecho;Pau Martínez;España;;17;10/11/2000;gimnastic_de_tarragona
+Extremo derecho;Keyliane Abdallah;Francia;Comoras;7;05/04/2006;gimnastic_de_tarragona
+Delantero centro;Marcos Baselga;España;;23;15/02/1999;gimnastic_de_tarragona
+Delantero centro;Cedric Omoigui;Nigeria;España;9;11/11/1994;gimnastic_de_tarragona
+Delantero centro;Alex Jiménez;España;;11;21/09/2003;gimnastic_de_tarragona
+Portero;Iván Martínez;España;;1;19/02/2002;fc_cartagena
+Portero;Lucho García;Colombia;España;13;20/03/1998;fc_cartagena
+Portero;Jhafets Reyes;Ecuador;España;30;16/09/2006;fc_cartagena
+Defensa central;Rubén Serrano;España;;4;26/01/2001;fc_cartagena
+Defensa central;Imanol Baz;España;;5;27/01/2001;fc_cartagena
+Defensa central;Marco Carrascal;España;;24;11/04/2003;fc_cartagena
+Defensa central;Eneko Ebro;España;;12;29/09/2003;fc_cartagena
+Defensa central;Aridane Hernández;España;;23;23/03/1989;fc_cartagena
+Lateral izquierdo;Nil Jiménez;España;;3;24/04/2000;fc_cartagena
+Lateral izquierdo;Nacho Martínez;España;;22;07/03/1989;fc_cartagena
+Lateral derecho;Dani Perejón;España;;18;24/05/1999;fc_cartagena
+Lateral derecho;Marc Jurado;España;;2;13/04/2004;fc_cartagena
+Mediocentro;Alejandro Fidalgo;España;;6;15/05/2001;fc_cartagena
+Mediocentro;Jean Jules;Camerún;;15;23/04/1998;fc_cartagena
+Mediocentro;Pablo Larrea;España;;10;04/02/1994;fc_cartagena
+Mediocentro;Edgar Alcañiz;España;;14;18/03/2005;fc_cartagena
+Mediocentro ofensivo;Luismi Redondo;España;;11;04/02/1998;fc_cartagena
+Mediocentro ofensivo;Pablo de Blasis;Argentina;;8;04/02/1988;fc_cartagena
+Extremo izquierdo;Yanis Rahmani;Francia;Argelia;7;13/05/1995;fc_cartagena
+Extremo izquierdo;Benito Ramírez;España;;21;11/07/1995;fc_cartagena
+Extremo derecho;Ander Martín;España;;16;16/11/2000;fc_cartagena
+Extremo derecho;Willy Chatiliez;Chile;Francia;37;26/03/2005;fc_cartagena
+Delantero centro;Kevin Sánchez;España;;17;20/02/2005;fc_cartagena
+Delantero centro;Chiki;España;;19;05/10/1996;fc_cartagena
+Delantero centro;Alfredo Ortuño;España;;9;21/01/1991;fc_cartagena
+Portero;Ramón Vila;España;;1;18/02/2002;cd_eldense
+Portero;Pablo Valencia;España;;13;16/03/2001;cd_eldense
+Defensa central;Floris Smand;Países Bajos;;3;20/01/2003;cd_eldense
+Defensa central;Álex Serradell;España;;2;14/08/2002;cd_eldense
+Defensa central;Arnau Gaixas;España;;5;05/07/1998;cd_eldense
+Defensa central;Dario Dumic;Bosnia y Herzegovina;Dinamarca;4;30/01/1992;cd_eldense
+Defensa central;Óscar Vega;Colombia;;14;21/03/2000;cd_eldense
+Lateral izquierdo;David Ruiz;España;;21;17/04/2003;cd_eldense
+Lateral izquierdo;Jaime Vallejo;España;;23;18/05/2002;cd_eldense
+Lateral derecho;Jesús Clemente;España;;17;08/09/2000;cd_eldense
+Mediocentro;Borja Calvo;España;;6;29/01/2002;cd_eldense
+Mediocentro;Guillermo Macho;España;;18;03/01/2003;cd_eldense
+Mediocentro;Rubén Quintanilla;España;;16;03/04/2002;cd_eldense
+Mediocentro;Manu Molina;España;;12;20/11/1991;cd_eldense
+Mediocentro ofensivo;Nacho Quintana;España;;7;23/02/2001;cd_eldense
+Mediocentro ofensivo;Marcos Bustillo;España;;8;12/01/2001;cd_eldense
+Mediocentro ofensivo;Boston Billups;Estados Unidos;;15;24/08/2005;cd_eldense
+Extremo izquierdo;Rafa Núñez;República Dominicana;España;22;25/01/2002;cd_eldense
+Extremo izquierdo;Fidel;España;;10;27/10/1989;cd_eldense
+Extremo derecho;Hamza Bellari;Marruecos;España;11;11/03/2003;cd_eldense
+Extremo derecho;Alejandro Ibarrondo;España;;19;16/05/2001;cd_eldense
+Extremo derecho;Rober Ibáñez;España;;20;22/03/1993;cd_eldense
+Delantero centro;Hugo Alba;España;;24;30/03/2006;cd_eldense
+Delantero centro;Israel Salazar;España;;-;10/05/2003;cd_eldense
+Delantero centro;Dioni;España;;9;21/12/1989;cd_eldense
+Portero;Gianfranco Gazzaniga;Argentina;Italia;1;22/11/1993;real_murcia
+Portero;Diego Piñeiro;España;;13;13/02/2004;real_murcia
+Defensa central;Óscar Gil;España;;15;14/06/1995;real_murcia
+Defensa central;Antxón Jaso;España;;5;23/09/1997;real_murcia
+Defensa central;Alberto González;España;;6;14/03/1993;real_murcia
+Defensa central;Jon García;España;;4;04/06/1991;real_murcia
+Defensa central;Héctor Pérez;España;;26;26/03/2006;real_murcia
+Defensa central;Esteban Saveljich;Montenegro;Argentina;24;20/05/1991;real_murcia
+Defensa central;Jorge Sánchez;España;;34;12/04/2004;real_murcia
+Lateral izquierdo;Cristo Romero;España;;3;30/04/2000;real_murcia
+Lateral derecho;Jorge Mier;España;;2;04/02/1999;real_murcia
+Lateral derecho;David Vicente;España;;18;23/04/1999;real_murcia
+Mediocentro;Sekou Djanbou;Malí;Burkina Faso;21;13/09/2004;real_murcia
+Mediocentro;Isi Gómez;España;;10;28/10/1995;real_murcia
+Mediocentro;Antonio David;España;;16;11/10/2005;real_murcia
+Mediocentro ofensivo;João Pedro Palmberg;Brasil;;12;05/02/2003;real_murcia
+Mediocentro ofensivo;Sergio Moyita;España;;7;11/09/1992;real_murcia
+Mediocentro ofensivo;Juan Carlos Real;España;;22;15/03/1991;real_murcia
+Extremo izquierdo;Álvaro Bustos;España;;11;26/06/1995;real_murcia
+Extremo izquierdo;Joel Jorquera;España;;19;19/08/2000;real_murcia
+Extremo derecho;Pedro Benito;España;Ucrania;9;27/03/2000;real_murcia
+Extremo derecho;Víctor Narro;España;;17;27/05/1999;real_murcia
+Extremo derecho;Pedro León;España;;14;24/11/1986;real_murcia
+Mediapunta;Ekain Zenitagoia;España;;20;29/04/1994;real_murcia
+Delantero centro;David Flakus Bosilj;Eslovenia;;23;01/02/2002;real_murcia
+Delantero centro;Juanto Ortuño;España;;8;11/02/1992;real_murcia
+Portero;Gaizka Ayesa;España;;1;02/04/2001;ad_alcorcon
+Portero;Oriol Martí;España;;13;02/02/2000;ad_alcorcon
+Defensa central;Jordi Pola;España;;19;12/04/2000;ad_alcorcon
+Defensa central;Joan Rojas;España;;4;14/01/2000;ad_alcorcon
+Defensa central;Iván Pérez;España;;6;12/04/1993;ad_alcorcon
+Lateral izquierdo;Sergio Nieto;España;;3;21/01/1999;ad_alcorcon
+Lateral izquierdo;Samu Rodríguez;España;;15;08/12/2004;ad_alcorcon
+Lateral derecho;Pol Domingo;España;;2;04/11/1999;ad_alcorcon
+Mediocentro;Yael Ballesteros;España;;10;07/01/1998;ad_alcorcon
+Mediocentro;Tarsi Aguado;España;;18;16/10/1994;ad_alcorcon
+Mediocentro;David Navarro;España;;23;07/02/2003;ad_alcorcon
+Mediocentro;Rai Marchán;España;;5;11/08/1993;ad_alcorcon
+Mediocentro;Luis Vacas;España;;14;22/06/1999;ad_alcorcon
+Mediocentro;Ntji Tounkara;España;Malí;16;10/01/2005;ad_alcorcon
+Mediocentro ofensivo;Raúl Blanco;España;;22;31/07/2001;ad_alcorcon
+Extremo izquierdo;Omar Ouhdadi;Marruecos;;17;14/03/2000;ad_alcorcon
+Extremo izquierdo;Borja Martínez;España;;8;02/03/1994;ad_alcorcon
+Delantero centro;Vladyslav Kopotun;Ucrania;;11;21/10/2000;ad_alcorcon
+Delantero centro;Esteban Aparicio;España;;7;11/05/2001;ad_alcorcon
+Delantero centro;Mariano Carmona;España;;9;20/06/2001;ad_alcorcon
+Portero;Samu Pérez;España;;1;26/04/1997;antequera_cf
+Portero;Dani Alcover;España;;13;03/04/2004;antequera_cf
+Defensa central;Juan Aspra;España;;20;30/07/2002;antequera_cf
+Defensa central;Álex Barbu;España;;4;26/05/2001;antequera_cf
+Defensa central;Félix Garreta;España;;12;21/04/2004;antequera_cf
+Defensa central;Raul Giménez;España;;15;25/09/2003;antequera_cf
+Defensa central;Raúl Albentosa;España;;3;07/09/1988;antequera_cf
+Lateral izquierdo;Edu Sánchez;España;Cuba;14;21/06/2005;antequera_cf
+Lateral izquierdo;Antonio Luna;España;;5;17/03/1991;antequera_cf
+Lateral derecho;Javi Antón;España;;2;30/06/2000;antequera_cf
+Lateral derecho;Iván Rodríguez;España;;19;30/04/1996;antequera_cf
+Mediocentro;Alberto Quintana;España;;22;05/10/2001;antequera_cf
+Mediocentro;David Ramos;España;;6;19/08/1997;antequera_cf
+Mediocentro;Rafa Diz;España;;23;09/10/2000;antequera_cf
+Mediocentro;Dani Clavijo;España;;8;09/10/2003;antequera_cf
+Mediocentro ofensivo;Luismi Gutiérrez;España;;10;19/02/1996;antequera_cf
+Mediocentro ofensivo;Moha Bassele;Senegal;;18;01/01/2000;antequera_cf
+Extremo izquierdo;Moi Parra;España;;17;04/06/2002;antequera_cf
+Extremo derecho;Ousama Siddiki;Marruecos;España;11;13/04/1998;antequera_cf
+Extremo derecho;Nico Njalla;Camerún;;25;13/04/2003;antequera_cf
+Extremo derecho;Jonathan Biabiany;Francia;Guadalupe;7;28/04/1988;antequera_cf
+Mediapunta;Adrià Gené;España;;16;26/04/1999;antequera_cf
+Delantero centro;Marcelo dos Santos;Brasil;;9;27/07/1997;antequera_cf
+Delantero centro;Destiny Ilahude;Nigeria;España;24;06/12/2003;antequera_cf
+Delantero centro;Oussama Chit;Marruecos;España;21;05/04/2000;antequera_cf
+Portero;Alberto Flores;España;;13;10/11/2003;fc_sevilla_b_atletico_
+Portero;Rafa Romero;España;;1;07/08/2003;fc_sevilla_b_atletico_
+Portero;Loren Luchino;Argentina;España;25;20/03/2006;fc_sevilla_b_atletico_
+Defensa central;Sergio Martínez;España;;19;09/04/2004;fc_sevilla_b_atletico_
+Defensa central;Iker Muñoz;España;;4;05/01/2004;fc_sevilla_b_atletico_
+Defensa central;Robert Jălade;Rumania;España;14;28/03/2005;fc_sevilla_b_atletico_
+Defensa central;Aston da Silva;Luxemburgo;RD del Congo;39;17/05/2006;fc_sevilla_b_atletico_
+Lateral izquierdo;David López;España;;3;14/05/2005;fc_sevilla_b_atletico_
+Lateral derecho;Valentino Fattore;España;Argentina;20;10/08/2001;fc_sevilla_b_atletico_
+Lateral derecho;Alberto Espiñeira;España;;24;02/04/2005;fc_sevilla_b_atletico_
+Lateral derecho;Jorge Moreno;España;;2;19/05/2006;fc_sevilla_b_atletico_
+Lateral derecho;Tamiou Kpebane;Alemania;Italia;12;03/05/2006;fc_sevilla_b_atletico_
+Mediocentro;Nico Guillén;España;;27;30/01/2008;fc_sevilla_b_atletico_
+Mediocentro;Alberto Collado;España;;10;16/04/2005;fc_sevilla_b_atletico_
+Mediocentro;Pablo Rivera;España;;6;11/01/2004;fc_sevilla_b_atletico_
+Mediocentro;Lulo Dasilva;España;Brasil;22;04/10/2002;fc_sevilla_b_atletico_
+Mediocentro;Edu Altozano;España;;8;17/10/2006;fc_sevilla_b_atletico_
+Extremo izquierdo;Isra Domínguez;España;;23;07/05/2003;fc_sevilla_b_atletico_
+Extremo izquierdo;Manuel Ángel Castillo;España;;28;12/06/2008;fc_sevilla_b_atletico_
+Extremo derecho;Miguel Ángel Sierra;España;;7;14/07/2004;fc_sevilla_b_atletico_
+Extremo derecho;Juan Cortez;México;;21;03/04/2005;fc_sevilla_b_atletico_
+Extremo derecho;Bakary Sow;Senegal;;26;01/01/2006;fc_sevilla_b_atletico_
+Extremo derecho;Eric Alcaide;España;;31;09/03/2006;fc_sevilla_b_atletico_
+Delantero centro;Álex Costa;España;;9;12/01/2003;fc_sevilla_b_atletico_
+Delantero centro;Ibra Sow;Senegal;España;17;26/01/2007;fc_sevilla_b_atletico_
+Delantero centro;José Pedraza;España;;15;18/01/2006;fc_sevilla_b_atletico_
+Portero;Juan Flere;Argentina;Italia;1;12/05/1998;ce_europa
+Portero;Lucas García;España;;13;18/06/2004;ce_europa
+Defensa central;Marcel Sgrò;España;;6;27/05/1997;ce_europa
+Defensa central;Álex Cano;España;;4;07/03/1988;ce_europa
+Defensa central;Jordi Bas;España;;12;01/01/2004;ce_europa
+Defensa central;Fran Gil;España;;15;02/12/2005;ce_europa
+Lateral izquierdo;Roger Escoruela;España;;3;16/03/1996;ce_europa
+Lateral izquierdo;Joan Puig;España;;22;16/11/2002;ce_europa
+Lateral derecho;Guillem Rodríguez;España;;2;13/02/1998;ce_europa
+Lateral derecho;Arnau Campeny;España;;5;02/01/1997;ce_europa
+Lateral derecho;Alejandro Jay;España;Cuba;24;07/07/2002;ce_europa
+Mediocentro;Meshak Babanzila;Gabón;;8;11/06/2001;ce_europa
+Mediocentro;Óscar Vacas;España;;20;23/08/2001;ce_europa
+Mediocentro;Toni Caravaca;España;;23;08/01/2004;ce_europa
+Mediocentro;Alex Pla;España;;10;18/01/1992;ce_europa
+Mediocentro ofensivo;Josu Gallastegui;España;;11;10/12/2001;ce_europa
+Extremo izquierdo;Jordi Cano;España;;7;01/04/1995;ce_europa
+Extremo izquierdo;Carlos González;España;;18;20/05/1997;ce_europa
+Extremo izquierdo;George Andrews;España;Inglaterra;19;02/03/2005;ce_europa
+Extremo izquierdo;Ibuki Nemoto;Japón;;21;01/05/2002;ce_europa
+Extremo derecho;Adnane Ghailan;España;Marruecos;17;17/10/2000;ce_europa
+Extremo derecho;Adam El Mokhles;Marruecos;;33;13/11/2006;ce_europa
+Delantero centro;Julián Mahicas;España;;9;14/07/2001;ce_europa
+Delantero centro;Khalid Noureddine;España;Marruecos;29;18/03/2003;ce_europa
+Portero;Josele Martínez;España;;1;13/01/1998;sd_tarazona
+Portero;Alejandro Fernández;España;;13;17/01/2001;sd_tarazona
+Defensa central;Bakary Traoré;España;Malí;5;08/08/2004;sd_tarazona
+Defensa central;Marc Trilles;España;;4;08/08/1991;sd_tarazona
+Lateral izquierdo;Carlos Nieto;España;;21;06/05/1996;sd_tarazona
+Lateral izquierdo;Chechu Martínez;España;;3;17/08/2001;sd_tarazona
+Lateral derecho;Andrés Borge;España;;14;23/10/2001;sd_tarazona
+Lateral derecho;Ángel López;España;;2;17/02/2003;sd_tarazona
+Lateral derecho;Julián Delmás;España;;16;20/04/1995;sd_tarazona
+Centrocampista;Juan Pablo Martínez;España;;20;24/10/2005;sd_tarazona
+Mediocentro;Toni Ramón;España;;8;29/04/2002;sd_tarazona
+Mediocentro;Oscar Carrasco;España;;6;28/08/2002;sd_tarazona
+Mediocentro;Alberto Vaquero;España;;22;12/11/2003;sd_tarazona
+Mediocentro;Busi;España;;23;17/12/1997;sd_tarazona
+Mediocentro;Imanol Alonso;España;;15;15/09/2001;sd_tarazona
+Extremo derecho;Álvaro Jiménez;España;;17;19/05/1995;sd_tarazona
+Extremo derecho;David Soto;España;;7;13/07/1992;sd_tarazona
+Delantero centro;Agüero;España;;10;24/10/1995;sd_tarazona
+Delantero centro;Sergi Armero;España;;19;22/04/2002;sd_tarazona
+Delantero centro;David Cubillas;España;;9;19/06/1990;sd_tarazona
+Portero;Bernabé Barragán;España;;13;18/02/1993;juventud_torremolinos_cf
+Portero;Javi Cuenca;España;;-;19/04/1998;juventud_torremolinos_cf
+Portero;Fran Martínez;España;;1;20/08/1999;juventud_torremolinos_cf
+Defensa central;Javi Mérida;España;;4;18/01/1996;juventud_torremolinos_cf
+Defensa central;Dani Fernández;España;;5;22/10/1998;juventud_torremolinos_cf
+Defensa central;Adrián Salguero;España;;15;20/05/2003;juventud_torremolinos_cf
+Defensa central;Jon Ander Amelibia;España;Portugal;19;13/01/1994;juventud_torremolinos_cf
+Defensa central;Nico Delmonte;Argentina;Italia;18;10/05/1989;juventud_torremolinos_cf
+Lateral izquierdo;Fran García;España;;3;07/12/1992;juventud_torremolinos_cf
+Lateral izquierdo;Sergio Díaz;España;;16;02/07/1991;juventud_torremolinos_cf
+Lateral derecho;Rafa Roldán;España;;22;07/03/2001;juventud_torremolinos_cf
+Lateral derecho;Edu López;España;;2;28/12/2000;juventud_torremolinos_cf
+Lateral derecho;Rodrigo Ajegun;España;;12;28/10/2006;juventud_torremolinos_cf
+Mediocentro;Ángel Climent;España;;6;20/09/2003;juventud_torremolinos_cf
+Mediocentro;Cristóbal Moreno;España;;8;18/02/2000;juventud_torremolinos_cf
+Mediocentro;Gori Gracia;España;;20;15/05/2002;juventud_torremolinos_cf
+Mediocentro;Lesedi Steve;Sudáfrica;;23;18/12/2003;juventud_torremolinos_cf
+Mediocentro;Luis Roldán;España;;29;17/03/2003;juventud_torremolinos_cf
+Mediocentro ofensivo;Francisco Gallego;España;;10;12/09/2003;juventud_torremolinos_cf
+Mediocentro ofensivo;Usse Diao;España;Senegal;25;07/09/2005;juventud_torremolinos_cf
+Mediocentro ofensivo;José Antonio Bozada;España;;31;20/03/2004;juventud_torremolinos_cf
+Extremo derecho;Alejandro Camacho;España;;7;31/01/1998;juventud_torremolinos_cf
+Extremo derecho;Pau Pérez;España;;-;20/05/1999;juventud_torremolinos_cf
+Extremo derecho;Isaac González;España;;17;07/10/2003;juventud_torremolinos_cf
+Mediapunta;Ivan Laca;Croacia;;24;15/02/2003;juventud_torremolinos_cf
+Mediapunta;Christian Albert;España;;21;05/01/2000;juventud_torremolinos_cf
+Delantero centro;Ibán Ribeiro;España;;11;15/02/2000;juventud_torremolinos_cf
+Delantero centro;Peque Polo;España;;14;02/10/2000;juventud_torremolinos_cf
+Delantero centro;Pito Camacho;España;;9;27/02/1990;juventud_torremolinos_cf
+Portero;Federico Barrios;Colombia;;34;05/10/1996;marbella_fc
+Portero;Manu García;España;;1;11/02/1991;marbella_fc
+Portero;David Vassilev;Bulgaria;España;13;20/01/2004;marbella_fc
+Defensa central;Gabriel Clemente;España;;15;25/11/1998;marbella_fc
+Defensa central;Marcos Olguín;España;;-;24/03/2001;marbella_fc
+Defensa central;Juan Rodríguez;España;;22;08/05/1995;marbella_fc
+Defensa central;Adri Castellano;España;;4;26/06/1994;marbella_fc
+Defensa central;Alberto Escassi;España;;23;28/02/1989;marbella_fc
+Lateral izquierdo;Lluís Llácer;España;;21;05/10/1999;marbella_fc
+Lateral izquierdo;Álex Martínez;España;;3;12/08/1990;marbella_fc
+Lateral derecho;Jorge Álvarez;España;;2;17/03/1999;marbella_fc
+Lateral derecho;Álex Carbonell;España;;5;13/03/2001;marbella_fc
+Mediocentro;Luis Muñoz;España;;-;23/02/1997;marbella_fc
+Mediocentro;Eugeni;España;;8;19/07/1994;marbella_fc
+Mediocentro;Álex Gil;España;;10;05/02/2003;marbella_fc
+Mediocentro;Adrián Ruiz;España;;16;28/05/2004;marbella_fc
+Extremo izquierdo;Ernest Ohemeng;Ghana;;19;17/01/1996;marbella_fc
+Extremo izquierdo;Unai Buján;España;;14;08/02/2001;marbella_fc
+Extremo derecho;Tahiru Awudu;Ghana;;7;10/03/2000;marbella_fc
+Extremo derecho;Tomi Guzmán;Argentina;;30;20/03/2007;marbella_fc
+Delantero centro;Dani Selma;España;;24;01/03/2001;marbella_fc
+Delantero centro;José Cambra;España;;20;28/09/2003;marbella_fc
+Delantero centro;Pablo Moreno;España;;11;03/05/2002;marbella_fc
+Delantero centro;Victor Sánchez;España;;9;21/05/2002;marbella_fc
+Delantero centro;Alexiel;Brasil;;17;09/08/2003;marbella_fc
+Portero;Rubén Gálvez;España;;13;15/05/1993;cd_teruel
+Portero;Alejandro Palop;España;;1;11/11/2003;cd_teruel
+Defensa central;Andrés Rodríguez;España;;15;31/05/2002;cd_teruel
+Defensa central;Nico Van Rijn;Países Bajos;España;4;26/03/2001;cd_teruel
+Defensa central;Abraham del Moral;España;;18;05/07/2001;cd_teruel
+Defensa central;Nathaniel Nicholas;Nigeria;;12;03/12/2000;cd_teruel
+Defensa central;Carlos Vigaray;España;;2;07/09/1994;cd_teruel
+Lateral izquierdo;Goyo Medina;España;;5;19/01/2000;cd_teruel
+Lateral izquierdo;Manel Royo;España;;23;28/02/1994;cd_teruel
+Lateral izquierdo;David Fondarella;España;;3;19/02/1998;cd_teruel
+Lateral derecho;Joseda Menargues;España;;22;01/05/2002;cd_teruel
+Mediocentro;Álex Blesa;España;;8;15/01/2002;cd_teruel
+Mediocentro;Relu;España;;14;09/02/1998;cd_teruel
+Mediocentro;Hugo Redón;España;;6;19/04/2003;cd_teruel
+Mediocentro;Haritz Albisua;España;;16;01/10/1992;cd_teruel
+Mediocentro;Álvaro Martí;España;;29;20/02/2006;cd_teruel
+Mediocentro ofensivo;Rafaël De Palmas;Francia;;19;24/02/2004;cd_teruel
+Extremo izquierdo;Álvaro Merencio;España;;11;25/03/2000;cd_teruel
+Extremo derecho;Teddy Sutherland;Inglaterra;;10;28/03/2000;cd_teruel
+Extremo derecho;Mamadou Traoré;Malí;;17;03/04/2002;cd_teruel
+Delantero centro;Sergio Moreno;España;;7;01/01/1999;cd_teruel
+Delantero centro;Iván Ramos;España;;21;03/12/2001;cd_teruel
+Delantero centro;Lolo Plá;España;;9;07/04/1993;cd_teruel
+Portero;Iván Moreno;España;;1;14/10/1995;fc_algeciras
+Portero;Samu Casado;España;;13;16/01/1997;fc_algeciras
+Defensa central;Álvaro Mayorga;España;;6;23/05/1999;fc_algeciras
+Defensa central;Víctor Ruiz;España;;15;12/04/1995;fc_algeciras
+Defensa central;Ángel Gómez;España;;16;20/01/2003;fc_algeciras
+Defensa central;Aleix Coch;España;;4;18/10/1991;fc_algeciras
+Lateral izquierdo;José Carlos Márquez;España;;3;17/04/1997;fc_algeciras
+Lateral izquierdo;Tomás Sánchez;España;;11;20/11/1993;fc_algeciras
+Lateral derecho;Paris Adot;España;;22;26/02/1990;fc_algeciras
+Mediocentro;Jony Álamo;España;;20;25/09/2001;fc_algeciras
+Mediocentro;Óscar Castro;España;;24;20/06/2001;fc_algeciras
+Mediocentro;Iván Turrillo;España;;8;15/05/1989;fc_algeciras
+Mediocentro;Joe Riley;España;Inglaterra;23;27/01/2005;fc_algeciras
+Mediocentro ofensivo;Dani Garrido;España;;10;19/01/2000;fc_algeciras
+Extremo izquierdo;Jorge Rastrojo;España;;7;01/04/2000;fc_algeciras
+Extremo izquierdo;André Nader;Suecia;;14;25/05/1998;fc_algeciras
+Extremo derecho;Isaac Obeng;Ghana;;19;10/05/2003;fc_algeciras
+Extremo derecho;Javi Avilés;España;;17;17/08/1997;fc_algeciras
+Extremo derecho;Juanma García;España;;21;20/02/1993;fc_algeciras
+Extremo derecho;Carlos Arauz;España;;2;23/04/2003;fc_algeciras
+Delantero centro;Manín Gonzaga;España;;9;13/01/2000;fc_algeciras
+Portero;Petr Kudakovskiy;Rusia;;-;25/01/2001;atletico_sanluqueno
+Portero;Rubén Domínguez;España;;13;08/06/2005;atletico_sanluqueno
+Portero;Rodrigo Rocafort;España;;1;15/09/2005;atletico_sanluqueno
+Defensa central;Alejandro Pavón;España;;14;19/03/2000;atletico_sanluqueno
+Defensa central;Noah Obioma;Francia;;12;11/12/2007;atletico_sanluqueno
+Defensa central;Samu Almagro;España;;4;20/04/2006;atletico_sanluqueno
+Defensa central;Boubacar Diallo;Malí;;18;25/10/2003;atletico_sanluqueno
+Defensa central;Adrián Gómez;España;;23;02/08/2002;atletico_sanluqueno
+Lateral izquierdo;Julio Cabrera;España;;3;14/08/2003;atletico_sanluqueno
+Lateral izquierdo;Arnau Bargalló;España;;28;20/01/2006;atletico_sanluqueno
+Lateral derecho;Raúl Sola;España;;2;24/01/2001;atletico_sanluqueno
+Lateral derecho;Kikín;España;;7;20/01/2003;atletico_sanluqueno
+Lateral derecho;Pablo Barea;España;;30;24/03/2005;atletico_sanluqueno
+Mediocentro;Dani Satoca;España;;21;31/01/1999;atletico_sanluqueno
+Mediocentro;Ronald Gbizie;Costa de Marfil;;6;08/06/1997;atletico_sanluqueno
+Mediocentro;Alejandro Viedma;España;;16;16/04/1999;atletico_sanluqueno
+Mediocentro;Raúl López;España;;22;09/02/2006;atletico_sanluqueno
+Mediocentro;José Andújar;España;;25;12/01/2005;atletico_sanluqueno
+Mediocentro;Twizard Mulenga;Zambia;;6;28/12/2005;atletico_sanluqueno
+Extremo izquierdo;Usher Lobede;España;Guinea Ecuatorial;20;20/12/2004;atletico_sanluqueno
+Extremo derecho;Ismael Álvarez;España;;9;18/10/2007;atletico_sanluqueno
+Extremo derecho;Rodri Val;España;;17;05/01/2001;atletico_sanluqueno
+Extremo derecho;Sergio Niza;España;;5;05/11/2006;atletico_sanluqueno
+Delantero centro;Francisco Mwepu;Zambia;España;-;29/02/2000;atletico_sanluqueno
+Delantero centro;Iomar Vidal;España;Marruecos;24;21/05/1999;atletico_sanluqueno
+Delantero centro;Marcos Denia;España;;15;23/03/2004;atletico_sanluqueno
+Delantero centro;Luis Simón;España;;11;07/05/2006;atletico_sanluqueno
+Delantero centro;Agustín Juarez;Argentina;;19;24/05/2005;atletico_sanluqueno
